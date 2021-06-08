@@ -1,5 +1,8 @@
 ---
 dns_adblock_lists_extras:
+  - name: easylist-adblock
+    type: adblock
+    url: https://v.firebog.net/hosts/Easylist.txt
   - name: adaway
     type: adblock
     url: https://adaway.org/hosts.txt
