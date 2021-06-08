@@ -1,0 +1,69 @@
+# Build all the DNS ad-block files for DoH and relay blocking
+# example usage:
+#   $ ansible-playbook -i inventory/ playbook.yml
+---
+- name: Build DNS ad-block files
+  hosts: all
+  connection: local
+  gather_facts: false
+  become: false
+
+  tasks:
+
+    - name: Ensure output files are cleared
+      ansible.builtin.file:
+        dest: "output/{{ item.0 }}"
+        state: "{{ item.1 }}"
+      loop: "{{ group_names | product(['absent', 'directory']) | list }}"
+
+    - name: Ensure files are present locally
+      ansible.builtin.file:
+        state: "{{ item.1 }}"
+        path: "lists/{{ item.0 }}/{{ item.2.type }}"
+      with_nested:
+        - "{{ group_names }}"
+        - ['absent', 'directory']
+        - "{{ dns_adblock_lists }}"
+
+    - name: Download latest lists
+      ansible.builtin.get_url:
+        url: "{{ item.1.url }}"
+        dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+
+    - name: Replace localhost in files
+      ansible.builtin.replace:
+        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        regexp: "^{{ item.2 }}"
+        replace: ''
+      with_nested:
+        - "{{ group_names }}"
+        - "{{ dns_adblock_lists }}"
+        - "{{ dns_replace_address }}"
+
+    - name: Remove comments from files
+      ansible.builtin.lineinfile:
+        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        regexp: '^#'
+        state: absent
+      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+
+    - name: Create custom file with contents
+      ansible.builtin.copy:
+        content: "{{ item.1.content }}"
+        dest: "lists/{{ item.0 }}/{{ item.1.type }}/custom"
+        force: true
+      loop: "{{ group_names | product(dns_adblock_lists_custom) | list }}"
+      when: dns_adblock_lists_custom | length
+
+    - name: Combine files into output
+      ansible.builtin.assemble:
+        src: "lists/{{ item.0 }}/{{ item.1.type }}"
+        dest: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+
+    - name: Remove whitespace at start of lines
+      ansible.builtin.replace:
+        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        regexp: '^ '
+      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
