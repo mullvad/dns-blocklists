@@ -6,6 +6,8 @@ dns_adblock_lists: "{{ dns_adblock_lists_defaults + dns_adblock_lists_extras }}"
 dns_replace_address:
   - '127.0.0.1'
   - '0.0.0.0'
+  - 'localhost'
+  - '::1'
 
 dns_adblock_lists_defaults:
   - name: easylist-adblock

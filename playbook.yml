@@ -34,7 +34,7 @@
     - name: Replace localhost in files
       ansible.builtin.replace:
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-        regexp: "^{{ item.2 }}"
+        regexp: "{{ item.2 }}"
         replace: ''
       with_nested:
         - "{{ group_names }}"
