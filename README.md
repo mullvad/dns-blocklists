@@ -13,6 +13,7 @@ This is imported to our VPN servers frequently.
   - Ensure you have added any 'custom' extra lists or websites to block
   - Run the playbook: `ansible-playbook -i inventory/ playbook.yml`
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/<group>.txt?raw=true`
+  - Run test script: `cd scripts && ./check_zonedata.sh`
 
 ## Pull requests / Issues / Updating block lists
 
