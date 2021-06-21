@@ -1,8 +1,5 @@
 ---
 dns_adblock_lists_extras:
-  - name: easylist-adblock
-    type: adblock
-    url: https://justdomains.github.io/blocklists/lists/easylist-justdomains.txt
   - name: easylist-privacy
     type: privacy
     url: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt

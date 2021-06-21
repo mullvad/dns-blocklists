@@ -13,11 +13,8 @@ This is imported to our VPN servers frequently.
   - Ensure you have added any 'custom' extra lists or websites to block
   - Run the playbook: `ansible-playbook -i inventory/ playbook.yml`
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/<group>.txt?raw=true`
+  - Run test script: `cd scripts && ./check_zonedata.sh`
 
 ## Pull requests / Issues / Updating block lists
 
 We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them.
-
-## Why is DoH different to the relay block list?
-
-We are still working on the relay blocking. This will be updated more and more in the future, and the intention is that they won't be diverging as much in future as they are now.
