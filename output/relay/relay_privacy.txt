@@ -989,6 +989,7 @@ gglscr.online
 giddyuptrk.com
 gigcount.com
 gim.co.il
+glancecdn.net
 glanceguide.com
 glassboxcdn.com
 glassboxdigital.io
@@ -1157,6 +1158,7 @@ informz.net
 ingage.tech
 inimbus.com.au
 inmoment.com
+innertrends.com
 innomdc.com
 innovateads.com
 inphonic.com
@@ -1382,6 +1384,7 @@ m-pathy.com
 m-t.io
 m0mentum.net
 m1ll1c4n0.com
+m365log.com
 m6r.eu
 mabipa.com
 macandcheeseandads.com
@@ -2005,6 +2008,8 @@ sematext.com
 sendtraffic.com
 seomonitor.ro
 seomoz.org
+seon.io
+seondnsresolve.com
 seoparts.net
 serious-partners.com
 serv-ac.com
@@ -2486,6 +2491,7 @@ visitorinspector.com
 visitorjs.com
 visitorpath.com
 visitorprofiler.com
+visitorqueue.com
 visitortracklog.com
 visitorville.com
 visitstreamer.com
@@ -4603,6 +4609,7 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+d31qbv1cthcecs.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
@@ -4628,6 +4635,7 @@ d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
 dadi.technology
 daq0d0aotgq0f.cloudfront.net
+dash.getsitecontrol.com
 data.alexa.com
 data.beop.io
 data.circulate.com
@@ -5319,7 +5327,6 @@ appmetrica.yandex.com
 bigdata.ssp.samsung.com
 data.hicloud.com
 extmaps-api.yandex.net
-insights.samsung.com
 logbak.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -5490,6 +5497,7 @@ compteur.websiteout.net
 core.unit-sense.net
 e.funnymel.com
 email-reflex.com
+events.newsroom.bi
 events.sk.ht
 nws.naltis.com
 osd.oxygem.it
@@ -5590,6 +5598,7 @@ statistics.jfmedier.dk
 trckr.nordiskemedier.dk
 ubt.berlingskemedia.net
 analytics.belgacom.be
+apm.tnet.nl
 cookies.reedbusiness.nl
 hottraffic.nl
 sp.dpgmedia.net
@@ -5604,6 +5613,7 @@ videostat.index.hu
 analytics.bhaskar.com
 analytics.competitoor.com
 analytics00.meride.tv
+audit.shaa.it
 click.kataweb.it
 counter.ksm.it
 counter2.condenast.it
@@ -6062,6 +6072,7 @@ events.practo.com
 events.privy.com
 events.reddit.com
 events.redditmedia.com
+events.santander.co.uk
 events.turbosquid.com
 events.uber.com
 evisit.exeter.ac.uk
@@ -6079,6 +6090,7 @@ firebaselogging.googleapis.com
 fp.measure.office.com
 fpa-events.arstechnica.com
 fresh.techdirt.com
+fresnel-events.vimeocdn.com
 funn.graphiq.com
 g.ign.com
 g.mashable.com
@@ -6157,6 +6169,7 @@ loc.rediff.com
 localads-statistics.maps.me
 log-api.newrelic.com
 log.china.cn
+log.genyt.net
 log.go.com
 log.hypebeast.com
 log.mappy.net
