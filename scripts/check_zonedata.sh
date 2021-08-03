@@ -7,7 +7,7 @@ then
   exit
 fi
 
-for list in ../output/relay/*
+for list in ../output/relay/*.txt
   do
     echo "### $list"
     temp_filename=$(basename "$list")
