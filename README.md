@@ -14,6 +14,8 @@ This is imported to our VPN servers frequently.
   - Run the playbook: `ansible-playbook -i inventory/ playbook.yml`
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/<group>.txt?raw=true`
   - Run test script: `cd scripts && ./check_zonedata.sh`
+  - Sign the outputted relay files with your GPG code signing key, for example: gpg2 --detach-sign --armor output/relay/relay_adblock.txt > output/relay/relay_adblock.txt.gpg
+  - Verify the outputted GPG signed files, for example: gpg2 --verify output/relay/relay_adblock.txt.gpg output/relay/relay_adblock.txt
 
 ## Pull requests / Issues / Updating block lists
 
