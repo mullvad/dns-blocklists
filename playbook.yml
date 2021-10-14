@@ -31,7 +31,7 @@
         dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
 
-    - name: Replace localhost in files
+    - name: Replace localhost and IP addresses in files
       ansible.builtin.replace:
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
         regexp: "{{ item.2 }}"
