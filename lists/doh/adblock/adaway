@@ -341,7 +341,6 @@ adformdsp.net
 
 banners.adfox.net
 
-adfox.ru
 ads.adfox.ru
 banners.adfox.ru
 
@@ -428,25 +427,8 @@ fraud.adjoe.zone
 prod.fraud.adjoe.zone
 prod.adjoe.zone
 
-adjust.com
-app.adjust.com
 s2s.adjust.com
 ulink.adjust.com
-39810146b3f05dad26eec7ad4727361a.ulink.adjust.com
-53ac365e91086e608ae1345e075105e3.ulink.adjust.com
-658473abd74bd979afcfe472c595ce93.ulink.adjust.com
-a2c57fd7998a2d67d16e7bda91c7fd06.ulink.adjust.com
-a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
-ac7aa69d96b75a55c5e0fe8035f45bce.ulink.adjust.com
-e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
-view.adjust.com
-
-adjust.io
-app.adjust.io
-
-app.adjust.net.in
-
-app.adjust.world
 
 dsp-uswest.adkernel.com
 static-rtb.adkernel.com
@@ -862,40 +844,6 @@ adstune.com
 adsunflower.com
 folder.adsunflower.com
 rebootv5.adsunflower.com
-
-adswizz.com
-cdn.adswizz.com
-cdn1-creatives.adswizz.com
-delivery-cdn-cf.adswizz.com
-deliveryengine.adswizz.com
-accuradio.deliveryengine.adswizz.com
-clearchannel.deliveryengine.adswizz.com
-cox.deliveryengine.adswizz.com
-deezer.deliveryengine.adswizz.com
-di.deliveryengine.adswizz.com
-ec2eu-de-1.deliveryengine.adswizz.com
-ec2eu-de-1-vpc-20170223.deliveryengine.adswizz.com
-ec2eu-de-2.deliveryengine.adswizz.com
-npr.deliveryengine.adswizz.com
-radioactive.deliveryengine.adswizz.com
-reporting.deliveryengine.adswizz.com
-streamguys.deliveryengine.adswizz.com
-synchroscript.deliveryengine.adswizz.com
-tunein.deliveryengine.adswizz.com
-ec2eu.adswizz.com
-pixelg.ec2eu.adswizz.com
-synchrobox.ec2eu.adswizz.com
-pixel.adswizz.com
-pixelg.adswizz.com
-randi.adswizz.com
-pixelb.randi.adswizz.com
-secondscreenindexer.adswizz.com
-sonar.adswizz.com
-streaming.adswizz.com
-sdk.streaming.adswizz.com
-synchrobox.adswizz.com
-tunein.adswizz.com
-zc.adswizz.com
 
 adsymptotic.com
 api.adsymptotic.com
@@ -1386,53 +1334,6 @@ ws-eu.amazon-adsystem.com
 z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
 
-fls-eu.amazon.ae
-
-fls-na.amazon.ca
-
-fls-cn.amazon.cn
-
-aan.amazon.co.jp
-advertising.amazon.co.jp
-fls-fe.amazon.co.jp
-
-aan.amazon.co.uk
-advertising.amazon.co.uk
-fls-eu.amazon.co.uk
-
-aan.amazon.com
-aax-us-iad.amazon.com
-device-metrics-us.amazon.com
-device-metrics-us-2.amazon.com
-fls-eu.amazon.com
-fls-fe.amazon.com
-fls-na.amazon.com
-mads.amazon.com
-
-fls-fe.amazon.com.au
-
-fls-na.amazon.com.br
-
-fls-na.amazon.com.mx
-
-fls-eu.amazon.de
-
-fls-eu.amazon.es
-
-fls-eu.amazon.fr
-
-fls-eu.amazon.in
-
-fls-eu.amazon.it
-
-fls-eu.amazon.nl
-
-fls-eu.amazon.sa
-
-fls-eu.amazon.se
-
-fls-fe.amazon.sg
-
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 
 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
@@ -1568,7 +1469,6 @@ amobee.com
 
 signals.ampiri.com
 
-analytics.amplitude.com
 api.amplitude.com
 api2.amplitude.com
 cdn.amplitude.com
@@ -1888,17 +1788,6 @@ api.apptentive.com
 app-icons.apptentive.com
 sdk.apptentive.com
 
-brahe.apptimize.com
-gcp-prod-md.apptimize.com
-mapi.apptimize.com
-md-a-c.apptimize.com
-md-a-s.apptimize.com
-md-hl.apptimize.com
-md-i-c.apptimize.com
-md-i-s.apptimize.com
-md-ll.apptimize.com
-tycho.apptimize.com
-
 apptornado.com
 applift-a.apptornado.com
 applift-b.apptornado.com
@@ -2001,8 +1890,6 @@ eu.y.atwola.com
 us.y.atwola.com
 
 ws.audioeye.com
-
-auditude.com
 
 augur.io
 
@@ -2163,8 +2050,6 @@ grid.bidswitch.net
 sandbox.bidswitch.net
 x.bidswitch.net
 
-bat.bing.com
-
 a.bitmango.com
 api.bitmango.com
 
@@ -2245,8 +2130,6 @@ em.bm23.com
 hosting-source.bm23.com
 incoming.bm23.com
 
-bnc.lt
-
 bnmla.com
 
 p.bokecc.com
@@ -2277,6 +2160,8 @@ brainient.com
 tag.brainient.com
 
 client-analytics.braintreegateway.com
+
+adservices.brandcdn.com
 
 branch.io
 api.branch.io
@@ -2825,21 +2710,6 @@ contineljs.com
 cdn-3.convertexperiments.com
 
 conviva.com
-cws.conviva.com
-133446f3fa16c4a2f02e9f45a1d9d640705b7b62.cws.conviva.com
-268a2000018370f5f35b29272d1942aa2ff7b6a9.cws.conviva.com
-28bbf0a3decf6d1165032bfd835d6e1844c5d44d.cws.conviva.com
-47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
-4ae1981d8d1a370d08bf3d24f50f5baf47ef1b62.cws.conviva.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
-87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
-a1521dca917ff0e871c935c9253afc0626587b2d.cws.conviva.com
-a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
-ad16a8c8b860d62e9d55b11a66f20c9e32f3e887.cws.conviva.com
-d14bd151e5e8a2a2551514106f790db76ce3fa35.cws.conviva.com
-e12872de91aaca7a39095801bdf5f168d87912fa.cws.conviva.com
-fc8dbfdc5da519f576628f619306a357f31bd006.cws.conviva.com
-ff84ae928c3b33064b76dec08f12500465e59a6f.cws.conviva.com
 cws-cctv.conviva.com
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -3117,8 +2987,6 @@ dable.io
 ad-hub.dable.io
 static.dable.io
 
-clickserve.dartsearch.net
-
 databerries.com
 
 tracker.databrain.com
@@ -3323,176 +3191,6 @@ collector.doordash.com
 
 uk-script.dotmetrics.net
 
-dotomi.com
-33across-match.dotomi.com
-adobe-sync.dotomi.com
-ads.dotomi.com
-afp.dotomi.com
-amazon-tam-match.dotomi.com
-ams-usadmm.dotomi.com
-ams01-convex.dotomi.com
-ams01-login.dotomi.com
-ams01-login-ds.dotomi.com
-ams01-usadmm.dotomi.com
-ams01-usadmm-ds.dotomi.com
-ams02-convex.dotomi.com
-ams02-login.dotomi.com
-ams02-login-ds.dotomi.com
-ams02-usadmm.dotomi.com
-ams02-usadmm-ds.dotomi.com
-ams03-convex.dotomi.com
-ams03-login-ds.dotomi.com
-ams03-usadmm-ds.dotomi.com
-aol-match.dotomi.com
-apnx-match.dotomi.com
-bluekai-sync.dotomi.com
-casale-match.dotomi.com
-cj.dotomi.com
-font.cj.dotomi.com
-cpe.dotomi.com
-ad.cpe.dotomi.com
-direct.ad.cpe.dotomi.com
-event.ad.cpe.dotomi.com
-hb.ad.cpe.dotomi.com
-web.hb.ad.cpe.dotomi.com
-proc.ad.cpe.dotomi.com
-sync.ad.cpe.dotomi.com
-cookie.sync.ad.cpe.dotomi.com
-match.sync.ad.cpe.dotomi.com
-dclk-match.dotomi.com
-districtm-match.dotomi.com
-dp-sync.dotomi.com
-ds-sync.dotomi.com
-eyeota-match.dotomi.com
-iad-usadmm.dotomi.com
-iad-usadmm-ds.dotomi.com
-iad01-convex.dotomi.com
-iad01-login.dotomi.com
-iad01-login-ds.dotomi.com
-iad01-usadmm.dotomi.com
-iad01-usadmm-ds.dotomi.com
-iad02-convex.dotomi.com
-iad02-login.dotomi.com
-iad02-login-ds.dotomi.com
-iad02-usadmm.dotomi.com
-iad02-usadmm-ds.dotomi.com
-iad03-convex.dotomi.com
-iad03-login.dotomi.com
-iad03-login-ds.dotomi.com
-iad03-usadmm.dotomi.com
-iad03-usadmm-ds.dotomi.com
-iad04-convex.dotomi.com
-iad04-login.dotomi.com
-iad04-login-ds.dotomi.com
-iad04-usadmm.dotomi.com
-iad04-usadmm-ds.dotomi.com
-iad05-convex.dotomi.com
-iad05-login.dotomi.com
-iad05-login-ds.dotomi.com
-iad05-usadmm.dotomi.com
-iad05-usadmm-ds.dotomi.com
-iad06-convex.dotomi.com
-iad06-login.dotomi.com
-iad06-login-ds.dotomi.com
-iad06-usadmm.dotomi.com
-iad06-usadmm-ds.dotomi.com
-iad07-convex.dotomi.com
-iad07-login.dotomi.com
-iad07-login-ds.dotomi.com
-iad07-usadmm.dotomi.com
-iad07-usadmm-ds.dotomi.com
-iad08-convex.dotomi.com
-iad08-login.dotomi.com
-iad08-usadmm.dotomi.com
-iad08-usadmm-ds.dotomi.com
-iad09-convex.dotomi.com
-iad09-login.dotomi.com
-iad09-login-ds.dotomi.com
-iad09-usadmm.dotomi.com
-iad09-usadmm-ds.dotomi.com
-iad10-convex.dotomi.com
-iad10-login.dotomi.com
-iad10-login-ds.dotomi.com
-iad10-usadmm.dotomi.com
-iad10-usadmm-ds.dotomi.com
-iad11-convex.dotomi.com
-iad11-login.dotomi.com
-iad11-login-ds.dotomi.com
-iad11-usadmm.dotomi.com
-iad11-usadmm-ds.dotomi.com
-iad12-convex.dotomi.com
-iad12-login.dotomi.com
-iad12-login-ds.dotomi.com
-iad12-usadmm.dotomi.com
-iad12-usadmm-ds.dotomi.com
-iad13-convex.dotomi.com
-iad13-usadmm.dotomi.com
-iad13-usadmm-ds.dotomi.com
-kargo-match.dotomi.com
-login.dotomi.com
-login-ds.dotomi.com
-medianet-match.dotomi.com
-mediaplex-match.dotomi.com
-msg.dotomi.com
-media.msg.dotomi.com
-secure-media.msg.dotomi.com
-openx2-match.dotomi.com
-prebid-match.dotomi.com
-pubmatic-match.dotomi.com
-pulsepoint-match.dotomi.com
-purch-match.dotomi.com
-rubicon-match.dotomi.com
-s-usweb.dotomi.com
-sjc-usadmm.dotomi.com
-sjc-usadmm-ds.dotomi.com
-sjc01-convex.dotomi.com
-sjc01-login.dotomi.com
-sjc01-login-ds.dotomi.com
-sjc01-usadmm.dotomi.com
-sjc01-usadmm-ds.dotomi.com
-sjc02-convex.dotomi.com
-sjc02-login.dotomi.com
-sjc02-login-ds.dotomi.com
-sjc02-usadmm.dotomi.com
-sjc02-usadmm-ds.dotomi.com
-sjc03-convex.dotomi.com
-sjc03-login.dotomi.com
-sjc03-login-ds.dotomi.com
-sjc03-usadmm.dotomi.com
-sjc03-usadmm-ds.dotomi.com
-sjc04-convex.dotomi.com
-sjc04-login.dotomi.com
-sjc04-login-ds.dotomi.com
-sjc04-usadmm.dotomi.com
-sjc04-usadmm-ds.dotomi.com
-sjc05-convex.dotomi.com
-sjc05-login.dotomi.com
-sjc05-login-ds.dotomi.com
-sjc05-usadmm.dotomi.com
-sjc05-usadmm-ds.dotomi.com
-sjc06-convex.dotomi.com
-sjc06-login.dotomi.com
-sjc06-login-ds.dotomi.com
-sjc06-usadmm.dotomi.com
-sjc06-usadmm-ds.dotomi.com
-sjc07-convex.dotomi.com
-sjc07-login.dotomi.com
-sjc07-login-ds.dotomi.com
-sjc07-usadmm.dotomi.com
-sjc07-usadmm-ds.dotomi.com
-smaato-match.dotomi.com
-sortable-match.dotomi.com
-spotx-match.dotomi.com
-stx-match.dotomi.com
-synacor-match.dotomi.com
-tpt.dotomi.com
-tremor-match.dotomi.com
-triplelift-match.dotomi.com
-tubemogul-sync.dotomi.com
-usadmm.dotomi.com
-usadmm-ds.dotomi.com
-usweb.dotomi.com
-
 accounts.doubleclick.net
 ad.doubleclick.net
 ad-apac.doubleclick.net
@@ -3617,7 +3315,6 @@ u.dxsvr.com
 
 metrics.dynad.net
 
-dynamicyield.com
 async-px.dynamicyield.com
 async-px-eu.dynamicyield.com
 cdn.dynamicyield.com
@@ -3737,9 +3434,6 @@ stats.mediaforge.com.edgekey.net
 moatads.com.edgekey.net
 wildcard.moatads.com.edgekey.net
 mookie1.com.edgekey.net
-optimizely.com.edgekey.net
-cdn.optimizely.com.edgekey.net
-wildcard.cdn.optimizely.com.edgekey.net
 outbrain.com.edgekey.net
 wildcard.outbrain.com.edgekey.net
 outbrainimg.com.edgekey.net
@@ -3747,8 +3441,6 @@ wildcard.outbrainimg.com.edgekey.net
 rubiconproject.com.edgekey.net
 digicertwc.rubiconproject.com.edgekey.net
 eus.rubiconproject.com.edgekey.net
-scorecardresearch.com.edgekey.net
-beacon.scorecardresearch.com.edgekey.net
 serving-sys.com.edgekey.net
 secure-ds.serving-sys.com.edgekey.net
 sgsnssdk.com.edgekey.net
@@ -3931,33 +3623,6 @@ l3.evidon.com
 cdn-channels-pixel.ex.co
 
 tp-emea.exactag.com
-
-inbox.exacttarget.com
-pixel.inbox.exacttarget.com
-mc.exacttarget.com
-mta.exacttarget.com
-s1.exacttarget.com
-pub.s1.exacttarget.com
-s10.exacttarget.com
-image.s10.exacttarget.com
-mc.s10.exacttarget.com
-pub.s10.exacttarget.com
-virt.s10.exacttarget.com
-click.virt.s10.exacttarget.com
-s11.exacttarget.com
-s4.exacttarget.com
-pub.s4.exacttarget.com
-s6.exacttarget.com
-pub.s6.exacttarget.com
-virt.s6.exacttarget.com
-click.virt.s6.exacttarget.com
-s7.exacttarget.com
-image.s7.exacttarget.com
-mc.s7.exacttarget.com
-pub.s7.exacttarget.com
-virt.s7.exacttarget.com
-click.virt.s7.exacttarget.com
-virt.exacttarget.com
 
 exacttargetapis.com
 consumer.exacttargetapis.com
@@ -4149,8 +3814,6 @@ new.fqtag.com
 query.fqtag.com
 s.fqtag.com
 
-freegeoip.net
-
 c.ftstats.com
 
 dat.funheroic.com
@@ -4162,7 +3825,6 @@ pokkt.fuse-ad.com
 
 leanmobi.fusetracking.com
 
-fwmrm.net
 adm.fwmrm.net
 ads.aws.fwmrm.net
 prd.ads.aws.fwmrm.net
@@ -4348,42 +4010,12 @@ owb101.goo.ne.jp
 
 secure.gooddata.com
 
-ssl.google-analytics.com
-www.google-analytics.com
-
 ads.google.com
 adservice.google.com
-ampcid.google.com
-fundingchoices.google.com
 crashlytics2.l.google.com
-pagead-googlehosted.l.google.com
 s0-2mdn-net.l.google.com
 
-adservice.google.com.tr
-
-adservice.google.com.ua
-
-adservice.google.com.vn
-
-adservice.google.de
-
-adservice.google.ie
-
-adservice.google.nl
-
-googleadservices.com
-pagead2.googleadservices.com
-partner.googleadservices.com
-www.googleadservices.com
-
 static.googleadsserving.cn
-
-androidtvwatsonfe-pa.googleapis.com
-
-ade.googlesyndication.com
-buttons.googlesyndication.com
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
 
 displayads-formats.googleusercontent.com
 
@@ -4615,7 +4247,6 @@ iclickyou.com
 
 ads.icloseli.com
 api.icloseli.com
-esd.icloseli.com
 relaycn.icloseli.com
 
 metrics.icloud.com
@@ -5271,29 +4902,7 @@ link.krxd.net
 usermatch.krxd.net
 wpp.krxd.net
 
-kryptosda.kryptosmobile.com
-
-apissl.ksapisrv.com
-gdfp.ksapisrv.com
-live.ksapisrv.com
-push.ksapisrv.com
-ulog.ksapisrv.com
-upload.ksapisrv.com
-
 andmlb.kshwtj.com
-
-beha.ksmobile.com
-cb.ksmobile.com
-dl.cm.ksmobile.com
-cmdts.ksmobile.com
-cfg.cml.ksmobile.com
-gcm.ksmobile.com
-
-batsavcdn.ksmobile.net
-behacdn.ksmobile.net
-p-behacdn.ksmobile.net
-ups.ksmobile.net
-ws.ksmobile.net
 
 freesam.kt.com
 ilb.pns.kt.com
@@ -5426,19 +5035,12 @@ scadxrtb.lfstmedia.com
 
 tracking.lg.com
 
-us.ibs.lgappstv.com
-
-us.rdx2.lgtvsdp.com
-us.lgtvsdp.com
-
 b-code.liadm.com
 p.liadm.com
 rp.liadm.com
 rp4.liadm.com
 
 snap.licdn.com
-
-licensebuttons.net
 
 adexp.liftoff.io
 build-cdn.liftoff.io
@@ -5502,9 +5104,6 @@ parameter.lionmobi.com
 updater.lionmobi.com
 
 tracking.listhub.net
-
-litix.io
-18lus0524edvcif1pa0hruc0e.litix.io
 
 player.stats.live-video.net
 
@@ -5624,10 +5223,6 @@ c.lytics.io
 m1-shop.ru
 
 ingest.m2appmonitor.com
-
-macromill.com
-
-metrics.macys.net
 
 madadsmedia.com
 
@@ -6652,8 +6247,6 @@ segment.psg.nexstardigital.net
 
 nextclick.pl
 
-geo.ngtv.io
-
 ads.nicovideo.jp
 
 apps.nielsen.com
@@ -6752,7 +6345,6 @@ sc5.omniture.com
 
 upload.omnivirt.com
 
-omtrdc.net
 espn.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 gannett.hb.omtrdc.net
@@ -6782,11 +6374,8 @@ static.onecms.io
 
 validate.onecount.net
 
-image.mail.onedrive.com
-
 tracking.onefeed.co.uk
 
-onelink.me
 snssdk1233.onelink.me
 
 onelnk.com
@@ -6799,7 +6388,6 @@ apicssdk.onemt.co
 
 click.oneplus.com
 
-onesignal.com
 api.onesignal.com
 cdn.onesignal.com
 
@@ -6837,286 +6425,6 @@ log.opentracker.net
 update.openx.com
 s.update.openx.com
 
-openx.net
-33across-d.openx.net
-accuradio-d.openx.net
-adasia-d.openx.net
-addkt-d.openx.net
-adinplay-d.openx.net
-adnimation-d.openx.net
-adnimation1-d.openx.net
-adnimation2-d.openx.net
-adomega-d.openx.net
-adopkorea-d.openx.net
-adpone-d.openx.net
-adpushup-d.openx.net
-adtelligent-d.openx.net
-amu-d.openx.net
-aniview-d.openx.net
-answers-d.openx.net
-anyclip-d.openx.net
-aol-bidout-d.openx.net
-apacdigital-d.openx.net
-apester-d.openx.net
-arkadium-d.openx.net
-ascendeum-d.openx.net
-ask-d.openx.net
-ask-media-group-d.openx.net
-askfm-usd-d.openx.net
-associatedpress-d.openx.net
-automatad-d.openx.net
-axel-springer-d.openx.net
-bcm-d.openx.net
-bizjournals-d.openx.net
-bloggernetwork-d.openx.net
-boldwin-d.openx.net
-boredpanda-d.openx.net
-boston-d.openx.net
-brainyquote-d.openx.net
-brandigic-d.openx.net
-brightcom-d.openx.net
-business-insider-d.openx.net
-buysellads-d.openx.net
-cafemedia-d.openx.net
-carambola-d.openx.net
-cbsi-d.openx.net
-coed-d.openx.net
-comcast-d.openx.net
-concourse-d.openx.net
-condenastus-d.openx.net
-connatix-d.openx.net
-cordlessmedia-d.openx.net
-coxauto-d.openx.net
-coxmediagroup-d.openx.net
-cpmstar-d.openx.net
-crunchmind-d.openx.net
-dailymotionbo-d.openx.net
-demandmedia-d.openx.net
-didna-d.openx.net
-digikulture-d.openx.net
-digitalthrottle-d.openx.net
-diply-d.openx.net
-discovery-d.openx.net
-disqus-d.openx.net
-distractify-d.openx.net
-distroscale-d.openx.net
-dmv-org-d.openx.net
-doodle-d.openx.net
-dowjones-d.openx.net
-dtnads-d.openx.net
-durationmedia-d.openx.net
-ebert-digital-d.openx.net
-egami-tv-d.openx.net
-egraffiti-d.openx.net
-entercom-d.openx.net
-enthusiast-gaming-d.openx.net
-entravision-d.openx.net
-epoch-times-d.openx.net
-equibase-company-d.openx.net
-eu-u.openx.net
-exceljet-d.openx.net
-ezoic-d.openx.net
-farlex-d.openx.net
-firstimpression-d.openx.net
-forumcomm-d.openx.net
-foxnews-d.openx.net
-fptadtrue-d.openx.net
-freepik-d.openx.net
-freestar-d.openx.net
-funtomic-d.openx.net
-futurenet-d.openx.net
-gannett-d.openx.net
-gatewaymedia-d.openx.net
-genieeintl-d.openx.net
-ggsoftware-d.openx.net
-gift-connect-d.openx.net
-granite-cubed-d.openx.net
-guardian-d.openx.net
-hashtaglabs-d.openx.net
-healthline-d.openx.net
-hive-d.openx.net
-hometalk-d.openx.net
-hornet-d.openx.net
-hsw-d.openx.net
-ibt-d.openx.net
-idm-d.openx.net
-imonomy-d.openx.net
-innity-d.openx.net
-inquirer-interactive-d.openx.net
-insticator-d.openx.net
-internetinnovation-d.openx.net
-investing-channel-d.openx.net
-ironsource-d.openx.net
-jp-u.openx.net
-justpremium-d.openx.net
-kijiji-d.openx.net
-kompascybermedia-d.openx.net
-koreaboo2-d.openx.net
-ksl-d.openx.net
-latimes-d.openx.net
-legacycst-d.openx.net
-linewebtoon-d.openx.net
-lovetk-d.openx.net
-mansueto-d.openx.net
-marfeel-d.openx.net
-match-d.openx.net
-mcclatchy-d.openx.net
-mediadojo-d.openx.net
-mediafire-d.openx.net
-meredith-d.openx.net
-meredithlocal-d.openx.net
-merriamwebster-d.openx.net
-microad-d.openx.net
-mindtank-d.openx.net
-minutemedia-d.openx.net
-mobile-de-d.openx.net
-mobile01-d.openx.net
-mobileposse-d.openx.net
-monetizemore-d.openx.net
-motleyfool-d.openx.net
-nascardm-d.openx.net
-networkn-d.openx.net
-ninegag-d.openx.net
-nineto5mac-d.openx.net
-oao-d.openx.net
-ocmdigitalmedia-d.openx.net
-olxpl-d.openx.net
-omg-studio-d.openx.net
-one-india-d.openx.net
-oneadvertising-d.openx.net
-onscroll-d.openx.net
-ookla-d.openx.net
-os4m-d.openx.net
-outbrain-d.openx.net
-patch-d.openx.net
-pch-d.openx.net
-pelmorex-d.openx.net
-phone-arena-d.openx.net
-pittpostgazette-d.openx.net
-pixfuture-d.openx.net
-pixfuture2-d.openx.net
-playbuzzltd-d.openx.net
-playwire-d.openx.net
-pmc-d.openx.net
-poki-d.openx.net
-politico-d.openx.net
-postmedia-d.openx.net
-prebid.openx.net
-prime-d.openx.net
-primis-d.openx.net
-projectagora-d.openx.net
-propermedia-d.openx.net
-proprofs-d.openx.net
-pubgalaxy-d.openx.net
-publift-d.openx.net
-publir-d.openx.net
-publisherdesk-d.openx.net
-pubnative-d.openx.net
-pubwise-d.openx.net
-qaamgo-d.openx.net
-quizlet-d.openx.net
-ranker-d.openx.net
-realtor-d.openx.net
-researchgate-d.openx.net
-retailmenot-d.openx.net
-rock-you-d.openx.net
-rogers-digital-media-d.openx.net
-rtb.openx.net
-rtb-asia-southeast1.openx.net
-rtb-ca.openx.net
-rtb-europe-west1.openx.net
-rtbdemand-d.openx.net
-rtkio-d.openx.net
-ruptly-d.openx.net
-salemwebnetworks-d.openx.net
-saymedia-d.openx.net
-sbnationbidder-d.openx.net
-scmp-d.openx.net
-sea-u.openx.net
-seattle-times-d.openx.net
-seccosquared-d.openx.net
-select-d.openx.net
-setupad-d.openx.net
-sfg-d.openx.net
-shareably-d.openx.net
-shinez-u-d.openx.net
-slickdeals-d.openx.net
-sltrib-d.openx.net
-smartermobi-d.openx.net
-smartlify-d.openx.net
-snapsort-d.openx.net
-snigel-d.openx.net
-spanishdict-d.openx.net
-spiceworks-d.openx.net
-spikemedia-d.openx.net
-spinemedia-d.openx.net
-spot-im-d.openx.net
-stands4-d.openx.net
-streamamp-d.openx.net
-streamlyn-d.openx.net
-studybreakmedia-d.openx.net
-tabforacause-d.openx.net
-taboola-d.openx.net
-takoomi-d.openx.net
-talkingpointsmemo-d.openx.net
-teachingaids-d.openx.net
-telegraph-d.openx.net
-the-eighth-d.openx.net
-theblaze2-d.openx.net
-thedrive-d.openx.net
-thehill-d.openx.net
-timesinternet-d.openx.net
-townhallmedia-d.openx.net
-townsquaremedia-d.openx.net
-traffective-d.openx.net
-tribune-d.openx.net
-tunein-d.openx.net
-u.openx.net
-u-us.openx.net
-udn-usd-d.openx.net
-uk-ads.openx.net
-ultimate-guitar-d.openx.net
-underarmour-d.openx.net
-underdogmedia-d.openx.net
-uol-d.openx.net
-upi-d.openx.net
-ureka-d.openx.net
-us-ads.openx.net
-us-u.openx.net
-usatodaysports-d.openx.net
-usnews-d.openx.net
-vdoai-d.openx.net
-venatusmedia-d.openx.net
-verticalscope-d.openx.net
-vidazoo-d.openx.net
-vidcrunch-d.openx.net
-videointelligence-d.openx.net
-vidoomy-d.openx.net
-viralize-d.openx.net
-viumbe-d.openx.net
-vuukle-d.openx.net
-warnerbros-d.openx.net
-washingtonpost-d.openx.net
-waytogrow-d.openx.net
-wazimo-d.openx.net
-weatherus-d.openx.net
-webfg-d.openx.net
-wirtualn-d.openx.net
-wordreference-d.openx.net
-wuxiaworld-d.openx.net
-yieldbird-d.openx.net
-yieldlove-d.openx.net
-yormedia-isr-gbp-d.openx.net
-yoto-d.openx.net
-zedo-d.openx.net
-zergnet-d.openx.net
-zerohedge-d.openx.net
-ziffdavis-d.openx.net
-zlifestyle-d.openx.net
-zoopla-d.openx.net
-zulily-d.openx.net
-zynga-d.openx.net
-
 adx.ads.oppomobile.com
 bdapi.ads.oppomobile.com
 bjdata.ads.oppomobile.com
@@ -7139,72 +6447,7 @@ bx01.optimix.asia
 
 api.optimizely.com
 app.optimizely.com
-cdn.optimizely.com
-a10453949094.cdn.optimizely.com
-a10681260716.cdn.optimizely.com
-a10829270344.cdn.optimizely.com
-a1096093.cdn.optimizely.com
-a11000223989.cdn.optimizely.com
-a11085769837.cdn.optimizely.com
-a11179690159.cdn.optimizely.com
-a11347113422.cdn.optimizely.com
-a11391265293.cdn.optimizely.com
-a125375509.cdn.optimizely.com
-a12600010354.cdn.optimizely.com
-a14069890047.cdn.optimizely.com
-a14738960062.cdn.optimizely.com
-a14932920627.cdn.optimizely.com
-a16180790160.cdn.optimizely.com
-a16488430484.cdn.optimizely.com
-a166211981.cdn.optimizely.com
-a166688199.cdn.optimizely.com
-a1706490390.cdn.optimizely.com
-a17126690382.cdn.optimizely.com
-a1719570453.cdn.optimizely.com
-a17571560121.cdn.optimizely.com
-a17957420003.cdn.optimizely.com
-a1859010085.cdn.optimizely.com
-a2129670914.cdn.optimizely.com
-a234628017.cdn.optimizely.com
-a275532918.cdn.optimizely.com
-a277026128.cdn.optimizely.com
-a2972860641.cdn.optimizely.com
-a3013110282.cdn.optimizely.com
-a304207300.cdn.optimizely.com
-a3567930175.cdn.optimizely.com
-a3580442334.cdn.optimizely.com
-a3698060313.cdn.optimizely.com
-a400912536.cdn.optimizely.com
-a4621041136.cdn.optimizely.com
-a5090114122.cdn.optimizely.com
-a523170811.cdn.optimizely.com
-a553480116.cdn.optimizely.com
-a6529002483.cdn.optimizely.com
-a745050198.cdn.optimizely.com
-a752092193.cdn.optimizely.com
-a7544042.cdn.optimizely.com
-a7871036.cdn.optimizely.com
-a8209871389.cdn.optimizely.com
-a8507201684.cdn.optimizely.com
-a8571253058.cdn.optimizely.com
-a989617545.cdn.optimizely.com
-cdn-a2-ncl.optimizely.com
-cdn-pci.optimizely.com
-a11701662245.cdn-pci.optimizely.com
-a8447843426.cdn-pci.optimizely.com
-cdn-s-optional.optimizely.com
-cdn3.optimizely.com
-client.optimizely.com
-errors.client.optimizely.com
-log.optimizely.com
-log3.optimizely.com
-logx.optimizely.com
 events.mobile.optimizely.com
-odds.optimizely.com
-rum.optimizely.com
-tapi.optimizely.com
-teams.optimizely.com
-vis.optimizely.com
 
 origin.optimost.io
 
@@ -7430,7 +6673,6 @@ trackdat.pinsightmedia.com
 
 ads.pinterest.com
 analytics.pinterest.com
-ct.pinterest.com
 log.pinterest.com
 trk.pinterest.com
 
@@ -7460,6 +6702,8 @@ playhaven.com
 stats.playrix.com
 
 sdk.playtem.com
+
+service-ad-impression-proxy.clusters.pluto.tv
 
 iabusprivacy.pmc.com
 
@@ -8100,11 +7344,6 @@ tracker.samplicio.us
 insights.samsung.com
 nmetrics.samsung.com
 
-samsungacr.com
-log-config.samsungacr.com
-log-ingestion.samsungacr.com
-log-ingestion-eu.samsungacr.com
-
 ad.samsungadhub.com
 
 samsungads.com
@@ -8115,9 +7354,7 @@ etl.xlmc.sandai.net
 
 execution-use.ci360.sas.com
 
-sascdn.com
 ak-ns.sascdn.com
-ced.sascdn.com
 
 track.saygames.io
 
@@ -8144,7 +7381,6 @@ register.collector.scopely.io
 sdk.scopely.io
 config.sdk.scopely.io
 
-scorecardresearch.com
 b.scorecardresearch.com
 bs.scorecardresearch.com
 end.scorecardresearch.com
@@ -8246,9 +7482,6 @@ ws.sessioncam.com
 sessionm.com
 
 track.sgdmobile.com
-
-cookie-jam.sgn.com
-invenio.sgn.com
 
 analytics.shareaholic.com
 apps.shareaholic.com
@@ -8352,16 +7585,12 @@ pubstatus.sinaapp.com
 
 newspush.sinajs.cn
 
-api.icmobile.singlewire.com
-
 singular.net
 i.singular.net
 sdk-api-v1.singular.net
 t.singular.net
 
 sitemaji.com
-
-sitescout.com
 
 assistjs.skimresources.com
 go.skimresources.com
@@ -8376,8 +7605,6 @@ t.skimresources.com
 x.skimresources.com
 
 mparticle.slack.com
-
-analytics.slashdotmedia.com
 
 slicktext.com
 
@@ -9401,8 +8628,6 @@ choices.truste.com
 preferences.truste.com
 privacy-policy.truste.com
 
-sealserver.trustwave.com
-
 sofia.trustx.org
 
 cdn.tsyndicate.com
@@ -9477,7 +8702,6 @@ sdkgw.us1.twilio.com
 ads.twitter.com
 ads-api.twitter.com
 ads-bidder-api.twitter.com
-analytics.twitter.com
 
 p.typekit.net
 
@@ -9791,8 +9015,6 @@ sdkcdn.videojj.com
 kinja-com.videoplayerhub.com
 pmc-com.videoplayerhub.com
 
-videoplaza.tv
-
 banners.videosecrets.com
 
 omsdk.vidible.tv
@@ -10070,8 +9292,6 @@ usersegment.wpdigital.net
 
 wrating.com
 
-optimizely.wsj.com
-
 wsod.com
 
 wzrkt.com
@@ -10133,10 +9353,6 @@ opt.ximad.com
 
 xdcs-collector.ximalaya.com
 
-xiti.com
-logs.xiti.com
-logs1202.xiti.com
-
 sdk.ibm.xtify.com
 sdk1.ibm.xtify.com
 sdk6.ibm.xtify.com
@@ -10178,28 +9394,10 @@ m.yap.yahoo.com
 pr-bh.ybp.yahoo.com
 partnerads.ysm.yahoo.com
 
-appmetrica.yandex.com
-redirect.appmetrica.yandex.com
-
-report.appmetrica.yandex.net
-startup.mobile.yandex.net
-
-adfox.yandex.ru
-matchid.adfox.yandex.ru
-an.yandex.ru
-redirect.appmetrica.yandex.ru
-awaps.yandex.ru
-bs.yandex.ru
-clck.yandex.ru
-informer.yandex.ru
-kiks.yandex.ru
-grade.market.yandex.ru
-mc.yandex.ru
-metrika.yandex.ru
-share.yandex.ru
-
 yandexadexchange.net
 mobile.yandexadexchange.net
+
+mobi.yanosik.pl
 
 yemonisoni.com
 
