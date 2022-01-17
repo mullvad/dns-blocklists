@@ -14,20 +14,20 @@ The following lists are what we import to our service. You can find these define
 ### Trackers
 
 We currently use these tracker blocklists with our service:
-- easylist-privacy: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
-- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+{% for list in dns_adblock_lists %}
+{% if "privacy" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
 
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- easylist-adblock: https://v.firebog.net/hosts/Easylist.txt
-- adaway: https://adaway.org/hosts.txt
-- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
-- Admiral: https://v.firebog.net/hosts/Admiral.txt
-- anudeepND: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-- yoyo: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-- AdguardDNS-mobile-ads: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+{% for list in dns_adblock_lists %}
+{% if "adblock" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
 
 ## Pull requests / Issues / Updating block lists
 

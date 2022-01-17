@@ -10,6 +10,12 @@
 
   tasks:
 
+    - name: Generate README
+      ansible.builtin.template:
+        src: templates/README.md.j2
+        dest: README.md
+      tags: readme
+
     - name: Ensure output files are cleared
       ansible.builtin.file:
         dest: "output/{{ item.0 }}"
@@ -24,12 +30,20 @@
         - "{{ group_names }}"
         - ['absent', 'directory']
         - "{{ dns_adblock_lists }}"
+      loop_control:
+        label: "{{ item.0}}: {{ item.1 }}"
 
     - name: Download latest lists
       ansible.builtin.get_url:
         url: "{{ item.1.url }}"
         dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}: {{ item.1.url }}"
+      register: _dns_adblock_download_lists
+      retries: 5
+      delay: 10
+      until: _dns_adblock_download_lists is succeeded
 
     - name: Replace localhost and IP addresses in files
       ansible.builtin.replace:
@@ -40,6 +54,8 @@
         - "{{ group_names }}"
         - "{{ dns_adblock_lists }}"
         - "{{ dns_replace_address }}"
+      loop_control:
+        label: "{{ item.1.name }}: {{ item.1.url }}"
 
     - name: Remove comments from files
       ansible.builtin.lineinfile:
@@ -47,6 +63,8 @@
         regexp: '^#'
         state: absent
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}: {{ item.1.url }}"
 
     - name: Create custom file with contents
       ansible.builtin.copy:
@@ -55,6 +73,8 @@
         force: true
       loop: "{{ group_names | product(dns_adblock_lists_custom) | list }}"
       when: dns_adblock_lists_custom | length
+      loop_control:
+        label: "{{ item.1.type }}/custom"
 
     - name: Combine files into output
       ansible.builtin.assemble:
@@ -67,3 +87,5 @@
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         regexp: '^ '
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}"
