@@ -27,7 +27,7 @@ dns_adblock_lists_defaults:
   - name: yoyo
     url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
     type: adblock
-
+    
 # List of extra domains to block, in addition to what we have listed
 # in `dns_adblock_lists`
 # Example:
