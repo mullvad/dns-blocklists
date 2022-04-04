@@ -1,6 +1,6 @@
 
- 
-  
+ localhost
+  localhost
 
 analytics.163.com
 crash.163.com
@@ -8500,7 +8500,6 @@ combine.urbanairship.com
 device-api.urbanairship.com
 remote-data.urbanairship.com
 sbux-dl.urbanairship.com
-wallet-api.urbanairship.com
 web-sdk.urbanairship.com
 
 api.usabilla.com
