@@ -826,6 +826,13 @@ adsunflower.com
 folder.adsunflower.com
 rebootv5.adsunflower.com
 
+cdn.adswizz.com
+deliveryengine.cox.adswizz.com
+delivery-cdn-cf.adswizz.com
+cox.deliveryengine.adswizz.com
+streamguys.deliveryengine.adswizz.com
+synchroscript.deliveryengine.adswizz.com
+synchrobox.adswizz.com
 zc.adswizz.com
 
 adsymptotic.com
@@ -1225,6 +1232,9 @@ int.akisinn.info
 
 int.akisinn.site
 
+17de4c16.akstat.io
+17de4c17.akstat.io
+
 p.alcmpn.com
 
 alexametrics.com
@@ -1281,6 +1291,7 @@ z-eu.amazon-adsystem.com
 z-na.amazon-adsystem.com
 
 aan.amazon.com
+fls-na.amazon.com
 
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 
@@ -1426,6 +1437,8 @@ analysys.cn
 analytics.analytics-egain.com
 cloud-emea.analytics-egain.com
 cloud-us.analytics-egain.com
+
+analyticssystems.net
 
 andomedia.com
 
@@ -1797,8 +1810,6 @@ as.y.atwola.com
 tw.as.y.atwola.com
 eu.y.atwola.com
 us.y.atwola.com
-
-ws.audioeye.com
 
 ad.auditude.com
 
@@ -2260,8 +2271,6 @@ ad.cauly.co.kr
 
 production-cmp.isgprivacy.cbsi.com
 
-doppler-reporting.cbsivideo.com
-
 tealium.cbsnews.com
 
 ccgateway.net
@@ -2323,6 +2332,7 @@ live.chartboost.com
 ssp-events.chartboost.com
 t.chartboost.com
 t2.chartboost.com
+v-ak.chartboost.com
 v2.chartboost.com
 www.chartboost.com
 
@@ -2566,6 +2576,7 @@ cdn-3.convertexperiments.com
 
 conviva.com
 47e224be59415ec068b94bca857581bd7dde7fb6.cws.conviva.com
+87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 cws-eu.conviva.com
 cws-hulu.conviva.com
@@ -3118,6 +3129,9 @@ mobile.controller.duokanbox.com
 fm.duokanbox.com
 stat.duokanbox.com
 
+be.durationmedia.net
+tag.durationmedia.net
+
 ak.dxsvr.com
 rc.dxsvr.com
 tls.dxsvr.com
@@ -3276,8 +3290,6 @@ wildcard.marketo.net.edgekey.net
 owneriq.net.edgekey.net
 wildcard.owneriq.net.edgekey.net
 yieldlab.net.edgekey.net
-typekit.net-v3.edgekey.net
-p.typekit.net-v3.edgekey.net
 pubmatic.edgekey.net
 aktrack.pubmatic.edgekey.net
 secure-adnxs.edgekey.net
@@ -3632,6 +3644,7 @@ prd.ads.aws.fwmrm.net
 g13v.prd.ads.aws.fwmrm.net
 nbcu.prd.ads.aws.fwmrm.net
 v.fwmrm.net
+7f077.v.fwmrm.net
 
 api.fyber.com
 api-rewarded-video.fyber.com
@@ -3767,6 +3780,7 @@ adn-d.sp.gmossp-sp.jp
 adn-i.sp.gmossp-sp.jp
 adn-j.sp.gmossp-sp.jp
 
+c.go-mpulse.net
 s.go-mpulse.net
 
 log.go.com
@@ -4198,6 +4212,9 @@ images.informatm.com
 
 studcat.infra.systems
 
+inhousedsp.com
+content.inhousedsp.com
+
 adapi.inlcorp.com
 
 sdk.inlocomedia.com
@@ -4226,6 +4243,7 @@ config-ltvp.inmobi.com
 de.inmobi.com
 b.de.inmobi.com
 e.de.inmobi.com
+ic.de.inmobi.com
 glance.inmobi.com
 analytics.glance.inmobi.com
 id.analytics.glance.inmobi.com
@@ -4236,6 +4254,8 @@ in.api.glance.inmobi.com
 glance-internal.inmobi.com
 analytics-prod2.glance-internal.inmobi.com
 content-prod3.glance-internal.inmobi.com
+s.iff.inmobi.com
+dspbeacons.error.ihasdsp.inmobi.com
 imces.inmobi.com
 pulse.inmobi.com
 carpet.pulse.inmobi.com
@@ -4266,6 +4286,8 @@ inmobicdn.net
 l.inmobicdn.net
 glance.l.inmobicdn.net
 i.l.inmobicdn.net
+i.l-dsp.inmobicdn.net
+supply.inmobicdn.net
 
 inner-active.mobi
 ad-tag.inner-active.mobi
@@ -4482,6 +4504,8 @@ err.izooto.com
 jampp.com
 cdn.jampp.com
 imgx.jampp.com
+imp-lb-us2.jampp.com
+static.jampp.com
 
 jdoqocy.com
 www.jdoqocy.com
@@ -4913,6 +4937,7 @@ sparkle.locationlabs.com
 
 api.locuslabs.com
 assets.locuslabs.com
+rest.locuslabs.com
 
 smetrics.loft.com
 
@@ -5769,8 +5794,6 @@ s.mopub.com
 
 morgdm.ru
 
-mobileapi.motus.com
-
 analytics.moz.com
 mozbar.moz.com
 
@@ -5792,6 +5815,8 @@ mpnrs.com
 
 r.mradx.net
 r0.mradx.net
+
+ad.mrtnsvr.com
 
 msads.net
 
@@ -5950,6 +5975,7 @@ segment.psg.nexstardigital.net
 
 nextclick.pl
 
+uk-tracking.nextdoor.com
 us-tracking.nextdoor.com
 
 ads.nicovideo.jp
@@ -6038,6 +6064,7 @@ sc5.omniture.com
 
 omtrdc.net
 hb.omtrdc.net
+cbsinteractive.hb.omtrdc.net
 espn.hb.omtrdc.net
 foxnews.hb.omtrdc.net
 hulu.hb.omtrdc.net
@@ -6047,6 +6074,7 @@ allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
 bamtech.sc.omtrdc.net
 carfax.sc.omtrdc.net
+coxcommunications.sc.omtrdc.net
 fox.com.ssl.d2.sc.omtrdc.net
 philipslighting.d3.sc.omtrdc.net
 kroger.sc.omtrdc.net
@@ -6089,9 +6117,6 @@ apicosdk.onemt.co
 apicssdk.onemt.co
 
 click.oneplus.com
-
-api.onesignal.com
-cdn.onesignal.com
 
 onetag-sys.com
 
@@ -6747,6 +6772,9 @@ sg-setting.rayjump.com
 sg01.rayjump.com
 tknet.rayjump.com
 us01.rayjump.com
+vg-aws-us-east-1a-hb.rayjump.com
+vg-aws-us-east-1b-hb.rayjump.com
+vg-new-hb.rayjump.com
 vg-setting.rayjump.com
 
 assets.rbl.ms
@@ -6754,6 +6782,8 @@ assets.rbl.ms
 rbnt.org
 
 realclever.com
+
+ac.realvu.net
 
 cdn.rebel.ai
 
@@ -6792,6 +6822,8 @@ tag.researchnow.com
 
 ds.reson8.com
 idsync.reson8.com
+
+cdn.resonate.com
 
 static.cdn.responsys.net
 
@@ -7211,8 +7243,6 @@ cdn.simpleanalytics.io
 edge.simplereach.com
 
 simplesharebuttons.com
-
-simpletexting.com
 
 ads.simpli.fi
 east.ads.simpli.fi
@@ -7700,6 +7730,7 @@ api.swrve.com
 30572.api.swrve.com
 30736.api.swrve.com
 30819.api.swrve.com
+31123.api.swrve.com
 3193.api.swrve.com
 3285.api.swrve.com
 3426.api.swrve.com
@@ -7738,6 +7769,7 @@ content.swrve.com
 30572.content.swrve.com
 30736.content.swrve.com
 30819.content.swrve.com
+31123.content.swrve.com
 3285.content.swrve.com
 3616.content.swrve.com
 3696.content.swrve.com
@@ -7762,6 +7794,7 @@ eu-api.swrve.com
 eu-content.swrve.com
 6379.eu-content.swrve.com
 6384.eu-content.swrve.com
+31123.identity.swrve.com
 link.swrve.com
 
 banner.synergy-e.com
@@ -7986,8 +8019,6 @@ visitor-service-eu-west-1.tealiumiq.com
 visitor-service-us-east-1.tealiumiq.com
 
 ampmetrics.techcrunch.com
-
-p11.techlab-cdn.com
 
 ad-cdn.technoratimedia.com
 prebid.technoratimedia.com
@@ -8304,8 +8335,6 @@ ads-bidder-api.twitter.com
 analytics.twitter.com
 
 de.tynt.com
-
-p.typekit.net
 
 lightstep-collector.api.ua.com
 
@@ -8867,6 +8896,10 @@ app.wootric.com
 eligibility.wootric.com
 production.wootric.com
 survey.wootric.com
+
+content.worldnow.com
+ftpcontent.worldnow.com
+kake.images.worldnow.com
 
 wowanalytics.co.uk
 lbal.wowanalytics.co.uk

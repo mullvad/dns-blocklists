@@ -29,6 +29,15 @@ We currently use these advertising blocklists with our service:
 {% endif %}
 {% endfor %}
 
+### Adult content 
+
+We currently use this Adult content blocklist for our service:
+{% for list in dns_adblock_lists %}
+{% if "adult" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
+
 ## Pull requests / Issues / Updating block lists
 
 We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them.

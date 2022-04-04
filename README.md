@@ -29,6 +29,11 @@ We currently use these advertising blocklists with our service:
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - AdguardDNS-mobile-ads: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 
+### Adult content 
+
+We currently use this Adult content blocklist for our service:
+- blocklistproject-adult: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/porn-nl.txt
+
 ## Pull requests / Issues / Updating block lists
 
 We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them.

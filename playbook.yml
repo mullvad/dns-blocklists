@@ -60,7 +60,7 @@
     - name: Remove comments from files
       ansible.builtin.lineinfile:
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-        regexp: '^#'
+        regexp: '#'
         state: absent
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
       loop_control:
