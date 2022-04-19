@@ -51,6 +51,53 @@ We currently use these gambling blocklists with our service:
 
 We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them.
 
+# Custom DNS entries
+
+The following is a list of all the IP addresses we use for our DNS based blocking.
+
+These IPs can be used within custom DNS in our configuration files, or via our Apps.
+
+To block _everything_ enter: `100.64.0.31`
+
+### Ads and Tracker combinations
+    100.64.0.1 - Ad blocking only
+    100.64.0.2 - Trackers only
+    100.64.0.3 - Ad blocking and tracker blocking
+
+### Malware serving website combinations
+    100.64.0.4 - Malware blocking only
+    100.64.0.5 - Ad blocking and malware blocking
+    100.64.0.6 - Tracker blocking and malware blocking
+    100.64.0.7 - Ad blocking, tracker blocking and malware blocking
+
+### Adult content blocking combinations
+    100.64.0.8 - Adult content blocking only
+    100.64.0.9 - Adult content and ad blocking
+    100.64.0.10 - Adult content and tracker blocking
+    100.64.0.11 - Adult content blocking, ad blocking and tracker blocking
+    100.64.0.12 - Adult content blocking and malware blocking
+    100.64.0.13 - Adult content blocking, ad blocking and malware blocking
+    100.64.0.14 - Adult content blocking, tracker blocking and malware blocking
+    100.64.0.15 - Adult content blocking, ad blocking, tracker blocking and malware blocking
+
+### Gambling website combinations
+    100.64.0.16 - Gambling blocking only
+    100.64.0.17 - Gambling blocking and ad blocking
+    100.64.0.18 - Gambling blocking and tracker blocking
+    100.64.0.19 - Gambling blocking, ad blocking and tracker blocking
+    100.64.0.20 - Gambling blocking and malware blocking
+    100.64.0.21 - Gambling blocking ad blocking and malware blocking
+    100.64.0.22 - Gambling blocking, malware blocking and tracking blocking
+    100.64.0.23 - Gambling blocking, ad blocking, malware blocking and tracker blocking
+    100.64.0.24 - Gambling blocking and adult blocking
+    100.64.0.25 - Gambling blocking, ad blocking and adult content blocking
+    100.64.0.26 - Gambling blocking, adult content blocking, and tracker blocking
+    100.64.0.27 - Gambling blocking, ad blocking, adult content blocking and tracker blocking
+    100.64.0.28 - Gambling blocking, adult content blocking and malware blocking
+    100.64.0.29 - Gambling blocking, ad blocking, adult content blocking, and malware blocking
+    100.64.0.30 - Gambling blocking, adult content blocking, malware blocking and tracker blocking
+    100.64.0.31 - Ad blocking, adult content blocking, gambling blocking, malware blocking, tracker blocking ("Everything")
+
 # Building
 
 The following steps are useful only if you wish to build the lists yourself.
@@ -58,18 +105,19 @@ The following steps are useful only if you wish to build the lists yourself.
 The output files located in `output/relay/` are what are imported onto our VPN servers.
 
 ## Requirements
-- Ansible 2.9.x =<
+- Ansible Core 2.12.x =<
 
 ## Step by step
 
-  - Ensure the values in `group_vars/<group>.yml` are up to date with any ad-block lists
+  - Ensure the values in `group_vars/<group>.yml` are up to date with any block lists
   - Ensure you have added any 'custom' extra lists or websites to block
-  - Run the playbook: `ansible-playbook -i inventory/ playbook.yml`
+  - Run the playbook to generate the lists:
+    - `ansible-playbook -i inventory/ playbook.yml`
+    - `ansible-playbook -i inventory/ playbook.yml --tags=readme` can be used to generate the README on its own
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-adblock/main/output/<group>.txt?raw=true`
   - Run test script: `cd scripts && ./check_zonedata.sh`
   - Sign the outputted relay files with your GPG code signing key, for example:
-    - `gpg2 --detach-sign --armor output/relay/relay_adblock.txt > output/relay/relay_adblock.txt.gpg`
-    - `gpg2 --detach-sign --armor output/relay/relay_privacy.txt > output/relay/relay_privacy.txt.gpg`
+    - `for list in adblock adult privacy gambling; do gpg2 --detach-sign --armor output/relay/relay_${list}.txt > output/relay/relay_${list}.txt.gpg; done`
   - Verify the outputted GPG signed files, for example:
-    - `gpg2 --verify output/relay/relay_adblock.txt.gpg output/relay/relay_adblock.txt`
-    - `gpg2 --verify output/relay/relay_privacy.txt.gpg output/relay/relay_privacy.txt`
+    - `for list in adblock adult privacy gambling; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.txt.gpg output/relay/relay_${list}.txt; done
+`
