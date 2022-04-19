@@ -1,0 +1,22 @@
+name: Run check_zonedata
+
+# Workflow will run everytime someone pushes to the repo
+on: push
+
+jobs:
+
+  Run:  
+    runs-on: ubuntu-latest
+
+    steps:
+    
+    - name: Check out code
+      uses: actions/checkout@v3
+      
+      # Needed to run the script
+    - name: Install bind-utills & upgrade
+      run: sudo apt-get install bind9-utils 
+        
+    - name: Run check_zonedata script
+      id: check_zonedata
+      run: cd scripts && ./check_zonedata.sh

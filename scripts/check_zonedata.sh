@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e # Will make script fail if there is an error
+
 if ! command -v named-checkzone &> /dev/null
 then
   echo "named-checkzone is not installed"
