@@ -14,8 +14,6 @@ The following lists are what we import to our service. You can find these define
 ### Trackers
 
 We currently use these tracker blocklists with our service:
-- easylist-privacy: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
-- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 ### Advertising
 
@@ -26,8 +24,6 @@ We currently use these advertising blocklists with our service:
 - Admiral: https://v.firebog.net/hosts/Admiral.txt
 - anudeepND: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 - yoyo: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-- AdguardDNS-mobile-ads: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 
 ### Adult content 
 

@@ -541,6 +541,8 @@ track.adnetwork.vn
 adnium.com
 a.adnium.com
 
+prebids.adnsx.com
+
 nym1-ib.adnxs-simple.com
 
 acdn.adnxs.com
@@ -1225,7 +1227,6 @@ fvalid.appsflyer.com.akamaized.net
 jioads.akamaized.net
 abcd.mdc.akamaized.net
 speee-ad.akamaized.net
-statics-marketingsites-eus-ms-com.akamaized.net
 
 co.akisinn.info
 int.akisinn.info
@@ -1542,6 +1543,8 @@ trk.apperol.com
 appflood.com
 atracking-auto.appflood.com
 
+inapps.appflyer.com
+
 creative-cdn.appgrowth.com
 
 appia.com
@@ -1595,6 +1598,7 @@ d.applovin.com
 dash.applovin.com
 img.applovin.com
 ms.applovin.com
+ms4.applovin.com
 pdn.applovin.com
 prod-a.applovin.com
 prod-bid.applovin.com
@@ -1712,6 +1716,9 @@ appdiscovery.apptap.com
 api.apptentive.com
 app-icons.apptentive.com
 sdk.apptentive.com
+
+brahe.apptimize.com
+md-a-c.apptimize.com
 
 apptornado.com
 applift-a.apptornado.com
@@ -1938,6 +1945,9 @@ imp-dsp.bidgear.com
 platform.bidgear.com
 source.bidgear.com
 vn-platform.bidgear.com
+
+cdn.bidmatrixdsp.com
+us-trk.bidmatrixdsp.com
 
 bidr.io
 media.bidr.io
@@ -2429,10 +2439,6 @@ tml.clmbtech.com
 
 g2c.cloud-elements.com
 
-ailoganalyticsportal-eus.cloudapp.net
-
-bi-analytics.cloudapp.net
-
 bkt.clouddn.com
 
 metrics.cloudflarebolt.com
@@ -2440,8 +2446,6 @@ metrics.cloudflarebolt.com
 static.cloudflareinsights.com
 
 us-central1-adaptive-growth.cloudfunctions.net
-
-us-central1-production-242307.cloudfunctions.net
 
 cloudmobi.net
 api.cloudmobi.net
@@ -3836,6 +3840,7 @@ static.googleadsserving.cn
 
 googlesyndication.com
 ade.googlesyndication.com
+pagead.googlesyndication.com
 pagead2.googlesyndication.com
 tpc.googlesyndication.com
 
@@ -4507,9 +4512,6 @@ imgx.jampp.com
 imp-lb-us2.jampp.com
 static.jampp.com
 
-jdoqocy.com
-www.jdoqocy.com
-
 api.jeeng.com
 users.api.jeeng.com
 sdk.jeeng.com
@@ -4654,10 +4656,6 @@ a.klaviyo.com
 fast.a.klaviyo.com
 static.klaviyo.com
 telemetrics.klaviyo.com
-
-trk.klclick2.com
-
-trk.klclick3.com
 
 gplayer.kmpmedia.net
 update.kmpmedia.net
@@ -5397,7 +5395,6 @@ ssp.send.microadinc.com
 
 bingads.microsoft.com
 advertise.bingads.microsoft.com
-c1.microsoft.com
 
 adtrack1.midasplayer.com
 
@@ -5826,7 +5823,6 @@ b.ads1.msn.com
 ads2.msn.com
 a.ads2.msn.com
 c.msn.com
-browser.events.data.msn.com
 mobileads.msn.com
 rads.msn.com
 srtb.msn.com
@@ -7323,6 +7319,7 @@ ets-eu-west-1.track.smaato.net
 ets-us-east-1.track.smaato.net
 vet-us-east-1.track.smaato.net
 
+smadex.com
 cm.smadex.com
 creatives.smadex.com
 geo-tracker.smadex.com
@@ -8873,8 +8870,6 @@ ad-display.wikawika.xyz
 analytics.wildtangent.com
 mobile.analytics.wildtangent.com
 
-optanon.blob.core.windows.net
-
 tracker.winudf.com
 
 pie.wirelessregistry.com
@@ -8887,6 +8882,8 @@ identity.api.wmcdp.io
 logs.psm.wmcdp.io
 
 api.wonderpush.com
+
+woobids.com
 
 static.woopra.com
 
