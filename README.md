@@ -32,7 +32,7 @@ We currently use these advertising blocklists with our service:
 ### Adult content 
 
 We currently use this Adult content blocklist for our service:
-- stevenblack-adult: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
+- StevenBlack-adult: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
 
 ### Gambling
 
