@@ -4,10 +4,10 @@ name: Automatic list Update
 # Controls when the workflow will run
 on:
   pull_request:
-    branches: 
+    branches:
         - main
     types: [closed]
-    
+
   workflow_dispatch:
   schedule:
   - cron: "0 8 14 * ?"
@@ -25,22 +25,22 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      
+
       - name: Update blocklists
         run: ansible-playbook -i inventory/ playbook.yml
-        
+
       - name: setup git config
         run: |
           git config user.name ${{ secrets.USERNAME_GITHUB }}
           git config user.email ${{ secrets.EMAIL_GITHUB }}
-      
+
       - name: commit files
-        id: commit 
-        run: | 
+        id: commit
+        run: |
           git checkout main
           git pull origin main
-          git checkout -b chore/list-update
+          git checkout -b chore/list-update-for-$(date +%Y-%B)
           git add --all
           git commit -m "Update lists"
-          git push -f origin chore/list-update
-        
+          git push -f origin chore/list-update-for-$(date +%Y-%B)
+          curl -i -u ${{ secrets.USERNAME_GITHUB }}:${{ secrets.AUTH_TOKEN }} -H "Authentication: ${{ secrets.AUTH_TOKEN }}", "Accept: application/vnd.github.v3+json" -d '{ "title":"List update for todays date", "head":"chore/list-update-for-$(date +%Y-%B) ", "base":"canary" }' https://api.github.com/repos/mullvad/dns-adblock/pulls
