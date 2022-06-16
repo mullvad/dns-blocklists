@@ -134,3 +134,64 @@
       loop: "{{ group_names | product(dns_adblock_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
+
+
+- name: Build zonefiles
+  hosts: all
+  become: false
+  tags: zonefile
+  connection: local
+  gather_facts: false
+
+  tasks:
+
+    - run_once: true
+      delegate_to: localhost
+      block:
+
+        - name: Find output files
+          ansible.builtin.find:
+            paths: ./output
+            recurse: true
+            use_regex: true
+            patterns: ".*.txt$"   # Find raw output files
+            excludes: ".*.zone$"  # Ignore existing zonefiles
+          register: _output_files
+
+        - name: Read output files
+          ansible.builtin.slurp:
+            path: "{{ item }}"
+          register: _output_files_slurp
+          loop: "{{ _output_files.files | map(attribute='path') }}"
+
+        - name: Generate zone files
+          ansible.builtin.copy:
+            content: |
+              $TTL 3600
+              ;namn   ttl     adr-    entry-  origin
+              ;               klass   typ
+              ;------------------------------------------------------------------------------
+              @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
+                                                      {{ now(fmt='%s') }}    ; serial
+                                                      10800         ; refresh
+                                                      3600          ; retry
+                                                      604800        ; expire
+                                                      3600 )        ; ttl
+                                      IN      NS      localhost.
+              ;------------------------------------------------------------------------------
+              {% for domain in _file_content.split('\n') %}
+              {% if domain | length %}
+              {{ domain }} IN CNAME .
+              {% endif %}
+              {% endfor %}
+            dest: "{{ _output_path }}"
+            validate: named-checkzone _ %s
+          vars:
+            _filename_full: "{{ item.source.split('/')[-1] }}"          # relay_adblock.txt
+            _filename_short: "{{ _filename_full.split('.') | first }}"  # relay_adblock
+            _directory: "{{ item.source.split('/')[:-1] | join('/') }}" # output/relay
+            _output_path: "{{ _directory }}/{{ _filename_short }}.zone" # output/relay/relay_adblock.zone
+            _file_content: "{{ item.content | b64decode }}"
+          loop: "{{ _output_files_slurp.results }}"
+          loop_control:
+            label: "{{ _output_path }}"
