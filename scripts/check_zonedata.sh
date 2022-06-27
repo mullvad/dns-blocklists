@@ -9,10 +9,11 @@ then
   exit
 fi
 
-for list in ../output/relay/*.txt
+echo "[#] Checking hostlists.."
+for hostlist in ../output/{doh,relay}/*.txt
   do
-    echo "### $list"
-    temp_filename=$(basename "$list")
+    echo "[#] $hostlist"
+    temp_filename=$(basename "$hostlist")
     cat <<EOF > "$temp_filename"
 \$TTL    604800
 @       IN      SOA     ns.example.com. root.example.com. (
@@ -27,8 +28,15 @@ EOF
     while read -r hostname
     do
       echo "$hostname IN CNAME ." >> "$temp_filename"
-      done < "$list"
-      named-checkzone "$temp_filename" "$temp_filename"
+      done < "$hostlist"
+      named-checkzone $(basename --suffix=.txt $temp_filename) $temp_filename
       rm "$temp_filename"
-      echo ""
+  done
+
+echo ""
+echo "[#] Checking zonefiles.."
+for zonefile in ../output/{doh,relay}/*.zone
+  do
+    echo "[#] $zonefile"
+    named-checkzone $(basename --suffix=.zone $zonefile) $zonefile
   done
