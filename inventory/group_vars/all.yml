@@ -33,7 +33,7 @@ dns_adblock_lists_defaults:
   - name: blocklist-project
     url: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
     type: gambling
-        
+
 # List of extra domains to block, in addition to what we have listed
 # in `dns_adblock_lists`
 # Example:
@@ -250,6 +250,8 @@ dns_adblock_lists_custom:
       ad.searchina.ne.jp
       ad.vippers.jp
       ad.wiredvision.jp
+      ad1.ettoday.net
+      ad2.ettoday.net
       adb.nikkei.co.jp
       adbana.adultcity.tv
       adfries.info
