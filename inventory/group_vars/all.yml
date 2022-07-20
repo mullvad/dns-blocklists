@@ -27,9 +27,6 @@ dns_adblock_lists_defaults:
   - name: yoyo
     url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
     type: adblock
-  - name: StevenBlack-adult
-    type: adult
-    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts
   - name: blocklist-project
     url: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
     type: gambling
@@ -45,6 +42,21 @@ dns_adblock_lists_defaults:
   - name: AdguardDNS-mobile-ads
     type: adblock
     url: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+  - name: brijrajparmar27-pornography
+    type: adult
+    url: https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts
+  - name: clefspeare13-pornhosts
+    type: adult
+    url: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
+  - name: sinfonietta-snuff-hosts
+    type: adult
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts
+  - name: sinfonietta-pornography-hosts
+    type: adult
+    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+  - name: tiuxo-hostlist-pornography
+    type: adult
+    url: https://raw.githubusercontent.com/tiuxo/hosts/master/porn
         
 # List of extra domains to block, in addition to what we have listed
 # in `dns_adblock_lists`
