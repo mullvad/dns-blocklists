@@ -149,6 +149,13 @@
       delegate_to: localhost
       block:
 
+        - name: Ensure bind-utils is installed
+          ansible.builtin.dnf:
+            name: bind-utils
+            state: present
+          become_user: root
+          become: true
+
         - name: Find output files
           ansible.builtin.find:
             paths: ./output
