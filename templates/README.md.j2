@@ -4,6 +4,12 @@ This repository contains the Ansible playbook that we use to generate the ad and
 
 This is imported to our VPN servers frequently.
 
+# Differences between VPN servers and DNS over TLS / HTTPS
+
+Please note that our DNS over TLS and DNS over HTTPS offerings only include ad blocking and tracker blocking.
+
+There will be improvements to add parity between the lists in the future.
+
 # Lists
 
 The following lists are what we import to our service. You can find these defined in `inventory/group_vars` for the server type you wish to view.
@@ -118,6 +124,7 @@ The output files located in `output/relay/` are what are imported onto our VPN s
   - Run test script: `cd scripts && ./check_zonedata.sh`
   - Sign the outputted relay files with your GPG code signing key, for example:
     - `for list in adblock adult privacy gambling; do gpg2 --detach-sign --armor output/relay/relay_${list}.txt > output/relay/relay_${list}.txt.gpg; done`
+    - `for list in adblock adult privacy gambling; do gpg2 --detach-sign --armor output/relay/relay_${list}.zone > output/relay/relay_${list}.gpg; done`
   - Verify the outputted GPG signed files, for example:
-    - `for list in adblock adult privacy gambling; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.txt.gpg output/relay/relay_${list}.txt; done
-`
+    - `for list in adblock adult privacy gambling; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.txt.gpg output/relay/relay_${list}.txt; done`
+    - `for list in adblock adult privacy gambling; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.gpg output/relay/relay_${list}.zone; done`
