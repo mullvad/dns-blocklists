@@ -150,7 +150,7 @@
   become: false
   tags: zonefile
   connection: local
-  gather_facts: false
+  gather_facts: true
 
   tasks:
 
@@ -164,6 +164,7 @@
             state: present
           become_user: root
           become: true
+          when: ansible_distribution == 'Fedora'
 
         - name: Find output files
           ansible.builtin.find:
