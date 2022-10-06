@@ -16,6 +16,14 @@
         dest: README.md
       tags: readme
 
+    - name: Install dos2unix
+      ansible.builtin.dnf:
+        name: dos2unix
+        state: present
+      become_user: root
+      become: true
+      run_once: true
+
     - name: Ensure output files are cleared
       ansible.builtin.file:
         dest: "output/{{ item.0 }}"
@@ -45,6 +53,16 @@
       delay: 10
       until: _dns_adblock_download_lists is succeeded
 
+    - name: Run dos2unix on all lists
+      ansible.builtin.command:
+        cmd: "dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+      args:
+        warn: false
+      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}: {{ item.1.url }}"
+      tags: dos2unix
+
     - name: Replace localhost and IP addresses in files
       ansible.builtin.replace:
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
@@ -54,24 +72,6 @@
         - "{{ group_names }}"
         - "{{ dns_adblock_lists }}"
         - "{{ dns_replace_address }}"
-      loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
-    
-    - name: Remove unwanted lines containing ip6- 
-      ansible.builtin.lineinfile:
-        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-        regexp: ' ip6-'
-        state: absent
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
-    
-    - name: Remove custom hosts IP addresses in files 
-      ansible.builtin.lineinfile:
-        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-        regexp: '([0-9]{1,3}\.){3}[0-9]{1,3}'
-        state: absent
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
 

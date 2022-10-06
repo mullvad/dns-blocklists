@@ -6,6 +6,7 @@ dns_adblock_lists: "{{ dns_adblock_lists_defaults + dns_adblock_lists_extras }}"
 dns_replace_address:
   - '([0]{1,3}\.){3}[0]{1,3} '  # Beware of the necessary trailing whitespace!
   - 'localhost '                     # It is there to not match records like 1.2.3.4.domain.tld
+  - "127.0.0.1"
   - '::1'
 
 dns_adblock_lists_defaults:
