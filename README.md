@@ -22,27 +22,23 @@ The following lists are what we import to our service. You can find these define
 We currently use these tracker blocklists with our service:
 - easylist-privacy: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 - windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+- perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
+- telemetry-apple: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+- telemetry-huawei: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+- telemetry-samsung: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+- telemetry-windows: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+- telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
 
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- easylist-adblock: https://v.firebog.net/hosts/Easylist.txt
-- adaway: https://adaway.org/hosts.txt
-- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
-- Admiral: https://v.firebog.net/hosts/Admiral.txt
-- anudeepND: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-- yoyo: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+- oisd-basic: https://dbl.oisd.nl/basic/
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-- AdguardDNS-mobile-ads: https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 
 ### Adult content 
 
 We currently use this Adult content blocklist for our service:
-- brijrajparmar27-pornography: https://raw.githubusercontent.com/brijrajparmar27/host-sources/master/Porn/hosts
-- clefspeare13-pornhosts: https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/porn/clefspeare13/hosts
-- sinfonietta-snuff-hosts: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts
-- sinfonietta-pornography-hosts: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
-- tiuxo-hostlist-pornography: https://raw.githubusercontent.com/tiuxo/hosts/master/porn
+- oisd-nsfw: https://dbl.oisd.nl/nsfw/
 
 ### Gambling
 

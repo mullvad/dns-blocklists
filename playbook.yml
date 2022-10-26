@@ -144,6 +144,15 @@
       loop_control:
         label: "{{ item.1.name }}"
 
+    - name: Remove URLs in our whitelist
+      ansible.builtin.lineinfile:
+        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        state: absent
+        regexp: "{{ item.2 }}"
+      loop: "{{ group_names | product(dns_adblock_lists, dns_whitelist) | list }}"
+      loop_control:
+        label: "{{ item.2 }}"
+
 
 - name: Build zonefiles
   hosts: all
