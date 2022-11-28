@@ -20,7 +20,7 @@ The following lists are what we import to our service. You can find these define
 ### Trackers
 
 We currently use these tracker blocklists with our service:
-{% for list in dns_adblock_lists %}
+{% for list in dns_blocklists_lists %}
 {% if "privacy" in list.type %}
 - {{ list.name }}: {{ list.url }}
 {% endif %}
@@ -29,7 +29,7 @@ We currently use these tracker blocklists with our service:
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-{% for list in dns_adblock_lists %}
+{% for list in dns_blocklists_lists %}
 {% if "adblock" in list.type %}
 - {{ list.name }}: {{ list.url }}
 {% endif %}
@@ -38,7 +38,7 @@ We currently use these advertising blocklists with our service:
 ### Adult content 
 
 We currently use this Adult content blocklist for our service:
-{% for list in dns_adblock_lists %}
+{% for list in dns_blocklists_lists %}
 {% if "adult" in list.type %}
 - {{ list.name }}: {{ list.url }}
 {% endif %}
@@ -47,7 +47,7 @@ We currently use this Adult content blocklist for our service:
 ### Gambling
 
 We currently use these gambling blocklists with our service:
-{% for list in dns_adblock_lists %}
+{% for list in dns_blocklists_lists %}
 {% if "gambling" in list.type %}
 - {{ list.name }}: {{ list.url }}
 {% endif %}

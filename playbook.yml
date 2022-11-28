@@ -1,8 +1,8 @@
-# Build all the DNS ad-block files for DoH and relay blocking
+# Build all the DNS blocklist files for DoH and relay blocking
 # example usage:
 #   $ ansible-playbook -i inventory/ playbook.yml
 ---
-- name: Build DNS ad-block files
+- name: Build DNS blocklist files
   hosts: all
   connection: local
   gather_facts: false
@@ -37,7 +37,7 @@
       with_nested:
         - "{{ group_names }}"
         - ['absent', 'directory']
-        - "{{ dns_adblock_lists }}"
+        - "{{ dns_blocklists_lists }}"
       loop_control:
         label: "{{ item.0}}: {{ item.1 }}"
 
@@ -45,20 +45,20 @@
       ansible.builtin.get_url:
         url: "{{ item.1.url }}"
         dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
-      register: _dns_adblock_download_lists
+      register: _dns_blocklists_download_lists
       retries: 5
       delay: 10
-      until: _dns_adblock_download_lists is succeeded
+      until: _dns_blocklists_download_lists is succeeded
 
     - name: Run dos2unix on all lists
       ansible.builtin.command:
         cmd: "dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
       args:
         warn: false
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
       tags: dos2unix
@@ -70,8 +70,8 @@
         replace: ''
       with_nested:
         - "{{ group_names }}"
-        - "{{ dns_adblock_lists }}"
-        - "{{ dns_replace_address }}"
+        - "{{ dns_blocklists_lists }}"
+        - "{{ dns_blocklists_replace_address }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
 
@@ -80,7 +80,7 @@
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
         regexp: ' localhost'
         state: absent
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
 
@@ -89,31 +89,21 @@
         path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
         regexp: '#'
         state: absent
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}: {{ item.1.url }}"
-
-    - name: Create custom file with contents
-      ansible.builtin.copy:
-        content: "{{ item.1.content }}"
-        dest: "lists/{{ item.0 }}/{{ item.1.type }}/custom"
-        force: true
-      loop: "{{ group_names | product(dns_adblock_lists_custom) | list }}"
-      when: dns_adblock_lists_custom | length
-      loop_control:
-        label: "{{ item.1.type }}/custom"
 
     - name: Combine files into output
       ansible.builtin.assemble:
         src: "lists/{{ item.0 }}/{{ item.1.type }}"
         dest: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
 
     - name: Remove whitespace at start of lines
       ansible.builtin.replace:
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         regexp: '^ '
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
 
@@ -122,7 +112,7 @@
       ansible.builtin.replace:
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         regexp: '\.$'
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
 
@@ -131,7 +121,7 @@
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         regexp: ' '
         replace: '\n'
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
 
@@ -140,7 +130,7 @@
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         regexp: '^\n'
         state: absent
-      loop: "{{ group_names | product(dns_adblock_lists) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
 
@@ -149,7 +139,7 @@
         path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
         state: absent
         regexp: "{{ item.2 }}"
-      loop: "{{ group_names | product(dns_adblock_lists, dns_whitelist) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists, dns_blocklists_exclude) | list }}"
       loop_control:
         label: "{{ item.2 }}"
 
