@@ -3,13 +3,29 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1669294254    ; serial
+                                        1673261381    ; serial
                                         10800         ; refresh
                                         3600          ; retry
                                         604800        ; expire
                                         3600 )        ; ttl
                         IN      NS      localhost.
 ;------------------------------------------------------------------------------
+borgataonline.com IN CNAME .
+betrivers.com IN CNAME .
+sisportsbook.com IN CNAME .
+betmgm.com IN CNAME .
+fanduel.com IN CNAME .
+sportsbook.caesars.com IN CNAME .
+playsugarhouse.com IN CNAME .
+draftkings.com IN CNAME .
+promo.casinoroom.com IN CNAME .
+kaszinoonline.net IN CNAME .
+icecasino.com IN CNAME .
+fezbet.com IN CNAME .
+lottoland.eu IN CNAME .
+wazamba.com IN CNAME .
+grandcasino.hu IN CNAME .
+vegas.hu IN CNAME .
 crownbet.com.au IN CNAME .
 crownbet.com IN CNAME .
 williamhill.com.au IN CNAME .
@@ -2132,7 +2148,7 @@ loto.mk IN CNAME .
 lutrija.co.me IN CNAME .
 postcodeloterij.nl IN CNAME .
 nederlandseloterij.nl IN CNAME .
-statsloterij.nederlandseloterij.nl IN CNAME .
+staatsloterij.nederlandseloterij.nl IN CNAME .
 lotto.pl IN CNAME .
 multipasko.pl IN CNAME .
 megalotto.pl IN CNAME .
@@ -2488,3 +2504,7 @@ www.jeet11.com IN CNAME .
 www.fan2play.com IN CNAME .
 www.vision11.in IN CNAME .
 www.primecaptain.com IN CNAME .
+india-wheel.pu020ev.com IN CNAME .
+loro.ch IN CNAME .
+in.1x001.com IN CNAME .
+rajbet.com IN CNAME .
