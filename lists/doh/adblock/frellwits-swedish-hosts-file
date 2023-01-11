@@ -311,6 +311,9 @@
  collector.brandmetrics.com
  collector.cint.com
  collector.schibsted.io
+ collector-pxrf8vapwa.pxchk.net
+ collector-pxrf8vapwa.px-cdn.net
+ collector-pxrf8vapwa.px-cloud.net
  collector.houston-analytics.com
  collect-metrics.aquro.com
  connectad.io
@@ -326,6 +329,7 @@
  creative.prf.hn
  creatives.bidtheatre.com
  creative-serving.com
+ creatopy-adtag-production.b-cdn.net
  cs.ns1p.net
  ctx.matchads.net
  curedonswab.com
@@ -369,6 +373,7 @@
  dspk.kindredplc.com
  ds-aksb-a.akamaihd.net
  dynamic-83d822c6-3868940931.stat.truthlyanalytics.com
+ e.viously.com
  e1.emediate.se
  e2.emediate.se
  e3.emediate.se
@@ -407,6 +412,7 @@
  elasticad.net
  embed.bannerboo.com
  embi-media.com
+ emea.hhkld.com
  emea.viadata.store
  engine.widespace.com
  etc-cdn-staging.ams3.digitaloceanspaces.com
@@ -416,8 +422,10 @@
  eus.rubiconproject.com
  eu.npario-inc.net
  events-collector.spot.im
+ evtr.nordiskemedier.dk
  exitintel.com
  expo.ads.ramsalt.com
+ ext.track.tappx.com
  extern.prisjakt.nu
  external.reseguiden.se
  ezodn.com
@@ -448,6 +456,7 @@
  gase.hit.gemius.pl
  gcdn.2mdn.net
  get.optad360.io
+ get.s-onetag.com
  go.ezodn.com
  go.ezoic.net
  graphics.adrecord.com
@@ -492,12 +501,12 @@
  invite.leanlab.co
  inxy.run
  ion.btcswe.com
- ipinfo.io
  ipmeta.io
  izooto.com
  js.appboycdn.com
  js.hsadspixel.net
  js.hsleadflows.net
+ js.interestmoments.com
  js.pafpartners.com
  jsc.adskeeper.com
  jsc.adskeeper.co.uk
@@ -558,6 +567,7 @@
  masture.mobi
  match.adsby.bidtheatre.com
  matomo.chsc.dk
+ matomo.goteborgco.se
  matomo.lulea.se
  matomo.mindbite.cloud
  matomo.studio.se
@@ -595,6 +605,7 @@
  munchkin.marketo.net
  my.hellobar.com
  n.dyntrk.com
+ n24mobse.nuggad.net
  n24se.nuggad.net
  native.sharethrough.com
  nbes.nu
@@ -636,6 +647,7 @@
  pixel.adsafeprotected.com
  pixel.carambo.la
  pixel.glimr.io
+ pixel.ipinfo.io
  pixel.mathtag.com
  pixel.quantserve.com
  pixel.watch
@@ -653,6 +665,7 @@
  prg.smartadserver.com
  proxyas.com
  pubads.g.doubleclick.net
+ public.servenobid.com
  publish.ne.cision.com
  publishing.kaloo.ga
  publish-int.se
@@ -667,6 +680,7 @@
  rabble-res.cloudinary.com
  reauthenticator.com
  recirculation.spot.im
+ record.findtrustclicks.com
  redistats.com
  regstat.se
  reklam.6x.se
@@ -716,6 +730,7 @@
  sbs.deliveryengine.adswizz.com
  sc.lfeeder.com
  scdn.cxense.com
+ schibsted-cdn.relevant-digital.com
  science.omni.se
  script.crazyegg.com
  script.extellio.com
@@ -795,6 +810,7 @@
  static.ads-twitter.com
  statistics.heltenkelt.se
  statistics-se.talentum.com
+ statistik.blogg1.se
  statistik.mxo.se
  statistik.svenskaakademien.se
  stats.blogg.se
@@ -821,6 +837,7 @@
  survey.interquest.com
  survey.webstatus.v2.userneeds.dk
  svt.d3.sc.omtrdc.net
+ sync.go.sonobi.com
  sync.richaudience.com
  synchrobox.adswizz.com
  s-eu-1.pushpushgo.com
@@ -846,6 +863,7 @@
  tags.refinery89.com
  tags.smilewanted.com
  tags.webtraffic.se
+ tapet.bonniernews.se
  tb.de17a.com
  tcd.tourn.se
  telemetric.dk
@@ -871,6 +889,7 @@
  tracker-v4.gamedock.io
  tracking.adviralmedia.com
  tracking.bonnier.news
+ tracking.ditv.di.se
  tracking.eurosport.com
  tracking.inboxads.com
  tracking.missaffiliate.com
@@ -906,6 +925,7 @@
  w.sharethis.com
  w.usabilla.com
  wct-1.com
+ wct-2.com
  wdg.headerlift.com
  webbannons.ntm.eu
  webpower.eu
