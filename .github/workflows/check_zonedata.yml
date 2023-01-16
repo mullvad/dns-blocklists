@@ -11,7 +11,7 @@ jobs:
     steps:
     
     - name: Check out code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3.3.0
       
       # Needed to run the script
     - name: Install bind-utils
