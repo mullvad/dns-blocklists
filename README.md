@@ -23,11 +23,11 @@ We currently use these tracker blocklists with our service:
 - easylist-privacy: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
 - windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 - perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
-- telemetry-apple: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
-- telemetry-huawei: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
-- telemetry-samsung: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
-- telemetry-windows: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
-- telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
+- telemetry-apple: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+- telemetry-huawei: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+- telemetry-samsung: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+- telemetry-windows: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
+- telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
 
 ### Advertising
 
@@ -35,7 +35,7 @@ We currently use these advertising blocklists with our service:
 - oisd-basic: https://dbl.oisd.nl/basic/
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 
-### Adult content 
+### Adult content
 
 We currently use this Adult content blocklist for our service:
 - pornography-hosts: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts

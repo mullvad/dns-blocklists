@@ -1,62 +1,45 @@
 ---
-
-# Often blocklists contain these IPs. We want to remove them from our lists
 dns_blocklists_replace_address:
-  - '([0]{1,3}\.){3}[0]{1,3} '  # Beware of the necessary trailing whitespace!
-  - 'localhost '                # It is there to not match records like 1.2.3.4.domain.tld
-  - "127.0.0.1"
-  - '::1'
-
+  - "([0]{1,3}\\.){3}[0]{1,3} "
+  - "localhost "
+  - 127.0.0.1
+  - ::1
 dns_blocklists_exclude:
   - mullvad.net
-
 dns_blocklists_lists:
-  # The Basic list is a smaller, less comprehensive variant of the full list, which focussus mainly on Ads, (Mobile) App Ads
-  # https://oisd.nl/faq#basic
   - name: oisd-basic
     type: adblock
     url: https://dbl.oisd.nl/basic/
-
   - name: frellwits-swedish-hosts-file
     type: adblock
     url: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-  
   - name: blocklist-project
     type: gambling
     url: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
-  
   - name: easylist-privacy
     url: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
     type: privacy
-
   - name: windows-spy-blocker-spy
     url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
     type: privacy
-
   - name: perflyst-android-tracking
     url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
     type: privacy
-
   - name: telemetry-apple
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
     type: privacy
-
   - name: telemetry-huawei
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
     type: privacy
-
   - name: telemetry-samsung
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
     type: privacy
-
   - name: telemetry-windows
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
     type: privacy
-
   - name: telemetry-xiaomi
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
     type: privacy
-
   - name: pornography-hosts
     url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
     type: adult
