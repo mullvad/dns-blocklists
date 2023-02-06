@@ -37,24 +37,32 @@ dns_blocklists_lists:
     url: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
     type: privacy
 
+  - name: telemetry-alexa
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
+    type: privacy
+
   - name: telemetry-apple
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/apple
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
     type: privacy
 
   - name: telemetry-huawei
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/huawei
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
     type: privacy
 
   - name: telemetry-samsung
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/samsung
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+    type: privacy
+  
+  - name: telemetry-sonos
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
     type: privacy
 
   - name: telemetry-windows
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/windows
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
     type: privacy
 
   - name: telemetry-xiaomi
-    url: https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi
+    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
     type: privacy
 
   - name: pornography-hosts
