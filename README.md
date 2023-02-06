@@ -45,6 +45,12 @@ We currently use this Adult content blocklist for our service:
 We currently use these gambling blocklists with our service:
 - blocklist-project: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
 
+### Malware
+
+We currently use this malware content blocklist for our service:
+- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
+
+
 ## Pull requests / Issues / Updating block lists
 
 We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them.
