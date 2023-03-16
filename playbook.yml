@@ -47,11 +47,27 @@
         dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
+        label: "{{ item.1.name }}"
       register: _dns_blocklists_download_lists
       retries: 5
       delay: 10
       until: _dns_blocklists_download_lists is succeeded
+      when:
+        - item.1.url is defined
+        - not item.1.content is defined
+      tags: jb
+
+    - name: Create file with custom list content if defined
+      ansible.builtin.copy:
+        content: "{{ item.1.content }}"
+        dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}"
+      when:
+        - item.1.content is defined
+        - not item.1.url is defined
+      tags: jb
 
     - name: Run dos2unix on all lists
       ansible.builtin.command:
@@ -60,7 +76,7 @@
         warn: false
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
+        label: "{{ item.1.name }}"
       tags: dos2unix
 
     - name: Replace localhost and IP addresses in files
@@ -73,7 +89,7 @@
         - "{{ dns_blocklists_lists }}"
         - "{{ dns_blocklists_replace_address }}"
       loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
+        label: "{{ item.1.name }}"
 
     - name: Remove custom hosts localhost in files
       ansible.builtin.lineinfile:
@@ -82,7 +98,7 @@
         state: absent
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
+        label: "{{ item.1.name }}"
 
     - name: Remove comments from files
       ansible.builtin.lineinfile:
@@ -91,13 +107,15 @@
         state: absent
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
-        label: "{{ item.1.name }}: {{ item.1.url }}"
+        label: "{{ item.1.name }}"
 
     - name: Combine files into output
       ansible.builtin.assemble:
         src: "lists/{{ item.0 }}/{{ item.1.type }}"
         dest: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
+      loop_control:
+        label: "{{ item.1.name }}"
 
     - name: Remove whitespace at start of lines
       ansible.builtin.replace:
