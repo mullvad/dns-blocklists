@@ -22,7 +22,7 @@ The following lists are what we import to our service. You can find these define
 ### Trackers
 
 We currently use these tracker blocklists with our service:
-- easylist-privacy: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+- firebog-easylist-privacy: https://v.firebog.net/hosts/Easyprivacy.txt
 - windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 - perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 - telemetry-alexa: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
@@ -36,7 +36,7 @@ We currently use these tracker blocklists with our service:
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- oisd-basic: https://dbl.oisd.nl/basic/
+- oisd-small: https://dbl.oisd.nl/small/
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 
 ### Adult content 

@@ -13,9 +13,9 @@ dns_blocklists_exclude:
 dns_blocklists_lists:
   # The Basic list is a smaller, less comprehensive variant of the full list, which focussus mainly on Ads, (Mobile) App Ads
   # https://oisd.nl/faq#basic
-  - name: oisd-basic
+  - name: oisd-small
     type: adblock
-    url: https://dbl.oisd.nl/basic/
+    url: https://dbl.oisd.nl/small/
 
   - name: frellwits-swedish-hosts-file
     type: adblock
@@ -25,8 +25,8 @@ dns_blocklists_lists:
     type: gambling
     url: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
   
-  - name: easylist-privacy
-    url: https://justdomains.github.io/blocklists/lists/easyprivacy-justdomains.txt
+  - name: firebog-easylist-privacy
+    url: https://v.firebog.net/hosts/Easyprivacy.txt
     type: privacy
 
   - name: windows-spy-blocker-spy
