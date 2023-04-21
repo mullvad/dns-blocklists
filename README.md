@@ -4,6 +4,8 @@ This repository contains the Ansible playbook that we use to generate the ad and
 
 This is imported to our VPN servers frequently.
 
+We aim to update these lists on a weekly basis. You can view the latest update by selecting the commits to this repository.
+
 # Differences between VPN servers and DNS over TLS / HTTPS
 
 Please note that our DNS over TLS and DNS over HTTPS offerings only include ad blocking and tracker blocking.
