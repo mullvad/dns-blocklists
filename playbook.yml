@@ -72,8 +72,6 @@
     - name: Run dos2unix on all lists
       ansible.builtin.command:
         cmd: "dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-      args:
-        warn: false
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"

@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1681891300    ; serial
+                                        1682341000    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2139,6 +2139,7 @@ analytics.126.net IN CNAME .
 analytics.163.com IN CNAME .
 analytics-1.cavai.com IN CNAME .
 analytics2-3-meride-tv.akamaized.net IN CNAME .
+analytics2.dashboard.fingerprint.com IN CNAME .
 analytics2-meride-tv.akamaized.net IN CNAME .
 analytics.30m.com IN CNAME .
 analytics.aasaam.com IN CNAME .
@@ -3041,6 +3042,7 @@ blziha.intimissimi.com IN CNAME .
 bmcm.pw IN CNAME .
 b.medtronic.com IN CNAME .
 b.mibank.com IN CNAME .
+bmly.impots.gouv.fr IN CNAME .
 bmmncj.anacondastores.com IN CNAME .
 bmnr.pw IN CNAME .
 bmojjb.scienceinsport.com IN CNAME .
@@ -3189,6 +3191,7 @@ bvz5.destinia.com.tr IN CNAME .
 bwj4.hrhibiza.com IN CNAME .
 bwntyd.neuve-a.net IN CNAME .
 bxazdd.storynine.jp IN CNAME .
+bx-cloud.com IN CNAME .
 bxumze.buckscountycouriertimes.com IN CNAME .
 bxumze.dispatch.com IN CNAME .
 bxumze.jacksonville.com IN CNAME .
@@ -3313,6 +3316,7 @@ census.misterspex.nl IN CNAME .
 census.misterspex.no IN CNAME .
 census.misterspex.se IN CNAME .
 cfa.fidelity.com IN CNAME .
+c.fingerprint.com IN CNAME .
 cf.overblog.com IN CNAME .
 cfpwood.actonservice.com IN CNAME .
 cfsaze.retailmenot.com IN CNAME .
@@ -3383,6 +3387,7 @@ ckozwx.n11.com IN CNAME .
 ckpxtt.justfly.com IN CNAME .
 clamcelery.com IN CNAME .
 clammytree.com IN CNAME .
+clanker-events.squarespace.com IN CNAME .
 clarice.streema.com IN CNAME .
 clarity.ms IN CNAME .
 clarium.global.ssl.fastly.net IN CNAME .
@@ -5348,6 +5353,7 @@ events.shareably.net IN CNAME .
 events.sk.ht IN CNAME .
 events.splash-screen.net IN CNAME .
 events.split.io IN CNAME .
+events.squarespace.com IN CNAME .
 events-tracker.deliveroo.net IN CNAME .
 eventstream.dodopizza.com IN CNAME .
 event-stream.spot.im IN CNAME .
@@ -5563,6 +5569,7 @@ fp84rw0jinz7.blanc.ru IN CNAME .
 fpa-cdn.arstechnica.com IN CNAME .
 fpa-cdn.decrypt.co IN CNAME .
 fpa-events.decrypt.co IN CNAME .
+fpa.fingerprint.com IN CNAME .
 fpapi.io IN CNAME .
 fpaux.net IN CNAME .
 fpavx.net IN CNAME .
@@ -6039,6 +6046,7 @@ hk2d.tourismemauricie.com IN CNAME .
 hkhpnqciykaf.www.gamecamp.gg IN CNAME .
 hkj8.evobanco.com IN CNAME .
 hktracker.hankookilbo.com IN CNAME .
+hlms.ecologie.gouv.fr IN CNAME .
 hlqpie.waves.com IN CNAME .
 hlreoc.gonuldensevenler.com IN CNAME .
 hlsjel.engelvoelkers.com IN CNAME .
@@ -6115,7 +6123,6 @@ iazwzp.lyst.com IN CNAME .
 iberian.promo.skf.com IN CNAME .
 ibkups.rci.com IN CNAME .
 i.blinds.ca IN CNAME .
-icanhazip.com IN CNAME .
 icas.ikea.com IN CNAME .
 icas.ikea.net IN CNAME .
 icebergindigo.com IN CNAME .
@@ -6987,6 +6994,7 @@ longinglettuce.com IN CNAME .
 longingtrees.com IN CNAME .
 l.ooyala.com IN CNAME .
 lore.circulate.com IN CNAME .
+losslace.com IN CNAME .
 lovelydrum.com IN CNAME .
 lp3tdqle.com IN CNAME .
 lpa.idexpertscorp.com IN CNAME .
@@ -7484,6 +7492,8 @@ measure.ameblo.jp IN CNAME .
 measurecaption.com IN CNAME .
 measure.refinery89.com IN CNAME .
 meatydime.com IN CNAME .
+medaipvx.com IN CNAME .
+medaipxv.com IN CNAME .
 meddleplant.com IN CNAME .
 media.gotham.com IN CNAME .
 mediamathrdrt.com IN CNAME .
@@ -8490,6 +8500,7 @@ p2.danskebank.fi IN CNAME .
 p2.danskebank.no IN CNAME .
 p2.danskebank.se IN CNAME .
 p2r14.com IN CNAME .
+p7cloud.net IN CNAME .
 p8s.oxbowshop.com IN CNAME .
 p9jhxqlkmn.miniso.com.gr IN CNAME .
 pabxoe.olx.ua IN CNAME .
@@ -13368,7 +13379,6 @@ tracking.ecookie.fr IN CNAME .
 tracking.email-mandrill.pushd.com IN CNAME .
 tracking.emsmobile.de IN CNAME .
 tracking.engineering.cloud.seek.com.au IN CNAME .
-tracking.epicgames.com IN CNAME .
 tracking.erfahreneladies.de IN CNAME .
 tracking.escorts24.de IN CNAME .
 tracking.exklusivladies.de IN CNAME .
@@ -14336,6 +14346,7 @@ ulidoo.montblanc.com IN CNAME .
 ultraoranges.com IN CNAME .
 ultund.misterspex.nl IN CNAME .
 umami.wakarimasen.moe IN CNAME .
+um.contentstudio.io IN CNAME .
 unarmedindustry.com IN CNAME .
 unbecomingbikes.com IN CNAME .
 unbecominghall.com IN CNAME .
@@ -14783,6 +14794,7 @@ wpshsdk.com IN CNAME .
 wrapstretch.com IN CNAME .
 wreckvolcano.com IN CNAME .
 wren.condenastdigital.com IN CNAME .
+wrhv.education.gouv.fr IN CNAME .
 writewealth.com IN CNAME .
 wrongpotato.com IN CNAME .
 wryfinger.com IN CNAME .
