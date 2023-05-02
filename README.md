@@ -1,4 +1,4 @@
-# dns-adblock
+# dns-blocklists
 
 This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
 
