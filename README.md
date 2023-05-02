@@ -1,16 +1,23 @@
 # dns-adblock
 
-This repository contains the Ansible playbook that we use to generate the ad and tracker blocking files for our DNS over TLS / DNS over HTTPS, and VPN server __(also known as VPN relay)__ based DNS blocking.
+This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
 
 This is imported to our VPN servers frequently.
 
 We aim to update these lists on a weekly basis. You can view the latest update by selecting the commits to this repository.
 
-# Differences between VPN servers and DNS over TLS / HTTPS
+# Using Encrypted DNS on Apple Devices
 
-Please note that our DNS over TLS and DNS over HTTPS offerings only include ad blocking and tracker blocking.
+For convenience we have Apple configuration profiles (.mobileconfig) signed for simpler "one-click installation", or MDM management.
 
-There will be improvements to add parity between the lists in the future. 
+These are available here: https://github.com/mullvad/encrypted-dns-profiles
+
+# Differences between VPN servers and Encrypted DNS
+
+Please note that our Encrypted DNS service includes different hostnames for each option. We currently offer the following:
+- Base: This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
+- Ad-block: This includes Ad-blocking, Tracker and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
+- Extended: This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
 
 Note that social media block lists are **not** available on our VPN server block lists, they are **only** available on the Encrypted DNS service.
 
@@ -18,7 +25,7 @@ Note that social media block lists are **not** available on our VPN server block
 
 The following lists are what we import to our service. You can find these defined in `inventory/group_vars` for the server type you wish to view.
 
-- `doh`: DNS over HTTPS / DNS over TLS
+- `doh`: Encrypted DNS servers
 - `relay`: VPN servers (relays)
 
 ### Trackers
@@ -53,7 +60,9 @@ We currently use these gambling blocklists with our service:
 
 ### Social media
 
-We currently generate our own Social media blocklists. You can find all the URLs in `inventory/group_vars/all.yml`
+We currently generate our own Social media blocklists for the Encrypted DNS service, not VPN servers.
+
+You can find all the URLs in `inventory/group_vars/all.yml`
 
 ### Malware
 
@@ -69,7 +78,7 @@ We prefer to not block individual custom URLs or add block lists without them be
 
 If we close your issue or reject your request, it is most likely down to us not having a way of verifying that the block list is trustworthy.
 
-# Custom DNS entries
+# Custom DNS entries for use with our VPN service
 
 The following is a list of all the IP addresses we use for our DNS based blocking.
 
@@ -123,11 +132,13 @@ The following steps are useful only if you wish to build the lists yourself.
 The output files located in `output/relay/` are what are imported onto our VPN servers.
 
 ## Requirements
-- Ansible Core 2.12.x =<
+- Ansible Core 2.14.x =<
+- Qubes OS
 
 ## Step by step
 
   - Ensure the values in `group_vars/<group>.yml` are up to date with any block lists
+  - Ensure the script in scripts/generate_social_blocklists.sh has been run in a Disposible VM (dispVM) with the output qvm-copied to inventory/group_vars
   - Ensure you have added any 'custom' extra lists or websites to block
   - Run the playbook to generate the lists:
     - `ansible-playbook -i inventory/ playbook.yml`
