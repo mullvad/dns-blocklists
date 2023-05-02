@@ -15,9 +15,18 @@ These are available here: https://github.com/mullvad/encrypted-dns-profiles
 # Differences between VPN servers and Encrypted DNS
 
 Please note that our Encrypted DNS service includes different hostnames for each option. We currently offer the following:
-- Base: This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
-- Ad-block: This includes Ad-blocking, Tracker and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
-- Extended: This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
+- Base:
+  - This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
+  - TLS: dns.mullvad.net
+  - HTTPS: https://dns.mullvad.net/dns-query
+- Ad-block:
+  - This includes Ad-blocking, Tracker and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: adblock.dns.mullvad.net
+  - HTTPS: https://adblock.dns.mullvad.net/dns-query
+- Extended:
+  - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: extended.dns.mullvad.net
+  - HTTPS: https://extended.dns.mullvad.net/dns-query
 
 Note that social media block lists are **not** available on our VPN server block lists, they are **only** available on the Encrypted DNS service.
 
