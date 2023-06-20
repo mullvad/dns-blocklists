@@ -54,7 +54,7 @@ We currently use these tracker blocklists with our service:
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- oisd-small: https://dbl.oisd.nl/small/
+- oisd-small: https://small.oisd.nl/rpz
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
 

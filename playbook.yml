@@ -26,14 +26,14 @@
 
     - name: Ensure output files are cleared
       ansible.builtin.file:
-        dest: "output/{{ item.0 }}"
+        dest: output/{{ item.0 }}
         state: "{{ item.1 }}"
       loop: "{{ group_names | product(['absent', 'directory']) | list }}"
 
     - name: Ensure files are present locally
       ansible.builtin.file:
         state: "{{ item.1 }}"
-        path: "lists/{{ item.0 }}/{{ item.2.type }}"
+        path: lists/{{ item.0 }}/{{ item.2.type }}
       with_nested:
         - "{{ group_names }}"
         - ['absent', 'directory']
@@ -44,7 +44,7 @@
     - name: Download latest lists
       ansible.builtin.get_url:
         url: "{{ item.1.url }}"
-        dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        dest: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
@@ -55,23 +55,21 @@
       when:
         - item.1.url is defined
         - not item.1.content is defined
-      tags: jb
 
     - name: Create file with custom list content if defined
       ansible.builtin.copy:
         content: "{{ item.1.content }}"
-        dest: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        dest: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
       when:
         - item.1.content is defined
         - not item.1.url is defined
-      tags: jb
 
     - name: Run dos2unix on all lists
       ansible.builtin.command:
-        cmd: "dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        cmd: dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
@@ -79,7 +77,7 @@
 
     - name: Replace localhost and IP addresses in files
       ansible.builtin.replace:
-        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
         regexp: "{{ item.2 }}"
         replace: ''
       with_nested:
@@ -91,7 +89,7 @@
 
     - name: Remove custom hosts localhost in files
       ansible.builtin.lineinfile:
-        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
+        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
         regexp: ' localhost'
         state: absent
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
@@ -100,17 +98,27 @@
 
     - name: Remove comments from files
       ansible.builtin.lineinfile:
-        path: "lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}"
-        regexp: '#'
+        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
+        regexp: '^{{ item.2 }}'
         state: absent
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
+      with_nested:
+        - "{{ group_names }}"
+        - "{{ dns_blocklists_lists }}"
+        - "{{ _comments }}"
+      vars:
+        _comments:
+          - "#"
+          - ";"
+          - "$"
+          - "@"
+          - '\$TTL'
       loop_control:
         label: "{{ item.1.name }}"
 
     - name: Combine files into output
       ansible.builtin.assemble:
-        src: "lists/{{ item.0 }}/{{ item.1.type }}"
-        dest: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        src: lists/{{ item.0 }}/{{ item.1.type }}
+        dest: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
@@ -126,15 +134,22 @@
     # Prevent out of zone errors caused by trailing periods
     - name: Remove full stops at the end of lines
       ansible.builtin.replace:
-        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
-        regexp: '\.$'
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
+        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
+        regexp: '{{ item.2 }}'
+      with_nested:
+        - "{{ group_names }}"
+        - "{{ dns_blocklists_lists }}"
+        - "{{ _eol }}"
+      vars:
+        _eol:
+          - 'CNAME .$'
+          - '\.$'
       loop_control:
         label: "{{ item.1.name }}"
 
     - name: Replace whitespace with new line
       ansible.builtin.replace:
-        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
         regexp: ' '
         replace: '\n'
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
@@ -143,7 +158,7 @@
 
     - name: Remove empty lines
       ansible.builtin.lineinfile:
-        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
         regexp: '^\n'
         state: absent
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
@@ -152,7 +167,7 @@
 
     - name: Remove URLs in our whitelist
       ansible.builtin.lineinfile:
-        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
+        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
         state: absent
         regexp: "{{ item.2 }}"
       loop: "{{ group_names | product(dns_blocklists_lists, dns_blocklists_exclude) | list }}"

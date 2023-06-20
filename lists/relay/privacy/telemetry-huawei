@@ -6,14 +6,12 @@ datacollector-dre.dt.dbankcloud.cn
 datacollector-dre.dt.hicloud.com
 datacollector-drru.dt.dbankcloud.ru
 datacollector-drru.dt.hicloud.com
-
 grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
 grs.hicloud.com
 grs.platform.dbankcloud.ru
-
 metrics-dra.dt.dbankcloud.cn
 metrics-dra.dt.hicloud.com
 metrics-drcn.dt.hicloud.com
@@ -31,7 +29,6 @@ metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 metrics5.dt.dbankcloud.ru
 metrics6.dt.hicloud.com
-
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.dbankcloud.cn
 logservice-dre.platform.hicloud.com

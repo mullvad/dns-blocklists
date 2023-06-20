@@ -15,7 +15,7 @@ dns_blocklists_lists:
   # https://oisd.nl/faq#basic
   - name: oisd-small
     type: adblock
-    url: https://dbl.oisd.nl/small/
+    url: https://small.oisd.nl/rpz
 
   - name: frellwits-swedish-hosts-file
     type: adblock
