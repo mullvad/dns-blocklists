@@ -41,7 +41,6 @@ The following lists are what we import to our service. You can find these define
 
 We currently use these tracker blocklists with our service:
 - firebog-easylist-privacy: https://v.firebog.net/hosts/Easyprivacy.txt
-- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 - perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 - telemetry-alexa: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
 - telemetry-apple: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
@@ -50,13 +49,14 @@ We currently use these tracker blocklists with our service:
 - telemetry-sonos: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
 - telemetry-windows: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 - telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- oisd-small: https://small.oisd.nl/rpz
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
+- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+- oisd-small: https://small.oisd.nl/rpz
 
 ### Adult content 
 

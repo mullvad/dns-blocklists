@@ -16,9 +16,11 @@
         dest: README.md
       tags: readme
 
-    - name: Install dos2unix
+    - name: Install dos2unix and bind-utils
       ansible.builtin.dnf:
-        name: dos2unix
+        name:
+          - dos2unix
+          - bind-utils
         state: present
       become_user: root
       become: true
@@ -73,7 +75,6 @@
       loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
       loop_control:
         label: "{{ item.1.name }}"
-      tags: dos2unix
 
     - name: Replace localhost and IP addresses in files
       ansible.builtin.replace:
@@ -83,7 +84,14 @@
       with_nested:
         - "{{ group_names }}"
         - "{{ dns_blocklists_lists }}"
-        - "{{ dns_blocklists_replace_address }}"
+        - "{{ _dns_blocklists_replace_address }}"
+      vars:
+        # Often blocklists contain these IPs. We want to remove them from our lists
+        _dns_blocklists_replace_address:
+          - '([0]{1,3}\.){3}[0]{1,3} '  # Beware of the necessary trailing whitespace!
+          - 'localhost '                # It is there to not match records like 1.2.3.4.domain.tld
+          - "127.0.0.1"
+          - '::1'
       loop_control:
         label: "{{ item.1.name }}"
 
@@ -96,7 +104,7 @@
       loop_control:
         label: "{{ item.1.name }}"
 
-    - name: Remove comments from files
+    - name: Remove unused lines from files
       ansible.builtin.lineinfile:
         path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
         regexp: '^{{ item.2 }}'
@@ -114,6 +122,13 @@
           - '\$TTL'
       loop_control:
         label: "{{ item.1.name }}"
+
+    - name: Replace comments with ' ' from all lines 
+      ansible.builtin.replace:
+        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
+        regexp: '#.*$'
+        replace: ''
+      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
 
     - name: Combine files into output
       ansible.builtin.assemble:
@@ -165,14 +180,17 @@
       loop_control:
         label: "{{ item.1.name }}"
 
-    - name: Remove URLs in our whitelist
+    - name: Ensure mullvad.net is not included in any output file
       ansible.builtin.lineinfile:
         path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
         state: absent
         regexp: "{{ item.2 }}"
-      loop: "{{ group_names | product(dns_blocklists_lists, dns_blocklists_exclude) | list }}"
+      loop: "{{ group_names | product(dns_blocklists_lists, _dns_blocklists_exclude) | list }}"
       loop_control:
         label: "{{ item.2 }}"
+      vars:
+        _dns_blocklists_exclude:
+          - mullvad.net
 
 
 - name: Build zonefiles
@@ -181,64 +199,53 @@
   tags: zonefile
   connection: local
   gather_facts: true
+  run_once: true
 
   tasks:
 
-    - run_once: true
-      delegate_to: localhost
-      block:
+    - name: Find output files
+      ansible.builtin.find:
+        paths: ./output
+        recurse: true
+        use_regex: true
+        patterns: ".*.txt$"   # Find raw output files
+        excludes: ".*.zone$"  # Ignore existing zonefiles
+      register: _output_files
 
-        - name: Ensure bind-utils is installed
-          ansible.builtin.dnf:
-            name: bind-utils
-            state: present
-          become_user: root
-          become: true
-          when: ansible_distribution == 'Fedora'
+    - name: Read output files
+      ansible.builtin.slurp:
+        path: "{{ item }}"
+      register: _output_files_slurp
+      loop: "{{ _output_files.files | map(attribute='path') }}"
 
-        - name: Find output files
-          ansible.builtin.find:
-            paths: ./output
-            recurse: true
-            use_regex: true
-            patterns: ".*.txt$"   # Find raw output files
-            excludes: ".*.zone$"  # Ignore existing zonefiles
-          register: _output_files
-
-        - name: Read output files
-          ansible.builtin.slurp:
-            path: "{{ item }}"
-          register: _output_files_slurp
-          loop: "{{ _output_files.files | map(attribute='path') }}"
-
-        - name: Generate zone files
-          ansible.builtin.copy:
-            content: |
-              $TTL 3600
-              ;namn   ttl     adr-    entry-  origin
-              ;               klass   typ
-              ;------------------------------------------------------------------------------
-              @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                                      {{ now(fmt='%s') }}    ; serial
-                                                      86400         ; refresh
-                                                      7200          ; retry
-                                                      2592000       ; expire
-                                                      3600 )        ; ttl
-                                      IN      NS      localhost.
-              ;------------------------------------------------------------------------------
-              {% for domain in _file_content.split('\n') %}
-              {% if domain | length %}
-              {{ domain }} IN CNAME .
-              {% endif %}
-              {% endfor %}
-            dest: "{{ _output_path }}"
-            validate: named-checkzone _ %s
-          vars:
-            _filename_full: "{{ item.source.split('/')[-1] }}"          # relay_adblock.txt
-            _filename_short: "{{ _filename_full.split('.') | first }}"  # relay_adblock
-            _directory: "{{ item.source.split('/')[:-1] | join('/') }}" # output/relay
-            _output_path: "{{ _directory }}/{{ _filename_short }}.zone" # output/relay/relay_adblock.zone
-            _file_content: "{{ item.content | b64decode }}"
-          loop: "{{ _output_files_slurp.results }}"
-          loop_control:
-            label: "{{ _output_path }}"
+    - name: Generate zone files
+      ansible.builtin.copy:
+        content: |
+          $TTL 3600
+          ;namn   ttl     adr-    entry-  origin
+          ;               klass   typ
+          ;------------------------------------------------------------------------------
+          @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
+                                                  {{ now(fmt='%s') }}    ; serial
+                                                  86400         ; refresh
+                                                  7200          ; retry
+                                                  2592000       ; expire
+                                                  3600 )        ; ttl
+                                  IN      NS      localhost.
+          ;------------------------------------------------------------------------------
+          {% for domain in _file_content.split('\n') %}
+          {% if domain | length %}
+          {{ domain }} IN CNAME .
+          {% endif %}
+          {% endfor %}
+        dest: "{{ _output_path }}"
+        validate: named-checkzone _ %s
+      vars:
+        _filename_full: "{{ item.source.split('/')[-1] }}"          # relay_adblock.txt
+        _filename_short: "{{ _filename_full.split('.') | first }}"  # relay_adblock
+        _directory: "{{ item.source.split('/')[:-1] | join('/') }}" # output/relay
+        _output_path: "{{ _directory }}/{{ _filename_short }}.zone" # output/relay/relay_adblock.zone
+        _file_content: "{{ item.content | b64decode }}"
+      loop: "{{ _output_files_slurp.results }}"
+      loop_control:
+        label: "{{ _output_path }}"
