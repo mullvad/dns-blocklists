@@ -23,10 +23,18 @@ Please note that our Encrypted DNS service includes different hostnames for each
   - This includes Ad-blocking and Tracker blocking for TLS and HTTPS. The lists are what are found in this repository.
   - TLS: adblock.dns.mullvad.net
   - HTTPS: https://adblock.dns.mullvad.net/dns-query
+- Base:
+  - This includes Ad-blocking, Tracker, and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: base.dns.mullvad.net
+  - HTTPS: https://base.dns.mullvad.net/dns-query  
 - Extended:
   - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
   - TLS: extended.dns.mullvad.net
   - HTTPS: https://extended.dns.mullvad.net/dns-query
+- All:
+  - This includes Ad-blocking, Tracker, Malware, Adult content, Gambling and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: all.dns.mullvad.net
+  - HTTPS: https://all.dns.mullvad.net/dns-query
 
 Note that social media block lists are **not** available on our VPN server block lists, they are **only** available on the Encrypted DNS service.
 
@@ -41,6 +49,7 @@ The following lists are what we import to our service. You can find these define
 
 We currently use these tracker blocklists with our service:
 - firebog-easylist-privacy: https://v.firebog.net/hosts/Easyprivacy.txt
+- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 - perflyst-android-tracking: https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 - telemetry-alexa: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
 - telemetry-apple: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
@@ -49,14 +58,13 @@ We currently use these tracker blocklists with our service:
 - telemetry-sonos: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
 - telemetry-windows: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 - telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
-- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
 ### Advertising
 
 We currently use these advertising blocklists with our service:
-- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - oisd-small: https://small.oisd.nl/rpz
+- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
 
 ### Adult content 
 
