@@ -241,6 +241,7 @@
  ccjnhnqfnvsr3otokvf59ns52.litix.io
  cd.connatix.com
  cdn.adfenix.com
+ cdn.adligature.com
  cdn.adnuntius.com
  cdn.adpushup.com
  cdn.adspirit.de
@@ -445,6 +446,7 @@
  etc-cdn-staging.ams3.digitaloceanspaces.com
  eteppy.com
  eu2.madsone.com
+ eum.instana.io
  europe-west1-bonnier-big-data.cloudfunctions.net
  eus.rubiconproject.com
  eu.npario-inc.net
@@ -494,6 +496,7 @@
  graphics.adrecord.com
  greatstoryvideo.se
  gtm.findroommate.dk
+ gtm.proff.se
  gwen.insertcoin.se
  gymsharksverige.com.se
  gym-shark-sverige.com.se
@@ -544,6 +547,7 @@
  izooto.com
  jackwolfskinsverige.com.se
  js.appboycdn.com
+ js.datadome.co
  js.glitnoraffiliates.com
  js.hsadspixel.net
  js.hsleadflows.net
@@ -895,6 +899,7 @@
  stats.kaltura.com
  stats.playoncenter.com
  stats.poddtoppen.se
+ stats.proff.se
  stats.tipser.com
  stats.userneeds.com
  stats.wpmucdn.com
@@ -913,9 +918,11 @@
  sync.go.sonobi.com
  sync.richaudience.com
  synchrobox.adswizz.com
+ system-notify.app
  s-eu-1.pushpushgo.com
  s.go-mpulse.net
  s.vi-serve.com
+ t.atmng.io
  t.contentinsights.com
  t.elasticsuite.io
  t.fml.rip
@@ -924,6 +931,8 @@
  t.raptorsmartadvisor.com
  t0.extreme-dm.com
  t1.extreme-dm.com
+ tag.aticdn.net
+ tag.heylink.com
  tag.imonomy.com
  tag.targeting.unrulymedia.com
  tagging-service.fotbollskanalen.se
@@ -978,6 +987,48 @@
  tracking.ditv.di.se
  tracking.di.se
  tracking.dn.se
+ tracking.etidning.allehanda.se
+ tracking.etidning.arbetarbladet.se
+ tracking.etidning.avestatidning.com
+ tracking.etidning.bblat.se
+ tracking.etidning.borlangetidning.se
+ tracking.etidning.dalademokraten.se
+ tracking.etidning.di.se
+ tracking.etidning.dn.se
+ tracking.etidning.falkopingstidning.se
+ tracking.etidning.falukuriren.se
+ tracking.etidning.gd.se
+ tracking.etidning.hd.se
+ tracking.etidning.ht.se
+ tracking.etidning.jp.se
+ tracking.etidning.ljusdalsposten.se
+ tracking.etidning.ljusnan.se
+ tracking.etidning.ltz.se
+ tracking.etidning.lt.se
+ tracking.etidning.moratidning.se
+ tracking.etidning.na.se
+ tracking.etidning.norrteljetidning.se
+ tracking.etidning.nyaludvikatidning.se
+ tracking.etidning.nynashamnsposten.se
+ tracking.etidning.op.se
+ tracking.etidning.salaallehanda.com
+ tracking.etidning.skaraborgslanstidning.se
+ tracking.etidning.skd.se
+ tracking.etidning.skovdenyheter.se
+ tracking.etidning.smalandsdagblad.se
+ tracking.etidning.smalanningen.se
+ tracking.etidning.smt.se
+ tracking.etidning.soderhamnskuriren.se
+ tracking.etidning.sodran.se
+ tracking.etidning.st.nu
+ tracking.etidning.sydsvenskan.se
+ tracking.etidning.tidningenangermanland.se
+ tracking.etidning.tidningenharjedalen.se
+ tracking.etidning.tranastidning.se
+ tracking.etidning.vastgotabladet.se
+ tracking.etidning.vetlandaposten.se
+ tracking.etidning.vlt.se
+ tracking.etidning.vn.se
  tracking.eurosport.com
  tracking.falkopingstidning.se
  tracking.falukuriren.se
@@ -986,6 +1037,7 @@
  tracking.gd.se
  tracking.hd.se
  tracking.ht.se
+ tracking.illvet.se
  tracking.inboxads.com
  tracking.jnytt.se
  tracking.jp.se
@@ -1023,6 +1075,7 @@
  tracking.visitorsvoice.com
  tracking.vlt.se
  tracking.vn.se
+ tracking.etidning.fagersta-posten.se
  tracking.fagersta-posten.se
  traffic.feedremedy.com
  trafficgateway.research-int.se
