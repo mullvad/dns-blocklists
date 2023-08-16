@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1692081239    ; serial
+                                        1692180903    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -21660,7 +21660,6 @@ www.passie.nl IN CNAME .
 www.passion.com IN CNAME .
 www.passionaccess.com IN CNAME .
 www.patientsrevenge.com IN CNAME .
-www.patreon.com IN CNAME .
 www.paulsnetwork.com IN CNAME .
 www.payserve.com IN CNAME .
 www.paysitesreviews.net IN CNAME .

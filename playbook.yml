@@ -191,6 +191,7 @@
       vars:
         _dns_blocklists_exclude:
           - mullvad.net
+          - www.patreon.com # until https://github.com/Sinfonietta/hostfiles/issues/253 is resolved
 
 
 - name: Build zonefiles
