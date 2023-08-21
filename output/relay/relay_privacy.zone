@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1692180904    ; serial
+                                        1692596794    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4968,6 +4968,7 @@ d1rgnfh960lz2b.cloudfront.net IN CNAME .
 d1ros97qkrwjf5.cloudfront.net IN CNAME .
 d1t9uctetvi0tu.cloudfront.net IN CNAME .
 d1tbj6eaenapdy.cloudfront.net IN CNAME .
+d1vg5xiq7qffdj.cloudfront.net IN CNAME .
 d1wix2gc2cgqis.cloudfront.net IN CNAME .
 d1xfq2052q7thw.cloudfront.net IN CNAME .
 d1yu67rmchodpo.cloudfront.net IN CNAME .
@@ -6161,6 +6162,7 @@ emails.foodnetwork.com IN CNAME .
 emails.hgtv.com IN CNAME .
 emails.investigationdiscovery.com IN CNAME .
 emails.motortrend.com IN CNAME .
+emailsnow.info IN CNAME .
 email.social.avasecurity.com IN CNAME .
 email.social.f5.com IN CNAME .
 email.social.qualtrics.com IN CNAME .
@@ -10810,6 +10812,7 @@ minerva.healthcentral.com IN CNAME .
 minormeeting.com IN CNAME .
 minuterhythm.com IN CNAME .
 m.ioicommunity.com.my IN CNAME .
+mirabelanalytics.com IN CNAME .
 miscreantmine.com IN CNAME .
 miscreantmoon.com IN CNAME .
 missionhq.astadia.com IN CNAME .
@@ -12015,6 +12018,7 @@ plausible.reactpreview.com IN CNAME .
 plausible.redchamp.net IN CNAME .
 plausible.regex.help IN CNAME .
 plausible.riok.ch IN CNAME .
+plausible.ripped.guide IN CNAME .
 plausible.safing.io IN CNAME .
 plausible.sbw.org IN CNAME .
 plausible.shadygrovepca.org IN CNAME .
@@ -17105,6 +17109,7 @@ st.newyorklifeinvestments.com IN CNAME .
 st-nlyss1.plala.or.jp IN CNAME .
 st.nylinvestments.com IN CNAME .
 stockingsneeze.com IN CNAME .
+stomachscience.com IN CNAME .
 st.onemazdausa.com IN CNAME .
 stopthink.onefamilyadviser.com IN CNAME .
 storea8tracking.alc.co.jp IN CNAME .
