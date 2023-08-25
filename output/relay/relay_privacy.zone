@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1692596794    ; serial
+                                        1692951991    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2286,6 +2286,7 @@ advancing.acams.org IN CNAME .
 advantage.digitalsunray.com IN CNAME .
 advantages.americanexpress.com IN CNAME .
 adv.drtuber.com IN CNAME .
+adventurousamount.com IN CNAME .
 advertisementafterthought.com IN CNAME .
 advise.gallup.com IN CNAME .
 advisorservices.etradefinancial.com IN CNAME .
@@ -3303,6 +3304,7 @@ audio-ak-spotify-com.akamaized.net.iberostar.com IN CNAME .
 audioarctic.com IN CNAME .
 audit.303br.net IN CNAME .
 audit.median.hu IN CNAME .
+audit.qiuwen.net.cn IN CNAME .
 audit.shaa.it IN CNAME .
 audsoa.narumiya-online.jp IN CNAME .
 auforex.americanexpress.com IN CNAME .
@@ -4960,6 +4962,7 @@ d1gp8joe0evc8s.cloudfront.net IN CNAME .
 d1k8sb4xbepqao.cloudfront.net IN CNAME .
 d1m6l9dfulcyw7.cloudfront.net IN CNAME .
 d1n00d49gkbray.cloudfront.net IN CNAME .
+d1qnmu4nrib73p.cloudfront.net IN CNAME .
 d1qpxk1wfeh8v1.cloudfront.net IN CNAME .
 d1r27qvpjiaqj3.cloudfront.net IN CNAME .
 d1r2sy6oc0ariq.cloudfront.net IN CNAME .
@@ -9319,6 +9322,7 @@ log.codemarketing.cloud IN CNAME .
 log.cognex.com IN CNAME .
 log.cookieyes.com IN CNAME .
 log.cpex.cz IN CNAME .
+log.dpa.com IN CNAME .
 log.ecgh.dk IN CNAME .
 log.etoday.co.kr IN CNAME .
 log.flight.qunar.com IN CNAME .
@@ -11999,6 +12003,7 @@ plausible.lesbianromantic.com IN CNAME .
 plausible.mattpruitt.com IN CNAME .
 plausible.mcj.co IN CNAME .
 plausible.moncefbelyamani.com IN CNAME .
+plausible.motorpresse.de IN CNAME .
 plausible.myvirtualsuper.com IN CNAME .
 plausible.nickmazuk.com IN CNAME .
 plausible.nova.app IN CNAME .
@@ -12114,6 +12119,7 @@ pol3.cheque-domicile.fr IN CNAME .
 polhvf.bootbarn.com IN CNAME .
 politegoldfish.com IN CNAME .
 politeplanes.com IN CNAME .
+politicalporter.com IN CNAME .
 ponyo.cheriefm.fr IN CNAME .
 pool.onjoyri.de IN CNAME .
 pop3.happ.social IN CNAME .
@@ -12277,7 +12283,6 @@ ptrenx.vidaxl.com.au IN CNAME .
 ptsc.shoplocal.com IN CNAME .
 ptw-i.actonservice.com IN CNAME .
 p.typekit.net IN CNAME .
-pubgw.yahoo.com IN CNAME .
 publicidad.daviviendaintl.com IN CNAME .
 publicschoolworks.actonservice.com IN CNAME .
 publish.tagstorm.com IN CNAME .
@@ -18236,13 +18241,16 @@ tracker.nbcuas.com IN CNAME .
 tracker.nitropay.com IN CNAME .
 tracker.novage.com.ua IN CNAME .
 tracker.openwebtorrent.com IN CNAME .
+tracker.prom.ua IN CNAME .
 tracker.providence.org IN CNAME .
 tracker.publico.pt IN CNAME .
 tracker.ranker.com IN CNAME .
 tracker-rec.smart-bdash.com IN CNAME .
 tracker.roitesting.com IN CNAME .
 tracker.services.vaix.ai IN CNAME .
+tracker.shanon-services.com IN CNAME .
 tracker.shopclues.com IN CNAME .
+tracker.smartseminar.jp IN CNAME .
 tracker.softcube.com IN CNAME .
 tracker.ssl0d.com IN CNAME .
 tracker.stileo.it IN CNAME .

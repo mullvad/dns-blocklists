@@ -180,7 +180,7 @@
       loop_control:
         label: "{{ item.1.name }}"
 
-    - name: Ensure mullvad.net is not included in any output file
+    - name: Ensure excluded URLS are not included in any output file
       ansible.builtin.lineinfile:
         path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
         state: absent
@@ -192,6 +192,8 @@
         _dns_blocklists_exclude:
           - mullvad.net
           - www.patreon.com # until https://github.com/Sinfonietta/hostfiles/issues/253 is resolved
+          - youngsexgalore.com # until https://github.com/Sinfonietta/hostfiles/issues/256 is resolved
+          - xxxindianhub.com # until https://github.com/Sinfonietta/hostfiles/issues/256 is resolved
 
 
 - name: Build zonefiles
