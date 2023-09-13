@@ -71,7 +71,7 @@ We currently use these advertising blocklists with our service:
 ### Adult content 
 
 We currently use this Adult content blocklist for our service:
-- pornography-hosts: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+- oisd-nsfw: https://nsfw.oisd.nl/rpz
 
 ### Gambling
 

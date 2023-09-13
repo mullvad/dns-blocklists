@@ -59,8 +59,8 @@ dns_blocklists_lists:
     url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
     type: privacy
 
-  - name: pornography-hosts
-    url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+  - name: oisd-nsfw
+    url: https://nsfw.oisd.nl/rpz
     type: adult
 
   - name: mullvad-social-blocklist
