@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1694596740    ; serial
+                                        1695017220    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2552,6 +2552,7 @@ analytics.buoyweather.com IN CNAME .
 analytics.carambatv.ru IN CNAME .
 analytics.carambo.la IN CNAME .
 analytics.carbaselive.com IN CNAME .
+analytics.cdn112.com IN CNAME .
 analytics.ceneo.pl IN CNAME .
 analytics.certifriedit.com IN CNAME .
 analytics.chase.com IN CNAME .
@@ -12198,6 +12199,7 @@ pool.onjoyri.de IN CNAME .
 pop3.happ.social IN CNAME .
 popcornfood.com IN CNAME .
 po.ponant.com IN CNAME .
+popup-static.unisender.com IN CNAME .
 porpoise.azettl.net IN CNAME .
 portal.dcgone.com IN CNAME .
 portal.krollontrack.co.uk IN CNAME .
@@ -15939,6 +15941,7 @@ sparklingnumber.com IN CNAME .
 sparklingshelf.com IN CNAME .
 spark.thelyst.com IN CNAME .
 s.parrysound.com IN CNAME .
+spa-tracker.spapi.io IN CNAME .
 sp.aviasales.com IN CNAME .
 sp.aviasales.ru IN CNAME .
 sp.cargurus.co.uk IN CNAME .
