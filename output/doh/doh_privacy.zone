@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1695017199    ; serial
+                                        1695276996    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2812,6 +2812,7 @@ analytics.villagehouse.jp IN CNAME .
 analytics.virginaustralia.com IN CNAME .
 analytics.wavebox.io IN CNAME .
 analytics.wayland.app IN CNAME .
+analytics-wcms.joins.net IN CNAME .
 analytics.webgains.io IN CNAME .
 analytics.webpushr.com IN CNAME .
 analytics.websolute.it IN CNAME .
@@ -2878,6 +2879,7 @@ aod.echovisuals.com IN CNAME .
 ao-freegeoip.herokuapp.com IN CNAME .
 a.oney.es IN CNAME .
 aoohaq.micromania.fr IN CNAME .
+a.opumo.net IN CNAME .
 aoqcqh.eavalyne.lt IN CNAME .
 aorta.clickagy.com IN CNAME .
 apac.adpinfo.com IN CNAME .
@@ -2904,6 +2906,7 @@ api.digitalpiloten.org IN CNAME .
 api.dt.gl IN CNAME .
 api.elliehuxtable.com IN CNAME .
 api.fuck.education IN CNAME .
+api-hotmart-tracking-manager.hotmart.com IN CNAME .
 api-js.mixpanel.com IN CNAME .
 a.pikabu.ru IN CNAME .
 api.nobeta.com.br IN CNAME .
@@ -3233,6 +3236,7 @@ artemis-cdn.ocdn.eu IN CNAME .
 artis.indonesiya.com IN CNAME .
 artistchristinacarmel.ericksonbuilt.com IN CNAME .
 artpainting.indonesiya.com IN CNAME .
+as3.io IN CNAME .
 asamgd.rossmann.de IN CNAME .
 a.sami.se IN CNAME .
 as.balluff.com IN CNAME .
@@ -3395,6 +3399,7 @@ b1tow9h4erpw.anur.polymerdev.com IN CNAME .
 b20p6lt350nt.app.polymersearch.com IN CNAME .
 b536mpmxoqxa.www.themoneytizer.com IN CNAME .
 b5j6itccyluq.nofluffjobs.com IN CNAME .
+b629.electronicdesign.com IN CNAME .
 b73c.pandasuite.io IN CNAME .
 b7tp47v2nb3x-a.akamaihd.net IN CNAME .
 bablace.com IN CNAME .
@@ -3453,6 +3458,7 @@ b.chme.io IN CNAME .
 bclicks.lyst.com IN CNAME .
 bc.marfeelcache.com IN CNAME .
 bc.nhk.jp IN CNAME .
+bc.qunar.com IN CNAME .
 bc.semwerkt.nl IN CNAME .
 bcsjcj.nasdaq.com IN CNAME .
 bdj5.terrassesmontecarlosbm.com IN CNAME .
@@ -6637,7 +6643,6 @@ feedme.use-beez.com IN CNAME .
 fek1.fnactickets.com IN CNAME .
 feldman.net.anwalt.de IN CNAME .
 f-emc.ngsp.gov.vn IN CNAME .
-fenix.walkerllaw.org IN CNAME .
 fetch.gethuan.com IN CNAME .
 fewjuice.com IN CNAME .
 ffbbbdc6d3c353211fe2ba39c9f744cd.com IN CNAME .
@@ -7703,6 +7708,7 @@ id5-sync.com IN CNAME .
 idbkfy.kango-roo.com IN CNAME .
 iddu1vvb7sk8-a.akamaihd.net IN CNAME .
 i.degoo.com IN CNAME .
+identification.hotmart.com IN CNAME .
 i-dev.villa.ge IN CNAME .
 idg1.idgarages.com IN CNAME .
 idianw.warmteservice.nl IN CNAME .
@@ -9375,6 +9381,7 @@ loader.zeroform.com IN CNAME .
 log000.goo.ne.jp IN CNAME .
 log2.sina.cn IN CNAME .
 log.adplex.co.kr IN CNAME .
+log-ads.r7.com IN CNAME .
 log.aimtell.com IN CNAME .
 log.aliyuncs.com IN CNAME .
 logbak.hicloud.com IN CNAME .
@@ -10542,6 +10549,7 @@ metrics.bostonscientific.com IN CNAME .
 metrics.brightcove.com IN CNAME .
 metrics.calgary.ca IN CNAME .
 metrics.camperboerse.com IN CNAME .
+metrics.camsoda.com IN CNAME .
 metrics.care.com IN CNAME .
 metrics.cartoonnetworkla.com IN CNAME .
 metrics.cbc.ca IN CNAME .
@@ -17540,6 +17548,7 @@ tags.catapultx.com IN CNAME .
 tags.cdn.circlesix.co IN CNAME .
 tags.clickagy.com IN CNAME .
 tags.cmp.tail.digital IN CNAME .
+tags.dxmdp.com IN CNAME .
 tags.esri.com IN CNAME .
 tags.fullcontact.com IN CNAME .
 tags.globo.com IN CNAME .
@@ -18420,6 +18429,7 @@ tracking.allopneus.com IN CNAME .
 tracking.americaneagle.com IN CNAME .
 tracking.apac.business.samsung.com IN CNAME .
 tracking-api-4lasu2nlcq-ew.a.run.app IN CNAME .
+tracking-api.hotmart.com IN CNAME .
 tracking.arbor.edu IN CNAME .
 tracking.asialadies.de IN CNAME .
 tracking.atea.dk IN CNAME .
@@ -18663,6 +18673,7 @@ tracking.sciex.com IN CNAME .
 tracking.seakeeper.com IN CNAME .
 tracking.searchmarketing.com IN CNAME .
 tracking-secure.csob.cz IN CNAME .
+tracking.server.bytecon.com IN CNAME .
 tracking.sexcash.com IN CNAME .
 tracking.sezzle.com IN CNAME .
 tracking.sharplink.us IN CNAME .
@@ -20196,6 +20207,7 @@ uchiyama.net.anwalt.de IN CNAME .
 ucmetrics.unicreditbanca.it IN CNAME .
 ucmetrics.unicredit.it IN CNAME .
 ucounter.ucoz.net IN CNAME .
+uc.xddi.ru IN CNAME .
 udgrbq.malwarebytes.com IN CNAME .
 udmmdl.dudalina.com.br IN CNAME .
 udr9.livera.nl IN CNAME .
@@ -20555,6 +20567,7 @@ wa.gmx.ch IN CNAME .
 wa.gmx.co.uk IN CNAME .
 wa.gmx.net IN CNAME .
 wakefulcook.com IN CNAME .
+walkerllaw.org IN CNAME .
 wallet.chain.com IN CNAME .
 wal.wolfram.com IN CNAME .
 wa.personalcreations.com IN CNAME .
