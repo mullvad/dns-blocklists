@@ -149,36 +149,38 @@ To block _everything_ enter: `100.64.0.31`
 
 ### Social media blocking combinations
 
-    100.64.0.32: Social media blocking only
-    100.64.0.33: Social media blocking and ad blocking
-    100.64.0.34: Social media blocking, tracker blocking, and ad blocking
-    100.64.0.35: Social media blocking, malware blocking, and ad blocking
-    100.64.0.36: Social media blocking, tracker blocking, malware blocking, and ad blocking
-    100.64.0.37: Social media blocking and adult content blocking
-    100.64.0.38: Social media blocking, ad blocking, and adult content blocking
-    100.64.0.39: Social media blocking, tracker blocking, and adult content blocking
-    100.64.0.40: Social media blocking, ad blocking, tracker blocking, and adult content blocking
-    100.64.0.41: Social media blocking, malware blocking, and adult content blocking
-    100.64.0.42: Social media blocking, ad blocking, malware blocking, and adult content blocking
-    100.64.0.43: Social media blocking, tracker blocking, malware blocking, and adult content blocking
-    100.64.0.44: Social media blocking, ad blocking, tracker blocking, malware blocking, and adult content blocking
-    100.64.0.45: Social media blocking and gambling blocking
-    100.64.0.46: Social media blocking, ad blocking, and gambling blocking
-    100.64.0.47: Social media blocking, tracker blocking, and gambling blocking
-    100.64.0.48: Social media blocking, ad blocking, tracker blocking, and gambling blocking
-    100.64.0.49: Social media blocking, malware blocking, and gambling blocking
-    100.64.0.50: Social media blocking, ad blocking, malware blocking, and gambling blocking
-    100.64.0.51: Social media blocking, tracker blocking, malware blocking, and gambling blocking
-    100.64.0.52: Social media blocking, ad blocking, tracker blocking, malware blocking, and gambling blocking
-    100.64.0.53: Social media blocking, adult content blocking, and gambling blocking
-    100.64.0.54: Social media blocking, ad blocking, adult content blocking, and gambling blocking
-    100.64.0.55: Social media blocking, tracker blocking, adult content blocking, and gambling blocking
-    100.64.0.56: Social media blocking, ad blocking, tracker blocking, adult content blocking, and gambling blocking
-    100.64.0.57: Social media blocking, malware blocking, adult content blocking, and gambling blocking
-    100.64.0.58: Social media blocking, ad blocking, malware blocking, adult content blocking, and gambling blocking
-    100.64.0.59: Social media blocking, tracker blocking, malware blocking, adult content blocking, and gambling blocking
-    100.64.0.60: Social media blocking, ad blocking, tracker blocking, malware blocking, adult content blocking, and gambling blocking ("Everything")
-
+    100.64.0.32 - Social media only
+    100.64.0.33 - Social media and ad blocking
+    100.64.0.34 - Social media and tracker blocking
+    100.64.0.35 - Social media, ad blocking and tracker blocking
+    100.64.0.36 - Social media and malware blocking
+    100.64.0.37 - Social media, ad blocking and malware blocking
+    100.64.0.38 - Social media, tracker blocking and malware blocking
+    100.64.0.39 - Social media, ad blocking, tracker blocking and malware blocking
+    100.64.0.40 - Social media and adult content blocking
+    100.64.0.41 - Social media, adult content blocking and ad blocking
+    100.64.0.42 - Social media, adult content blocking and tracker blocking
+    100.64.0.43 - Social media, adult content blocking, ad blocking and tracker blocking
+    100.64.0.44 - Social media, adult content blocking and malware blocking
+    100.64.0.45 - Social media, adult content blocking, ad blocking and malware blocking
+    100.64.0.46 - Social media, adult content blocking, tracker blocking and malware blocking
+    100.64.0.47 - Social media, adult content blocking, ad blocking, tracker blocking and malware blocking
+    100.64.0.48 - Social media and gambling blocking
+    100.64.0.49 - Social media, gambling blocking and ad blocking
+    100.64.0.50 - Social media, gambling blocking and tracker blocking
+    100.64.0.51 - Social media, gambling blocking, ad blocking and tracker blocking
+    100.64.0.52 - Social media, gambling blocking and malware blocking
+    100.64.0.53 - Social media, gambling blocking, ad blocking and malware blocking
+    100.64.0.54 - Social media, gambling blocking, tracker blocking and malware blocking
+    100.64.0.55 - Social media, gambling blocking, ad blocking, tracker blocking and malware blocking
+    100.64.0.56 - Social media, gambling blocking and adult blocking
+    100.64.0.57 - Social media, gambling blocking, adult content and ad blocking
+    100.64.0.58 - Social media, gambling blocking, adult content and tracker blocking
+    100.64.0.59 - Social media, gambling blocking, adult content, ad blocking and tracker blocking
+    100.64.0.60 - Social media, gambling blocking, adult content, malware blocking
+    100.64.0.61 - Social media, gambling blocking, adult content, malware blocking and ad blocking
+    100.64.0.62 - Social media, gambling blocking, adult content, malware blocking and tracker blocking
+    100.64.0.63 - Social media, gambling blocking, adult content, malware blocking, ad blocking and tracker blocking ("Everything")
 
 # Building
 
