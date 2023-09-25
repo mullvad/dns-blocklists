@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1695277017    ; serial
+                                        1695632210    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3969,6 +3969,7 @@ by.mywd.com IN CNAME .
 b.your.rewardsemail.dominos.ca IN CNAME .
 byqdtp.interpark.com IN CNAME .
 b.ysh.io IN CNAME .
+byspotify.com IN CNAME .
 bzclk.baidu.com IN CNAME .
 b.zedge.me IN CNAME .
 bzqxze.remixshop.com IN CNAME .
@@ -4470,6 +4471,7 @@ collect.reagroupdata.com.au IN CNAME .
 collect.rebelmouse.io IN CNAME .
 collect.rewardstyle.com IN CNAME .
 collect.state.centrum24.pl IN CNAME .
+collect.stepstone.co.uk IN CNAME .
 collect.thunder-io.com IN CNAME .
 collect.usefathom.com IN CNAME .
 collect-v6.51.la IN CNAME .
@@ -4825,6 +4827,7 @@ cs0010sbeda.theory-kumatarumi.com IN CNAME .
 cs1863sbeda.glaucoma-arrest.net IN CNAME .
 cs2113sbeda.hokto-onlineshop.jp IN CNAME .
 cse3.chausport.com IN CNAME .
+c.seznam.cz IN CNAME .
 c.sibnet.ru IN CNAME .
 csi.gstatic.com IN CNAME .
 csm.magnetintell.com IN CNAME .
@@ -5735,6 +5738,7 @@ dx.mountain.com IN CNAME .
 dx.thermo.com IN CNAME .
 dx.thermofisher.com IN CNAME .
 dy2xcjk8s1dbz.cloudfront.net IN CNAME .
+dynamic.ziftsolutions.com IN CNAME .
 dyqebg.aboutyou.hr IN CNAME .
 dysfunctionalcellar.com IN CNAME .
 dyv1bugovvq1g.cloudfront.net IN CNAME .
@@ -6612,6 +6616,7 @@ faultyfowl.com IN CNAME .
 favor1.fractal.jp IN CNAME .
 fazphz.theiconic.com.au IN CNAME .
 fb.echovisuals.com IN CNAME .
+fbo-statistics-collector-tc.is.flippingbook.com IN CNAME .
 fb_servpub-a.akamaihd.net IN CNAME .
 fbu8.hoteldeparismontecarlo.com IN CNAME .
 fbu8.hotelhermitagemontecarlo.com IN CNAME .
@@ -7104,6 +7109,7 @@ gksqdt.reitmans.com IN CNAME .
 gksqfw.reverso.net IN CNAME .
 gkxaay.tontarellishop.com IN CNAME .
 gl5g98t0vfjb.panprices.com IN CNAME .
+glamipixel.com IN CNAME .
 glassmoni.researchgate.net IN CNAME .
 gleamingcow.com IN CNAME .
 gleamingtrade.com IN CNAME .
@@ -9466,6 +9472,7 @@ logtail.com IN CNAME .
 logtake.weidian.com IN CNAME .
 log.targetpush.co.kr IN CNAME .
 log.ttbc-hcm.gov.vn IN CNAME .
+log.v.ssp.yahoo.com IN CNAME .
 log.webnovel.com IN CNAME .
 log.worldsoft-cms.info IN CNAME .
 logx.optimizely.com IN CNAME .
@@ -17558,6 +17565,7 @@ tags.master-perf-tools.com IN CNAME .
 tags.op-palvelut.fi IN CNAME .
 tags.refinery89.com IN CNAME .
 tags.soloway.ru IN CNAME .
+tags.stepstone.com IN CNAME .
 tag.statshop.fr IN CNAME .
 tagtracking.vibescm.com IN CNAME .
 tag.triboomedia.it IN CNAME .
@@ -20439,6 +20447,7 @@ view.fujitv.co.jp IN CNAME .
 view.metlspan.com IN CNAME .
 view.nucorbuildingsystems.com IN CNAME .
 views.arabnews.com IN CNAME .
+views.asura.gg IN CNAME .
 views.b1tv.ro IN CNAME .
 views.cancan.ro IN CNAME .
 views.romaniatv.net IN CNAME .
