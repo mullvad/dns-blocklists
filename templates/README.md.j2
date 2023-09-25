@@ -1,7 +1,5 @@
 # dns-blocklists
 
-**Note**: Social media blocking is not currently available on VPN servers. It will be deployed to VPN servers early-mid October 2023.
-
 This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
 
 This is imported to our VPN servers frequently.
@@ -109,7 +107,7 @@ The following is a list of all the IP addresses we use for our DNS based blockin
 
 These IPs can be used within custom DNS in our configuration files, or via our Apps.
 
-To block _everything_ enter: `100.64.0.31`
+To block _everything_ enter: `100.64.0.63`
 
 ### Ads and Tracker combinations
     100.64.0.1 - Ad blocking only
@@ -149,8 +147,6 @@ To block _everything_ enter: `100.64.0.31`
     100.64.0.29 - Gambling blocking, ad blocking, adult content blocking, and malware blocking
     100.64.0.30 - Gambling blocking, adult content blocking, malware blocking and tracker blocking
     100.64.0.31 - Ad blocking, adult content blocking, gambling blocking, malware blocking, tracker blocking
-
-**Note**: This is not yet available. This will be deployed to VPN servers in early-mid October 2023. For now it is available on our encrypted DNS service.
 
 ### Social media blocking combinations
 
