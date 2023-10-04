@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1696237273    ; serial
+                                        1696419277    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2537,6 +2537,7 @@ analytics.autozone.com IN CNAME .
 analytics.avanser.com.au IN CNAME .
 analytics.aweber.com IN CNAME .
 analytics.basistheory.com IN CNAME .
+analytics-batch.blitz.gg IN CNAME .
 analytics-beacon.p.uliza.jp IN CNAME .
 analytics.belgacom.be IN CNAME .
 analytics.bestreviews.com IN CNAME .
@@ -2615,6 +2616,7 @@ analytics.freemake.com IN CNAME .
 analytics.freespee.com IN CNAME .
 analytics.gamedatacrunch.com IN CNAME .
 analytics.gameforge.de IN CNAME .
+analytics.gamesdrive.net IN CNAME .
 analytics.gazeta.pl IN CNAME .
 analytics.geekyminds.net IN CNAME .
 analytics.geoutletstore.com IN CNAME .
@@ -3969,7 +3971,6 @@ by.mywd.com IN CNAME .
 b.your.rewardsemail.dominos.ca IN CNAME .
 byqdtp.interpark.com IN CNAME .
 b.ysh.io IN CNAME .
-byspotify.com IN CNAME .
 bzclk.baidu.com IN CNAME .
 b.zedge.me IN CNAME .
 bzqxze.remixshop.com IN CNAME .
@@ -7046,7 +7047,6 @@ get.sakay.ph IN CNAME .
 get.schoolbuddy.app IN CNAME .
 get.seedly.sg IN CNAME .
 get.sidekick.health IN CNAME .
-get.smart-guide.org IN CNAME .
 get.snapask.com IN CNAME .
 get.somontreal.ca IN CNAME .
 get.speaky.com IN CNAME .
@@ -11941,6 +11941,7 @@ pixel.barion.com IN CNAME .
 pixel.biano.cz IN CNAME .
 pixel.biano.ro IN CNAME .
 pixel.blivenyc.com IN CNAME .
+pixel.byspotify.com IN CNAME .
 pixel.coccoc.com IN CNAME .
 pixel.condenastdigital.com IN CNAME .
 pixel.convertize.io IN CNAME .
@@ -20252,6 +20253,7 @@ uhd5nn09mgml.fort-shop.kiev.ua IN CNAME .
 uhm26jyr11zv.www.freecodecamp.org IN CNAME .
 uhn9.up-france.fr IN CNAME .
 uh.nakanohito.jp IN CNAME .
+uidapi.com IN CNAME .
 uid.mediacorp.sg IN CNAME .
 uim.tifbs.net IN CNAME .
 uinpmz.iichi.com IN CNAME .

@@ -193,6 +193,7 @@
           - mullvad.net
           - youngsexgalore.com # until https://github.com/Sinfonietta/hostfiles/issues/256 is resolved
           - xxxindianhub.com # until https://github.com/Sinfonietta/hostfiles/issues/256 is resolved
+          - saucenao.com # Wrongly categorised in OISD
 
 
 - name: Build zonefiles
