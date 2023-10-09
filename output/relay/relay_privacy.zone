@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1696419277    ; serial
+                                        1696840377    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4099,6 +4099,7 @@ cbudbs.tirendo.de IN CNAME .
 ccaas.avaya.com IN CNAME .
 ccc.aqualink.tokyo IN CNAME .
 cc.conforama.es IN CNAME .
+cc.dalten.cz IN CNAME .
 ccexperimentsstatic.oracleoutsourcing.com IN CNAME .
 c.cintnetworks.com IN CNAME .
 cclink.carfax.com IN CNAME .
@@ -5204,6 +5205,7 @@ datanoticias.prisasd.com IN CNAME .
 data.notificaciones.ficohsa.com IN CNAME .
 data.notifications.portal.cooperlighting.com IN CNAME .
 data.nrk.no IN CNAME .
+dataofpages.com IN CNAME .
 data.onlyyou.palladiumhotelgroup.com IN CNAME .
 data.ouigo.com IN CNAME .
 data.pepephone.com IN CNAME .
@@ -6424,6 +6426,7 @@ event-collector.moviesanywhere.com IN CNAME .
 event-collector.prd.data.s.joyn.de IN CNAME .
 event.csdn.net IN CNAME .
 event.evtm.53.com IN CNAME .
+eventexistence.com IN CNAME .
 eventgateway.soundcloud.com IN CNAME .
 event.getblue.io IN CNAME .
 event.grassicpas.com IN CNAME .
@@ -9400,6 +9403,7 @@ log.cookieyes.com IN CNAME .
 log.cpex.cz IN CNAME .
 log.dpa.com IN CNAME .
 log.ecgh.dk IN CNAME .
+log.edidomus.it IN CNAME .
 log.etoday.co.kr IN CNAME .
 log.flight.qunar.com IN CNAME .
 log.f-tra.com IN CNAME .
@@ -18292,6 +18296,7 @@ traccoon.intellectsoft.net IN CNAME .
 tr.acd-comexpert.fr IN CNAME .
 trace.qq.com IN CNAME .
 tracer.autoscout24.ch IN CNAME .
+trace.swaven.com IN CNAME .
 track2.cliplister.com IN CNAME .
 track2.dulingo.com IN CNAME .
 track2.mycliplister.com IN CNAME .
@@ -18792,6 +18797,7 @@ track.netzero.net IN CNAME .
 track.noddus.com IN CNAME .
 track.nopaperforms.com IN CNAME .
 track.noz.de IN CNAME .
+track.olx.com.br IN CNAME .
 track.pexi.nl IN CNAME .
 track.pnicnik.live IN CNAME .
 track.pricespider.com IN CNAME .
@@ -19380,6 +19386,7 @@ tr.jkyg.espmp-cufr.net IN CNAME .
 trk01.informaconnect.com IN CNAME .
 trk01.knect365.com IN CNAME .
 trk02.knect365.com IN CNAME .
+trk2-wtb.swaven.com IN CNAME .
 trk.adbutter.net IN CNAME .
 trk.admtoronto.com IN CNAME .
 trk.advancedmanufacturingeast.com IN CNAME .
@@ -21425,6 +21432,7 @@ y.ksl.com IN CNAME .
 ylog.huya.com IN CNAME .
 ymprove.gmx.net IN CNAME .
 ymprove.web.de IN CNAME .
+yndhi.com IN CNAME .
 yoc.younited-credit.com IN CNAME .
 yolo.philipbjorge.com IN CNAME .
 yottlyscript.com IN CNAME .
