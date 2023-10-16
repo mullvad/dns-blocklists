@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1696840385    ; serial
+                                        1697457140    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4392,6 +4392,7 @@ cname.nikkei-cnbc.co.jp IN CNAME .
 cnebis.chocola.com IN CNAME .
 cnebis.eisai.jp IN CNAME .
 cnebis.i-no-science.com IN CNAME .
+c.newyorker.com IN CNAME .
 cn-go.experian.com IN CNAME .
 cn.mywd.com IN CNAME .
 cnpxwl.cheapcaribbean.com IN CNAME .
@@ -4767,6 +4768,7 @@ count.yandeg.ru IN CNAME .
 courageousbaby.com IN CNAME .
 coverapparatus.com IN CNAME .
 cowscrayon.com IN CNAME .
+cozyhillside.com IN CNAME .
 cp.deltadentalwa.com IN CNAME .
 cpgo.avatacar.com IN CNAME .
 cph.credit-pret-hypothecaire.com IN CNAME .
@@ -5042,6 +5044,7 @@ d2kdl5wcwrtj90.cloudfront.net IN CNAME .
 d2nxi61n77zqpl.cloudfront.net IN CNAME .
 d2o67tzzxkqap2.cloudfront.net IN CNAME .
 d2oh4tlt9mrke9.cloudfront.net IN CNAME .
+d2r1yp2w7bby2u.cloudfront.net IN CNAME .
 d2rnkf2kqy5m6h.cloudfront.net IN CNAME .
 d2t77mnxyo7adj.cloudfront.net IN CNAME .
 d2tgfbvjf3q6hn.cloudfront.net IN CNAME .
@@ -5350,6 +5353,7 @@ degh48.fnac.com IN CNAME .
 de-go.experian.com IN CNAME .
 dejavu.mercadolivre.com.br IN CNAME .
 delegatediscussion.com IN CNAME .
+delicatecascade.com IN CNAME .
 delicateducks.com IN CNAME .
 delightfulhour.com IN CNAME .
 deliver.ptgncdn.com IN CNAME .
@@ -8524,6 +8528,7 @@ jswyrt.jp1880.de IN CNAME .
 jtracking-gate.lulusoft.com IN CNAME .
 jtxrou.saucony.com IN CNAME .
 jubbie.de IN CNAME .
+jubilantcanyon.com IN CNAME .
 jumbo.zomato.com IN CNAME .
 jumpto.use-beez.com IN CNAME .
 jupiterhealth-app.hotdoc.com.au IN CNAME .
@@ -9409,6 +9414,7 @@ log.flight.qunar.com IN CNAME .
 log.f-tra.com IN CNAME .
 log-gateway.zoom.us IN CNAME .
 log.genyt.net IN CNAME .
+logger007.cam4.com IN CNAME .
 logger.bzu.kr IN CNAME .
 logger.kataweb.it IN CNAME .
 logger.nerdwallet.com IN CNAME .
@@ -12381,6 +12387,7 @@ ptrenx.vidaxl.com.au IN CNAME .
 ptsc.shoplocal.com IN CNAME .
 ptw-i.actonservice.com IN CNAME .
 p.typekit.net IN CNAME .
+pubimgs.com IN CNAME .
 publicidad.daviviendaintl.com IN CNAME .
 publicschoolworks.actonservice.com IN CNAME .
 publish.tagstorm.com IN CNAME .
@@ -12466,6 +12473,7 @@ qal0.destinia.gr IN CNAME .
 qamnyl.bever.nl IN CNAME .
 qbl4.ecetech.fr IN CNAME .
 qbse.intuit.com IN CNAME .
+qc.newyorker.com IN CNAME .
 qc.qualicocommunitieswinnipeg.com IN CNAME .
 qc.vogue.com IN CNAME .
 qerpks.rollei.de IN CNAME .
@@ -13198,6 +13206,7 @@ scaredfarm.com IN CNAME .
 scaredsidewalk.com IN CNAME .
 scaredsnake.com IN CNAME .
 scaredsnakes.com IN CNAME .
+scaredsong.com IN CNAME .
 scaredstory.com IN CNAME .
 scaredswing.com IN CNAME .
 scarfsmash.com IN CNAME .
@@ -17367,6 +17376,7 @@ survey.mazda.com.au IN CNAME .
 survey-staging.mazda.com.au IN CNAME .
 s.useeffectbyexample.com IN CNAME .
 s.usenix.org IN CNAME .
+suspectmark.com IN CNAME .
 suspendseed.com IN CNAME .
 sustainability.ricoh.ch IN CNAME .
 sustainability.ricoh.co.za IN CNAME .
@@ -20840,7 +20850,9 @@ wh.ipaddress.com IN CNAME .
 whirlwealth.com IN CNAME .
 whiskyqueue.com IN CNAME .
 whisperingbadge.com IN CNAME .
+whisperingcascade.com IN CNAME .
 whisperingcrib.com IN CNAME .
+whisperingsummit.com IN CNAME .
 whispermeeting.com IN CNAME .
 whrsen.itemmania.com IN CNAME .
 why3.inseec.education IN CNAME .
