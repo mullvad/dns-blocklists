@@ -74,7 +74,7 @@ We currently use this malware content blocklist for our service:
 
 ### Adult content 
 
-We currently use this Adult content blocklist for our service:
+We currently use this adult content blocklist for our service:
 - oisd-nsfw: https://nsfw.oisd.nl/rpz
 
 ### Gambling
