@@ -45,6 +45,14 @@ The following lists are what we import to our service. You can find these define
 - `doh`: Encrypted DNS servers
 - `relay`: VPN servers (relays)
 
+### Ads
+
+We currently use these ad blocklists with our service:
+- oisd-small: https://small.oisd
+.nl/rpz
+- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
+
 ### Trackers
 
 We currently use these tracker blocklists with our service:
@@ -59,12 +67,10 @@ We currently use these tracker blocklists with our service:
 - telemetry-windows: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
 - telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
 
-### Advertising
+### Malware
 
-We currently use these advertising blocklists with our service:
-- oisd-small: https://small.oisd.nl/rpz
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
+We currently use this malware content blocklist for our service:
+- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
 
 ### Adult content 
 
@@ -73,19 +79,14 @@ We currently use this Adult content blocklist for our service:
 
 ### Gambling
 
-We currently use these gambling blocklists with our service:
+We currently use this gambling blocklist with our service:
 - blocklist-project: https://raw.githubusercontent.com/blocklistproject/Lists/master/alt-version/gambling-nl.txt
 
 ### Social media
 
-We currently generate our own Social media blocklists for the Encrypted DNS service, not VPN servers.
+We currently generate our own social media blocklists for the Encrypted DNS service, not VPN servers.
 
 You can find all the URLs in `inventory/group_vars/all.yml`
-
-### Malware
-
-We currently use this malware content blocklist for our service:
-- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
 
 
 ## Pull requests / Issues / Updating block lists
@@ -104,7 +105,7 @@ These IPs can be used within custom DNS in our configuration files, or via our A
 
 To block _everything_ enter: `100.64.0.63`
 
-### Ads and Tracker combinations
+### Ads and Trackers combinations
     100.64.0.1 - Ad blocking only
     100.64.0.2 - Trackers only
     100.64.0.3 - Ad blocking and tracker blocking
