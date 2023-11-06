@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1698439055    ; serial
+                                        1699276092    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2759,6 +2759,7 @@ analytics.silktide.com IN CNAME .
 analytics.sitewit.com IN CNAME .
 analytics.sixfigureswine.com IN CNAME .
 analytics.skinit.com IN CNAME .
+analytics.skroutz.gr IN CNAME .
 analytics.slashdotmedia.com IN CNAME .
 analytics.sleeknote.com IN CNAME .
 analytics.snidigital.com IN CNAME .
@@ -4444,6 +4445,7 @@ collect.alphastream.io IN CNAME .
 collect-ap2.attraqt.io IN CNAME .
 collect.asics.com IN CNAME .
 collect.banggood.com IN CNAME .
+collect.bannercrowd.net IN CNAME .
 collect.chaordicsystems.com IN CNAME .
 collect.cloudsponge.com IN CNAME .
 collect-eu.attraqt.io IN CNAME .
@@ -6465,6 +6467,7 @@ event.mrtnsvr.com IN CNAME .
 event.ortec.com IN CNAME .
 eventos.cihac.com IN CNAME .
 eventos.usj.es IN CNAME .
+event.platform.tunein.com IN CNAME .
 event.raise3d.cn IN CNAME .
 events2.www.edenfantasys.com IN CNAME .
 events.air.tv IN CNAME .
@@ -6545,6 +6548,7 @@ evivdj.novasol.fi IN CNAME .
 evnt.iol.it IN CNAME .
 evrget.nikkan-gendai.com IN CNAME .
 ev.stellarlabs.ai IN CNAME .
+evt-api.ntm.eu IN CNAME .
 evt.houzz.com IN CNAME .
 eworfe.babyartikel.de IN CNAME .
 exchangedetail.com IN CNAME .
@@ -7622,6 +7626,7 @@ hits.antena3.com IN CNAME .
 hits.cyberdrop.me IN CNAME .
 hits.dealer.com IN CNAME .
 hitserver.ibope.com.br IN CNAME .
+hits.getelevar.com IN CNAME .
 hits.informer.com IN CNAME .
 hit.skrz.cz IN CNAME .
 hits.letras.mus.br IN CNAME .
@@ -10353,6 +10358,7 @@ matrix.elecle.bike IN CNAME .
 mat.socy.es IN CNAME .
 matsubun.matsubun.com IN CNAME .
 matt.mercadolivre.com.br IN CNAME .
+maxepv.com IN CNAME .
 maxtrafixx.tech IN CNAME .
 maz.zba.jp IN CNAME .
 mbainfo.ust.hk IN CNAME .
@@ -11071,6 +11077,7 @@ mond.post.ch IN CNAME .
 money.clerkie.io IN CNAME .
 monicaatron.com IN CNAME .
 mon.ingservices.nl IN CNAME .
+monitor-api.blackcrow.ai IN CNAME .
 monitor.azure.com IN CNAME .
 monitor.channel4.com IN CNAME .
 monitor-frontend-collector.a.bybit-aws.com IN CNAME .
@@ -16912,6 +16919,7 @@ stats.lstfnd.de IN CNAME .
 stats.ltdhunt.com IN CNAME .
 stats.luieremmer.net IN CNAME .
 stats.lussoveloce.com IN CNAME .
+stats.macg.io IN CNAME .
 stats.macosicons.com IN CNAME .
 stats.madeit.io IN CNAME .
 stats.madethis.gallery IN CNAME .
@@ -18716,6 +18724,7 @@ tracking.my.hq.com IN CNAME .
 tracking.myregus.com IN CNAME .
 tracking.myspacesworks.com IN CNAME .
 tracking.mysurance.co.jp IN CNAME .
+tracking-na.hawksearch.com IN CNAME .
 tracking.nasdaq.com IN CNAME .
 tracking.netcologne.de IN CNAME .
 tracking.netsuite.com IN CNAME .
@@ -18923,6 +18932,7 @@ track.uc.cn IN CNAME .
 track.ultimate-guitar.com IN CNAME .
 track.unidata.ai IN CNAME .
 track.untd.com IN CNAME .
+track.uppromote.com IN CNAME .
 track-v4.ipadpresence.com IN CNAME .
 track.veedio.it IN CNAME .
 track.venatusmedia.com IN CNAME .
@@ -21500,6 +21510,7 @@ x.gldn.io IN CNAME .
 xjq5.belambra.be IN CNAME .
 xlvvy4msxr.coolinastore.com IN CNAME .
 xovq5nemr.com IN CNAME .
+xp2023-pix.s3.amazonaws.com IN CNAME .
 xray.mail.ru IN CNAME .
 xseedwealth.actonservice.com IN CNAME .
 xuc.monteleone.fr IN CNAME .
