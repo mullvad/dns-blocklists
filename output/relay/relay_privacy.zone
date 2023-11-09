@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1699276092    ; serial
+                                        1699520875    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -2357,6 +2357,7 @@ a.getflowbox.com IN CNAME .
 agexpo.americanexpress.com IN CNAME .
 aggelakia.openapp.link IN CNAME .
 agkn.com IN CNAME .
+agma-analytics.de IN CNAME .
 agnes.waz.de IN CNAME .
 agreeablestew.com IN CNAME .
 agreeabletouch.com IN CNAME .
@@ -2583,6 +2584,7 @@ analytics.cookiefirst.dev IN CNAME .
 analytics.crowdkeep.com IN CNAME .
 analytics.cycleworld.com IN CNAME .
 analytics.daasrv.net IN CNAME .
+analytics.data.visenze.com IN CNAME .
 analytics.designspiration.com IN CNAME .
 analytics.deutscher-apotheker-verlag.de IN CNAME .
 analytics.developer.riotgames.com IN CNAME .
@@ -4093,6 +4095,7 @@ catracking.cubiq.com IN CNAME .
 catracking.finning.com IN CNAME .
 catschickens.com IN CNAME .
 cats.d20.rs IN CNAME .
+catsunrunjam.com IN CNAME .
 causecherry.com IN CNAME .
 cautiouscamera.com IN CNAME .
 cautiouscherries.com IN CNAME .
@@ -4209,6 +4212,7 @@ cis.schibsted.com IN CNAME .
 ciszhp.finanzfrage.net IN CNAME .
 citizenship.quantresear.ch IN CNAME .
 cityrobotflower.com IN CNAME .
+ck123.io IN CNAME .
 ck.connatix.com IN CNAME .
 ckies.net IN CNAME .
 ckozwx.n11.com IN CNAME .
@@ -4294,6 +4298,7 @@ clicks.thehive.hqo.co IN CNAME .
 clicks.tunein.com IN CNAME .
 clicks.tyuwq.com IN CNAME .
 clicks.variis.com IN CNAME .
+clicktalecdn.sslcs.cdngc.net IN CNAME .
 click.totallymoney.com IN CNAME .
 clicktracker.iscan.nl IN CNAME .
 click.transactional.carousell.com IN CNAME .
@@ -4458,6 +4463,7 @@ collect.meilleurtaux.com IN CNAME .
 collector2c.zhihuishu.com IN CNAME .
 collector5.zipy.ai IN CNAME .
 collector-api.99designs.com IN CNAME .
+collector-api.frspecifics.com IN CNAME .
 collector.api.video IN CNAME .
 collector.appconsent.io IN CNAME .
 collector.automote.co.nz IN CNAME .
@@ -4971,6 +4977,7 @@ cvzvun.vidaxl.de IN CNAME .
 cwcdmm.zennioptical.com IN CNAME .
 c.wen.ru IN CNAME .
 c.werally.com IN CNAME .
+c.wired.com IN CNAME .
 c.wort-suche.com IN CNAME .
 cws.conviva.com IN CNAME .
 cwt.citywire.info IN CNAME .
@@ -5071,6 +5078,7 @@ d2u.dauphinquebec.com IN CNAME .
 d2wa5sea6guof0.cloudfront.net IN CNAME .
 d2wu036mkcz52n.cloudfront.net IN CNAME .
 d2wy8f7a9ursnm.cloudfront.net IN CNAME .
+d2zue0pgsssbc6.cloudfront.net IN CNAME .
 d31y97ze264gaa.cloudfront.net IN CNAME .
 d32hwlnfiv2gyn.cloudfront.net IN CNAME .
 d34ko97cxuv4p7.cloudfront.net IN CNAME .
@@ -5101,6 +5109,7 @@ d3s7ggfq1s6jlj.cloudfront.net IN CNAME .
 d3sbxpiag177w8.cloudfront.net IN CNAME .
 d3tglifpd8whs6.cloudfront.net IN CNAME .
 d3uvwl4wtkgzo1.cloudfront.net IN CNAME .
+d3vebqdofhigrn.cloudfront.net IN CNAME .
 d4ax0r5detcsu.cloudfront.net IN CNAME .
 d6ek.pandasuite.io IN CNAME .
 d761erxl2qywg.cloudfront.net IN CNAME .
@@ -6713,6 +6722,7 @@ firstfrogs.com IN CNAME .
 firstparty1.dentsplysirona.com IN CNAME .
 firstpartycookie.gettyimages.com IN CNAME .
 firstpartycookie.istockphoto.com IN CNAME .
+firsttexture.com IN CNAME .
 fishing.daigostudio.com IN CNAME .
 fiwinet.firmenwissen.com IN CNAME .
 fiwinet.firmenwissen.de IN CNAME .
@@ -7720,6 +7730,7 @@ hvrhgt.thesun.ie IN CNAME .
 hvxymx.tui.pl IN CNAME .
 hwwjsi.aboutyou.pl IN CNAME .
 hxpetm.vava.cars IN CNAME .
+hydro-ma-proxy.akamaized.net IN CNAME .
 hyeorg.gmarket.co.kr IN CNAME .
 hype.zlipa.com IN CNAME .
 hypnoticwound.com IN CNAME .
@@ -9448,6 +9459,7 @@ log.codemarketing.cloud IN CNAME .
 log.cognex.com IN CNAME .
 log.cookieyes.com IN CNAME .
 log.cpex.cz IN CNAME .
+log.dance IN CNAME .
 log.dpa.com IN CNAME .
 log.ecgh.dk IN CNAME .
 log.edidomus.it IN CNAME .
@@ -11238,6 +11250,7 @@ n26-trusted.n26.com IN CNAME .
 n4kb43cl2bsw.creatordrop.com IN CNAME .
 naanalle.pl IN CNAME .
 nadelle.wantsext.me IN CNAME .
+na.groupondata.com IN CNAME .
 nanostats.nanopress.it IN CNAME .
 nanthealth.actonservice.com IN CNAME .
 nappyattack.com IN CNAME .
@@ -12068,6 +12081,7 @@ placidperson.com IN CNAME .
 plainplayground.com IN CNAME .
 plainrequest.com IN CNAME .
 plan.devbyexample.com IN CNAME .
+planebasin.com IN CNAME .
 planesorder.com IN CNAME .
 plans.ceteraretirement.com IN CNAME .
 plans.fundtherebuild.com IN CNAME .
@@ -12529,6 +12543,7 @@ qbse.intuit.com IN CNAME .
 qc.newyorker.com IN CNAME .
 qc.qualicocommunitieswinnipeg.com IN CNAME .
 qc.vogue.com IN CNAME .
+qc.wired.com IN CNAME .
 qerpks.rollei.de IN CNAME .
 qexbcx.olx.kz IN CNAME .
 qfbles.elefant.ro IN CNAME .
@@ -16379,6 +16394,7 @@ staging.narrateapp.com IN CNAME .
 staging-pt.ispot.tv IN CNAME .
 staging-refer.rooam.co IN CNAME .
 staging.refer.wagr.us IN CNAME .
+stakingbasket.com IN CNAME .
 stakingscrew.com IN CNAME .
 stakingslope.com IN CNAME .
 stakingsmile.com IN CNAME .
@@ -16957,6 +16973,7 @@ stats.navedislam.com IN CNAME .
 stats.nddmed.com IN CNAME .
 stats.nebula.fi IN CNAME .
 stats.netbopdev.co.uk IN CNAME .
+stats.netdriven.com IN CNAME .
 stats.newsweek.com IN CNAME .
 stats-newyork1.bloxcms.com IN CNAME .
 stats.nexagon.dk IN CNAME .
@@ -17805,6 +17822,7 @@ teach.graduateprogram.org IN CNAME .
 te.ackermann.ch IN CNAME .
 te.ambria.de IN CNAME .
 teamhodges.hodgesualumniandfriends.com IN CNAME .
+tearfulglass.com IN CNAME .
 te.baur.de IN CNAME .
 techadv.actonservice.com IN CNAME .
 techgifts.tradeshow.globalsources.com IN CNAME .
@@ -20563,6 +20581,7 @@ view.metlspan.com IN CNAME .
 view.nucorbuildingsystems.com IN CNAME .
 views.arabnews.com IN CNAME .
 views.asura.gg IN CNAME .
+views.asurascans.com IN CNAME .
 views.b1tv.ro IN CNAME .
 views.cancan.ro IN CNAME .
 views.romaniatv.net IN CNAME .
