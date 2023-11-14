@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1699520883    ; serial
+                                        1699958406    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3392,6 +3392,7 @@ ax.babe.today IN CNAME .
 axentis.arclogics.com IN CNAME .
 ax.idg.se IN CNAME .
 axiomaticalley.com IN CNAME .
+axiomaticanger.com IN CNAME .
 axislogger.appspot.com IN CNAME .
 axjfkc.kobayashi.co.jp IN CNAME .
 axoqvl.daf-shoes.com IN CNAME .
@@ -3917,6 +3918,7 @@ bsytzb.hago.kr IN CNAME .
 btaenrolment.americanexpress.at IN CNAME .
 bt.astadia.com IN CNAME .
 b.tate.it IN CNAME .
+btdmp.com IN CNAME .
 b.thechive.com IN CNAME .
 b.thechivery.com IN CNAME .
 b.tienda.com IN CNAME .
@@ -4335,7 +4337,6 @@ cloisteredhydrant.com IN CNAME .
 c.lolamarket.com IN CNAME .
 closedcows.com IN CNAME .
 cloud.aspiresys.com IN CNAME .
-cloud.degoo.com IN CNAME .
 clouderrorreporting.googleapis.com IN CNAME .
 cloudfront-labs.amazonaws.com IN CNAME .
 cloudhosting-business.vodafone.com IN CNAME .
@@ -5386,6 +5387,7 @@ dejavu.mercadolivre.com.br IN CNAME .
 delegatediscussion.com IN CNAME .
 delicatecascade.com IN CNAME .
 delicateducks.com IN CNAME .
+deliciousducks.com IN CNAME .
 delightfulhour.com IN CNAME .
 deliver.ptgncdn.com IN CNAME .
 delivery.email-pepipost.branch.rocks IN CNAME .
@@ -5402,6 +5404,7 @@ de.mywd.com IN CNAME .
 de-ner-mi-nis4.info IN CNAME .
 de-nis-ner-mi-5.info IN CNAME .
 depeliculah.indonesiya.com IN CNAME .
+dependenttrip.com IN CNAME .
 dep.hmgroup.com IN CNAME .
 descargar.billeteramango.com IN CNAME .
 desertedbreath.com IN CNAME .
@@ -5486,7 +5489,6 @@ diana.hasdukmerahputih.com IN CNAME .
 diboji.class101.net IN CNAME .
 differentcoat.com IN CNAME .
 difficultfog.com IN CNAME .
-digianalytics.airtel.in IN CNAME .
 digi-ping.com IN CNAME .
 digital.acutx.org IN CNAME .
 digital.anicom-sompo.co.jp IN CNAME .
@@ -6735,6 +6737,7 @@ fkupm8697t19.eyevolution.de IN CNAME .
 fkwc.sfr.fr IN CNAME .
 fl5dpe.oui.sncf IN CNAME .
 flakyfeast.com IN CNAME .
+flameuncle.com IN CNAME .
 flashstats.libsyn.com IN CNAME .
 fleet-eml.postmates.com IN CNAME .
 fleraprt.com IN CNAME .
@@ -11833,6 +11836,7 @@ pappagallu.onefootball.com IN CNAME .
 paqqlk.motatos.de IN CNAME .
 paradoxfactor.com IN CNAME .
 parallel6.actonservice.com IN CNAME .
+parallelbulb.com IN CNAME .
 paramedicexam.quantresear.ch IN CNAME .
 parcelcreature.com IN CNAME .
 parchedangle.com IN CNAME .
@@ -12686,6 +12690,7 @@ ready.nerdery.com IN CNAME .
 readysnails.com IN CNAME .
 realcomm.actonservice.com IN CNAME .
 realeducation.kangan.edu.au IN CNAME .
+realizedoor.com IN CNAME .
 realize.goldenspiralmarketing.com IN CNAME .
 realizerecess.com IN CNAME .
 realizevacation.com IN CNAME .
@@ -12907,6 +12912,7 @@ rhl.net.anwalt.de IN CNAME .
 rhxkzd.jane.com IN CNAME .
 rhymezebra.com IN CNAME .
 rhythmmoney.com IN CNAME .
+rhythmrule.com IN CNAME .
 richreceipt.com IN CNAME .
 richstring.com IN CNAME .
 righteouscrayon.com IN CNAME .
@@ -18976,6 +18982,7 @@ tr.actu.reunica.com IN CNAME .
 tr.actu.rmcbfmplay.com IN CNAME .
 tr.actus-fdj.fr IN CNAME .
 tradeshows.aem.org IN CNAME .
+tradetooth.com IN CNAME .
 traffic.acwebconnecting.com IN CNAME .
 trafficfuelpixel.s3-us-west-2.amazonaws.com IN CNAME .
 traffic.prod.cobaltgroup.com IN CNAME .
@@ -21509,7 +21516,6 @@ x88s.pandasuite.io IN CNAME .
 x9.shinobi.jp IN CNAME .
 xait.actonservice.com IN CNAME .
 x.allabout.co.jp IN CNAME .
-xapi.ozon.ru IN CNAME .
 xay5o.toscane-boutique.fr IN CNAME .
 x.babe.today IN CNAME .
 x.bloggurat.net IN CNAME .
