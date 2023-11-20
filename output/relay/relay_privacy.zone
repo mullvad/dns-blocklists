@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1699958396    ; serial
+                                        1700470262    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3247,6 +3247,7 @@ artemis-cdn.ocdn.eu IN CNAME .
 artis.indonesiya.com IN CNAME .
 artistchristinacarmel.ericksonbuilt.com IN CNAME .
 artpainting.indonesiya.com IN CNAME .
+arttrk.com IN CNAME .
 as3.io IN CNAME .
 asamgd.rossmann.de IN CNAME .
 a.sami.se IN CNAME .
@@ -6527,6 +6528,7 @@ events.practo.com IN CNAME .
 events.prd.api.max.com IN CNAME .
 events.privy.com IN CNAME .
 events-prod.autolist.com IN CNAME .
+eventsproxy.gargantuan.futureplc.com IN CNAME .
 events.realgravity.com IN CNAME .
 events.reclamefolder.nl IN CNAME .
 events.reddit.com IN CNAME .
@@ -7716,6 +7718,7 @@ hstats.hepsiburada.com IN CNAME .
 hsvrww.plain-me.com IN CNAME .
 html.net.jumia.com IN CNAME .
 htqfxh.vuch.cz IN CNAME .
+htrace.wetvinfo.com IN CNAME .
 huaxiang.eastmoney.com IN CNAME .
 hubty.network IN CNAME .
 hu-business.vodafone.com IN CNAME .
@@ -9064,7 +9067,6 @@ link.marketing.bleacherreport.com IN CNAME .
 link.marketing.churchomeglobal.org IN CNAME .
 link.mbtihell.com IN CNAME .
 link.medibuddy.app IN CNAME .
-link.medium.com IN CNAME .
 link.metronaut.app IN CNAME .
 link.meumulti.com.br IN CNAME .
 link-mind.alan.com IN CNAME .
@@ -10482,6 +10484,7 @@ mdws.ukrainiancu.com IN CNAME .
 mdws.vermilioncreditunion.com IN CNAME .
 mdws.wetaskiwincreditunion.com IN CNAME .
 mdxhon.allhomes.com.au IN CNAME .
+meadowlullaby.com IN CNAME .
 meanwellaustralia.actonservice.com IN CNAME .
 measlymiddle.com IN CNAME .
 measure.ameblo.jp IN CNAME .
@@ -12349,6 +12352,7 @@ pricklydebt.com IN CNAME .
 pricklyjourney.com IN CNAME .
 pricklypies.com IN CNAME .
 pricklyplastic.com IN CNAME .
+pricklypollution.com IN CNAME .
 primary-app.hotdoc.com.au IN CNAME .
 primary.hasegawa.jp IN CNAME .
 primate.dmarcdigests.com IN CNAME .
@@ -12637,6 +12641,7 @@ rabbitrifle.com IN CNAME .
 racemanager-app.sapsailing.com IN CNAME .
 rac.ruutu.fi IN CNAME .
 radar.imgsmail.ru IN CNAME .
+radiateprose.com IN CNAME .
 radiometer.actonservice.com IN CNAME .
 railwayrainstorm.com IN CNAME .
 railwayreason.com IN CNAME .
@@ -13013,6 +13018,7 @@ rum.layer0.co IN CNAME .
 rum.marquardmedia.hu IN CNAME .
 rum.perfops.net IN CNAME .
 rumstat.cdnvideo.ru IN CNAME .
+rumt-sg.com IN CNAME .
 rum.uptime.com IN CNAME .
 rup5.destinia.ru IN CNAME .
 ruralrobin.com IN CNAME .
@@ -17867,6 +17873,7 @@ telamoncom.actonservice.com IN CNAME .
 telegraph.prd.api.max.com IN CNAME .
 telemetrics.klaviyo.com IN CNAME .
 telemetry.adobe.io IN CNAME .
+telemetry.algolia.com IN CNAME .
 telemetry.api.playstation.com IN CNAME .
 telemetry.firez.one IN CNAME .
 telemetry.jivosite.com IN CNAME .
@@ -17989,6 +17996,7 @@ tfpeev.chanluu.com IN CNAME .
 t.freelancer.com IN CNAME .
 t.friars.com IN CNAME .
 t.georgiadogs.com IN CNAME .
+t.ghostboard.io IN CNAME .
 tgirgs.flinders.nl IN CNAME .
 t.goairforcefalcons.com IN CNAME .
 t.goarmywestpoint.com IN CNAME .
@@ -20546,6 +20554,7 @@ verifyvegetable.com IN CNAME .
 verizon-branch.locationlabs.com IN CNAME .
 verseballs.com IN CNAME .
 vfd2dyn.vodafone.de IN CNAME .
+vfghe.com IN CNAME .
 vfgte.com IN CNAME .
 vfmahn.slevomat.cz IN CNAME .
 vfo4.carrefour-banque.fr IN CNAME .
@@ -21660,86 +21669,10 @@ zum7cc.oui.sncf IN CNAME .
 zxrnfc.drinco.jp IN CNAME .
 zyq2.destinia.sk IN CNAME .
 zz.bdstatic.com IN CNAME .
-a-graph.facebook.com IN CNAME .
-graph.instagram.com IN CNAME .
-mqtt-mini.facebook.com IN CNAME .
-e.crashlytics.com IN CNAME .
-reports.crashlytics.com IN CNAME .
-settings.crashlytics.com IN CNAME .
-ads.twitter.com IN CNAME .
-app-measurement.com IN CNAME .
-events.appsflyer.com IN CNAME .
-stats.appsflyer.com IN CNAME .
-t.appsflyer.com IN CNAME .
-log.musical.ly IN CNAME .
-live.direct.ly IN CNAME .
-device.zhiliaoapp.com IN CNAME .
-uop.umeng.com IN CNAME .
-alog.umeng.com IN CNAME .
-alog.umengcloud.com IN CNAME .
-api.branch.io IN CNAME .
-cp.pushwoosh.com IN CNAME .
-ws.tapjoyads.com IN CNAME .
-connect.tapjoy.com IN CNAME .
-ads.api.vungle.com IN CNAME .
-adlog.flurry.com IN CNAME .
-data.flurry.com IN CNAME .
-wd.adcolony.com IN CNAME .
-events3.adcolony.com IN CNAME .
-events3alt.adcolony.com IN CNAME .
-adc3-launch.adcolony.com IN CNAME .
-supersonicads-a.akamaihd.net IN CNAME .
-i.w.inmobi.com IN CNAME .
-sdktm.w.inmobi.com IN CNAME .
-ads.mopub.com IN CNAME .
-api.gameanalytics.com IN CNAME .
-med.heyzap.com IN CNAME .
-api.uca.cloud.unity3d.com IN CNAME .
-gate.hockeyapp.net IN CNAME .
-sdk.hockeyapp.net IN CNAME .
-engine.fyber.com IN CNAME .
-trk.pinterest.com IN CNAME .
-graph.accountkit.com IN CNAME .
-1681.engine.mobileapptracking.com IN CNAME .
-engine.mobileapptracking.com IN CNAME .
-mobileapptracking.com IN CNAME .
-config.ioam.de IN CNAME .
-logs.locarta.co IN CNAME .
-postback.pointwise.co IN CNAME .
-dev.appboy.com IN CNAME .
-z.moatads.com IN CNAME .
-appspot-preview.l.google.com IN CNAME .
-m.quantcount.com IN CNAME .
-app.adjust.com IN CNAME .
-utraffic.engine.adglare.net IN CNAME .
-www.googleadservices.com IN CNAME .
-googleads.g.doubleclick.net IN CNAME .
-securepubads.g.doubleclick.net IN CNAME .
-ad.doubleclick.net IN CNAME .
-ssl.google-analytics.com IN CNAME .
-adservice.google.de IN CNAME .
-ade.googlesyndication.com IN CNAME .
-id.google.de IN CNAME .
-federatedml-pa.googleapis.com IN CNAME .
-stats.gc.apple.com IN CNAME .
-iadsdk.apple.com IN CNAME .
-servicesupport.hicloud.com IN CNAME .
-sc-analytics.appspot.com IN CNAME .
-app-analytics.snapchat.com IN CNAME .
-adserver.snapads.com IN CNAME .
-euw.adserver.snapads.com IN CNAME .
-euc.adserver.snapads.com IN CNAME .
-usc.adserver.snapads.com IN CNAME .
-ase.adserver.snapads.com IN CNAME .
-tr.snapchat.com IN CNAME .
-crashlogs.whatsapp.net IN CNAME .
-rt.applovin.com IN CNAME .
-d.applvn.com IN CNAME .
-a.applvn.com IN CNAME .
-applvn.com IN CNAME .
-leanplum.com IN CNAME .
-www.leanplum.com IN CNAME .
-api.leanplum.com IN CNAME .
+analytics.google.com IN CNAME .
+sessions.bugsnag.com IN CNAME .
+browser.sentry-cdn.com IN CNAME .
+appmetrica.yandex.ru IN CNAME .
 data.alexa.com IN CNAME .
 device-metrics-us.amazon.com IN CNAME .
 device-metrics-us-2.amazon.com IN CNAME .

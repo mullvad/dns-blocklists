@@ -50,7 +50,7 @@ The following lists are what we import to our service. You can find these define
 We currently use these tracker blocklists with our service:
 {% for list in dns_blocklists_lists %}
 {% if "privacy" in list.type %}
-- {{ list.name }}: {{ list.url }}
+- {{ list.name }}: {{ list.url | default('custom file') }}
 {% endif %}
 {% endfor %}
 
