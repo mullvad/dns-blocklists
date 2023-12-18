@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1702542795    ; serial
+                                        1702880437    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6900,6 +6900,7 @@ images.1097638.com IN CNAME .
 1155sxvip.com IN CNAME .
 1155u.com IN CNAME .
 1155z.com IN CNAME .
+115667.com IN CNAME .
 11566n.com IN CNAME .
 115688f.com IN CNAME .
 115688s.com IN CNAME .
@@ -7681,6 +7682,7 @@ images.1097638.com IN CNAME .
 1215vns.com IN CNAME .
 121612.com IN CNAME .
 121623.com IN CNAME .
+121630.com IN CNAME .
 12168.org IN CNAME .
 1216ky.com IN CNAME .
 1217ky.com IN CNAME .
@@ -9196,6 +9198,7 @@ cdn2.12betso.com IN CNAME .
 13493.cn IN CNAME .
 1349ky.com IN CNAME .
 134gg.com IN CNAME .
+134hj.xyz IN CNAME .
 134ks.net IN CNAME .
 134mm.com IN CNAME .
 134yh1.com IN CNAME .
@@ -9282,6 +9285,7 @@ cdn2.12betso.com IN CNAME .
 135amhg.com IN CNAME .
 135ds900.com IN CNAME .
 135hgv.com IN CNAME .
+135hj.xyz IN CNAME .
 135ks.com IN CNAME .
 135tr.vip IN CNAME .
 135yh1.com IN CNAME .
@@ -9344,6 +9348,7 @@ cdn2.12betso.com IN CNAME .
 136amhg.com IN CNAME .
 136fn.com IN CNAME .
 136hgv.com IN CNAME .
+136hj.xyz IN CNAME .
 136k66.com IN CNAME .
 136yh1.com IN CNAME .
 136yh2.com IN CNAME .
@@ -9390,6 +9395,7 @@ cdn2.12betso.com IN CNAME .
 1379t.com IN CNAME .
 137gg.com IN CNAME .
 137hgv.com IN CNAME .
+137hj.xyz IN CNAME .
 137kb.com IN CNAME .
 137yh1.com IN CNAME .
 138.com IN CNAME .
@@ -9465,6 +9471,7 @@ cdn2.12betso.com IN CNAME .
 138fa.top IN CNAME .
 138fc.co IN CNAME .
 138hgv.com IN CNAME .
+138hj.xyz IN CNAME .
 138k66.com IN CNAME .
 138m.com IN CNAME .
 138s1.com IN CNAME .
@@ -9544,6 +9551,7 @@ cdn2.12betso.com IN CNAME .
 1399w.com IN CNAME .
 139eee.com IN CNAME .
 139ff.com IN CNAME .
+139hj.xyz IN CNAME .
 139kk.bet IN CNAME .
 139kk.life IN CNAME .
 139kk.shop IN CNAME .
@@ -9602,6 +9610,7 @@ cdn2.12betso.com IN CNAME .
 14096n.com IN CNAME .
 14096v.com IN CNAME .
 1409ky.com IN CNAME .
+140hj.xyz IN CNAME .
 140ky.com IN CNAME .
 140ty.com IN CNAME .
 140yh.com IN CNAME .
@@ -9662,6 +9671,7 @@ cdn2.12betso.com IN CNAME .
 1419ky.com IN CNAME .
 1419t.com IN CNAME .
 1419x.com IN CNAME .
+141hj.xyz IN CNAME .
 141qi.wang IN CNAME .
 141yb.com IN CNAME .
 141yh1.com IN CNAME .
@@ -9717,6 +9727,7 @@ cdn2.12betso.com IN CNAME .
 1428t.com IN CNAME .
 14299.pro IN CNAME .
 1429ky.com IN CNAME .
+142hj.xyz IN CNAME .
 142yb.com IN CNAME .
 142yh.com IN CNAME .
 142yh1.com IN CNAME .
@@ -9755,6 +9766,7 @@ cdn2.12betso.com IN CNAME .
 1439ky.com IN CNAME .
 1439t.com IN CNAME .
 143df.com IN CNAME .
+143hj.xyz IN CNAME .
 143yh2.com IN CNAME .
 14402.biz IN CNAME .
 1440ky.com IN CNAME .
@@ -9806,6 +9818,7 @@ cdn2.12betso.com IN CNAME .
 1449ky.com IN CNAME .
 144bet1.com IN CNAME .
 144bet2.com IN CNAME .
+144hj.xyz IN CNAME .
 144ixo.com IN CNAME .
 144yb.com IN CNAME .
 14502.vip IN CNAME .
@@ -11515,6 +11528,7 @@ cdn2.12betso.com IN CNAME .
 1596ky.com IN CNAME .
 15971448708.com IN CNAME .
 1597ky.com IN CNAME .
+15988.vip IN CNAME .
 15988s.com IN CNAME .
 1598ky.com IN CNAME .
 15991v.com IN CNAME .
@@ -14816,6 +14830,7 @@ cdn2.12betso.com IN CNAME .
 1907ky.com IN CNAME .
 190807.com IN CNAME .
 19083.org IN CNAME .
+1908499.cc IN CNAME .
 19086.vip IN CNAME .
 190887.com IN CNAME .
 1908ky.com IN CNAME .
@@ -15914,6 +15929,7 @@ cdn2.12betso.com IN CNAME .
 1reng6w.com IN CNAME .
 1riverrattsports.com IN CNAME .
 1rong6w.com IN CNAME .
+1royspins.com IN CNAME .
 1ruan6w.com IN CNAME .
 1s-11s.vip IN CNAME .
 1sang6w.com IN CNAME .
@@ -16199,10 +16215,12 @@ cdn2.12betso.com IN CNAME .
 1xbet-lort.top IN CNAME .
 1xbet-new.com IN CNAME .
 1xbet-pari-bfa.com IN CNAME .
+1xbet-pils.top IN CNAME .
 1xbet-pl.site IN CNAME .
 1xbet-proc.top IN CNAME .
 1xbet-prom.top IN CNAME .
 1xbet-rf.ru IN CNAME .
+1xbet-rfnu.top IN CNAME .
 1xbet-rgzq.top IN CNAME .
 1xbet-ro.com IN CNAME .
 1xbet-ru.com IN CNAME .
@@ -18043,6 +18061,7 @@ cdn2.12betso.com IN CNAME .
 208kyty.com IN CNAME .
 208vnsr.com IN CNAME .
 208y.net IN CNAME .
+209066.com IN CNAME .
 20907.vip IN CNAME .
 20907a.com IN CNAME .
 20907d.com IN CNAME .
@@ -19117,6 +19136,7 @@ images.21947392.com IN CNAME .
 21bet.com IN CNAME .
 21bet999.bet IN CNAME .
 21bet999.fun IN CNAME .
+21betitall2.com IN CNAME .
 21blackjack.club IN CNAME .
 21casino.com IN CNAME .
 21casino-x.ru IN CNAME .
@@ -19796,6 +19816,7 @@ images.21947392.com IN CNAME .
 22389.bid IN CNAME .
 2238ky.com IN CNAME .
 2238xpj.com IN CNAME .
+223963.com IN CNAME .
 2239888.com IN CNAME .
 22399s.com IN CNAME .
 22399v.com IN CNAME .
@@ -27370,6 +27391,7 @@ img.2538img.com IN CNAME .
 2ra0om57.vip IN CNAME .
 2rjg2s.com IN CNAME .
 2roybet88.com IN CNAME .
+2royspins2.com IN CNAME .
 2s-22s.vip IN CNAME .
 2shbet.com IN CNAME .
 2spin88.com IN CNAME .
@@ -27413,6 +27435,7 @@ img.2538img.com IN CNAME .
 2zysu.com IN CNAME .
 3-6-5-6-6-6.com IN CNAME .
 3-6-5-9-a.com IN CNAME .
+3-6-5-9-app.com IN CNAME .
 3-6-5-9-b.com IN CNAME .
 3-6-5-9-c.com IN CNAME .
 3-6-5-9-d.com IN CNAME .
@@ -32237,6 +32260,7 @@ images.3138722.com IN CNAME .
 3536kk.com IN CNAME .
 3536p.com IN CNAME .
 3536v.com IN CNAME .
+3536x.com IN CNAME .
 35374.org IN CNAME .
 353750.com IN CNAME .
 3537999.com IN CNAME .
@@ -32311,6 +32335,7 @@ images.3138722.com IN CNAME .
 3547t.com IN CNAME .
 3547x.com IN CNAME .
 3548877.com IN CNAME .
+35494.wang IN CNAME .
 3549900.com IN CNAME .
 3549911.com IN CNAME .
 3549922.com IN CNAME .
@@ -32399,6 +32424,7 @@ images.3138722.com IN CNAME .
 35589v.com IN CNAME .
 3558s.com IN CNAME .
 3558v.com IN CNAME .
+355907.com IN CNAME .
 35592v.com IN CNAME .
 35593v.com IN CNAME .
 35597v.com IN CNAME .
@@ -32583,6 +32609,7 @@ images.3138722.com IN CNAME .
 357725.com IN CNAME .
 35772777.com IN CNAME .
 35772v.com IN CNAME .
+357732.com IN CNAME .
 35773777.com IN CNAME .
 35773v.com IN CNAME .
 35775777.com IN CNAME .
@@ -32744,6 +32771,7 @@ images.3138722.com IN CNAME .
 359588.com IN CNAME .
 3595fn.com IN CNAME .
 3595j.com IN CNAME .
+3595n.com IN CNAME .
 3595s.com IN CNAME .
 35960.org IN CNAME .
 359624.com IN CNAME .
@@ -32791,6 +32819,7 @@ images.3138722.com IN CNAME .
 35df.bet IN CNAME .
 35hgag.com IN CNAME .
 35jkd63mf.vip IN CNAME .
+35ld.vip IN CNAME .
 35luck.com IN CNAME .
 35p.live IN CNAME .
 35xc402.com IN CNAME .
@@ -32965,6 +32994,7 @@ images.3138722.com IN CNAME .
 361bs8.vip IN CNAME .
 361bt1.vip IN CNAME .
 361bt3.vip IN CNAME .
+361ca8.vip IN CNAME .
 361cg7.vip IN CNAME .
 361cg9.vip IN CNAME .
 361ck4.vip IN CNAME .
@@ -32976,8 +33006,10 @@ images.3138722.com IN CNAME .
 361cn6.vip IN CNAME .
 361cn9.vip IN CNAME .
 361cq6.vip IN CNAME .
+361yn2.vip IN CNAME .
 361yy0.vip IN CNAME .
 361yz1.vip IN CNAME .
+361zt0.vip IN CNAME .
 36202.vip IN CNAME .
 36218.biz IN CNAME .
 3621s.com IN CNAME .
@@ -33796,6 +33828,7 @@ images.3138722.com IN CNAME .
 3659vip6.com IN CNAME .
 3659vip7.com IN CNAME .
 3659vip9.com IN CNAME .
+3659vv.com IN CNAME .
 3659vv.net IN CNAME .
 3659vvv.com IN CNAME .
 3659vvv.net IN CNAME .
@@ -34025,6 +34058,7 @@ images.3138722.com IN CNAME .
 365wm888.com IN CNAME .
 365wmapp.com IN CNAME .
 365wmh5.com IN CNAME .
+365wmvip3073.com IN CNAME .
 365yabo.com IN CNAME .
 365youxian.com IN CNAME .
 36600.biz IN CNAME .
@@ -34337,6 +34371,7 @@ images.3138722.com IN CNAME .
 36club.net IN CNAME .
 36csj.com IN CNAME .
 36hgg.com IN CNAME .
+36ld.vip IN CNAME .
 36t1ardakn.com IN CNAME .
 36tt.app IN CNAME .
 36tycvip.com IN CNAME .
@@ -34728,6 +34763,7 @@ images.3138722.com IN CNAME .
 3766n.com IN CNAME .
 3766x.com IN CNAME .
 376750.com IN CNAME .
+37678.wang IN CNAME .
 3767j.com IN CNAME .
 3767p.com IN CNAME .
 3767s.com IN CNAME .
@@ -34736,6 +34772,10 @@ images.3138722.com IN CNAME .
 3768771.shop IN CNAME .
 3768772.shop IN CNAME .
 3768773.gold IN CNAME .
+3768781.tube IN CNAME .
+3768784.tube IN CNAME .
+3768785.tube IN CNAME .
+3768787.tube IN CNAME .
 3768j.com IN CNAME .
 3768t.com IN CNAME .
 3768x.com IN CNAME .
@@ -34870,6 +34910,7 @@ images.3138722.com IN CNAME .
 3781x.com IN CNAME .
 37822.wang IN CNAME .
 3782s.com IN CNAME .
+3782x.com IN CNAME .
 3783333.com IN CNAME .
 37838.biz IN CNAME .
 3783888.com IN CNAME .
@@ -35103,14 +35144,25 @@ images.3138722.com IN CNAME .
 3825t.com IN CNAME .
 3826j.com IN CNAME .
 3826x.com IN CNAME .
+3827164.tube IN CNAME .
+3827170.tube IN CNAME .
 3827171.gold IN CNAME .
+3827175.tube IN CNAME .
+3827176.tube IN CNAME .
 3827183.gold IN CNAME .
 3827184.gold IN CNAME .
 3827188.gold IN CNAME .
+3827188.tube IN CNAME .
+3827189.tube IN CNAME .
 3827190.gold IN CNAME .
+3827191.tube IN CNAME .
 3827193.gold IN CNAME .
+3827193.tube IN CNAME .
 3827194.gold IN CNAME .
+3827195.tube IN CNAME .
+3827196.tube IN CNAME .
 3827206.gold IN CNAME .
+3827210.tube IN CNAME .
 38273.shop IN CNAME .
 38274.vip IN CNAME .
 382777.com IN CNAME .
@@ -35178,6 +35230,7 @@ images.3138722.com IN CNAME .
 38387.app IN CNAME .
 383892.com IN CNAME .
 383893.com IN CNAME .
+3838f.com IN CNAME .
 3838js.com IN CNAME .
 3838n.com IN CNAME .
 3838vn.com IN CNAME .
@@ -35387,6 +35440,7 @@ images.3138722.com IN CNAME .
 3858h.com IN CNAME .
 3858v.com IN CNAME .
 3858x.com IN CNAME .
+385965.com IN CNAME .
 385968.com IN CNAME .
 385kingbetting.com IN CNAME .
 38600.vip IN CNAME .
@@ -36451,6 +36505,7 @@ images.3138722.com IN CNAME .
 3923p.com IN CNAME .
 3923t.com IN CNAME .
 3923v.com IN CNAME .
+39243.vip IN CNAME .
 39247.vip IN CNAME .
 392528.com IN CNAME .
 39255v.com IN CNAME .
@@ -37228,6 +37283,7 @@ images.3138722.com IN CNAME .
 399411.com IN CNAME .
 399418.com IN CNAME .
 399435.com IN CNAME .
+3994549.com IN CNAME .
 399469.com IN CNAME .
 399478.com IN CNAME .
 3994n.com IN CNAME .
@@ -37380,6 +37436,7 @@ images.3138722.com IN CNAME .
 3999kf.com IN CNAME .
 3999xl.com IN CNAME .
 399bydt.com IN CNAME .
+399ek.com IN CNAME .
 399ks.com IN CNAME .
 399yb.com IN CNAME .
 399zrvip.com IN CNAME .
@@ -37474,6 +37531,7 @@ images.3138722.com IN CNAME .
 3j85.com IN CNAME .
 3j87.bet IN CNAME .
 3j88d.net IN CNAME .
+3j88s.net IN CNAME .
 3j8b9.net IN CNAME .
 3j95.com IN CNAME .
 3j97.com IN CNAME .
@@ -37518,6 +37576,7 @@ images.3138722.com IN CNAME .
 3js2g.com IN CNAME .
 3js2s.com IN CNAME .
 3js2w.com IN CNAME .
+3js3.net IN CNAME .
 3js30.com IN CNAME .
 3js36.com IN CNAME .
 3js37.com IN CNAME .
@@ -37815,6 +37874,7 @@ images.3138722.com IN CNAME .
 40190.org IN CNAME .
 401950.com IN CNAME .
 40198.vip IN CNAME .
+401ky.com IN CNAME .
 402013.com IN CNAME .
 40202.org IN CNAME .
 402049.com IN CNAME .
@@ -37952,6 +38012,7 @@ images.3138722.com IN CNAME .
 4038455.com IN CNAME .
 403889.com IN CNAME .
 4039482.com IN CNAME .
+403ky.com IN CNAME .
 403yb.com IN CNAME .
 40401006.com IN CNAME .
 40402017.com IN CNAME .
@@ -37970,6 +38031,7 @@ images.3138722.com IN CNAME .
 4044t.com IN CNAME .
 4045168.com IN CNAME .
 40455.org IN CNAME .
+404553.com IN CNAME .
 4045888.com IN CNAME .
 40467.com IN CNAME .
 40472.org IN CNAME .
@@ -38003,6 +38065,7 @@ images.3138722.com IN CNAME .
 40598j.com IN CNAME .
 40598m.com IN CNAME .
 40598n.com IN CNAME .
+405ky.com IN CNAME .
 40603.org IN CNAME .
 406033.com IN CNAME .
 40605.biz IN CNAME .
@@ -38035,6 +38098,7 @@ images.3138722.com IN CNAME .
 40699.technology IN CNAME .
 40699.xyz IN CNAME .
 406dl.com IN CNAME .
+406ky.com IN CNAME .
 406net.company IN CNAME .
 407122.com IN CNAME .
 4071bb.com IN CNAME .
@@ -38058,12 +38122,14 @@ images.3138722.com IN CNAME .
 4077t.com IN CNAME .
 407841.com IN CNAME .
 407979.com IN CNAME .
+407ky.com IN CNAME .
 40803.app IN CNAME .
 40806.biz IN CNAME .
 40807.com IN CNAME .
 40817.wang IN CNAME .
 4081t.com IN CNAME .
 40822.vip IN CNAME .
+40852.biz IN CNAME .
 4085757.com IN CNAME .
 408653.com IN CNAME .
 408678.com IN CNAME .
@@ -38098,6 +38164,7 @@ images.3138722.com IN CNAME .
 40988.org IN CNAME .
 40990.biz IN CNAME .
 4099n.com IN CNAME .
+409ky.com IN CNAME .
 40bet999.bet IN CNAME .
 40bet999.fun IN CNAME .
 40c.com IN CNAME .
@@ -38434,6 +38501,7 @@ images.3138722.com IN CNAME .
 4153t.com IN CNAME .
 4154t.com IN CNAME .
 415561.com IN CNAME .
+41558.vip IN CNAME .
 4155t.com IN CNAME .
 415621.space IN CNAME .
 415622.space IN CNAME .
@@ -38651,6 +38719,7 @@ images.3138722.com IN CNAME .
 42198z.com IN CNAME .
 4219x.com IN CNAME .
 421dd.com IN CNAME .
+421ky.com IN CNAME .
 421yb.com IN CNAME .
 421yh.com IN CNAME .
 422.com IN CNAME .
@@ -38787,6 +38856,7 @@ images.3138722.com IN CNAME .
 42387g.com IN CNAME .
 4238t.com IN CNAME .
 4239t.com IN CNAME .
+423ky.com IN CNAME .
 423yb.com IN CNAME .
 423yh.com IN CNAME .
 4240x.com IN CNAME .
@@ -38825,6 +38895,7 @@ images.3138722.com IN CNAME .
 4249t.com IN CNAME .
 4249v.com IN CNAME .
 4249x.com IN CNAME .
+424ky.com IN CNAME .
 424wns.com IN CNAME .
 425088.com IN CNAME .
 4251t.com IN CNAME .
@@ -38861,6 +38932,7 @@ images.3138722.com IN CNAME .
 425857.com IN CNAME .
 42593.site IN CNAME .
 4259x.com IN CNAME .
+425ky.com IN CNAME .
 426088.com IN CNAME .
 42611.vip IN CNAME .
 42612.vip IN CNAME .
@@ -38971,6 +39043,7 @@ images.3138722.com IN CNAME .
 42691z.com IN CNAME .
 42696.wang IN CNAME .
 426964780.com IN CNAME .
+426ky.com IN CNAME .
 426tuh2e.vip IN CNAME .
 42704.vip IN CNAME .
 427138.com IN CNAME .
@@ -39010,6 +39083,7 @@ images.3138722.com IN CNAME .
 4278x.com IN CNAME .
 427988.com IN CNAME .
 4279t.com IN CNAME .
+427ky.com IN CNAME .
 42807.biz IN CNAME .
 428138.com IN CNAME .
 42814.org IN CNAME .
@@ -39110,6 +39184,7 @@ images.3138722.com IN CNAME .
 4298w.com IN CNAME .
 42998.wang IN CNAME .
 4299n.com IN CNAME .
+429ky.com IN CNAME .
 429yb.com IN CNAME .
 42b14.org IN CNAME .
 42b9.net IN CNAME .
@@ -39162,6 +39237,7 @@ images.3138722.com IN CNAME .
 4315w.com IN CNAME .
 4315x.com IN CNAME .
 43161.org IN CNAME .
+43164.wang IN CNAME .
 431666.com IN CNAME .
 4316t.com IN CNAME .
 43171.com IN CNAME .
@@ -40176,6 +40252,7 @@ images.3138722.com IN CNAME .
 4468t.com IN CNAME .
 4468v.com IN CNAME .
 4468x.com IN CNAME .
+44695.win IN CNAME .
 4469n.com IN CNAME .
 4469s.com IN CNAME .
 4469t.com IN CNAME .
@@ -40254,6 +40331,7 @@ images.3138722.com IN CNAME .
 4484p.com IN CNAME .
 4484t.com IN CNAME .
 4484v.com IN CNAME .
+448557.com IN CNAME .
 4485n.com IN CNAME .
 4485p.com IN CNAME .
 4485s.com IN CNAME .
@@ -40428,6 +40506,7 @@ images.3138722.com IN CNAME .
 44yd.bet IN CNAME .
 44zun.com IN CNAME .
 45006666.com IN CNAME .
+45009.wang IN CNAME .
 4501155.com IN CNAME .
 45013.vip IN CNAME .
 45016.com IN CNAME .
@@ -40862,6 +40941,7 @@ images.3138722.com IN CNAME .
 4557x.com IN CNAME .
 45585.org IN CNAME .
 45586666.com IN CNAME .
+455890.com IN CNAME .
 45589a.com IN CNAME .
 455934.com IN CNAME .
 45596666.com IN CNAME .
@@ -40964,6 +41044,10 @@ images.3138722.com IN CNAME .
 457767.com IN CNAME .
 4577n.com IN CNAME .
 45780.vip IN CNAME .
+457888.com IN CNAME .
+457888a.com IN CNAME .
+457888b.com IN CNAME .
+457888c.com IN CNAME .
 4578x.com IN CNAME .
 45795.org IN CNAME .
 45796666.com IN CNAME .
@@ -41040,6 +41124,7 @@ images.3138722.com IN CNAME .
 4591127.com IN CNAME .
 4591155.com IN CNAME .
 4591161.com IN CNAME .
+4591171.com IN CNAME .
 4591181.com IN CNAME .
 45916666.com IN CNAME .
 4591777.com IN CNAME .
@@ -41142,6 +41227,7 @@ images.3138722.com IN CNAME .
 46190.vip IN CNAME .
 46191.org IN CNAME .
 4619x.com IN CNAME .
+461ky.com IN CNAME .
 461vd.com IN CNAME .
 461yb.com IN CNAME .
 461yh.com IN CNAME .
@@ -41194,6 +41280,7 @@ images.3138722.com IN CNAME .
 462app77.com IN CNAME .
 462appdt.com IN CNAME .
 462h.com IN CNAME .
+462ky.com IN CNAME .
 462yb.com IN CNAME .
 4630t.com IN CNAME .
 4631t.com IN CNAME .
@@ -41221,6 +41308,7 @@ images.3138722.com IN CNAME .
 4639t.com IN CNAME .
 4639x.com IN CNAME .
 463h.com IN CNAME .
+463ky.com IN CNAME .
 464089.com IN CNAME .
 4641155.com IN CNAME .
 4641t.com IN CNAME .
@@ -41331,6 +41419,7 @@ images.3138722.com IN CNAME .
 46496.org IN CNAME .
 4649t.com IN CNAME .
 464il.wang IN CNAME .
+464ky.com IN CNAME .
 464yb.com IN CNAME .
 46503.com IN CNAME .
 46503a.com IN CNAME .
@@ -41418,6 +41507,7 @@ images.3138722.com IN CNAME .
 46594.vip IN CNAME .
 46596.space IN CNAME .
 4659x.com IN CNAME .
+465ky.com IN CNAME .
 466.global IN CNAME .
 466089.com IN CNAME .
 4660v.com IN CNAME .
@@ -41531,6 +41621,7 @@ images.3138722.com IN CNAME .
 4679t.com IN CNAME .
 4679x.com IN CNAME .
 467h.com IN CNAME .
+467ky.com IN CNAME .
 46808.org IN CNAME .
 46808.vip IN CNAME .
 4681155.com IN CNAME .
@@ -41601,6 +41692,7 @@ images.3138722.com IN CNAME .
 46999.biz IN CNAME .
 4699n.com IN CNAME .
 4699p.com IN CNAME .
+469ky.com IN CNAME .
 46bet999.bet IN CNAME .
 46bet999.fun IN CNAME .
 46d88.com IN CNAME .
@@ -42190,6 +42282,7 @@ images.3138722.com IN CNAME .
 481451.com IN CNAME .
 4814t.com IN CNAME .
 4815111.com IN CNAME .
+4815606.com IN CNAME .
 4815cca.com IN CNAME .
 4815t.com IN CNAME .
 48161.biz IN CNAME .
@@ -42305,19 +42398,29 @@ images.3138722.com IN CNAME .
 4858cc.com IN CNAME .
 4858ee.com IN CNAME .
 4858ff.com IN CNAME .
+4858h.com IN CNAME .
+4858hh.com IN CNAME .
+4858ii.com IN CNAME .
+4858j.com IN CNAME .
+4858jj.com IN CNAME .
 4858jjj.com IN CNAME .
 4858l.com IN CNAME .
+4858lll.com IN CNAME .
 4858m.com IN CNAME .
 4858mmm.com IN CNAME .
+4858n.com IN CNAME .
 4858o.com IN CNAME .
 4858ooo.com IN CNAME .
 4858ppp.com IN CNAME .
+4858r.com IN CNAME .
 4858s.com IN CNAME .
 4858sss.com IN CNAME .
 4858t.com IN CNAME .
 4858u.com IN CNAME .
 4858w.com IN CNAME .
+4858x.com IN CNAME .
 4858y.com IN CNAME .
+4858z.com IN CNAME .
 4859001.com IN CNAME .
 4859002.com IN CNAME .
 4859003.com IN CNAME .
@@ -42591,6 +42694,7 @@ images.3138722.com IN CNAME .
 48yyhh.com IN CNAME .
 490065.com IN CNAME .
 490066.com IN CNAME .
+4900812.com IN CNAME .
 4900p.com IN CNAME .
 4900s.com IN CNAME .
 4900v.com IN CNAME .
@@ -42994,6 +43098,7 @@ images.3138722.com IN CNAME .
 4982288.com IN CNAME .
 4982795.com IN CNAME .
 4982x.com IN CNAME .
+49836.wang IN CNAME .
 4983x.com IN CNAME .
 4984t.com IN CNAME .
 49856.vip IN CNAME .
@@ -43100,6 +43205,14 @@ images.3138722.com IN CNAME .
 4993u.com IN CNAME .
 4993uu.com IN CNAME .
 4993uuu.com IN CNAME .
+4993vip1.com IN CNAME .
+4993vip2.com IN CNAME .
+4993vip3.com IN CNAME .
+4993vip4.com IN CNAME .
+4993vip5.com IN CNAME .
+4993vip6.com IN CNAME .
+4993vip7.com IN CNAME .
+4993vip8.com IN CNAME .
 4993vv.com IN CNAME .
 4993vvv.com IN CNAME .
 4993w.com IN CNAME .
@@ -43123,6 +43236,7 @@ images.3138722.com IN CNAME .
 49976.org IN CNAME .
 499786.com IN CNAME .
 49982.wang IN CNAME .
+49986.wang IN CNAME .
 49988.wang IN CNAME .
 4998n.com IN CNAME .
 4998t.com IN CNAME .
@@ -43147,14 +43261,19 @@ images.3138722.com IN CNAME .
 49ercasino.com IN CNAME .
 49ersbwin.net IN CNAME .
 49hao0.com IN CNAME .
+49hao00.com IN CNAME .
 49hao1.com IN CNAME .
 49hao2.com IN CNAME .
+49hao22.com IN CNAME .
 49hao3.com IN CNAME .
 49hao4.com IN CNAME .
+49hao44.com IN CNAME .
 49hao5.com IN CNAME .
 49hao6.com IN CNAME .
+49hao66.com IN CNAME .
 49hao7.com IN CNAME .
 49hao8.com IN CNAME .
+49hao88.com IN CNAME .
 49hao9.com IN CNAME .
 49jkd55mf.vip IN CNAME .
 49jsdc.com IN CNAME .
@@ -43197,6 +43316,7 @@ images.3138722.com IN CNAME .
 4h8.live IN CNAME .
 4h9.live IN CNAME .
 4hg886.com IN CNAME .
+4hgag.com IN CNAME .
 4hi88.com IN CNAME .
 4hlsoty.com IN CNAME .
 4hmir.com IN CNAME .
@@ -43207,6 +43327,7 @@ images.3138722.com IN CNAME .
 4kb1vn.online IN CNAME .
 4lhc88hk7.com IN CNAME .
 4luckypartner.com IN CNAME .
+4ly39.com IN CNAME .
 4mcnoilz.com IN CNAME .
 4mmp.com IN CNAME .
 4nohu.com IN CNAME .
@@ -43214,6 +43335,7 @@ images.3138722.com IN CNAME .
 4pc402.com IN CNAME .
 4pfxto0t1j.com IN CNAME .
 4po03.com IN CNAME .
+4prgv.com IN CNAME .
 4q89gc.com IN CNAME .
 4r597fp3hf.com IN CNAME .
 4r7kjk.com IN CNAME .
@@ -43449,6 +43571,7 @@ images.3138722.com IN CNAME .
 5016397.com IN CNAME .
 50164.vip IN CNAME .
 501662.site IN CNAME .
+50167.wang IN CNAME .
 5017777.com IN CNAME .
 5017t.com IN CNAME .
 5017x.com IN CNAME .
@@ -43549,6 +43672,7 @@ images.3138722.com IN CNAME .
 50414.vip IN CNAME .
 5041792.com IN CNAME .
 5042288.com IN CNAME .
+50434.cn IN CNAME .
 50437.org IN CNAME .
 5044n.com IN CNAME .
 5044s.com IN CNAME .
@@ -43883,6 +44007,7 @@ images.3138722.com IN CNAME .
 51233v.com IN CNAME .
 51234.com IN CNAME .
 51234.info IN CNAME .
+51234.vip IN CNAME .
 5123400001.com IN CNAME .
 5123400002.com IN CNAME .
 5123400003.com IN CNAME .
@@ -43962,6 +44087,7 @@ images.3138722.com IN CNAME .
 51234hb1.com IN CNAME .
 51234i0.com IN CNAME .
 51234i1.com IN CNAME .
+51234i2.com IN CNAME .
 51234jd1.com IN CNAME .
 51234jd2.com IN CNAME .
 51234ns1.com IN CNAME .
@@ -44244,6 +44370,7 @@ images.3138722.com IN CNAME .
 5167730.com IN CNAME .
 5167t.com IN CNAME .
 5167w.com IN CNAME .
+5168.me IN CNAME .
 5168777.com IN CNAME .
 51688v.com IN CNAME .
 5168j.com IN CNAME .
@@ -44515,6 +44642,7 @@ api.dodo.51yipo.com IN CNAME .
 5211s.com IN CNAME .
 5211v.com IN CNAME .
 5211y.com IN CNAME .
+5212004.com IN CNAME .
 521210.com IN CNAME .
 5212288.com IN CNAME .
 5212s.com IN CNAME .
@@ -45107,6 +45235,7 @@ api.dodo.51yipo.com IN CNAME .
 5309846.com IN CNAME .
 530betticket.com IN CNAME .
 530cj.com IN CNAME .
+5310.biz IN CNAME .
 531051a.com IN CNAME .
 531051b.com IN CNAME .
 531051c.com IN CNAME .
@@ -45344,8 +45473,15 @@ api.dodo.51yipo.com IN CNAME .
 53387.one IN CNAME .
 53387.top IN CNAME .
 53387.win IN CNAME .
+53387000.com IN CNAME .
+53387011.com IN CNAME .
+53387022.com IN CNAME .
+53387033.com IN CNAME .
+53387055.com IN CNAME .
 53387066.com IN CNAME .
+53387077.com IN CNAME .
 53387088.com IN CNAME .
+53387099.com IN CNAME .
 53387a.com IN CNAME .
 53387b.com IN CNAME .
 53387c.com IN CNAME .
@@ -45436,6 +45572,7 @@ api.dodo.51yipo.com IN CNAME .
 53537076.com IN CNAME .
 535380.com IN CNAME .
 5353969.com IN CNAME .
+5353mgm.com IN CNAME .
 5353s.com IN CNAME .
 5353vn.com IN CNAME .
 5353vns.com IN CNAME .
@@ -46170,6 +46307,7 @@ api.dodo.51yipo.com IN CNAME .
 55092345.net IN CNAME .
 55092345.org IN CNAME .
 55095.org IN CNAME .
+550955.com IN CNAME .
 5509567.net IN CNAME .
 55096.pro IN CNAME .
 55096677.com IN CNAME .
@@ -46183,6 +46321,7 @@ api.dodo.51yipo.com IN CNAME .
 5509dh3.org IN CNAME .
 5509dh5.com IN CNAME .
 5509dh5.net IN CNAME .
+5509dh8.net IN CNAME .
 5509vip.bet IN CNAME .
 5509vip.com IN CNAME .
 5509vip.net IN CNAME .
@@ -46190,6 +46329,7 @@ api.dodo.51yipo.com IN CNAME .
 5509vip.top IN CNAME .
 5509vip.vip IN CNAME .
 5509vip.xyz IN CNAME .
+550byc.com IN CNAME .
 550fun.com IN CNAME .
 550wns.com IN CNAME .
 550xd.org IN CNAME .
@@ -46310,6 +46450,7 @@ api.dodo.51yipo.com IN CNAME .
 55223044.com IN CNAME .
 5522696.com IN CNAME .
 552277.net IN CNAME .
+552299.net IN CNAME .
 55229x.com IN CNAME .
 5522dabao.com IN CNAME .
 5522yd.com IN CNAME .
@@ -46468,8 +46609,10 @@ api.dodo.51yipo.com IN CNAME .
 5532t.com IN CNAME .
 5532w.com IN CNAME .
 55330524.com IN CNAME .
+553311.net IN CNAME .
 55332003.com IN CNAME .
 55332017.com IN CNAME .
+553322.net IN CNAME .
 55332v.com IN CNAME .
 55333044.com IN CNAME .
 55333118.com IN CNAME .
@@ -47027,6 +47170,7 @@ api.dodo.51yipo.com IN CNAME .
 55662004.com IN CNAME .
 5566210.com IN CNAME .
 5566216.com IN CNAME .
+556622.net IN CNAME .
 55662277.com IN CNAME .
 5566236.com IN CNAME .
 5566252.com IN CNAME .
@@ -47840,6 +47984,9 @@ api.dodo.51yipo.com IN CNAME .
 5591555.com IN CNAME .
 55915v.com IN CNAME .
 559168.com IN CNAME .
+559168a.com IN CNAME .
+559168b.com IN CNAME .
+559168c.com IN CNAME .
 55916v.com IN CNAME .
 55917v.com IN CNAME .
 5591j.com IN CNAME .
@@ -48401,6 +48548,7 @@ api.dodo.51yipo.com IN CNAME .
 56438.vip IN CNAME .
 5643x.com IN CNAME .
 56440.org IN CNAME .
+56444vip.com IN CNAME .
 5644n.com IN CNAME .
 5644p.com IN CNAME .
 5644s.com IN CNAME .
@@ -48639,6 +48787,7 @@ api.dodo.51yipo.com IN CNAME .
 5673k.com IN CNAME .
 567402aa.com IN CNAME .
 567403.com IN CNAME .
+567428.com IN CNAME .
 5674384.com IN CNAME .
 5674658.com IN CNAME .
 5674v.com IN CNAME .
@@ -48691,6 +48840,7 @@ api.dodo.51yipo.com IN CNAME .
 5679v.com IN CNAME .
 567amblr.com IN CNAME .
 567aog.com IN CNAME .
+567tycbet.com IN CNAME .
 567win456.com IN CNAME .
 567wnsr.com IN CNAME .
 56808.win IN CNAME .
@@ -48700,6 +48850,9 @@ api.dodo.51yipo.com IN CNAME .
 56822v.com IN CNAME .
 56824.org IN CNAME .
 5682msy.com IN CNAME .
+568337.com IN CNAME .
+568338.com IN CNAME .
+568344.com IN CNAME .
 5683s.com IN CNAME .
 5683t.com IN CNAME .
 5683v.com IN CNAME .
@@ -49448,6 +49601,7 @@ shanhe.57577.live IN CNAME .
 580333.com IN CNAME .
 58039175.com IN CNAME .
 5803x.com IN CNAME .
+580565.com IN CNAME .
 5805t.com IN CNAME .
 5805x.com IN CNAME .
 58065.org IN CNAME .
@@ -49517,6 +49671,7 @@ shanhe.57577.live IN CNAME .
 58178.bet IN CNAME .
 58188v.com IN CNAME .
 5818j.com IN CNAME .
+5818n.com IN CNAME .
 5818t.com IN CNAME .
 5819777.com IN CNAME .
 5819h.com IN CNAME .
@@ -49540,6 +49695,7 @@ shanhe.57577.live IN CNAME .
 5823388.com IN CNAME .
 582343.com IN CNAME .
 58235.org IN CNAME .
+5823616.com IN CNAME .
 5823j.com IN CNAME .
 5823s.com IN CNAME .
 5823t.com IN CNAME .
@@ -49640,6 +49796,7 @@ shanhe.57577.live IN CNAME .
 5838t.com IN CNAME .
 5838x.com IN CNAME .
 58391.pro IN CNAME .
+583938.com IN CNAME .
 5839n.com IN CNAME .
 5839p.com IN CNAME .
 5839s.com IN CNAME .
@@ -49661,6 +49818,7 @@ shanhe.57577.live IN CNAME .
 5844v.com IN CNAME .
 5844w.com IN CNAME .
 5844x.com IN CNAME .
+584573.cc IN CNAME .
 58468.vip IN CNAME .
 584750.com IN CNAME .
 5847t.com IN CNAME .
@@ -49768,7 +49926,13 @@ shanhe.57577.live IN CNAME .
 58580524.com IN CNAME .
 58581.biz IN CNAME .
 58582017.com IN CNAME .
+585821a.com IN CNAME .
+585821b.com IN CNAME .
 58582277.com IN CNAME .
+585831a.com IN CNAME .
+585831b.com IN CNAME .
+585832a.com IN CNAME .
+585832b.com IN CNAME .
 58583b.com IN CNAME .
 58583c.com IN CNAME .
 58583d.com IN CNAME .
@@ -49842,6 +50006,7 @@ shanhe.57577.live IN CNAME .
 5868t.com IN CNAME .
 5869.vip IN CNAME .
 586964780.com IN CNAME .
+586968.com IN CNAME .
 5869a.vip IN CNAME .
 5869j.com IN CNAME .
 5869kk.com IN CNAME .
@@ -49884,6 +50049,8 @@ shanhe.57577.live IN CNAME .
 5871s.com IN CNAME .
 5871x.com IN CNAME .
 58720.wang IN CNAME .
+587207.com IN CNAME .
+587216.com IN CNAME .
 5872j.com IN CNAME .
 5872k.com IN CNAME .
 5872n.com IN CNAME .
@@ -50047,6 +50214,7 @@ shanhe.57577.live IN CNAME .
 58846.bid IN CNAME .
 588489.com IN CNAME .
 5884n.com IN CNAME .
+5884p.com IN CNAME .
 5884w.com IN CNAME .
 58850.vip IN CNAME .
 58852v.com IN CNAME .
@@ -50203,9 +50371,11 @@ shanhe.57577.live IN CNAME .
 58wmn.com IN CNAME .
 58wns.vip IN CNAME .
 58yabo.com IN CNAME .
+58yb.vip IN CNAME .
 58yh36.com IN CNAME .
 58yh38.com IN CNAME .
 58yh53.com IN CNAME .
+59-a.com IN CNAME .
 5900622.com IN CNAME .
 5900999.com IN CNAME .
 59009n.com IN CNAME .
@@ -50322,6 +50492,7 @@ shanhe.57577.live IN CNAME .
 5935v.com IN CNAME .
 59360.org IN CNAME .
 5936777.com IN CNAME .
+5936n.com IN CNAME .
 593750.com IN CNAME .
 59377v.com IN CNAME .
 59379.org IN CNAME .
@@ -50381,6 +50552,7 @@ shanhe.57577.live IN CNAME .
 5941155.com IN CNAME .
 594140.com IN CNAME .
 5941x.com IN CNAME .
+59425.vip IN CNAME .
 594262.com IN CNAME .
 5943t.com IN CNAME .
 5943x.com IN CNAME .
@@ -50589,6 +50761,7 @@ shanhe.57577.live IN CNAME .
 5959602.com IN CNAME .
 5959606.com IN CNAME .
 5959609.com IN CNAME .
+595961.com IN CNAME .
 5959610.com IN CNAME .
 5959611.com IN CNAME .
 5959616.com IN CNAME .
@@ -51091,6 +51264,7 @@ shanhe.57577.live IN CNAME .
 5n4g.fun IN CNAME .
 5ngf.fun IN CNAME .
 5nohu.com IN CNAME .
+5oddb.com IN CNAME .
 5ou0jc85.vip IN CNAME .
 5p8b.xyz IN CNAME .
 5pj88.com IN CNAME .
@@ -51121,6 +51295,7 @@ shanhe.57577.live IN CNAME .
 5whe.com IN CNAME .
 5whr.com IN CNAME .
 5wj3.net IN CNAME .
+5wk9m.com IN CNAME .
 5xcasino.com IN CNAME .
 5y3d.com IN CNAME .
 5y5kg.com IN CNAME .
@@ -51442,6 +51617,7 @@ shanhe.57577.live IN CNAME .
 60607833.com IN CNAME .
 60608076.com IN CNAME .
 606095.com IN CNAME .
+6060999.net IN CNAME .
 6060mgm.com IN CNAME .
 6060vn.com IN CNAME .
 6061x.com IN CNAME .
@@ -51452,6 +51628,7 @@ shanhe.57577.live IN CNAME .
 6063x.com IN CNAME .
 6064188.com IN CNAME .
 6064988.com IN CNAME .
+60654a.com IN CNAME .
 6065m.com IN CNAME .
 6065x.com IN CNAME .
 6066068.com IN CNAME .
@@ -51630,6 +51807,7 @@ shanhe.57577.live IN CNAME .
 609922.com IN CNAME .
 6099402.com IN CNAME .
 60995.com IN CNAME .
+60999.xyz IN CNAME .
 6099n.com IN CNAME .
 60be.com IN CNAME .
 60bet999.bet IN CNAME .
@@ -51655,6 +51833,7 @@ shanhe.57577.live IN CNAME .
 6101x.com IN CNAME .
 61020.com IN CNAME .
 6102288.com IN CNAME .
+61023.vip IN CNAME .
 61025.vip IN CNAME .
 6103.app IN CNAME .
 6103.com IN CNAME .
@@ -51829,6 +52008,7 @@ shanhe.57577.live IN CNAME .
 6110n.com IN CNAME .
 6110s.com IN CNAME .
 6110x.com IN CNAME .
+6111.me IN CNAME .
 6111155.com IN CNAME .
 61111n.com IN CNAME .
 61111p.com IN CNAME .
@@ -51902,6 +52082,7 @@ shanhe.57577.live IN CNAME .
 61233.pro IN CNAME .
 6123388.com IN CNAME .
 61238.vip IN CNAME .
+6123a.com IN CNAME .
 6124aa.com IN CNAME .
 6124i.com IN CNAME .
 6124o.com IN CNAME .
@@ -52430,6 +52611,7 @@ shanhe.57577.live IN CNAME .
 6220n.com IN CNAME .
 6220s.com IN CNAME .
 6220x.com IN CNAME .
+622135.com IN CNAME .
 6221709.com IN CNAME .
 6221n.com IN CNAME .
 6221s.com IN CNAME .
@@ -52579,6 +52761,7 @@ shanhe.57577.live IN CNAME .
 62333.biz IN CNAME .
 6233388.com IN CNAME .
 62339v.com IN CNAME .
+6233a.com IN CNAME .
 6233s.com IN CNAME .
 6233tyc.com IN CNAME .
 6233w.com IN CNAME .
@@ -52664,6 +52847,7 @@ shanhe.57577.live IN CNAME .
 6251n.com IN CNAME .
 6251s.com IN CNAME .
 6251x.com IN CNAME .
+6252a.com IN CNAME .
 6252p.com IN CNAME .
 6252t.com IN CNAME .
 6252x.com IN CNAME .
@@ -52721,6 +52905,7 @@ shanhe.57577.live IN CNAME .
 626111.vip IN CNAME .
 626135.com IN CNAME .
 6261j.com IN CNAME .
+6261x.com IN CNAME .
 62620524.com IN CNAME .
 62622017.com IN CNAME .
 62622277.com IN CNAME .
@@ -52730,6 +52915,12 @@ shanhe.57577.live IN CNAME .
 626250.com IN CNAME .
 62626163.com IN CNAME .
 62626a.com IN CNAME .
+626272a.com IN CNAME .
+626272b.com IN CNAME .
+626282a.com IN CNAME .
+626282b.com IN CNAME .
+626292a.com IN CNAME .
+626292b.com IN CNAME .
 6262mgm.com IN CNAME .
 6262vn.com IN CNAME .
 6262vns.com IN CNAME .
@@ -53439,6 +53630,7 @@ shanhe.57577.live IN CNAME .
 635130.com IN CNAME .
 63515.site IN CNAME .
 63516.vip IN CNAME .
+635185.com IN CNAME .
 6351t.com IN CNAME .
 6351x.com IN CNAME .
 6352481.com IN CNAME .
@@ -53508,6 +53700,7 @@ shanhe.57577.live IN CNAME .
 6361x.com IN CNAME .
 63621.vip IN CNAME .
 63622v.com IN CNAME .
+636278.com IN CNAME .
 6362a.com IN CNAME .
 6362j.com IN CNAME .
 6362s.com IN CNAME .
@@ -53690,6 +53883,7 @@ shanhe.57577.live IN CNAME .
 637761.com IN CNAME .
 63776661.com IN CNAME .
 63776664.com IN CNAME .
+63777.xyz IN CNAME .
 6377775.com IN CNAME .
 6377789.com IN CNAME .
 63778v.com IN CNAME .
@@ -53934,6 +54128,7 @@ shanhe.57577.live IN CNAME .
 6411z.net IN CNAME .
 6411zz.net IN CNAME .
 641258.com IN CNAME .
+6412641.com IN CNAME .
 6412t.com IN CNAME .
 64132.site IN CNAME .
 6413t.com IN CNAME .
@@ -54115,6 +54310,7 @@ shanhe.57577.live IN CNAME .
 64600sc.com IN CNAME .
 64600su.com IN CNAME .
 646138.com IN CNAME .
+6461427.com IN CNAME .
 646159.com IN CNAME .
 6461t.com IN CNAME .
 646266.com IN CNAME .
@@ -54245,6 +54441,7 @@ shanhe.57577.live IN CNAME .
 649368.com IN CNAME .
 649393.vet IN CNAME .
 6493t.com IN CNAME .
+6493x.com IN CNAME .
 6494t.com IN CNAME .
 6494v.com IN CNAME .
 649549.com IN CNAME .
@@ -54442,6 +54639,7 @@ shanhe.57577.live IN CNAME .
 6522y.com IN CNAME .
 65235.vip IN CNAME .
 65238419.com IN CNAME .
+6523a.com IN CNAME .
 6523v.com IN CNAME .
 6523x.com IN CNAME .
 65240011.com IN CNAME .
@@ -54514,6 +54712,7 @@ shanhe.57577.live IN CNAME .
 6533388.com IN CNAME .
 653372.com IN CNAME .
 653377.com IN CNAME .
+6533a.com IN CNAME .
 6533n.com IN CNAME .
 6533t.com IN CNAME .
 6533v.com IN CNAME .
@@ -54616,6 +54815,7 @@ shanhe.57577.live IN CNAME .
 6546.org IN CNAME .
 6546178.com IN CNAME .
 65466.com IN CNAME .
+654676.com IN CNAME .
 654696.com IN CNAME .
 6546t.com IN CNAME .
 6546x.com IN CNAME .
@@ -54625,6 +54825,7 @@ shanhe.57577.live IN CNAME .
 6547200.com IN CNAME .
 65475.org IN CNAME .
 654750.com IN CNAME .
+654811.com IN CNAME .
 654838.com IN CNAME .
 65488.wang IN CNAME .
 654896.com IN CNAME .
@@ -54796,10 +54997,18 @@ shanhe.57577.live IN CNAME .
 65755v.com IN CNAME .
 65757a.com IN CNAME .
 65757b.com IN CNAME .
+65757c.com IN CNAME .
 65757d.com IN CNAME .
+65757e.com IN CNAME .
+65757f.com IN CNAME .
+65757g.com IN CNAME .
+65757h.com IN CNAME .
 65757j.com IN CNAME .
+65757k.com IN CNAME .
 65757q.com IN CNAME .
 65757s.com IN CNAME .
+65757t.com IN CNAME .
+65757u.com IN CNAME .
 65757x.com IN CNAME .
 6575n.com IN CNAME .
 6575t.com IN CNAME .
@@ -54956,6 +55165,7 @@ shanhe.57577.live IN CNAME .
 65run6w.com IN CNAME .
 65ruo6w.com IN CNAME .
 65s334513d5f.com IN CNAME .
+65uxb.com IN CNAME .
 65yabo.com IN CNAME .
 6600.us IN CNAME .
 66000.com IN CNAME .
@@ -55002,6 +55212,7 @@ shanhe.57577.live IN CNAME .
 660268.com IN CNAME .
 6602n.com IN CNAME .
 66031.vip IN CNAME .
+6603app.com IN CNAME .
 6603b.com IN CNAME .
 6603n.com IN CNAME .
 6603pj1.com IN CNAME .
@@ -55097,6 +55308,7 @@ shanhe.57577.live IN CNAME .
 6611696.com IN CNAME .
 66116s.com IN CNAME .
 66116v.com IN CNAME .
+661177.net IN CNAME .
 66118v.com IN CNAME .
 6611bjl.com IN CNAME .
 6611dabao.com IN CNAME .
@@ -55207,6 +55419,7 @@ shanhe.57577.live IN CNAME .
 6621ky.com IN CNAME .
 6621n.com IN CNAME .
 6621v.com IN CNAME .
+662211.net IN CNAME .
 66221524.com IN CNAME .
 66222003.com IN CNAME .
 66222004.com IN CNAME .
@@ -55439,6 +55652,7 @@ shanhe.57577.live IN CNAME .
 663923.com IN CNAME .
 66392s.com IN CNAME .
 663966.vip IN CNAME .
+66397.wang IN CNAME .
 66398s.com IN CNAME .
 66398v.com IN CNAME .
 6639f.com IN CNAME .
@@ -55855,6 +56069,7 @@ shanhe.57577.live IN CNAME .
 66662004.com IN CNAME .
 66662007.com IN CNAME .
 6666213.com IN CNAME .
+6666216.com IN CNAME .
 66662s.com IN CNAME .
 66662v.com IN CNAME .
 66663044.com IN CNAME .
@@ -55982,6 +56197,10 @@ shanhe.57577.live IN CNAME .
 6671166.com IN CNAME .
 66712v.com IN CNAME .
 667166.vip IN CNAME .
+667168.com IN CNAME .
+667168a.com IN CNAME .
+667168b.com IN CNAME .
+667168c.com IN CNAME .
 66716s.com IN CNAME .
 667179.com IN CNAME .
 66718v.com IN CNAME .
@@ -56063,6 +56282,7 @@ shanhe.57577.live IN CNAME .
 66773412.com IN CNAME .
 6677444.com IN CNAME .
 667752.com IN CNAME .
+667753.com IN CNAME .
 66775524.com IN CNAME .
 6677574.com IN CNAME .
 6677584.com IN CNAME .
@@ -56095,6 +56315,7 @@ shanhe.57577.live IN CNAME .
 6677866.com IN CNAME .
 6677874.com IN CNAME .
 66778v.com IN CNAME .
+667791.com IN CNAME .
 6677924.com IN CNAME .
 6677934.com IN CNAME .
 6677940.com IN CNAME .
@@ -56149,6 +56370,7 @@ shanhe.57577.live IN CNAME .
 6680000999.com IN CNAME .
 66800sc.com IN CNAME .
 66800su.com IN CNAME .
+6680222.com IN CNAME .
 66805908.com IN CNAME .
 668066.vip IN CNAME .
 6681000001.com IN CNAME .
@@ -57336,6 +57558,7 @@ shanhe.57577.live IN CNAME .
 66879999.com IN CNAME .
 6687f.com IN CNAME .
 6687kk.com IN CNAME .
+668806.com IN CNAME .
 66881524.com IN CNAME .
 66882003.com IN CNAME .
 66882017.com IN CNAME .
@@ -57348,6 +57571,7 @@ shanhe.57577.live IN CNAME .
 66885076.com IN CNAME .
 6688566.com IN CNAME .
 66885940.com IN CNAME .
+66885v.com IN CNAME .
 66885x.com IN CNAME .
 66886v.com IN CNAME .
 66886x.com IN CNAME .
@@ -57839,6 +58063,7 @@ shanhe.57577.live IN CNAME .
 66go.net IN CNAME .
 66hg55.com IN CNAME .
 66hvip.com IN CNAME .
+66iajl.com IN CNAME .
 66ii940.com IN CNAME .
 66iplwin.com IN CNAME .
 66jkd39mf.vip IN CNAME .
@@ -58617,6 +58842,7 @@ shanhe.57577.live IN CNAME .
 676646.com IN CNAME .
 67666p.com IN CNAME .
 67666xy.com IN CNAME .
+676684.com IN CNAME .
 67668s.com IN CNAME .
 6766ah.com IN CNAME .
 6766bj.com IN CNAME .
@@ -59089,6 +59315,7 @@ shanhe.57577.live IN CNAME .
 6831t.com IN CNAME .
 68323.wang IN CNAME .
 6832773.com IN CNAME .
+68329.wang IN CNAME .
 6832k.com IN CNAME .
 6832s.com IN CNAME .
 6833388.com IN CNAME .
@@ -59244,6 +59471,7 @@ shanhe.57577.live IN CNAME .
 686545.com IN CNAME .
 686550.com IN CNAME .
 686635.com IN CNAME .
+686639.com IN CNAME .
 68665s.com IN CNAME .
 68665v.com IN CNAME .
 68666xy.com IN CNAME .
@@ -59484,6 +59712,7 @@ shanhe.57577.live IN CNAME .
 689393.vet IN CNAME .
 6893s.com IN CNAME .
 6893v.com IN CNAME .
+6894798.com IN CNAME .
 6894t.com IN CNAME .
 6895588.com IN CNAME .
 6895s.com IN CNAME .
@@ -59538,6 +59767,7 @@ shanhe.57577.live IN CNAME .
 68dl88.com IN CNAME .
 68dl88.net IN CNAME .
 68e2.club IN CNAME .
+68e7.club IN CNAME .
 68f.club IN CNAME .
 68g.club IN CNAME .
 68game.club IN CNAME .
@@ -59870,6 +60100,7 @@ images.6929183.com IN CNAME .
 6956k.com IN CNAME .
 6956u.com IN CNAME .
 6957.com IN CNAME .
+69577a.com IN CNAME .
 6957j.com IN CNAME .
 6957t.com IN CNAME .
 6957x.com IN CNAME .
@@ -60689,6 +60920,7 @@ images.6929183.com IN CNAME .
 6f01.com IN CNAME .
 6f44.com IN CNAME .
 6fapp180.com IN CNAME .
+6fes7.com IN CNAME .
 6fhd.com IN CNAME .
 6fk63a.com IN CNAME .
 6gsk7.com IN CNAME .
@@ -61241,6 +61473,7 @@ images.6929183.com IN CNAME .
 6wsn.work IN CNAME .
 6xn8s.vip IN CNAME .
 cdn.6xteam.com IN CNAME .
+6xww8.com IN CNAME .
 6y6kg.com IN CNAME .
 6y8n.com IN CNAME .
 6yabo.vip IN CNAME .
@@ -61343,6 +61576,7 @@ cdn.6xteam.com IN CNAME .
 70254.vip IN CNAME .
 70268.vip IN CNAME .
 702750.com IN CNAME .
+702766.com IN CNAME .
 70279.shop IN CNAME .
 7028026.com IN CNAME .
 70286.org IN CNAME .
@@ -61372,6 +61606,7 @@ cdn.6xteam.com IN CNAME .
 70377.com IN CNAME .
 70379.org IN CNAME .
 7037t.com IN CNAME .
+703966.com IN CNAME .
 703986.com IN CNAME .
 70399.biz IN CNAME .
 7039x.com IN CNAME .
@@ -61469,6 +61704,7 @@ cdn.6xteam.com IN CNAME .
 7057x.com IN CNAME .
 7058x.com IN CNAME .
 70594.wang IN CNAME .
+705966.com IN CNAME .
 7059x.com IN CNAME .
 705casino.live IN CNAME .
 705casino.net IN CNAME .
@@ -61490,6 +61726,7 @@ cdn.6xteam.com IN CNAME .
 7062t.com IN CNAME .
 70638.vip IN CNAME .
 7063x.com IN CNAME .
+706466.com IN CNAME .
 706506.com IN CNAME .
 706599.com IN CNAME .
 7066297.com IN CNAME .
@@ -61625,6 +61862,7 @@ cdn.6xteam.com IN CNAME .
 7093900.com IN CNAME .
 7093x.com IN CNAME .
 7094300.com IN CNAME .
+709466.com IN CNAME .
 7095237.com IN CNAME .
 7095x.com IN CNAME .
 7096.com IN CNAME .
@@ -61632,6 +61870,7 @@ cdn.6xteam.com IN CNAME .
 7096t.com IN CNAME .
 7096z.com IN CNAME .
 709700.org IN CNAME .
+709766.com IN CNAME .
 70979.net IN CNAME .
 709790.org IN CNAME .
 70980.vip IN CNAME .
@@ -61817,6 +62056,7 @@ cdn.6xteam.com IN CNAME .
 71356.wang IN CNAME .
 7135n.com IN CNAME .
 7135s.com IN CNAME .
+71362.vip IN CNAME .
 713623.com IN CNAME .
 71363.org IN CNAME .
 71365.com IN CNAME .
@@ -61832,8 +62072,10 @@ cdn.6xteam.com IN CNAME .
 713jinbo.com IN CNAME .
 713we.vip IN CNAME .
 713yh.com IN CNAME .
+714066.com IN CNAME .
 7141155.com IN CNAME .
 714132.com IN CNAME .
+714166.com IN CNAME .
 7141t.com IN CNAME .
 7142288.com IN CNAME .
 714241.com IN CNAME .
@@ -61992,6 +62234,7 @@ cdn.6xteam.com IN CNAME .
 71771.xyz IN CNAME .
 71771v.com IN CNAME .
 71772v.com IN CNAME .
+71777.xyz IN CNAME .
 71777n.com IN CNAME .
 71779v.com IN CNAME .
 7177m.com IN CNAME .
@@ -62117,6 +62360,7 @@ cdn.6xteam.com IN CNAME .
 71907z.com IN CNAME .
 7190t.com IN CNAME .
 7191155.com IN CNAME .
+71919.vip IN CNAME .
 71919.xyz IN CNAME .
 7191s.com IN CNAME .
 7191t.com IN CNAME .
@@ -62439,6 +62683,7 @@ cdn.6xteam.com IN CNAME .
 7233s.com IN CNAME .
 7233w.com IN CNAME .
 72342.wang IN CNAME .
+7234ff.com IN CNAME .
 7234p.com IN CNAME .
 7234t.com IN CNAME .
 7235698.com IN CNAME .
@@ -62606,6 +62851,7 @@ cdn.6xteam.com IN CNAME .
 726726.vip IN CNAME .
 72673355.com IN CNAME .
 72673366.com IN CNAME .
+72673377.com IN CNAME .
 72673388.com IN CNAME .
 72673399.com IN CNAME .
 72674400.com IN CNAME .
@@ -62679,6 +62925,7 @@ cdn.6xteam.com IN CNAME .
 7271155.com IN CNAME .
 7271163.com IN CNAME .
 727138.com IN CNAME .
+727168.com IN CNAME .
 727168a.com IN CNAME .
 727168b.com IN CNAME .
 727168c.com IN CNAME .
@@ -63134,6 +63381,7 @@ cdn.6xteam.com IN CNAME .
 7326j.com IN CNAME .
 7326k.com IN CNAME .
 7326t.com IN CNAME .
+7326w.com IN CNAME .
 732727.com IN CNAME .
 732732.vip IN CNAME .
 73274.org IN CNAME .
@@ -63840,6 +64088,7 @@ cdn.6xteam.com IN CNAME .
 7419t.com IN CNAME .
 7419yb.com IN CNAME .
 741jinbo.com IN CNAME .
+742004.com IN CNAME .
 74203.org IN CNAME .
 7420571.cn IN CNAME .
 74209.vip IN CNAME .
@@ -63883,6 +64132,8 @@ cdn.6xteam.com IN CNAME .
 7432t.com IN CNAME .
 7432x.com IN CNAME .
 7432yb.com IN CNAME .
+74339.vip IN CNAME .
+74343.vip IN CNAME .
 743452.com IN CNAME .
 74359.vip IN CNAME .
 7435yb.com IN CNAME .
@@ -63979,6 +64230,7 @@ cdn.6xteam.com IN CNAME .
 745701.com IN CNAME .
 745750.com IN CNAME .
 74577.org IN CNAME .
+74577.wang IN CNAME .
 745789.com IN CNAME .
 7458t.com IN CNAME .
 7459x.com IN CNAME .
@@ -64222,6 +64474,7 @@ cdn.6xteam.com IN CNAME .
 750161.com IN CNAME .
 750162.com IN CNAME .
 750164.com IN CNAME .
+75017.vip IN CNAME .
 750170.com IN CNAME .
 750173.com IN CNAME .
 750175.com IN CNAME .
@@ -64436,6 +64689,7 @@ cdn.6xteam.com IN CNAME .
 7519x.com IN CNAME .
 751grandbetting.com IN CNAME .
 751jinbo.com IN CNAME .
+752004.com IN CNAME .
 75201.top IN CNAME .
 75205.org IN CNAME .
 7520x.com IN CNAME .
@@ -64650,9 +64904,11 @@ cdn.6xteam.com IN CNAME .
 7557w.com IN CNAME .
 75580.vip IN CNAME .
 75581.wang IN CNAME .
+755828.com IN CNAME .
 75585x.com IN CNAME .
 755888.vip IN CNAME .
 75588v.com IN CNAME .
+75589.net IN CNAME .
 75589v.com IN CNAME .
 7558xz.com IN CNAME .
 7558yh.com IN CNAME .
@@ -64688,6 +64944,7 @@ cdn.6xteam.com IN CNAME .
 756564.vip IN CNAME .
 7565n.com IN CNAME .
 7565t.com IN CNAME .
+756618.com IN CNAME .
 75663q.com IN CNAME .
 75666p.com IN CNAME .
 75666v.com IN CNAME .
@@ -65196,6 +65453,7 @@ cdn.6xteam.com IN CNAME .
 7647t.com IN CNAME .
 7647x.com IN CNAME .
 76485.vip IN CNAME .
+764866.com IN CNAME .
 7648t.com IN CNAME .
 7649108.com IN CNAME .
 7649t.com IN CNAME .
@@ -65334,6 +65592,9 @@ cdn.6xteam.com IN CNAME .
 767111.net IN CNAME .
 767111.vip IN CNAME .
 76713.org IN CNAME .
+767168a.com IN CNAME .
+767168b.com IN CNAME .
+767168c.com IN CNAME .
 7671h.com IN CNAME .
 7671j.com IN CNAME .
 7671n.com IN CNAME .
@@ -65447,6 +65708,7 @@ cdn.6xteam.com IN CNAME .
 7689n.com IN CNAME .
 7689x.com IN CNAME .
 768jinbo.com IN CNAME .
+769066.com IN CNAME .
 7690yb.com IN CNAME .
 7691155.com IN CNAME .
 7691a.com IN CNAME .
@@ -66000,6 +66262,8 @@ cdn.6xteam.com IN CNAME .
 771869.com IN CNAME .
 77187.shop IN CNAME .
 77188.vip IN CNAME .
+771885a.com IN CNAME .
+771885b.com IN CNAME .
 77188c.app IN CNAME .
 7718ky.com IN CNAME .
 7718m.com IN CNAME .
@@ -66012,6 +66276,7 @@ cdn.6xteam.com IN CNAME .
 77192v.com IN CNAME .
 77195.vip IN CNAME .
 77198.vip IN CNAME .
+771987.com IN CNAME .
 7719ky.com IN CNAME .
 7719n.com IN CNAME .
 7719qq.com IN CNAME .
@@ -66048,6 +66313,7 @@ cdn.6xteam.com IN CNAME .
 77215.vip IN CNAME .
 77215v.com IN CNAME .
 77216.net IN CNAME .
+7721638.com IN CNAME .
 77218.net IN CNAME .
 77219v.com IN CNAME .
 7721bola.com IN CNAME .
@@ -66118,6 +66384,8 @@ cdn.6xteam.com IN CNAME .
 77280.com IN CNAME .
 77285v.com IN CNAME .
 772867.com IN CNAME .
+772885a.com IN CNAME .
+772885b.com IN CNAME .
 7728ky.com IN CNAME .
 7728yb.com IN CNAME .
 77292v.com IN CNAME .
@@ -66259,7 +66527,9 @@ cdn.6xteam.com IN CNAME .
 7733508.com IN CNAME .
 77335156.com IN CNAME .
 77335524.com IN CNAME .
+77335533.com IN CNAME .
 7733556.com IN CNAME .
+77335577.com IN CNAME .
 7733577.com IN CNAME .
 7733588.com IN CNAME .
 7733589.com IN CNAME .
@@ -66281,6 +66551,7 @@ cdn.6xteam.com IN CNAME .
 7733650.com IN CNAME .
 7733655.com IN CNAME .
 7733660.com IN CNAME .
+77336622.com IN CNAME .
 77336655.com IN CNAME .
 77336693.com IN CNAME .
 7733670.com IN CNAME .
@@ -66348,6 +66619,7 @@ cdn.6xteam.com IN CNAME .
 773773.vip IN CNAME .
 7737ky.com IN CNAME .
 77381v.com IN CNAME .
+773885b.com IN CNAME .
 77389.org IN CNAME .
 7738ky.com IN CNAME .
 7738n.com IN CNAME .
@@ -66361,6 +66633,7 @@ cdn.6xteam.com IN CNAME .
 773jinbo.com IN CNAME .
 773yb.com IN CNAME .
 774089.com IN CNAME .
+7740b.com IN CNAME .
 7741155.com IN CNAME .
 7741806.com IN CNAME .
 7741n.com IN CNAME .
@@ -67157,6 +67430,7 @@ cdn.6xteam.com IN CNAME .
 77800.org IN CNAME .
 7780666.com IN CNAME .
 77807202.com IN CNAME .
+778077.com IN CNAME .
 7780916.com IN CNAME .
 7780n.com IN CNAME .
 7780t2.com IN CNAME .
@@ -67361,6 +67635,7 @@ cdn.6xteam.com IN CNAME .
 77989v.com IN CNAME .
 7799100.com IN CNAME .
 7799107.com IN CNAME .
+779911.net IN CNAME .
 7799129.com IN CNAME .
 7799150.com IN CNAME .
 7799158.com IN CNAME .
@@ -67702,6 +67977,7 @@ cdn.6xteam.com IN CNAME .
 7835yb.com IN CNAME .
 7836510.com IN CNAME .
 78365bet.com IN CNAME .
+7836a.com IN CNAME .
 7836n.com IN CNAME .
 7836t.com IN CNAME .
 7836yb.com IN CNAME .
@@ -68405,6 +68681,7 @@ cdn.6xteam.com IN CNAME .
 789betg.com IN CNAME .
 789beth.com IN CNAME .
 789betj.com IN CNAME .
+789betk.com IN CNAME .
 789betl.com IN CNAME .
 789betmobi.online IN CNAME .
 789betn.com IN CNAME .
@@ -68776,6 +69053,9 @@ cdn.6xteam.com IN CNAME .
 797035.com IN CNAME .
 7971155.com IN CNAME .
 7971192.com IN CNAME .
+797168a.com IN CNAME .
+797168b.com IN CNAME .
+797168c.com IN CNAME .
 7971n.com IN CNAME .
 7971u.com IN CNAME .
 79722v.com IN CNAME .
@@ -68803,6 +69083,7 @@ cdn.6xteam.com IN CNAME .
 7976t.com IN CNAME .
 7976x.com IN CNAME .
 7977666.com IN CNAME .
+79777.xyz IN CNAME .
 7977kk.com IN CNAME .
 7977m.com IN CNAME .
 7977n.com IN CNAME .
@@ -69151,6 +69432,7 @@ cdn.6xteam.com IN CNAME .
 7c5673.com IN CNAME .
 7c5674.com IN CNAME .
 7c5675.com IN CNAME .
+7ca88.com IN CNAME .
 7clubs.bond IN CNAME .
 7clubs.cfd IN CNAME .
 7clubs.click IN CNAME .
@@ -69271,6 +69553,7 @@ cdn.6xteam.com IN CNAME .
 7ks.vip IN CNAME .
 7l873rudhqklt6fd41722i4lfrghz5.com IN CNAME .
 7lk40im0t7.com IN CNAME .
+7lo8.com IN CNAME .
 7lt.net IN CNAME .
 7melons.ch IN CNAME .
 freelive.7mvn.com IN CNAME .
@@ -69689,6 +69972,7 @@ freelive.7mvn.com IN CNAME .
 8067x.com IN CNAME .
 806806.vip IN CNAME .
 806816.com IN CNAME .
+80688.wang IN CNAME .
 80693.com IN CNAME .
 80693a.com IN CNAME .
 80693b.com IN CNAME .
@@ -69940,6 +70224,7 @@ freelive.7mvn.com IN CNAME .
 81063.org IN CNAME .
 8106888.com IN CNAME .
 8107888.com IN CNAME .
+8107d.com IN CNAME .
 810810.vip IN CNAME .
 8108557.com IN CNAME .
 810868.com IN CNAME .
@@ -70425,6 +70710,7 @@ freelive.7mvn.com IN CNAME .
 81687z.com IN CNAME .
 8168906.com IN CNAME .
 8168t.com IN CNAME .
+8168x.com IN CNAME .
 8169888.com IN CNAME .
 81699v.com IN CNAME .
 8169t.com IN CNAME .
@@ -70589,13 +70875,23 @@ freelive.7mvn.com IN CNAME .
 8181n.com IN CNAME .
 8181sz.com IN CNAME .
 8181vn.com IN CNAME .
+8182100.net IN CNAME .
+8182111.net IN CNAME .
 8182111.xyz IN CNAME .
+8182122.net IN CNAME .
 8182122.xyz IN CNAME .
+8182133.net IN CNAME .
 8182133.xyz IN CNAME .
+8182144.net IN CNAME .
 8182144.xyz IN CNAME .
+8182155.net IN CNAME .
 8182155.xyz IN CNAME .
+8182166.net IN CNAME .
 8182166.xyz IN CNAME .
+8182177.net IN CNAME .
 8182177.xyz IN CNAME .
+8182188.net IN CNAME .
+8182199.net IN CNAME .
 8182199.xyz IN CNAME .
 8182n.com IN CNAME .
 8182p.com IN CNAME .
@@ -70680,6 +70976,7 @@ freelive.7mvn.com IN CNAME .
 8186p.com IN CNAME .
 8186t.com IN CNAME .
 8186x.com IN CNAME .
+81876.wang IN CNAME .
 8187666.com IN CNAME .
 81877v.com IN CNAME .
 8187p.com IN CNAME .
@@ -70989,6 +71286,7 @@ freelive.7mvn.com IN CNAME .
 8205t.com IN CNAME .
 8205vip03.com IN CNAME .
 8205vip05.com IN CNAME .
+8205vip08.com IN CNAME .
 8206d.com IN CNAME .
 8206x.com IN CNAME .
 82070c.com IN CNAME .
@@ -71595,6 +71893,7 @@ freelive.7mvn.com IN CNAME .
 8257v.com IN CNAME .
 825825.vip IN CNAME .
 82588.xyz IN CNAME .
+8258n.com IN CNAME .
 8258t.com IN CNAME .
 8258v.com IN CNAME .
 82594.vip IN CNAME .
@@ -71617,6 +71916,7 @@ freelive.7mvn.com IN CNAME .
 8262n.com IN CNAME .
 8262u.com IN CNAME .
 8262x.com IN CNAME .
+826306.com IN CNAME .
 82634175.com IN CNAME .
 82638.xyz IN CNAME .
 826390.com IN CNAME .
@@ -71739,6 +72039,7 @@ freelive.7mvn.com IN CNAME .
 8275v.com IN CNAME .
 8275x.com IN CNAME .
 82766.org IN CNAME .
+827667.com IN CNAME .
 8276s.com IN CNAME .
 8276t.com IN CNAME .
 827705.com IN CNAME .
@@ -71801,10 +72102,12 @@ freelive.7mvn.com IN CNAME .
 828368.com IN CNAME .
 828382.com IN CNAME .
 828390.com IN CNAME .
+828392.com IN CNAME .
 8283p.com IN CNAME .
 8283t.com IN CNAME .
 8283x.com IN CNAME .
 8284x.com IN CNAME .
+8285n.com IN CNAME .
 8285t.com IN CNAME .
 8285v.com IN CNAME .
 82866s.com IN CNAME .
@@ -71992,6 +72295,7 @@ freelive.7mvn.com IN CNAME .
 83200.com IN CNAME .
 83200su.com IN CNAME .
 8321155.com IN CNAME .
+83214.vip IN CNAME .
 8321s.com IN CNAME .
 8321t.com IN CNAME .
 8321v.com IN CNAME .
@@ -72108,6 +72412,7 @@ freelive.7mvn.com IN CNAME .
 83423.biz IN CNAME .
 834390.com IN CNAME .
 8343x.com IN CNAME .
+834445.com IN CNAME .
 8344s.com IN CNAME .
 8344t.com IN CNAME .
 83475.com IN CNAME .
@@ -72220,6 +72525,7 @@ freelive.7mvn.com IN CNAME .
 8363s.com IN CNAME .
 83649.org IN CNAME .
 8364t.com IN CNAME .
+83655t.com IN CNAME .
 83666.biz IN CNAME .
 83667n.com IN CNAME .
 83669v.com IN CNAME .
@@ -72268,6 +72574,7 @@ freelive.7mvn.com IN CNAME .
 8373v.com IN CNAME .
 8373x.com IN CNAME .
 8374544.com IN CNAME .
+837516.com IN CNAME .
 83752.wang IN CNAME .
 83755t.com IN CNAME .
 8375847.com IN CNAME .
@@ -72276,6 +72583,7 @@ freelive.7mvn.com IN CNAME .
 8376n.com IN CNAME .
 8376t.com IN CNAME .
 83770.vip IN CNAME .
+83777.xyz IN CNAME .
 8377j.com IN CNAME .
 8377t.com IN CNAME .
 8377x.com IN CNAME .
@@ -72296,6 +72604,10 @@ freelive.7mvn.com IN CNAME .
 8380001.com IN CNAME .
 83800su.com IN CNAME .
 83807.org IN CNAME .
+838168.com IN CNAME .
+838168a.com IN CNAME .
+838168b.com IN CNAME .
+838168c.com IN CNAME .
 838183.com IN CNAME .
 8381k.com IN CNAME .
 8381t.com IN CNAME .
@@ -72393,6 +72705,7 @@ freelive.7mvn.com IN CNAME .
 8398n.com IN CNAME .
 8398s.com IN CNAME .
 839917.com IN CNAME .
+839927.com IN CNAME .
 83992v.com IN CNAME .
 83995v.com IN CNAME .
 83999v.com IN CNAME .
@@ -72508,6 +72821,7 @@ freelive.7mvn.com IN CNAME .
 842750.com IN CNAME .
 8427651.com IN CNAME .
 8427t.com IN CNAME .
+84286.wang IN CNAME .
 84292.com IN CNAME .
 842942.com IN CNAME .
 842jinbo.com IN CNAME .
@@ -72894,6 +73208,7 @@ images.847830.com IN CNAME .
 8505yabo.com IN CNAME .
 8506yabo.com IN CNAME .
 8507x.com IN CNAME .
+850839.com IN CNAME .
 850850.vip IN CNAME .
 850879.com IN CNAME .
 8509yabo.com IN CNAME .
@@ -72910,6 +73225,7 @@ images.847830.com IN CNAME .
 85110.org IN CNAME .
 8511155.com IN CNAME .
 85111n.com IN CNAME .
+851137.com IN CNAME .
 8511j.com IN CNAME .
 8511n.com IN CNAME .
 8511s.com IN CNAME .
@@ -72921,6 +73237,7 @@ images.847830.com IN CNAME .
 851302.com IN CNAME .
 85136.vip IN CNAME .
 851370.com IN CNAME .
+851375.com IN CNAME .
 851390.com IN CNAME .
 8513n.com IN CNAME .
 8513t.com IN CNAME .
@@ -72936,10 +73253,12 @@ images.847830.com IN CNAME .
 8517s.com IN CNAME .
 8517t.com IN CNAME .
 8517x.com IN CNAME .
+851832.com IN CNAME .
 8518s.com IN CNAME .
 8518yabo.com IN CNAME .
 8519157.com IN CNAME .
 85192.org IN CNAME .
+851932.com IN CNAME .
 85199v.com IN CNAME .
 8519k.com IN CNAME .
 8519n.com IN CNAME .
@@ -72988,6 +73307,7 @@ images.847830.com IN CNAME .
 852183.com IN CNAME .
 852185.com IN CNAME .
 852192.com IN CNAME .
+852193.com IN CNAME .
 852194.com IN CNAME .
 852197.com IN CNAME .
 8521kk.com IN CNAME .
@@ -73059,6 +73379,7 @@ images.847830.com IN CNAME .
 8533w.com IN CNAME .
 8533y.com IN CNAME .
 8533yabo.com IN CNAME .
+853505.com IN CNAME .
 85355t.com IN CNAME .
 8535a.com IN CNAME .
 8535n.com IN CNAME .
@@ -73294,6 +73615,7 @@ images.847830.com IN CNAME .
 8574t.com IN CNAME .
 8574x.com IN CNAME .
 8574yabo.com IN CNAME .
+857512.com IN CNAME .
 85754.com IN CNAME .
 857555.com IN CNAME .
 8575kk.com IN CNAME .
@@ -73530,6 +73852,7 @@ images.847830.com IN CNAME .
 8619yabo.com IN CNAME .
 861jinbo.com IN CNAME .
 861kb.com IN CNAME .
+861t6.com IN CNAME .
 862004.com IN CNAME .
 86200sc.com IN CNAME .
 86200su.com IN CNAME .
@@ -73789,6 +74112,7 @@ images.847830.com IN CNAME .
 8664s.com IN CNAME .
 8664x.com IN CNAME .
 86652v.com IN CNAME .
+866532.com IN CNAME .
 86655v.com IN CNAME .
 86657n.com IN CNAME .
 86658v.com IN CNAME .
@@ -74044,6 +74368,7 @@ images.847830.com IN CNAME .
 8685050.com IN CNAME .
 8685252.com IN CNAME .
 868529.com IN CNAME .
+86854.wang IN CNAME .
 8685959.com IN CNAME .
 8685kk.com IN CNAME .
 8685s.com IN CNAME .
@@ -74074,6 +74399,7 @@ images.847830.com IN CNAME .
 86882m.com IN CNAME .
 86882n.com IN CNAME .
 86882o.com IN CNAME .
+86882r.com IN CNAME .
 86882s.com IN CNAME .
 86882t.com IN CNAME .
 86882u.com IN CNAME .
@@ -74153,6 +74479,7 @@ images.847830.com IN CNAME .
 8691p.com IN CNAME .
 8691s.com IN CNAME .
 8691x.com IN CNAME .
+869216.com IN CNAME .
 8692n.com IN CNAME .
 8692p.com IN CNAME .
 8692t.com IN CNAME .
@@ -74173,9 +74500,11 @@ images.847830.com IN CNAME .
 86950.bet IN CNAME .
 86951.biz IN CNAME .
 86955.biz IN CNAME .
+86956.wang IN CNAME .
 8695j.com IN CNAME .
 8695t.com IN CNAME .
 869616.com IN CNAME .
+86962.wang IN CNAME .
 8696567.com IN CNAME .
 86969.org IN CNAME .
 8696n.com IN CNAME .
@@ -74540,6 +74869,7 @@ images.847830.com IN CNAME .
 8756yabo.com IN CNAME .
 87574.org IN CNAME .
 8757666.com IN CNAME .
+875799.com IN CNAME .
 8757yabo.com IN CNAME .
 875830.com IN CNAME .
 87588.org IN CNAME .
@@ -74645,6 +74975,7 @@ images.847830.com IN CNAME .
 8777y.com IN CNAME .
 87783v.com IN CNAME .
 8778886.com IN CNAME .
+8778p.com IN CNAME .
 877938.com IN CNAME .
 87796.vip IN CNAME .
 87798v.com IN CNAME .
@@ -74853,6 +75184,7 @@ images.847830.com IN CNAME .
 880868.one IN CNAME .
 880868.vip IN CNAME .
 880879.com IN CNAME .
+8808888.vip IN CNAME .
 8808yabo.com IN CNAME .
 880918.com IN CNAME .
 8809377.com IN CNAME .
@@ -74863,6 +75195,7 @@ images.847830.com IN CNAME .
 8809ks.com IN CNAME .
 8809yabo.com IN CNAME .
 880ae888.com IN CNAME .
+880byc.com IN CNAME .
 880fun.com IN CNAME .
 880jinbo.com IN CNAME .
 880x.app IN CNAME .
@@ -74962,6 +75295,7 @@ images.847830.com IN CNAME .
 8817999.com IN CNAME .
 8817d.com IN CNAME .
 8817w.com IN CNAME .
+88180.wang IN CNAME .
 88183v.com IN CNAME .
 881857.com IN CNAME .
 88189v.com IN CNAME .
@@ -75090,6 +75424,7 @@ images.847830.com IN CNAME .
 8824yabo.com IN CNAME .
 8824zz.com IN CNAME .
 882504.com IN CNAME .
+882548.com IN CNAME .
 8825588.vip IN CNAME .
 88255n.com IN CNAME .
 88259v.com IN CNAME .
@@ -75104,6 +75439,7 @@ images.847830.com IN CNAME .
 8826628.com IN CNAME .
 8826628.net IN CNAME .
 8826688.vip IN CNAME .
+882674.com IN CNAME .
 8826887.com IN CNAME .
 8826d.com IN CNAME .
 8826m.com IN CNAME .
@@ -75151,6 +75487,9 @@ images.847830.com IN CNAME .
 883116.com IN CNAME .
 88313v.com IN CNAME .
 88315v.com IN CNAME .
+883168a.com IN CNAME .
+883168b.com IN CNAME .
+883168c.com IN CNAME .
 88317v.com IN CNAME .
 88318v.com IN CNAME .
 88319k.com IN CNAME .
@@ -75161,6 +75500,10 @@ images.847830.com IN CNAME .
 8831yabo.com IN CNAME .
 8832000.com IN CNAME .
 8832019.com IN CNAME .
+883225a.com IN CNAME .
+883225b.com IN CNAME .
+883226a.com IN CNAME .
+883226b.com IN CNAME .
 883226c.com IN CNAME .
 883227a.com IN CNAME .
 883227b.com IN CNAME .
@@ -75348,6 +75691,7 @@ images.847830.com IN CNAME .
 885452.com IN CNAME .
 885477.com IN CNAME .
 88549.org IN CNAME .
+885511.net IN CNAME .
 8855193.com IN CNAME .
 88552.org IN CNAME .
 88553v.com IN CNAME .
@@ -76189,6 +76533,7 @@ images.847830.com IN CNAME .
 888b.cfd IN CNAME .
 888b.com IN CNAME .
 888b.dev IN CNAME .
+888b.in IN CNAME .
 888b.me IN CNAME .
 888b.moe IN CNAME .
 888b.mom IN CNAME .
@@ -76495,6 +76840,8 @@ slots.888wetten.de IN CNAME .
 88funsport.com IN CNAME .
 88g01.com IN CNAME .
 88g02.com IN CNAME .
+88g03.com IN CNAME .
+88g04.com IN CNAME .
 88gobet.com IN CNAME .
 88h.bet IN CNAME .
 88h6e.com IN CNAME .
@@ -76603,6 +76950,7 @@ slots.888wetten.de IN CNAME .
 88uu.com IN CNAME .
 88uu.love IN CNAME .
 88uu.online IN CNAME .
+88uu.pro IN CNAME .
 88uu940.com IN CNAME .
 88uufb.com IN CNAME .
 88uuios.com IN CNAME .
@@ -76655,6 +77003,7 @@ slots.888wetten.de IN CNAME .
 88vwin.com IN CNAME .
 88w01.com IN CNAME .
 88w37a.com IN CNAME .
+88w63g.com IN CNAME .
 88w735.com IN CNAME .
 88w967.com IN CNAME .
 88w98r.com IN CNAME .
@@ -76835,6 +77184,7 @@ slots.888wetten.de IN CNAME .
 891yb.com IN CNAME .
 8920029.com IN CNAME .
 8920033.com IN CNAME .
+8920079.com IN CNAME .
 89200sc.com IN CNAME .
 89200su.com IN CNAME .
 892042.com IN CNAME .
@@ -76868,6 +77218,7 @@ slots.888wetten.de IN CNAME .
 8925p.com IN CNAME .
 8925s.com IN CNAME .
 8925x.com IN CNAME .
+89260.wang IN CNAME .
 8926263.com IN CNAME .
 8926315.com IN CNAME .
 8926d.com IN CNAME .
@@ -77062,7 +77413,9 @@ slots.888wetten.de IN CNAME .
 895cp0.com IN CNAME .
 895cp1.com IN CNAME .
 895cp2.com IN CNAME .
+895cp4.com IN CNAME .
 895cp5.com IN CNAME .
+895cp6.com IN CNAME .
 895cp9.com IN CNAME .
 895ds.com IN CNAME .
 895jinbo.com IN CNAME .
@@ -77143,6 +77496,7 @@ slots.888wetten.de IN CNAME .
 8976t.com IN CNAME .
 8976yabo.com IN CNAME .
 8977111.com IN CNAME .
+89777.xyz IN CNAME .
 897799.com IN CNAME .
 8977m.com IN CNAME .
 8977y.com IN CNAME .
@@ -77259,6 +77613,9 @@ slots.888wetten.de IN CNAME .
 898899f.com IN CNAME .
 8988d.com IN CNAME .
 8988dh.com IN CNAME .
+8988r.com IN CNAME .
+8988t.com IN CNAME .
+8988x.com IN CNAME .
 8989-hh.win IN CNAME .
 8989022.com IN CNAME .
 89890606.com IN CNAME .
@@ -77342,6 +77699,7 @@ slots.888wetten.de IN CNAME .
 8995h.com IN CNAME .
 8995n.com IN CNAME .
 8995s.com IN CNAME .
+8995t.com IN CNAME .
 8995v.com IN CNAME .
 8995yabo.com IN CNAME .
 8996.site IN CNAME .
@@ -77368,6 +77726,7 @@ slots.888wetten.de IN CNAME .
 89986s.com IN CNAME .
 89986v.com IN CNAME .
 89989s.com IN CNAME .
+8998p.com IN CNAME .
 8998t.com IN CNAME .
 8998y.com IN CNAME .
 8999.bio IN CNAME .
@@ -77440,6 +77799,7 @@ slots.888wetten.de IN CNAME .
 8bm44j.com IN CNAME .
 8boapp.com IN CNAME .
 8bob.top IN CNAME .
+8bp54.com IN CNAME .
 8casinos.com IN CNAME .
 8cknb.com IN CNAME .
 8daily8.com IN CNAME .
@@ -77682,6 +78042,7 @@ slots.888wetten.de IN CNAME .
 8kbet.fun IN CNAME .
 8kbet.shop IN CNAME .
 8kbet.store IN CNAME .
+8kbet.top IN CNAME .
 8kbet.website IN CNAME .
 8kbet01.com IN CNAME .
 8kbet04.com IN CNAME .
@@ -77701,6 +78062,7 @@ slots.888wetten.de IN CNAME .
 8kbet38.com IN CNAME .
 8kbet68.com IN CNAME .
 8kbet6868.com IN CNAME .
+8kbet86.com IN CNAME .
 8kbet868.com IN CNAME .
 8kbet88.net IN CNAME .
 8kbet888.com IN CNAME .
@@ -78511,6 +78873,7 @@ slots.888wetten.de IN CNAME .
 9014x.com IN CNAME .
 9014yabo.com IN CNAME .
 9015588.com IN CNAME .
+90156.wang IN CNAME .
 9015x.com IN CNAME .
 901654.com IN CNAME .
 9016a.com IN CNAME .
@@ -78696,6 +79059,7 @@ slots.888wetten.de IN CNAME .
 9076yabo.com IN CNAME .
 9077.vip IN CNAME .
 9077077.com IN CNAME .
+90777.xyz IN CNAME .
 9077v.com IN CNAME .
 9077x.com IN CNAME .
 9077yabo.com IN CNAME .
@@ -78794,6 +79158,8 @@ slots.888wetten.de IN CNAME .
 9096543.com IN CNAME .
 90976.shop IN CNAME .
 9097t.com IN CNAME .
+909876a.com IN CNAME .
+909876b.com IN CNAME .
 9099064.com IN CNAME .
 90998.bid IN CNAME .
 90998.org IN CNAME .
@@ -78988,6 +79354,7 @@ slots.888wetten.de IN CNAME .
 9112yabo.com IN CNAME .
 91132.vip IN CNAME .
 911323.com IN CNAME .
+911325.com IN CNAME .
 911329.com IN CNAME .
 91136.org IN CNAME .
 9113n.com IN CNAME .
@@ -79109,6 +79476,7 @@ slots.888wetten.de IN CNAME .
 9141679.com IN CNAME .
 9141t.com IN CNAME .
 9141yabo.com IN CNAME .
+91423.vip IN CNAME .
 9142t.com IN CNAME .
 9142yabo.com IN CNAME .
 91433.org IN CNAME .
@@ -79193,6 +79561,7 @@ slots.888wetten.de IN CNAME .
 915081.com IN CNAME .
 9150t.com IN CNAME .
 9150x.com IN CNAME .
+91510.vip IN CNAME .
 9151155.com IN CNAME .
 91512.org IN CNAME .
 9151n.com IN CNAME .
@@ -79380,6 +79749,7 @@ slots.888wetten.de IN CNAME .
 9186.fun IN CNAME .
 9186x.com IN CNAME .
 9186yabo.com IN CNAME .
+918729.com IN CNAME .
 9187yabo.com IN CNAME .
 91885n.com IN CNAME .
 91888.net IN CNAME .
@@ -79790,6 +80160,7 @@ slots.888wetten.de IN CNAME .
 91d31.com IN CNAME .
 91d55.com IN CNAME .
 91d69.com IN CNAME .
+91d85.com IN CNAME .
 91d99.com IN CNAME .
 91dapai.cn IN CNAME .
 91hthg.com IN CNAME .
@@ -79841,6 +80212,7 @@ slots.888wetten.de IN CNAME .
 921.voto IN CNAME .
 921004.com IN CNAME .
 92100sc.com IN CNAME .
+92107.vip IN CNAME .
 9210x.com IN CNAME .
 9210yabo.com IN CNAME .
 9211155.com IN CNAME .
@@ -79887,6 +80259,7 @@ slots.888wetten.de IN CNAME .
 9221155.com IN CNAME .
 92217v.com IN CNAME .
 9221s.com IN CNAME .
+9221t.com IN CNAME .
 9221v.com IN CNAME .
 9222123.com IN CNAME .
 92221n.com IN CNAME .
@@ -79973,13 +80346,18 @@ slots.888wetten.de IN CNAME .
 9223x.com IN CNAME .
 9223yabo.com IN CNAME .
 92244.biz IN CNAME .
+922501.com IN CNAME .
 9225432.com IN CNAME .
 922557.cn IN CNAME .
 92257v.com IN CNAME .
+922595.com IN CNAME .
 9225yabo.com IN CNAME .
+922623.com IN CNAME .
+922695.com IN CNAME .
 9226a.com IN CNAME .
 9226j.com IN CNAME .
 9226yabo.com IN CNAME .
+922726.com IN CNAME .
 9227n.com IN CNAME .
 9227p.com IN CNAME .
 9227yabo.com IN CNAME .
@@ -80030,6 +80408,7 @@ slots.888wetten.de IN CNAME .
 9233s.com IN CNAME .
 9233t.com IN CNAME .
 9234.wang IN CNAME .
+923491.com IN CNAME .
 9234v.com IN CNAME .
 923577.com IN CNAME .
 9235t.com IN CNAME .
@@ -80138,6 +80517,7 @@ slots.888wetten.de IN CNAME .
 92551.org IN CNAME .
 92552v.com IN CNAME .
 92553v.com IN CNAME .
+925578.com IN CNAME .
 92557v.com IN CNAME .
 92558v.com IN CNAME .
 92559v.com IN CNAME .
@@ -80299,6 +80679,7 @@ slots.888wetten.de IN CNAME .
 9276s.com IN CNAME .
 92772.vip IN CNAME .
 92772v.com IN CNAME .
+92777.xyz IN CNAME .
 92779.com IN CNAME .
 9277j.com IN CNAME .
 9277m.com IN CNAME .
@@ -80328,6 +80709,9 @@ slots.888wetten.de IN CNAME .
 9281x.com IN CNAME .
 9282222.com IN CNAME .
 92824.net IN CNAME .
+9282aa.com IN CNAME .
+9282bb.com IN CNAME .
+9282e.com IN CNAME .
 92837.bet IN CNAME .
 92837.com IN CNAME .
 9283772.com IN CNAME .
@@ -80382,6 +80766,8 @@ slots.888wetten.de IN CNAME .
 9290yabo.com IN CNAME .
 9291111.com IN CNAME .
 9291155.com IN CNAME .
+929168a.com IN CNAME .
+929168b.com IN CNAME .
 929168c.com IN CNAME .
 9291n.com IN CNAME .
 9291t.com IN CNAME .
@@ -81367,6 +81753,7 @@ slots.888wetten.de IN CNAME .
 9423t.com IN CNAME .
 94246.biz IN CNAME .
 9424yabo.com IN CNAME .
+9425cca.com IN CNAME .
 9425x.com IN CNAME .
 94264.org IN CNAME .
 94265.top IN CNAME .
@@ -81484,6 +81871,7 @@ slots.888wetten.de IN CNAME .
 9462x.com IN CNAME .
 94635.org IN CNAME .
 9463t.com IN CNAME .
+9463x.com IN CNAME .
 94644.org IN CNAME .
 9464t.com IN CNAME .
 9465114.com IN CNAME .
@@ -81516,6 +81904,7 @@ slots.888wetten.de IN CNAME .
 9473x.com IN CNAME .
 947451.vip IN CNAME .
 947454.com IN CNAME .
+9474892.com IN CNAME .
 9476555.com IN CNAME .
 9477.us IN CNAME .
 94774.org IN CNAME .
@@ -81955,6 +82344,7 @@ slots.888wetten.de IN CNAME .
 95600sc.com IN CNAME .
 95611hb.app IN CNAME .
 95611hd.app IN CNAME .
+9561a.com IN CNAME .
 9561n.com IN CNAME .
 9561x.com IN CNAME .
 95621a.com IN CNAME .
@@ -81962,6 +82352,7 @@ slots.888wetten.de IN CNAME .
 9562s.com IN CNAME .
 9562x.com IN CNAME .
 95633.vip IN CNAME .
+9563a.com IN CNAME .
 9563k.com IN CNAME .
 956512.com IN CNAME .
 95652a.com IN CNAME .
@@ -82045,6 +82436,7 @@ slots.888wetten.de IN CNAME .
 9582s.com IN CNAME .
 9582w.com IN CNAME .
 9582x.com IN CNAME .
+95831.biz IN CNAME .
 9583k.com IN CNAME .
 9583kk.com IN CNAME .
 9583t.com IN CNAME .
@@ -82348,6 +82740,7 @@ slots.888wetten.de IN CNAME .
 96312.site IN CNAME .
 963175.com IN CNAME .
 9631999.com IN CNAME .
+9631a.com IN CNAME .
 9631j.com IN CNAME .
 9631n.com IN CNAME .
 9631t.com IN CNAME .
@@ -82548,6 +82941,7 @@ slots.888wetten.de IN CNAME .
 9671x.com IN CNAME .
 9672t.com IN CNAME .
 9672x.com IN CNAME .
+967322.com IN CNAME .
 96736.vip IN CNAME .
 96737.org IN CNAME .
 967392.org IN CNAME .
@@ -82556,6 +82950,7 @@ slots.888wetten.de IN CNAME .
 9673x.com IN CNAME .
 967448.cool IN CNAME .
 9674x.com IN CNAME .
+967566.com IN CNAME .
 9675kk.com IN CNAME .
 96766v.com IN CNAME .
 9676n.com IN CNAME .
@@ -82577,6 +82972,7 @@ slots.888wetten.de IN CNAME .
 9679004.com IN CNAME .
 9679006.com IN CNAME .
 9679007.com IN CNAME .
+96791.win IN CNAME .
 9679100.com IN CNAME .
 9679200.com IN CNAME .
 9679300.com IN CNAME .
@@ -82642,6 +83038,7 @@ slots.888wetten.de IN CNAME .
 9686999.com IN CNAME .
 9686t.com IN CNAME .
 9686x.com IN CNAME .
+96872.vip IN CNAME .
 968755n.com IN CNAME .
 9687n.com IN CNAME .
 9687s.com IN CNAME .
@@ -82765,6 +83162,7 @@ slots.888wetten.de IN CNAME .
 971656.com IN CNAME .
 97167.com IN CNAME .
 9716x.com IN CNAME .
+971766.com IN CNAME .
 9717t.com IN CNAME .
 97181.org IN CNAME .
 971858.com IN CNAME .
@@ -82805,6 +83203,7 @@ slots.888wetten.de IN CNAME .
 9722x.com IN CNAME .
 9723n.com IN CNAME .
 9723x.com IN CNAME .
+972483.com IN CNAME .
 9725588.com IN CNAME .
 9725n.com IN CNAME .
 9725s.com IN CNAME .
@@ -82902,6 +83301,7 @@ slots.888wetten.de IN CNAME .
 975340vip.net IN CNAME .
 9753kk.com IN CNAME .
 9753x.com IN CNAME .
+97552.vip IN CNAME .
 975544.com IN CNAME .
 9755s.com IN CNAME .
 9755v.com IN CNAME .
@@ -83535,6 +83935,7 @@ slots.888wetten.de IN CNAME .
 97df.bet IN CNAME .
 97jkd29mf.vip IN CNAME .
 97k66.com IN CNAME .
+97mx3b.com IN CNAME .
 97p456.com IN CNAME .
 97rro.com IN CNAME .
 97v47a.com IN CNAME .
@@ -83693,6 +84094,7 @@ slots.888wetten.de IN CNAME .
 9833x.com IN CNAME .
 98346.top IN CNAME .
 9834kk.com IN CNAME .
+9835.me IN CNAME .
 983504.com IN CNAME .
 9835935.com IN CNAME .
 9835s.com IN CNAME .
@@ -84048,6 +84450,7 @@ slots.888wetten.de IN CNAME .
 9880t.com IN CNAME .
 9881155.com IN CNAME .
 9881368.com IN CNAME .
+988158.com IN CNAME .
 98816v.com IN CNAME .
 9881b.com IN CNAME .
 9881h.com IN CNAME .
@@ -84057,9 +84460,12 @@ slots.888wetten.de IN CNAME .
 9882226.com IN CNAME .
 98826.wang IN CNAME .
 98827v.com IN CNAME .
+9882t.com IN CNAME .
 9882w.com IN CNAME .
 98832v.com IN CNAME .
+988337.com IN CNAME .
 98833a.com IN CNAME .
+98833b.com IN CNAME .
 98833c.com IN CNAME .
 98833d.com IN CNAME .
 98833e.com IN CNAME .
@@ -84418,6 +84824,7 @@ slots.888wetten.de IN CNAME .
 98wnsr.com IN CNAME .
 98yabo.com IN CNAME .
 98yd.org IN CNAME .
+98yy3.com IN CNAME .
 98z6.net IN CNAME .
 99000.com IN CNAME .
 99000sc.com IN CNAME .
@@ -84512,6 +84919,8 @@ slots.888wetten.de IN CNAME .
 99113x.com IN CNAME .
 99113y.com IN CNAME .
 99113z.com IN CNAME .
+991155.net IN CNAME .
+991166.net IN CNAME .
 9911696.com IN CNAME .
 99117076.com IN CNAME .
 991177.net IN CNAME .
@@ -84644,6 +85053,7 @@ slots.888wetten.de IN CNAME .
 99286v.com IN CNAME .
 99288v.com IN CNAME .
 9928y.com IN CNAME .
+992915.com IN CNAME .
 9929666.com IN CNAME .
 99298v.com IN CNAME .
 9929b.com IN CNAME .
@@ -84713,8 +85123,10 @@ slots.888wetten.de IN CNAME .
 9936x.com IN CNAME .
 99371v.com IN CNAME .
 99372v.com IN CNAME .
+993731.com IN CNAME .
 99373v.com IN CNAME .
 9937548.com IN CNAME .
+993769.com IN CNAME .
 99376v.com IN CNAME .
 99377v.com IN CNAME .
 99378.vip IN CNAME .
@@ -84825,6 +85237,7 @@ slots.888wetten.de IN CNAME .
 99500sc.com IN CNAME .
 9950168.com IN CNAME .
 995077.com IN CNAME .
+995086.com IN CNAME .
 9950999.com IN CNAME .
 9951155.com IN CNAME .
 995133.com IN CNAME .
@@ -85046,6 +85459,7 @@ slots.888wetten.de IN CNAME .
 99770.org IN CNAME .
 99771v.com IN CNAME .
 99772.org IN CNAME .
+997722.net IN CNAME .
 99772x.com IN CNAME .
 997733.net IN CNAME .
 99773355.com IN CNAME .
@@ -85550,6 +85964,7 @@ slots.888wetten.de IN CNAME .
 99bjl2xz.com IN CNAME .
 99bjl888.com IN CNAME .
 99bjl9.vip IN CNAME .
+99bjlhd.com IN CNAME .
 99bjlxz.com IN CNAME .
 99bola.asia IN CNAME .
 99bookmakers.com IN CNAME .
@@ -85788,6 +86203,7 @@ play-googgle-com.9fiftytwo.top IN CNAME .
 9r7t.com IN CNAME .
 9rbet.com IN CNAME .
 9rdf.com IN CNAME .
+9rehi.com IN CNAME .
 9rptg.com IN CNAME .
 9rth.com IN CNAME .
 9ruy.com IN CNAME .
@@ -85845,6 +86261,9 @@ play-googgle-com.9fiftytwo.top IN CNAME .
 9yh633.com IN CNAME .
 9yh953.com IN CNAME .
 9yh956.com IN CNAME .
+9yh982.com IN CNAME .
+9yh986.com IN CNAME .
+9yh988.com IN CNAME .
 9yhp.com IN CNAME .
 9yme.com IN CNAME .
 9z6.vip IN CNAME .
@@ -85912,6 +86331,7 @@ a1casino.com IN CNAME .
 a1j53k1l.vip IN CNAME .
 a1vegas.com IN CNAME .
 a1xbet.ru IN CNAME .
+a1xpe.com IN CNAME .
 a2082.com IN CNAME .
 a2087.com IN CNAME .
 a22261.com IN CNAME .
@@ -85933,6 +86353,7 @@ a23999.com IN CNAME .
 a2523a.com IN CNAME .
 a2567.com IN CNAME .
 a27325.com IN CNAME .
+a2a3vip.com IN CNAME .
 a2hey.com IN CNAME .
 a2vku.com IN CNAME .
 a3037.com IN CNAME .
@@ -85974,6 +86395,13 @@ a4188.com IN CNAME .
 a4223.com IN CNAME .
 a4224.com IN CNAME .
 a426ay.com IN CNAME .
+a43370.com IN CNAME .
+a43371.com IN CNAME .
+a43372.com IN CNAME .
+a43374.com IN CNAME .
+a43375.com IN CNAME .
+a43376.com IN CNAME .
+a43377.com IN CNAME .
 a43379.com IN CNAME .
 a4474.com IN CNAME .
 a4551.com IN CNAME .
@@ -85985,6 +86413,7 @@ a4etwk6a8q.com IN CNAME .
 a4g1sgs1g.life IN CNAME .
 a4w4ntsz.com IN CNAME .
 a5002.com IN CNAME .
+a5068.com IN CNAME .
 a5286.com IN CNAME .
 a5334.com IN CNAME .
 a5421.vip IN CNAME .
@@ -86214,6 +86643,7 @@ aabb68.com IN CNAME .
 aablv.win IN CNAME .
 aac888.com IN CNAME .
 aahg7788.com IN CNAME .
+aai365.com IN CNAME .
 aaoexcmaplz.com IN CNAME .
 aaqer.net IN CNAME .
 aarr888.com IN CNAME .
@@ -87739,6 +88169,7 @@ arena369.live IN CNAME .
 arena77.biz IN CNAME .
 arena777.biz IN CNAME .
 arenabetting.com IN CNAME .
+arenaplus.net IN CNAME .
 arenasbet.com IN CNAME .
 arenaslot.info IN CNAME .
 aresbet609.com IN CNAME .
@@ -90891,6 +91322,7 @@ ballchockdee.com IN CNAME .
 balldee2022.com IN CNAME .
 ballebaazi.com IN CNAME .
 ballhengheng.com IN CNAME .
+ballhunter.pro IN CNAME .
 ballkeela.com IN CNAME .
 balllok2022.com IN CNAME .
 ballloknews.com IN CNAME .
@@ -92954,6 +93386,7 @@ betpipo374.com IN CNAME .
 betpipo375.com IN CNAME .
 betpipo379.com IN CNAME .
 betpipo380.com IN CNAME .
+betpix88.com IN CNAME .
 betplatinum.ag IN CNAME .
 betplay.com IN CNAME .
 betpo.app IN CNAME .
@@ -93011,6 +93444,7 @@ betroom24.com IN CNAME .
 betroyal.com IN CNAME .
 betru.com IN CNAME .
 betru.ru IN CNAME .
+bets.io IN CNAME .
 bets.net IN CNAME .
 bets.pl IN CNAME .
 bets-gg.net IN CNAME .
@@ -93752,6 +94186,7 @@ bingola.com IN CNAME .
 bingoloft.com IN CNAME .
 bingoonnet.net IN CNAME .
 bingopalace.com IN CNAME .
+bingoplus.com IN CNAME .
 bingoplus777.com IN CNAME .
 bingoscotland.net IN CNAME .
 bingoslot.biz IN CNAME .
@@ -99086,6 +99521,7 @@ casion-casino.com IN CNAME .
 fi.casiplay.com IN CNAME .
 casitsu.com IN CNAME .
 casitu.com IN CNAME .
+casiwinner.com IN CNAME .
 casollo.com IN CNAME .
 casoo.com IN CNAME .
 caspo777.city IN CNAME .
@@ -100287,6 +100723,7 @@ bookmaker-ratings.com.ua IN CNAME .
 bwin.com.ar IN CNAME .
 cashsweep.com.my IN CNAME .
 casinoonline.com.ph IN CNAME .
+casinoplus.com.ph IN CNAME .
 codere.com.co IN CNAME .
 completesportsbetting.com.au IN CNAME .
 cosmolot24.com.ua IN CNAME .
@@ -102114,6 +102551,7 @@ ddzchina.net IN CNAME .
 de-1xbet.com IN CNAME .
 de1852.com IN CNAME .
 de5604.com IN CNAME .
+dea03p90.com IN CNAME .
 deadhomersociety.com IN CNAME .
 dealerscasino.com IN CNAME .
 debet.club IN CNAME .
@@ -104080,6 +104518,7 @@ efqyy.win IN CNAME .
 efrs4562f.online IN CNAME .
 efrs4562f.xyz IN CNAME .
 eg0001.com IN CNAME .
+egamescasino.ph IN CNAME .
 egamingonline.com IN CNAME .
 egb99.com IN CNAME .
 egdeu.com IN CNAME .
@@ -108006,6 +108445,7 @@ gacorinaja.com IN CNAME .
 gadogado198.com IN CNAME .
 3m.gaejkse.com IN CNAME .
 gaengsom.com IN CNAME .
+slot.gagle.io IN CNAME .
 gagner-blackjack.com IN CNAME .
 gagnerauxcasinos.com IN CNAME .
 gagnez-argent.org IN CNAME .
@@ -108604,6 +109044,7 @@ gentingcasino.com IN CNAME .
 gentingxl.com IN CNAME .
 genvip88.com IN CNAME .
 genvipios.com IN CNAME .
+genvipios2023.com IN CNAME .
 genvipweb2023.com IN CNAME .
 genybet.fr IN CNAME .
 geobet.com IN CNAME .
@@ -108967,6 +109408,7 @@ giaitri.fun IN CNAME .
 giaitri.tv IN CNAME .
 giaitri09.com IN CNAME .
 giaitriluke.com IN CNAME .
+giaitrinet88.live IN CNAME .
 giantlottos.com IN CNAME .
 giantmi.xyz IN CNAME .
 giantsports.org IN CNAME .
@@ -109753,6 +110195,7 @@ gvcw2.com IN CNAME .
 gve2.com IN CNAME .
 gve3.com IN CNAME .
 gvfgs.com IN CNAME .
+gviralnews.com IN CNAME .
 gvn3.com IN CNAME .
 gvntj.com IN CNAME .
 gvprv.com IN CNAME .
@@ -114932,6 +115375,7 @@ iwildcasino.com IN CNAME .
 iwildcasino3.eu IN CNAME .
 iwildcasino4.eu IN CNAME .
 iwildcasino5.eu IN CNAME .
+iwildcasino6.eu IN CNAME .
 iwin.club IN CNAME .
 iwin.com IN CNAME .
 iwin.info IN CNAME .
@@ -117701,6 +118145,7 @@ joycasino777.ru IN CNAME .
 joycasino8463.ru IN CNAME .
 joycasino9ntl.top IN CNAME .
 joycasinokazino.ru IN CNAME .
+joycasinonight.ru IN CNAME .
 joycasinoo3.ru IN CNAME .
 joycasinoplatinum.ru IN CNAME .
 joycasinoplayx.top IN CNAME .
@@ -124256,6 +124701,7 @@ laiting120.com IN CNAME .
 laixin66.com IN CNAME .
 laiyishuo.com IN CNAME .
 lakepalace.com IN CNAME .
+lala.bet IN CNAME .
 lalawager.com IN CNAME .
 lambada-tx1app.fun IN CNAME .
 lanadas.com IN CNAME .
@@ -126280,6 +126726,7 @@ m9gf8rx.com IN CNAME .
 m9k9u.com IN CNAME .
 m9u6s.com IN CNAME .
 m9v83.com IN CNAME .
+m9wer.com IN CNAME .
 ma-1xbet.com IN CNAME .
 ma1565.com IN CNAME .
 mabar138.asia IN CNAME .
@@ -126411,6 +126858,7 @@ mama-system.com IN CNAME .
 mamamiabingo.com IN CNAME .
 man.club IN CNAME .
 man1.club IN CNAME .
+man79.org IN CNAME .
 manager82.com IN CNAME .
 manasbotop.com IN CNAME .
 manbet111.com IN CNAME .
@@ -126689,6 +127137,13 @@ mc182.com IN CNAME .
 mc184.com IN CNAME .
 mc546.com IN CNAME .
 mc77.io IN CNAME .
+gatewayapi.mc7799.xyz IN CNAME .
+livestream.mc7799.xyz IN CNAME .
+minigame.mc7799.xyz IN CNAME .
+portal.mc7799.xyz IN CNAME .
+slot.mc7799.xyz IN CNAME .
+tlmn.mc7799.xyz IN CNAME .
+wspay.mc7799.xyz IN CNAME .
 mc876.com IN CNAME .
 mcasinobet.com IN CNAME .
 mcat68.com IN CNAME .
@@ -132455,6 +132910,7 @@ perfecttlos.com IN CNAME .
 perform-casino.com IN CNAME .
 perneiyi.com IN CNAME .
 perpa88.com IN CNAME .
+peryagame.com IN CNAME .
 peso.win IN CNAME .
 peso24.com IN CNAME .
 peso4.com IN CNAME .
@@ -133699,6 +134155,7 @@ playwetten.com IN CNAME .
 playwetten.partners IN CNAME .
 playwinningpoker.com IN CNAME .
 playworldcup.com IN CNAME .
+playzone.vip IN CNAME .
 playzoo99.com IN CNAME .
 plazabet.site IN CNAME .
 plc5kg7bubuallbigcu2.com IN CNAME .
@@ -136890,6 +137347,9 @@ royalvegas.com IN CNAME .
 royalvegascasino.com IN CNAME .
 royalvegaspoker.com IN CNAME .
 royrichie.com IN CNAME .
+royspins.com IN CNAME .
+royspins1.com IN CNAME .
+royspins2.com IN CNAME .
 rp3sk.com IN CNAME .
 rpg99bet.com IN CNAME .
 rpq2h.com IN CNAME .
@@ -136973,6 +137433,7 @@ rtw6m.com IN CNAME .
 rtwtywe.asia IN CNAME .
 ru-1xbet.com IN CNAME .
 ru1xbet.com IN CNAME .
+ru1xslots-3340.ru IN CNAME .
 ru2u03u6vu4.com IN CNAME .
 ag.ru888.net IN CNAME .
 ru9ggret545.com IN CNAME .
@@ -139229,6 +139690,10 @@ smtlm865.com IN CNAME .
 snabbare.com IN CNAME .
 snabbarecasinobonus.com IN CNAME .
 snai.it IN CNAME .
+snatchcasino.com IN CNAME .
+snatchcasino1.com IN CNAME .
+snatchcasino5.eu IN CNAME .
+snatchcasino6.eu IN CNAME .
 snbchf.com IN CNAME .
 snjh.vip IN CNAME .
 snjh8.com IN CNAME .
@@ -139388,6 +139853,10 @@ spinprincess.com IN CNAME .
 spinrider.com IN CNAME .
 eu.spinsamba.com IN CNAME .
 spinsamurai.com IN CNAME .
+spinsbro.com IN CNAME .
+spinsbro1.com IN CNAME .
+spinsbro2.com IN CNAME .
+spinsbro4.com IN CNAME .
 spinson.com IN CNAME .
 spinstation.com IN CNAME .
 spintropolis.com IN CNAME .
@@ -141204,6 +141673,7 @@ taido99.win IN CNAME .
 taifunthai.com IN CNAME .
 taigame789.club IN CNAME .
 taigamebaivn.com IN CNAME .
+taigamehay.site IN CNAME .
 taigamehot.pro IN CNAME .
 taigamesunwin.vin IN CNAME .
 taigem79.net IN CNAME .
@@ -142752,6 +143222,7 @@ triple-a-casino.com IN CNAME .
 triple15.com IN CNAME .
 triplecrown-sports.com IN CNAME .
 triplecsport.com IN CNAME .
+tripledg.com IN CNAME .
 mr302sgirl.tripod.com IN CNAME .
 trjwx.win IN CNAME .
 trkcpamedia.com IN CNAME .
@@ -146508,6 +146979,7 @@ vn097.com IN CNAME .
 vn10000.com IN CNAME .
 vn123.me IN CNAME .
 vn123456.com IN CNAME .
+vn123ab.com IN CNAME .
 vn1289.com IN CNAME .
 vn1290.com IN CNAME .
 vn12b.com IN CNAME .
@@ -149397,6 +149869,7 @@ wiuiip18g.yachts IN CNAME .
 wixstars.com IN CNAME .
 wizaim.xyz IN CNAME .
 wizardofodds.com IN CNAME .
+wizebets.com IN CNAME .
 wj8956.vip IN CNAME .
 wj9dor.vip IN CNAME .
 wjebhv10j.yachts IN CNAME .
