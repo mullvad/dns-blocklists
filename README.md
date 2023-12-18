@@ -78,9 +78,9 @@ We currently use these gambling blocklists with our service:
 
 ### Social media
 
-We currently generate our own Social media blocklists for the Encrypted DNS service, not VPN servers.
+We generate our Social Media block lists from scripts located in `scripts/`
 
-You can find all the URLs in `inventory/group_vars/all.yml`
+You can find the generated file in `files/social`
 
 ### Malware
 
@@ -89,8 +89,6 @@ We currently use this malware content blocklist for our service:
 
 
 ## Pull requests / Issues / Updating block lists
-
-We really welcome your feedback for lists to use for blocking! We cannot action them all individually, but we will read them. This is an actively worked on project and we **will** take into consideration all of your requests, even if we do not reply to them. 
 
 We prefer to not block individual custom URLs or add block lists without them being fully validated and verified first. Please consider pointing us toward a reputable block list prior to making a Github Issue. 
 
@@ -186,7 +184,7 @@ The output files located in `output/relay/` are what are imported onto our VPN s
 
 ## Requirements
 - Ansible Core 2.14.x =<
-- Qubes OS
+- Qubes OS DispVM
 
 ## Step by step
 
