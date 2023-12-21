@@ -1,0 +1,37 @@
+---
+name: Reporting false positives
+description: This form is to report false positives in our DNS block lists.
+labels: 
+  - bug
+  - report
+  
+body:
+
+  - type: markdown
+    attributes:
+      value: >
+        Thank you for wanting to help us improve our DNS block lists by reporting issues.
+
+  - type: checkboxes
+    id: reported-upstream
+    attributes:
+      label: Tried reporting upstream already?
+      description: >
+        If the URL you wish to report exists in an upstream block list,
+        ensure you have attempted to contact the repository owner directly.
+      options:
+        - label: I have attempted already, but to no avail.
+          required: true
+
+  - type: textarea
+    id: desired-urls
+    attributes:
+      label: What are the desired URLs to be unblocked?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Is there any additional information that you can provide?

@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and issues not directly related to our DNS block lists
+    about: >
+      If your question is not related to our DNS block lists specifically,
+      please contact our Support Team by email or visit our help center
+      at https://mullvad.net/help instead of filing an issue.
+    url: https://mullvad.net/help

@@ -1,0 +1,37 @@
+---
+name: More technical help required
+description: This form is to ask for extra support regarding our DNS block lists and DNS services
+labels: 
+  - support
+  - report
+  
+body:
+
+  - type: markdown
+    attributes:
+      value: Thank you for wanting to help us improve our DNS services by reporting issues.
+
+  - type: checkboxes
+    id: asked-support-team
+    attributes:
+      label: Have you contacted the Support Team already?
+      description: >
+        The optimal course of action is to contact our Support Team by email.
+        Prior to asking a question about DNS server specifics, please ensure you troubleshoot
+        with them directly. https://mullvad.net/help
+      options:
+        - label: I have attempted already, but to no avail, or they pointed me here.
+          required: true
+
+  - type: textarea
+    id: issues-experienced
+    attributes:
+      label: What are the issues you need support with?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Is there any additional information that you can provide?
