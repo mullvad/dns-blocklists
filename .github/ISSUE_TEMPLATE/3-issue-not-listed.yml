@@ -1,0 +1,36 @@
+---
+name: My issue is not listed
+description: This form is to ask about issues not listed, after checking with our Support Team
+labels: 
+  - support
+  - report
+  
+body:
+
+  - type: markdown
+    attributes:
+      value: Thank you for wanting to help us improve our DNS services by reporting issues.
+
+  - type: checkboxes
+    id: asked-support-team
+    attributes:
+      label: Have you contacted the Support Team already?
+      description: >
+        The optimal course of action is to contact our Support Team by email.
+        Please ensure you have contacted them them directly first - https://mullvad.net/help
+      options:
+        - label: I have attempted already, but to no avail, or they pointed me here.
+          required: true
+
+  - type: textarea
+    id: issues-experienced
+    attributes:
+      label: What are the issues you need support with?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Is there any additional information that you can provide?
