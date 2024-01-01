@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1702880440    ; serial
+                                        1704112725    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -94,6 +94,7 @@ $TTL 3600
 3935128650935608632.academyofconsciousleadership.org IN CNAME .
 3988408442896783715.theacademyforconsciousleadership.com IN CNAME .
 3gl.net IN CNAME .
+3j0pw4ed7uac-a.akamaihd.net IN CNAME .
 3l0zszdzjhpw.www.comicleaks.com IN CNAME .
 3p-geo.yahoo.com IN CNAME .
 3plworldwide.actonservice.com IN CNAME .
@@ -101,6 +102,7 @@ $TTL 3600
 3skickasurf.tre.se IN CNAME .
 3wn3w3skxpym.round.t3.gg IN CNAME .
 40caidaylimpia.catzolab.net IN CNAME .
+4251.tech IN CNAME .
 4399stat.5054399.com IN CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br IN CNAME .
 492733704185584515.academyforconsciousculture.com IN CNAME .
@@ -2235,6 +2237,7 @@ adebisu.wowow.co.jp IN CNAME .
 adebis.wii-clinic.jp IN CNAME .
 adebis.zenyaku-hbshop.com IN CNAME .
 ade.deskstyle.info IN CNAME .
+ade.googlesyndication.com IN CNAME .
 ade.hirose-fx.co.jp IN CNAME .
 a.deutschehospitality.com IN CNAME .
 a.devlog.games IN CNAME .
@@ -2543,6 +2546,7 @@ analytics.amakings.com IN CNAME .
 analytics.amig.com IN CNAME .
 analytics.andrewsmith.com.au IN CNAME .
 analytics.angelina-fieber.com IN CNAME .
+analytics-api.klickly.com IN CNAME .
 analytics-api.samsunghealthcn.com IN CNAME .
 analytics.apnewsregistry.com IN CNAME .
 analytics.archive.org IN CNAME .
@@ -2647,6 +2651,7 @@ analytics.global.sky.com IN CNAME .
 analytics.gooogol.com IN CNAME .
 analytics.groupe-seb.com IN CNAME .
 analytics.growthphysics.com IN CNAME .
+analytics.gtechgroup.it IN CNAME .
 analytics.gvim.mobi IN CNAME .
 analytics-gw.games.wanmei.com IN CNAME .
 analytics.hambleden-capital.com IN CNAME .
@@ -4126,6 +4131,7 @@ catracking.finning.com IN CNAME .
 catschickens.com IN CNAME .
 cats.d20.rs IN CNAME .
 catsunrunjam.com IN CNAME .
+cattlecommittee.com IN CNAME .
 causecherry.com IN CNAME .
 cautiouscamera.com IN CNAME .
 cautiouscherries.com IN CNAME .
@@ -4414,6 +4420,8 @@ cmp.nouvelobs.com IN CNAME .
 cmp.tech426.com IN CNAME .
 cmp.tek.no IN CNAME .
 cmp.telerama.fr IN CNAME .
+cmpworker.dotesports.com IN CNAME .
+cmpworker.primagames.com IN CNAME .
 cm-sg.americanexpress.com IN CNAME .
 cms.hardloopaanbiedingen.nl IN CNAME .
 cmttvv.bonprix.se IN CNAME .
@@ -4524,6 +4532,7 @@ collectorsvc.apac.vesta.io IN CNAME .
 collector-videoplayer.5centscdn.net IN CNAME .
 collector.wawlabs.com IN CNAME .
 collector.xhamster2.com IN CNAME .
+collector.xhamster3.com IN CNAME .
 collector.xhamster.com IN CNAME .
 collector.xhamster.desi IN CNAME .
 collect.reagroupdata.com.au IN CNAME .
@@ -4972,6 +4981,7 @@ customerexperience.verintsystemsinc.com IN CNAME .
 customers-capitalbank-jo-877029.p06.elqsandbox.com IN CNAME .
 customfingerprints.bablosoft.com IN CNAME .
 custom.plausible.io IN CNAME .
+cutcurrent.com IN CNAME .
 cutecalculator.com IN CNAME .
 cutechin.com IN CNAME .
 cutecushion.com IN CNAME .
@@ -5310,6 +5320,7 @@ data.socio.realmadrid.net IN CNAME .
 data.sportdeutschland.tv IN CNAME .
 data.srf.ch IN CNAME .
 datatechonert.com IN CNAME .
+data.torry.io IN CNAME .
 data.transactional.williamsf1.com IN CNAME .
 data.t.worldvision.ca IN CNAME .
 data.ubi.com IN CNAME .
@@ -5500,6 +5511,7 @@ dewdroplagoon.com IN CNAME .
 dfanalytics.dealerfire.com IN CNAME .
 dfapvmql-q.global.ssl.fastly.net IN CNAME .
 dfigxb.underarmour.com.mx IN CNAME .
+df.infra.shopee.ph IN CNAME .
 dfr.deloitte.com IN CNAME .
 dgcollector.evidon.com IN CNAME .
 dg.compair.com IN CNAME .
@@ -5784,6 +5796,7 @@ dsg.interia.pl IN CNAME .
 ds.haaretz.co.il IN CNAME .
 d.shareaholic.com IN CNAME .
 d.shopprecouriers.com IN CNAME .
+dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws IN CNAME .
 d.skk.moe IN CNAME .
 d.sondakika.com IN CNAME .
 d.sourcepoint.capitalfm.com IN CNAME .
@@ -6567,6 +6580,7 @@ events.framer.com IN CNAME .
 events.golubcapital.com IN CNAME .
 events.il.fi IN CNAME .
 events.ingatlan.com IN CNAME .
+eventsink.api.redbee.live IN CNAME .
 events.interface.com IN CNAME .
 events.jokerly.com IN CNAME .
 events.jotform.com IN CNAME .
@@ -7434,7 +7448,6 @@ googletagmanager-cn.com IN CNAME .
 googletagmanager.com IN CNAME .
 go.onecart.co.za IN CNAME .
 go.onefc.com IN CNAME .
-go.oracle.com IN CNAME .
 go.ortholive.com IN CNAME .
 go.panda-click.com IN CNAME .
 go.panda.sa IN CNAME .
@@ -7656,6 +7669,7 @@ handsomelyhealth.com IN CNAME .
 handsomeyam.com IN CNAME .
 handyfield.com IN CNAME .
 handyfireman.com IN CNAME .
+handyincrease.com IN CNAME .
 haostat.qihoo.com IN CNAME .
 haplessland.com IN CNAME .
 happenhistory.com IN CNAME .
@@ -7674,6 +7688,7 @@ hbaazk.bukalapak.com IN CNAME .
 hbahrd.yogibo.jp IN CNAME .
 hbbtv-track.prosieben.de IN CNAME .
 hbbtv-track.prosiebensat1puls4.com IN CNAME .
+hbiq.net IN CNAME .
 hbo5.concours-pass.com IN CNAME .
 hb.vhsrv.com IN CNAME .
 hbx.df-srv.de IN CNAME .
@@ -7702,6 +7717,7 @@ hearob.klix.ba IN CNAME .
 heartbeat.pmd.444.hu IN CNAME .
 heartbreakingmind.com IN CNAME .
 hearthorn.com IN CNAME .
+heatmaps.lcisoft.it IN CNAME .
 heavyplayground.com IN CNAME .
 hej.henriksommerfeld.se IN CNAME .
 hello.bpost2.be IN CNAME .
@@ -7712,6 +7728,7 @@ hello.wellocution.com IN CNAME .
 helpcollar.com IN CNAME .
 helpflame.com IN CNAME .
 hemahi5.inthere.link IN CNAME .
+herbgreencolumn.com IN CNAME .
 herpes2.pa-ruit.jp IN CNAME .
 hesitanttoothpaste.com IN CNAME .
 heuida.shopafrm.com IN CNAME .
@@ -7722,6 +7739,7 @@ hht8m6w8mnug.quine.sh IN CNAME .
 highfalutinbox.com IN CNAME .
 highfalutinhoney.com IN CNAME .
 highfalutinroom.com IN CNAME .
+highway.cablecar.sph.com.sg IN CNAME .
 hi.hellobar.com IN CNAME .
 hi.hipcamp.com IN CNAME .
 hi.inhaabit.com IN CNAME .
@@ -10518,6 +10536,7 @@ mcc-tags.cisco.com IN CNAME .
 mcdmetrics2.aaa.com IN CNAME .
 mcdmetrics.aaa.com IN CNAME .
 mchtna.fashionplus.co.kr IN CNAME .
+mcs.tiktokv.us IN CNAME .
 mcs.us.tiktokv.com IN CNAME .
 mcs-va.tiktokv.com IN CNAME .
 mcs.zijieapi.com IN CNAME .
@@ -13462,6 +13481,7 @@ scarefowl.com IN CNAME .
 scarfsmash.com IN CNAME .
 scarfthought.com IN CNAME .
 scatteredheat.com IN CNAME .
+scatteredquiver.com IN CNAME .
 scatteredstream.com IN CNAME .
 sc.disneylandparis.com IN CNAME .
 sc.doctorwho.tv IN CNAME .
@@ -17561,6 +17581,7 @@ strangersponge.com IN CNAME .
 strangesink.com IN CNAME .
 strawberry.basf.com IN CNAME .
 stream.9now.com.au IN CNAME .
+streams.cablecar.sph.com.sg IN CNAME .
 streamstats.prd.dlive.tv IN CNAME .
 streetsort.com IN CNAME .
 stretchsister.com IN CNAME .
@@ -17924,6 +17945,7 @@ t.ao.consumerfinancereport.com IN CNAME .
 tap.carling.com IN CNAME .
 taplytics-umami.grubhub.com IN CNAME .
 t.appsflyer.com IN CNAME .
+t.arcade.show IN CNAME .
 target.connect.nicklaushealth.org IN CNAME .
 targetemsecure.blob.core.windows.net IN CNAME .
 targeting.focas.jp IN CNAME .
@@ -18159,6 +18181,7 @@ test.spenn.com IN CNAME .
 test.staging.findeck.link IN CNAME .
 test-starify.appsonic.fr IN CNAME .
 test.swa.info IN CNAME .
+test.takedwn.ws IN CNAME .
 test.thei.co IN CNAME .
 test.vast IN CNAME .
 te.supportfreecontent.com IN CNAME .
@@ -18746,6 +18769,7 @@ track.info.thecardiologyadvisor.com IN CNAME .
 tracking.196189.com IN CNAME .
 tracking1.brandmentions.com IN CNAME .
 tracking1.cigna.com.hk IN CNAME .
+tracking24.net IN CNAME .
 tracking2.channeladvisor.com IN CNAME .
 tracking2.cigna.co.id IN CNAME .
 tracking2.cigna.co.uk IN CNAME .
@@ -18848,7 +18872,6 @@ tracking.emsmobile.de IN CNAME .
 tracking.engineering.cloud.seek.com.au IN CNAME .
 tracking.enlist.com IN CNAME .
 tracking.ent.oviahealth.com IN CNAME .
-tracking.epicgames.com IN CNAME .
 tracking.epsilon.com IN CNAME .
 tracking.erfahreneladies.de IN CNAME .
 tracking.escorts24.de IN CNAME .
@@ -18868,7 +18891,6 @@ tracking.feedperfect.com IN CNAME .
 tracking.finanzen.net IN CNAME .
 tracking.fkk24.de IN CNAME .
 tracking.flowofwork.adp.com IN CNAME .
-tracking.fortnite.com IN CNAME .
 tracking.ftitechnology.com IN CNAME .
 tracking.fupa.net IN CNAME .
 tracking.g2crowd.com IN CNAME .
@@ -20538,7 +20560,6 @@ tyger.net.anwalt.de IN CNAME .
 typicalairplane.com IN CNAME .
 typicalteeth.com IN CNAME .
 tyumen.net.anwalt.de IN CNAME .
-tzegilo.com IN CNAME .
 tzgurwizule3.app.cardahealth.com IN CNAME .
 tzovkp.aboutyou.at IN CNAME .
 t.zulily.com IN CNAME .
@@ -20562,6 +20583,7 @@ ubdjfy.maje.com IN CNAME .
 ubdsej.notino.pl IN CNAME .
 ubiquitousyard.com IN CNAME .
 ubpekn.sivillage.com IN CNAME .
+ubt.tracking.shopee.ph IN CNAME .
 ubuyanalytics.ubuy.com IN CNAME .
 ubvsjh.pointtown.com IN CNAME .
 ubxvdx.accuweather.com IN CNAME .
@@ -21071,6 +21093,7 @@ web.iru.org IN CNAME .
 web.jana-shoes.com IN CNAME .
 web.life-cw.com IN CNAME .
 weblog2.eseoul.go.kr IN CNAME .
+weblog.coupang.com IN CNAME .
 weblog.eseoul.go.kr IN CNAME .
 weblog.flyasiana.com IN CNAME .
 web.lsse.net IN CNAME .
@@ -21300,6 +21323,7 @@ wtgnmr.golfdigest.co.jp IN CNAME .
 wtm.interhyp.de IN CNAME .
 wt.netze-bw.de IN CNAME .
 wt.oscaro.com IN CNAME .
+wtr-digital-analytics.ew.r.appspot.com IN CNAME .
 wttd.douglas.at IN CNAME .
 wttd.douglas.ch IN CNAME .
 wttd.douglas.de IN CNAME .

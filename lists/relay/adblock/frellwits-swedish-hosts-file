@@ -56,14 +56,12 @@
  ads.expekt.se
  ads.fotosidan.se
  ads.holid.io
- ads.insikt24.se
  ads.kelkoo.com
  ads.leovegas.com
  ads.mainloop.net
  ads.motorvarlden.se
  ads.mrgreen.com
  ads.nordreportern.se
- ads.nyatider.nu
  ads.playpilot.com
  ads.pubmatic.com
  ads.rubiconproject.com
@@ -118,10 +116,12 @@
  analytics.kb.se
  analytics.mailmunch.co
  analytics.nikkasystems.com
+ analytics.smhi.se
  analytics.sunet.se
  analytics.svt.se
  analytics.undeco.se
  analytics-sdk.yle.fi
+ analytics-smhise.smhi.se
  analytics.ci-360.se
  angry-golick-2a96e5.netlify.app
  annoncer.nichehuset.dk
@@ -146,7 +146,6 @@
  apsislead.com
  aquaplatform.com
  arbetaren.innocraft.cloud
- asicsisverige.com
  asmassets.mtvnservices.com
  assets.adfenix.com
  assets.adnuntius.com
@@ -170,7 +169,6 @@
  bc.marfeelcache.com
  bcm.interactives.dk
  bellmetric.net
- besstahete.info
  bet365affiliates.com
  betrad.com
  bettingstugan.se
@@ -203,7 +201,6 @@
  cargodisplayads.com
  carneoam.com
  casinotoplists.com
- caterpillarsverige.net
  caviera-sverige.shop
  ccjnhnqfnvsr3otokvf59ns52.litix.io
  cd.connatix.com
@@ -243,7 +240,6 @@
  cdn.insurads.com
  cdn.izooto.com
  cdn.jst.ai
- cdn.maaw.io
  cdn.matomo.cloud
  cdn.maxetise.net
  cdn.myadmessenger.com
@@ -251,6 +247,7 @@
  cdn.oribi.io
  cdn.permutive.com
  cdn.popt.in
+ cdn.pushalert.co
  cdn.pushcrew.com
  cdn.reaktion.se
  cdn.rollbar.com
@@ -299,7 +296,6 @@
  cncpt-central.com
  code3.adtlgc.com
  collect.breakit.se
- collect.igodigital.com
  collect.tealiumiq.com
  collector.brandmetrics.com
  collector.cint.com
@@ -435,11 +431,11 @@
  go.ezodn.com
  go.ezoic.net
  graphics.adrecord.com
+ gtm.allabolag.se
  gtm.findroommate.dk
  gtm.proff.se
  gtm.stampenmedia.se
  gwen.insertcoin.se
- gym-shark-sverige.com.se
  hapyak.com
  hb.adpone.com
  hb.adx.adform.net
@@ -580,10 +576,12 @@
  newstats.blogg.se
  nexus.ensighten.com
  nichehuset.dk
+ nitroscripts.com
  norranstats.azurewebsites.net
  norstatsurveys.com
  npario-inc.net
  ntrfr.expekt.se
+ ntrfr.leovegas.com
  nucleusanalytics.io
  nvpx.adhost.se
  offer-go.com
@@ -747,7 +745,6 @@
  spel.expressen.se
  sprinklecontent.com
  sprinkletxt.com
- srv.se.znaptag.com
  ssl.webserviceaward.com
  ssp.api.tappx.com
  ssp-nj.webtradehub.com
@@ -845,6 +842,7 @@
  track.adtraction.com
  track.postkodlotteriet.se
  track.uniqodo.com
+ track.yetric.app
  trackcmp.net
  tracker.gamedock.io
  tracker.zummycloud.com
@@ -858,9 +856,12 @@
  tracking.arbetarbladet.se
  tracking.avestatidning.com
  tracking.bandypuls.se
+ tracking.barometern.se
  tracking.bblat.se
+ tracking.blt.se
  tracking.bonnier.news
  tracking.borlangetidning.se
+ tracking.bt.se
  tracking.byggindustrin.se
  tracking.dagensmedia.se
  tracking.dagensmedicin.se
@@ -926,18 +927,24 @@
  tracking.inboxads.com
  tracking.jnytt.se
  tracking.jp.se
+ tracking.kalmarposten.se
+ tracking.klt.nu
+ tracking.kristianstadsbladet.se
  tracking.ljusdalsposten.se
  tracking.ljusnan.se
  tracking.ltz.se
  tracking.lt.se
  tracking.market.se
+ tracking.meraosterlen.se
  tracking.missaffiliate.com
  tracking.moratidning.se
  tracking.na.se
  tracking.norrteljetidning.se
+ tracking.nsk.se
  tracking.nvp.se
  tracking.nyaludvikatidning.se
  tracking.nynashamnsposten.se
+ tracking.olandsbladet.se
  tracking.omniture.nt.se
  tracking.op.se
  tracking.resume.se
@@ -947,20 +954,27 @@
  tracking.skovdenyheter.se
  tracking.smalandsdagblad.se
  tracking.smalanningen.se
+ tracking.smp.se
  tracking.smt.se
  tracking.soderhamnskuriren.se
  tracking.sodran.se
  tracking.st.nu
+ tracking.sydostran.se
  tracking.sydsvenskan.se
  tracking.tailsweep.expressen.se
  tracking.tidningenangermanland.se
  tracking.tidningenharjedalen.se
  tracking.tranastidning.se
+ tracking.trelleborgsallehanda.se
+ tracking.ut.se
  tracking.vastgotabladet.se
+ tracking.vaxjobladet.se
  tracking.vetlandaposten.se
  tracking.visitorsvoice.com
  tracking.vlt.se
  tracking.vn.se
+ tracking.vxonews.se
+ tracking.ystadsallehanda.se
  tracking.etidning.fagersta-posten.se
  tracking.fagersta-posten.se
  traffic.feedremedy.com
