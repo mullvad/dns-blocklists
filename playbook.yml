@@ -191,6 +191,7 @@
       vars:
         _dns_blocklists_exclude:
           - mullvad.net
+          - welcome..org
 
 
 - name: Build zonefiles
