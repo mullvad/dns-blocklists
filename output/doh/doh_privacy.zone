@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1704977608    ; serial
+                                        1705312065    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -11365,6 +11365,7 @@ h5log.zongheng.com IN CNAME .
 h78xb.pw IN CNAME .
 habitualhumor.com IN CNAME .
 hal.courrierinternational.com IN CNAME .
+halcyoncanyon.com IN CNAME .
 hallowedinvention.com IN CNAME .
 haltingbadge.com IN CNAME .
 haltingdivision.com IN CNAME .
@@ -14473,6 +14474,7 @@ log.invodo.com IN CNAME .
 loginvsi.actonservice.com IN CNAME .
 logistics.coyote.com IN CNAME .
 logistics.osmworldwide.com IN CNAME .
+log.kinolights.com IN CNAME .
 log.klook.com IN CNAME .
 loglady.kiwi.com IN CNAME .
 loglady.skypicker.com IN CNAME .
@@ -20752,6 +20754,7 @@ samestretch.com IN CNAME .
 sametrics.finn.no IN CNAME .
 samia.net.anwalt.de IN CNAME .
 sam.manager-magazin.de IN CNAME .
+samplesamba.com IN CNAME .
 sams.manager-magazin.de IN CNAME .
 sams.spiegel.de IN CNAME .
 samt.frankly.ch IN CNAME .
