@@ -11,7 +11,7 @@ We aim to update these lists on a weekly basis. You can view the latest update b
 If you find a block list that is included it is because we have gone through these validation steps:
 - The blocklist is an amalgamation of other blocklists.
 - The blocklist no longer maintained.
-- The blocklistd blocks things we do not believe should be blocked (like our own domains).
+- The blocklist blocks things we do not believe should be blocked (like our own domains).
 
 We periodically make exceptions to the included URLs for the following reasons:
 - The upstream lists are broken and include malformed URLs causing the generation to fail.
