@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1705913731    ; serial
+                                        1706525283    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4055,6 +4055,7 @@ analytics.ovh.com IN CNAME .
 analytics.oyorooms.com IN CNAME .
 analytics.paddle.com IN CNAME .
 analytics.pagefly.io IN CNAME .
+analytics.pangle-ads.com IN CNAME .
 analytics.partcommunity.com IN CNAME .
 analytics.pgncs.notion.so IN CNAME .
 analytics.phn.com IN CNAME .
@@ -4065,6 +4066,7 @@ analytics.plumbworld.co.uk IN CNAME .
 analytics.pointdrive.linkedin.com IN CNAME .
 analytics.pollardwater.com IN CNAME .
 analytics.pop2watch.com IN CNAME .
+analytics-prd.aws.wehaa.net IN CNAME .
 analytics.prezly.com IN CNAME .
 analytics-production.hapyak.com IN CNAME .
 analytics.productreview.com.au IN CNAME .
@@ -11286,6 +11288,7 @@ gripcorn.com IN CNAME .
 grn.openapp.link IN CNAME .
 grofag.hollandandbarrett.ie IN CNAME .
 groovyornament.com IN CNAME .
+grouchybrothers.com IN CNAME .
 grouchypush.com IN CNAME .
 groundcare.dixiechopper.com IN CNAME .
 group.dusoft.de IN CNAME .
@@ -18133,6 +18136,7 @@ ndroyp.gettingpersonal.co.uk IN CNAME .
 neaaom.ytn.co.kr IN CNAME .
 n.earthlink.net IN CNAME .
 neatshade.com IN CNAME .
+nebulousripple.com IN CNAME .
 necessarywax.com IN CNAME .
 ned.themarketingscience.com IN CNAME .
 needlessnorth.com IN CNAME .
@@ -18300,6 +18304,7 @@ nnvtvx.chegg.com IN CNAME .
 no9pldds1lmn3.soundcloud.com IN CNAME .
 noa0.compteczam.fr IN CNAME .
 nocaadobefpc.optus.com.au IN CNAME .
+nocturnalloom.com IN CNAME .
 noeyeon.click IN CNAME .
 noeyeon.com IN CNAME .
 noflake-aggregator-http.narvar.com IN CNAME .
@@ -23906,7 +23911,7 @@ smetrics.suisai-global.net IN CNAME .
 smetrics.sumaiida.com IN CNAME .
 smetrics.sumitclub.jp IN CNAME .
 smetrics.sun.com IN CNAME .
-smetrics.suncorpbank.com.ausmetrics.viabcp.com IN CNAME .
+smetrics.suncorpbank.com.au IN CNAME .
 smetrics.suncorp.com.au IN CNAME .
 smetrics.suncorp.co.nz IN CNAME .
 smetrics.sunflowerhealthplan.com IN CNAME .
@@ -24059,6 +24064,7 @@ smetrics.unicefusa.org IN CNAME .
 smetrics.us.levi.com IN CNAME .
 smetrics.us.playstation.com IN CNAME .
 smetrics.vermontcountrystore.com IN CNAME .
+smetrics.viabcp.com IN CNAME .
 smetrics.viega.at IN CNAME .
 smetrics.viega.be IN CNAME .
 smetrics.viega.com IN CNAME .
@@ -32029,12 +32035,14 @@ xwpoxv.birdies.com IN CNAME .
 xxjiqg.oysho.com IN CNAME .
 xxlefq.commentcamarche.net IN CNAME .
 xxlefq.hugolescargot.com IN CNAME .
+xxlefq.jeux-gratuits.com IN CNAME .
 xxlefq.journaldesfemmes.fr IN CNAME .
+xxlefq.journaldunet.com IN CNAME .
 xxlefq.linternaute.com IN CNAME .
-xxlefxyhojp.lacoste.com IN CNAME .
 x.xtar.io IN CNAME .
 xy33.smallable.com IN CNAME .
 xya4.groupefsc.com IN CNAME .
+xyhojp.lacoste.com IN CNAME .
 xymhzq.klingel.de IN CNAME .
 xyxgbs.lezhin.com IN CNAME .
 xyzznt.uterque.com IN CNAME .
