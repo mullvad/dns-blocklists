@@ -112,6 +112,7 @@
  analytics.sunet.se
  analytics.svt.se
  analytics.undeco.se
+ analytics.vackertvader.se
  analytics-sdk.yle.fi
  analytics-smhise.smhi.se
  analytics.ci-360.se
@@ -124,6 +125,7 @@
  api.deep.bi
  api.fouanalytics.com
  api.getlevelten.com
+ api.lab.eu.amplitude.com
  api.retargetly.com
  api.segment.io
  api3847.d41.co
@@ -184,6 +186,7 @@
  b-code.liadm.com
  c.aaxads.com
  c.adsco.re
+ c.bannerflow.net
  c.cintnetworks.com
  c.eacla.com
  c.flx1.com
@@ -240,6 +243,7 @@
  cdn.popt.in
  cdn.pushalert.co
  cdn.pushcrew.com
+ cdn.qwtag.com
  cdn.reaktion.se
  cdn.rollbar.com
  cdn.routy.app
@@ -267,11 +271,13 @@
  cdn-scripts.signifyd.com
  cdn.dep-x.com
  cdn.relevant-digital.com
+ cdn.stat-track.com
  cdn.vip-hd-movies.xyz
  cdn.zx-adnet.com
  ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com
  ced.sascdn.com
  cintnetworks.com
+ cis.schibsted.com
  cision.com
  cl.k5a.io
  classic.avantlink.com
@@ -395,6 +401,7 @@
  feedads.feedblitz.com
  fila.com.se
  findbetterresults.com
+ flag.lab.eu.amplitude.com
  flow.aquaplatform.com
  flx1.com
  footjoygolfskorrea.com.se
@@ -434,6 +441,7 @@
  hb.headbidder.net
  hb.improvedigital.com
  hbid.ams3.cdn.digitaloceanspaces.com
+ hbopenbid.pubmatic.com
  headerlift.com
  here.selectofmychoices.com
  heroaffiliates.com
@@ -447,6 +455,7 @@
  iba.feedblitz.com
  ib.adnxs-simple.com
  iconosquare.com
+ id.crwdcntrl.net
  idpt.360yield.com
  images.passendo.com
  images-ads.aland.com
@@ -665,6 +674,7 @@
  rumcdn.geoedge.be
  rum-collector-2.pingdom.net
  rum-http-intake.logs.datadoghq.eu
+ rum-reporter-prod.exp.bn.nr
  rum-static.pingdom.net
  runtnc.net
  s.moatads.com
