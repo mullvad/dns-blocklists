@@ -226,7 +226,7 @@
           ;namn   ttl     adr-    entry-  origin
           ;               klass   typ
           ;------------------------------------------------------------------------------
-          @                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
+          @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
                                                   {{ now(fmt='%s') }}    ; serial
                                                   86400         ; refresh
                                                   7200          ; retry
