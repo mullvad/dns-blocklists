@@ -2,8 +2,8 @@ $TTL 3600
 ;namn   ttl     adr-    entry-  origin
 ;               klass   typ
 ;------------------------------------------------------------------------------
-@                       IN      SOA     rpz.mullvad.net.     support.mullvad.net. (
-                                        1708337912    ; serial
+@                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
+                                        1708935638    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4165,6 +4165,7 @@ analytics.autozone.com IN CNAME .
 analytics.avanser.com.au IN CNAME .
 analytics.avis.de IN CNAME .
 analytics.aweber.com IN CNAME .
+analytics.b2.ai IN CNAME .
 analytics.banksneveraskthat.com IN CNAME .
 analytics.basistheory.com IN CNAME .
 analytics-batch.blitz.gg IN CNAME .
@@ -4199,6 +4200,7 @@ analytics.cartoonnetwork.co.uk IN CNAME .
 analytics.cartoonnetworkindia.com IN CNAME .
 analytics.cartoonnetwork.jp IN CNAME .
 analytics.cartoonnetworkmena.com IN CNAME .
+analytics.castel.jp IN CNAME .
 analytics.cdf.cl IN CNAME .
 analytics.ceneo.pl IN CNAME .
 analytics.certifriedit.com IN CNAME .
@@ -4265,6 +4267,7 @@ analytics.eggoffer.com IN CNAME .
 analyticsehnwe.servicebus.windows.net IN CNAME .
 analytics.eikko.ai IN CNAME .
 analytics.eikondigital.it IN CNAME .
+analytics.eip.telegraph.co.uk IN CNAME .
 analytics.emol.com IN CNAME .
 analytics.erepublic.com IN CNAME .
 analytics.ericafischerphotography.com IN CNAME .
@@ -12566,6 +12569,7 @@ g-stats.openhost.es IN CNAME .
 gsupplyair.carte-gr.total.fr IN CNAME .
 gsyegj.shatura.com IN CNAME .
 gtgvze.chintai.net IN CNAME .
+gtm.diamond.jp IN CNAME .
 gtm.wise.com IN CNAME .
 gtreus.aliexpress.com IN CNAME .
 gtrk.s3.amazonaws.com IN CNAME .
@@ -13629,6 +13633,7 @@ imp.go.sohu.com IN CNAME .
 imp.optaim.com IN CNAME .
 imp.pvnsolutions.com IN CNAME .
 impression.clickinc.com IN CNAME .
+impression-tracker-service-5eimuebuhq-lz.a.run.app IN CNAME .
 impress.vcita.com IN CNAME .
 improving.wuzhuiso.com IN CNAME .
 imrworldwide.com IN CNAME .
@@ -15235,6 +15240,7 @@ lctfgw.evernew.ca IN CNAME .
 l.cultgear.com IN CNAME .
 lcwodl.bleulibellule.com IN CNAME .
 l.dev.audibook.si IN CNAME .
+ldgnrtn.com IN CNAME .
 ldgxsr.locasun-vp.fr IN CNAME .
 ldhteg.mooihorloge.nl IN CNAME .
 ldnlyap.com IN CNAME .
@@ -15742,7 +15748,6 @@ link.nextaveapp.com IN CNAME .
 link.nextlevelsports.com IN CNAME .
 link.nilclub.com IN CNAME .
 link.notifications.busuu.app IN CNAME .
-link.nubank.com.br IN CNAME .
 link.nutty.chat IN CNAME .
 link.offers.kodakmoments.com IN CNAME .
 link.olympya.com IN CNAME .
@@ -22955,6 +22960,7 @@ repdata.wzzm13.com IN CNAME .
 repdata.yorkdispatch.com IN CNAME .
 reply.osv.com IN CNAME .
 report.appmetrica.yandex.net.iberostar.com IN CNAME .
+reportic.app IN CNAME .
 reporting-api.gannettinnovation.com IN CNAME .
 reporting.autographapp.me IN CNAME .
 reporting.cdndex.io IN CNAME .
@@ -30191,6 +30197,7 @@ stats.reto.tv IN CNAME .
 stats.revitfamily.app IN CNAME .
 stats.rideinpeace.ie IN CNAME .
 stats.rightourhistoryhawaii.com IN CNAME .
+stats.rip IN CNAME .
 stats.robotika.ax IN CNAME .
 stats.rocketbeans.tv IN CNAME .
 stats.rocketvalidator.com IN CNAME .
@@ -30559,6 +30566,7 @@ stmetrics.bbva.com.co IN CNAME .
 stmetrics.bbva.es IN CNAME .
 stmetrics.bbva.mx IN CNAME .
 stmetrics.bbva.pe IN CNAME .
+stm.komplett.no IN CNAME .
 stms.53.com IN CNAME .
 stms.newline53.com IN CNAME .
 st.newyorklife.com IN CNAME .
@@ -32453,6 +32461,7 @@ tracking.ads.global-fashion-group.com IN CNAME .
 tracking.aegpresents.com IN CNAME .
 tracking.agora.io IN CNAME .
 tracking.aifsabroad.com IN CNAME .
+tracking.ai.rakuten.co.jp IN CNAME .
 tracking.air-worldwide.com IN CNAME .
 tracking.aita.gov.vn IN CNAME .
 tracking.allopneus.com IN CNAME .
@@ -33908,6 +33917,7 @@ trk.daimlertruck.com IN CNAME .
 trk.darkreading.com IN CNAME .
 trk.datacenterknowledge.com IN CNAME .
 trk.datacenterworld.com IN CNAME .
+trk.decido.io IN CNAME .
 trk.delma.hu IN CNAME .
 trk.delma.ro IN CNAME .
 trk.delphiquest.com IN CNAME .
@@ -36013,6 +36023,7 @@ wssgmstats.vibbo.com IN CNAME .
 wsstats.coches.net IN CNAME .
 wstats.e-wok.tv IN CNAME .
 wstats.gameblog.fr IN CNAME .
+wstats.slashed.cloud IN CNAME .
 wsuqzu.armani.com IN CNAME .
 wsytyz.tts.ru IN CNAME .
 wszwgs.cocopanda.fi IN CNAME .
