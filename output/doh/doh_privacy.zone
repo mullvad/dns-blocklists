@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1708935650    ; serial
+                                        1709631883    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4085,6 +4085,7 @@ amo.myoyster.mx IN CNAME .
 amp-error-reporting.appspot.com IN CNAME .
 amplifypixel.outbrain.com IN CNAME .
 ampltd2.medal.tv IN CNAME .
+ampltd.medal.tv IN CNAME .
 ampltd.top.gg IN CNAME .
 am.siemensplmevents.com IN CNAME .
 ams.lelong.com.my IN CNAME .
@@ -4107,6 +4108,7 @@ analitica.webrpp.com IN CNAME .
 analitik.bik.gov.tr IN CNAME .
 analyse.bcovery.com IN CNAME .
 analyse.hinemos.info IN CNAME .
+analysis.aws.locondo.jp IN CNAME .
 analysis.fi IN CNAME .
 analys.live IN CNAME .
 analytic20.detik.com IN CNAME .
@@ -4165,7 +4167,6 @@ analytics.autozone.com IN CNAME .
 analytics.avanser.com.au IN CNAME .
 analytics.avis.de IN CNAME .
 analytics.aweber.com IN CNAME .
-analytics.b2.ai IN CNAME .
 analytics.banksneveraskthat.com IN CNAME .
 analytics.basistheory.com IN CNAME .
 analytics-batch.blitz.gg IN CNAME .
@@ -4375,6 +4376,7 @@ analytics.martin-fieber.de IN CNAME .
 analytics.matchbin.com IN CNAME .
 analytics.mattmcadams.com IN CNAME .
 analytics.maxroll.gg IN CNAME .
+analytics.mbga.jp IN CNAME .
 analytics.mc500.info IN CNAME .
 analytics.media-proweb.de IN CNAME .
 analytics.meituan.net IN CNAME .
@@ -5720,6 +5722,7 @@ aqorez.yamo.bio IN CNAME .
 aqouep.aquaphor.ru IN CNAME .
 aqr.actonservice.com IN CNAME .
 aqwvwn.cultfurniture.com IN CNAME .
+ar1.aza.io IN CNAME .
 aragenbio.actonservice.com IN CNAME .
 aragonresearch.actonservice.com IN CNAME .
 ar.allrun.fr IN CNAME .
@@ -8958,6 +8961,7 @@ ddlcvm.clas.style IN CNAME .
 dd.leboncoin.fr IN CNAME .
 ddmfrg.modivo.bg IN CNAME .
 dd.nytimes.com IN CNAME .
+ddome-tag.blablacar.com IN CNAME .
 ddsndt.azubiyo.de IN CNAME .
 dealercontent.homehardware.ca IN CNAME .
 dealerrelations.cargurus.com IN CNAME .
@@ -14605,6 +14609,7 @@ ipn-app.hotdoc.com.au IN CNAME .
 i.poker2u.app IN CNAME .
 i.pokerbros.net IN CNAME .
 i.pokernews.com IN CNAME .
+i.posthog.com IN CNAME .
 iptmih.hifi-regler.de IN CNAME .
 ipummv.pharao24.de IN CNAME .
 ip.up66.ru IN CNAME .
@@ -16377,7 +16382,6 @@ log.m.sm.cn IN CNAME .
 log.nordot.jp IN CNAME .
 log.olark.com IN CNAME .
 log.outbrain.com IN CNAME .
-log.outbrainimg.com IN CNAME .
 log.pinterest.com IN CNAME .
 log.pipeline.datarize.io IN CNAME .
 log.popin.cc IN CNAME .
@@ -18623,6 +18627,7 @@ meet.intercall.com IN CNAME .
 meet.westuc.com IN CNAME .
 mefo1.zdf.de IN CNAME .
 megadata.co.kr IN CNAME .
+megatron.igraal.com IN CNAME .
 me.glamhive.com IN CNAME .
 meinauto.hdd-dienste.de IN CNAME .
 mellamanjorge.net.anwalt.de IN CNAME .
@@ -21626,6 +21631,7 @@ ovmrti.sassyclassy.de IN CNAME .
 ovrsso.gemo.fr IN CNAME .
 ovyrak.viajeselcorteingles.es IN CNAME .
 o.webmd.com IN CNAME .
+owen.prolitteris.ch IN CNAME .
 owp-hk.americanexpress.com IN CNAME .
 owp-sg-prop.americanexpress.com IN CNAME .
 owp-tw.americanexpress.com IN CNAME .
@@ -21815,6 +21821,7 @@ pay.truemoney.me IN CNAME .
 pbc.programbrokerage.com IN CNAME .
 pbecrm.aquanet.ru IN CNAME .
 pb.i.sogou.com IN CNAME .
+pbjs-stream.bydata.com IN CNAME .
 pbm-email.rightwayhealthcare.com IN CNAME .
 pbox.no.photobox.com IN CNAME .
 pbox.photobox.at IN CNAME .
@@ -22361,6 +22368,7 @@ prism.tramclockmunich.com IN CNAME .
 privacy-api.9gag.com IN CNAME .
 privacyfriendly.netlify.app IN CNAME .
 privacy.outdoorsg.com IN CNAME .
+privateapi.click IN CNAME .
 private.cervicalcancer-risk.com IN CNAME .
 privateclient.hubinternational.com IN CNAME .
 private.roche.com IN CNAME .
@@ -22841,6 +22849,7 @@ recruiting.dukekunshan.edu.cn IN CNAME .
 recs.shareaholic.com IN CNAME .
 recv-entry.tbs.co.jp IN CNAME .
 recv-jnn.tbs.co.jp IN CNAME .
+recv.tbs.co.jp IN CNAME .
 redbooks.actonservice.com IN CNAME .
 redclassic.actonservice.com IN CNAME .
 redditstream.arborapps.io IN CNAME .
@@ -23935,7 +23944,6 @@ sc.infor.com IN CNAME .
 sc.iombank.com IN CNAME .
 sci.quickbooks.com IN CNAME .
 scispg.smu.edu.sg IN CNAME .
-scis.tbs.co.jp IN CNAME .
 scjlpq.navitime.co.jp IN CNAME .
 sc.lacapitale.com IN CNAME .
 s.clientes.construrama.com IN CNAME .
@@ -33852,6 +33860,7 @@ trk.altis.com.gr IN CNAME .
 trk.americancityandcounty.com IN CNAME .
 tr.kang.espmp-cufr.net IN CNAME .
 trk.anthology.com IN CNAME .
+trkapi.impact.com IN CNAME .
 trk.appliedintelligence.live IN CNAME .
 trk.arozone.cn IN CNAME .
 trk.arozone.com IN CNAME .
@@ -35293,6 +35302,7 @@ vhpabx.herffjones.com IN CNAME .
 vhrbxb.vidaxl.nl IN CNAME .
 vi.adviso.ca IN CNAME .
 video-ad-stats.googlesyndication.com IN CNAME .
+video-analytics-api.cloudinary.com IN CNAME .
 video.bzfd.it IN CNAME .
 videoevents.outbrain.com IN CNAME .
 video.funnelbox.com IN CNAME .

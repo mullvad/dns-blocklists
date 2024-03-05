@@ -4073,6 +4073,7 @@ amo.myoyster.mx
 amp-error-reporting.appspot.com
 amplifypixel.outbrain.com
 ampltd2.medal.tv
+ampltd.medal.tv
 ampltd.top.gg
 am.siemensplmevents.com
 ams.lelong.com.my
@@ -4095,6 +4096,7 @@ analitica.webrpp.com
 analitik.bik.gov.tr
 analyse.bcovery.com
 analyse.hinemos.info
+analysis.aws.locondo.jp
 analysis.fi
 analys.live
 analytic20.detik.com
@@ -4153,7 +4155,6 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.avis.de
 analytics.aweber.com
-analytics.b2.ai
 analytics.banksneveraskthat.com
 analytics.basistheory.com
 analytics-batch.blitz.gg
@@ -4363,6 +4364,7 @@ analytics.martin-fieber.de
 analytics.matchbin.com
 analytics.mattmcadams.com
 analytics.maxroll.gg
+analytics.mbga.jp
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -5708,6 +5710,7 @@ aqorez.yamo.bio
 aqouep.aquaphor.ru
 aqr.actonservice.com
 aqwvwn.cultfurniture.com
+ar1.aza.io
 aragenbio.actonservice.com
 aragonresearch.actonservice.com
 ar.allrun.fr
@@ -8946,6 +8949,7 @@ ddlcvm.clas.style
 dd.leboncoin.fr
 ddmfrg.modivo.bg
 dd.nytimes.com
+ddome-tag.blablacar.com
 ddsndt.azubiyo.de
 dealercontent.homehardware.ca
 dealerrelations.cargurus.com
@@ -14593,6 +14597,7 @@ ipn-app.hotdoc.com.au
 i.poker2u.app
 i.pokerbros.net
 i.pokernews.com
+i.posthog.com
 iptmih.hifi-regler.de
 ipummv.pharao24.de
 ip.up66.ru
@@ -16365,7 +16370,6 @@ log.m.sm.cn
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.pipeline.datarize.io
 log.popin.cc
@@ -18611,6 +18615,7 @@ meet.intercall.com
 meet.westuc.com
 mefo1.zdf.de
 megadata.co.kr
+megatron.igraal.com
 me.glamhive.com
 meinauto.hdd-dienste.de
 mellamanjorge.net.anwalt.de
@@ -21614,6 +21619,7 @@ ovmrti.sassyclassy.de
 ovrsso.gemo.fr
 ovyrak.viajeselcorteingles.es
 o.webmd.com
+owen.prolitteris.ch
 owp-hk.americanexpress.com
 owp-sg-prop.americanexpress.com
 owp-tw.americanexpress.com
@@ -21803,6 +21809,7 @@ pay.truemoney.me
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pb.i.sogou.com
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.no.photobox.com
 pbox.photobox.at
@@ -22349,6 +22356,7 @@ prism.tramclockmunich.com
 privacy-api.9gag.com
 privacyfriendly.netlify.app
 privacy.outdoorsg.com
+privateapi.click
 private.cervicalcancer-risk.com
 privateclient.hubinternational.com
 private.roche.com
@@ -22829,6 +22837,7 @@ recruiting.dukekunshan.edu.cn
 recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
+recv.tbs.co.jp
 redbooks.actonservice.com
 redclassic.actonservice.com
 redditstream.arborapps.io
@@ -23923,7 +23932,6 @@ sc.infor.com
 sc.iombank.com
 sci.quickbooks.com
 scispg.smu.edu.sg
-scis.tbs.co.jp
 scjlpq.navitime.co.jp
 sc.lacapitale.com
 s.clientes.construrama.com
@@ -33840,6 +33848,7 @@ trk.altis.com.gr
 trk.americancityandcounty.com
 tr.kang.espmp-cufr.net
 trk.anthology.com
+trkapi.impact.com
 trk.appliedintelligence.live
 trk.arozone.cn
 trk.arozone.com
@@ -35281,6 +35290,7 @@ vhpabx.herffjones.com
 vhrbxb.vidaxl.nl
 vi.adviso.ca
 video-ad-stats.googlesyndication.com
+video-analytics-api.cloudinary.com
 video.bzfd.it
 videoevents.outbrain.com
 video.funnelbox.com
