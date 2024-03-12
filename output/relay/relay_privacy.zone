@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1709631867    ; serial
+                                        1710230343    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6439,6 +6439,7 @@ bluekai.com IN CNAME .
 bluelp.2ask.blue.com.hk IN CNAME .
 bluemarblepayroll.actonservice.com IN CNAME .
 bluemountains.actonservice.com IN CNAME .
+blue.nbc4i.com IN CNAME .
 blueoyster.click IN CNAME .
 blue-rocket.actonservice.com IN CNAME .
 bluvue.actonservice.com IN CNAME .
@@ -7909,6 +7910,7 @@ convead.io IN CNAME .
 convention.interfaceflor.com IN CNAME .
 converge.headuplabs.com IN CNAME .
 convergentdental.actonservice.com IN CNAME .
+conversationalsdevelopment.nl IN CNAME .
 conversions.genieventures.co.uk IN CNAME .
 convertlink.com IN CNAME .
 conveyor.lewcoinc.com IN CNAME .
@@ -8419,6 +8421,7 @@ d3lqotgbn3npr.cloudfront.net IN CNAME .
 d3m6sept6cnil5.cloudfront.net IN CNAME .
 d3mskfhorhi2fb.cloudfront.net IN CNAME .
 d3n6i6eorggdxk.cloudfront.net IN CNAME .
+d3or5d0jdz94or.cloudfront.net IN CNAME .
 d3pi0tys5sdysl.cloudfront.net IN CNAME .
 d3plfjw9uod7ab.cloudfront.net IN CNAME .
 d3qztsm17pgxue.cloudfront.net IN CNAME .
@@ -10876,6 +10879,7 @@ eurotax-sk.autovistagroup.com IN CNAME .
 eurotaxsrbija-si.autovistagroup.com IN CNAME .
 eusdbk.philosophyofficial.com IN CNAME .
 eu.sharpmarketing.eu IN CNAME .
+eval.privateapi.click IN CNAME .
 e.vcty.co IN CNAME .
 evenement.ricoh.fr IN CNAME .
 event1.thermofisher.com IN CNAME .
@@ -10915,6 +10919,7 @@ eventos.ubmmexico.com IN CNAME .
 eventos.usj.es IN CNAME .
 event.platform.tunein.com IN CNAME .
 event.raise3d.cn IN CNAME .
+event-router.olympics.com IN CNAME .
 events2.www.edenfantasys.com IN CNAME .
 events.accuity.com IN CNAME .
 events.air.tv IN CNAME .
@@ -11207,6 +11212,7 @@ feedback.nslsc-csnpe.ca IN CNAME .
 feedme.use-beez.com IN CNAME .
 fek1.fnactickets.com IN CNAME .
 feldman.net.anwalt.de IN CNAME .
+feliz.data.tm-awx.com IN CNAME .
 f-emc.ngsp.gov.vn IN CNAME .
 femetrics.grammarly.io IN CNAME .
 feqbqn.rent.com IN CNAME .
@@ -11722,6 +11728,7 @@ getconnected.infor.com IN CNAME .
 get.cryptocontrol.io IN CNAME .
 get.dctaxi.com IN CNAME .
 get.deplike.com IN CNAME .
+getdeviceinf.com IN CNAME .
 get-dev.mastersapp.com IN CNAME .
 getdev.payso.ca IN CNAME .
 get.diamanti.com IN CNAME .
@@ -15311,6 +15318,7 @@ l.e.domain.com.au IN CNAME .
 leecompany.actonservice.com IN CNAME .
 legalhold.ediscovery.com IN CNAME .
 lem.nouvelobs.com IN CNAME .
+lemonpi.io IN CNAME .
 l.engage.canva.com IN CNAME .
 lenpmh.francoisesaget.com IN CNAME .
 leo1.leon-de-bruxelles.fr IN CNAME .
@@ -20547,7 +20555,6 @@ mteme7li1d6r.vertexmarketingagency.com IN CNAME .
 mtest.fontself.com IN CNAME .
 m-test.papertrail.io IN CNAME .
 mtkure.gazin.com.br IN CNAME .
-mtm.qdqmedia.com IN CNAME .
 m.topschooljobs.org IN CNAME .
 m.topya.com IN CNAME .
 mtoxtg.tezenis.com IN CNAME .
@@ -22368,7 +22375,6 @@ prism.tramclockmunich.com IN CNAME .
 privacy-api.9gag.com IN CNAME .
 privacyfriendly.netlify.app IN CNAME .
 privacy.outdoorsg.com IN CNAME .
-privateapi.click IN CNAME .
 private.cervicalcancer-risk.com IN CNAME .
 privateclient.hubinternational.com IN CNAME .
 private.roche.com IN CNAME .
@@ -22843,6 +22849,7 @@ realtime-profiling.datarize.ai IN CNAME .
 reaonq.xn--hdks770u8f0a8dvzft.net IN CNAME .
 reauthenticator.com IN CNAME .
 rec.banggood.com IN CNAME .
+receive.wmcdp.io IN CNAME .
 recoverypoint.actonservice.com IN CNAME .
 recruit.go.apprenticeshipcommunity.com.au IN CNAME .
 recruiting.dukekunshan.edu.cn IN CNAME .
