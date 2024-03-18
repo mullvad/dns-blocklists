@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1710230311    ; serial
+                                        1710772129    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3918,6 +3918,7 @@ a.getemoji.me IN CNAME .
 a.getflowbox.com IN CNAME .
 agexpo.americanexpress.com IN CNAME .
 aggelakia.openapp.link IN CNAME .
+aggle.net IN CNAME .
 agkn.com IN CNAME .
 agma-analytics.de IN CNAME .
 agnes.waz.de IN CNAME .
@@ -4131,6 +4132,7 @@ analytics1.vdo.ai IN CNAME .
 analytics2-3-meride-tv.akamaized.net IN CNAME .
 analytics2-meride-tv.akamaized.net IN CNAME .
 analytics.30m.com IN CNAME .
+analytics.3c5.com IN CNAME .
 analytics.aasaam.com IN CNAME .
 analytics.academy.com IN CNAME .
 analytics.adam.page IN CNAME .
@@ -4239,6 +4241,7 @@ analytics.contents.by-fw.jp IN CNAME .
 analytics.convertlanguage.com IN CNAME .
 analytics.cookiefirst.dev IN CNAME .
 analytics.corusent.com IN CNAME .
+analytics.crazygames.com IN CNAME .
 analytics.crowdkeep.com IN CNAME .
 analytics.cycleworld.com IN CNAME .
 analytics.cyrillus.be IN CNAME .
@@ -7427,6 +7430,7 @@ c.newyorker.com IN CNAME .
 cn-go.experian.com IN CNAME .
 cnlbxi.zoopla.co.uk IN CNAME .
 cn.mywd.com IN CNAME .
+cnna.io IN CNAME .
 cnpxwl.cheapcaribbean.com IN CNAME .
 cnsecurity.actonservice.com IN CNAME .
 cns-service.actonservice.com IN CNAME .
@@ -7910,7 +7914,6 @@ convead.io IN CNAME .
 convention.interfaceflor.com IN CNAME .
 converge.headuplabs.com IN CNAME .
 convergentdental.actonservice.com IN CNAME .
-conversationalsdevelopment.nl IN CNAME .
 conversions.genieventures.co.uk IN CNAME .
 convertlink.com IN CNAME .
 conveyor.lewcoinc.com IN CNAME .
@@ -10279,6 +10282,7 @@ elqtrk.rsmus.com IN CNAME .
 elqtrkstg.intel.com IN CNAME .
 elqtrk.thailand.intel.com IN CNAME .
 elqtrk.tw.morningstar.com IN CNAME .
+el.quizlet.com IN CNAME .
 elq.utas.edu.au IN CNAME .
 elqview2.uclahealth.org IN CNAME .
 elqview.kofax.com IN CNAME .
@@ -10756,6 +10760,7 @@ eqs.intuit.com IN CNAME .
 eqtrack.americashomeplace.com IN CNAME .
 equippo.actonservice.com IN CNAME .
 equity.e2g.com IN CNAME .
+e.quizlet.com IN CNAME .
 eq.userneeds.com IN CNAME .
 eqvioe.polihome.gr IN CNAME .
 eqy.link IN CNAME .
@@ -10879,7 +10884,6 @@ eurotax-sk.autovistagroup.com IN CNAME .
 eurotaxsrbija-si.autovistagroup.com IN CNAME .
 eusdbk.philosophyofficial.com IN CNAME .
 eu.sharpmarketing.eu IN CNAME .
-eval.privateapi.click IN CNAME .
 e.vcty.co IN CNAME .
 evenement.ricoh.fr IN CNAME .
 event1.thermofisher.com IN CNAME .
@@ -10956,6 +10960,7 @@ events.gogoair.com IN CNAME .
 events.golubcapital.com IN CNAME .
 events.il.fi IN CNAME .
 events.ingatlan.com IN CNAME .
+events-ingestion.services.gorgias.com IN CNAME .
 eventsink.api.redbee.live IN CNAME .
 events.interface.com IN CNAME .
 events.issmarketintelligence.com IN CNAME .
@@ -11647,6 +11652,7 @@ gccmembershiprewards.americanexpress.it IN CNAME .
 gcn.tuv.com IN CNAME .
 gcoiys.cutsclothing.com IN CNAME .
 gcowhi.thesalarycalculator.co.uk IN CNAME .
+gcprivacy.com IN CNAME .
 gct.americanexpress.com IN CNAME .
 gc.titans.com.au IN CNAME .
 gcudsn.tradetested.co.nz IN CNAME .
@@ -31451,7 +31457,6 @@ t.cofcsports.com IN CNAME .
 t.collinscenterforthearts.com IN CNAME .
 t.comms.thetimes.co.uk IN CNAME .
 t.cozone.com IN CNAME .
-_tcp.academyofconsciousleadership.net IN CNAME .
 t.csurams.com IN CNAME .
 t.cubuffs.com IN CNAME .
 tczulp.econea.cz IN CNAME .
@@ -33134,6 +33139,7 @@ track.pexi.nl IN CNAME .
 track.plygem.com IN CNAME .
 track.postkodlotteriet.se IN CNAME .
 track.pricespider.com IN CNAME .
+track.prod.smash.pet IN CNAME .
 track.qoof.com IN CNAME .
 track.quad.com IN CNAME .
 track.realtimeboard.com IN CNAME .
@@ -33177,6 +33183,7 @@ track.tiara.daum.net IN CNAME .
 track.tiara.kakao.com IN CNAME .
 track.tom.com IN CNAME .
 track.tomwx.net IN CNAME .
+track.ttsave.app IN CNAME .
 track.uc.cn IN CNAME .
 track.ultimate-guitar.com IN CNAME .
 track.unidata.ai IN CNAME .
@@ -34804,6 +34811,7 @@ t-s.msimmunology.com IN CNAME .
 t.soec.ca IN CNAME .
 t.soonersports.com IN CNAME .
 t.southernmiss.com IN CNAME .
+t.spbx.app IN CNAME .
 t-s.perjeta.com IN CNAME .
 t.splicky.com IN CNAME .
 tsp.onjoyri.de IN CNAME .
