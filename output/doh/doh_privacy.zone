@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1710772129    ; serial
+                                        1711453111    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6202,6 +6202,7 @@ baton.cuetv.online IN CNAME .
 bats.video.yahoo.com IN CNAME .
 battlenet.openapp.link IN CNAME .
 bavvgo.zingat.com IN CNAME .
+baxter.olx.org IN CNAME .
 bayshoresystems.actonservice.com IN CNAME .
 bbanywhere.links.rosieapp.com IN CNAME .
 bbbb.blackboard.com IN CNAME .
@@ -6322,7 +6323,6 @@ beuniquelyinsured.selective.com IN CNAME .
 bewaslac.com IN CNAME .
 b.ewd.io IN CNAME .
 beyond.bluewolf.com IN CNAME .
-beyondmeasure.rigoltech.com IN CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au IN CNAME .
 bfeagv.chicwish.com IN CNAME .
 bfg.loanzify.app IN CNAME .
@@ -7065,6 +7065,7 @@ cdl.booksy.com IN CNAME .
 cdl.lvsafe.io IN CNAME .
 cdn1.skrill.com IN CNAME .
 cdn7.baunetz.de IN CNAME .
+cdn.ad-platform.jmty.jp IN CNAME .
 cdn.arcstudiopro.com IN CNAME .
 cdn-channels-pixel.ex.co IN CNAME .
 cdnhst.xyz IN CNAME .
@@ -8017,6 +8018,7 @@ count.munhwa.com IN CNAME .
 count.paycounter.com IN CNAME .
 count.rin.ru IN CNAME .
 count-server.sharethis.com IN CNAME .
+count.sibbo.net IN CNAME .
 count.upc.rakuten.co.jp IN CNAME .
 count.xxxssk.com IN CNAME .
 count.yandeg.ru IN CNAME .
@@ -8434,6 +8436,7 @@ d3sbxpiag177w8.cloudfront.net IN CNAME .
 d3tglifpd8whs6.cloudfront.net IN CNAME .
 d3uvwl4wtkgzo1.cloudfront.net IN CNAME .
 d3vebqdofhigrn.cloudfront.net IN CNAME .
+d401.dollartree.com IN CNAME .
 d4ax0r5detcsu.cloudfront.net IN CNAME .
 d6ek.pandasuite.io IN CNAME .
 d761erxl2qywg.cloudfront.net IN CNAME .
@@ -8441,6 +8444,7 @@ d810.mysanantonio.com IN CNAME .
 d81mfvml8p5ml.cloudfront.net IN CNAME .
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz IN CNAME .
 da.bodenhaus.de IN CNAME .
+dabu.askmediagroup.com IN CNAME .
 dacocorp.actonservice.com IN CNAME .
 dadispapi.gmarket.co.kr IN CNAME .
 d.adlpo.com IN CNAME .
@@ -9130,6 +9134,7 @@ dgmolb.irishjobs.ie IN CNAME .
 dg.ptl.irco.com IN CNAME .
 d.groc.press IN CNAME .
 dgztiz.conrad.se IN CNAME .
+dh0c1bz67fuho.cloudfront.net IN CNAME .
 d.haberler.com IN CNAME .
 dhdaa.duke.edu IN CNAME .
 dhlsupplychain.dhl.com IN CNAME .
@@ -12555,6 +12560,7 @@ greencharge.actonservice.com IN CNAME .
 green-griffin-860.appspot.com IN CNAME .
 greenjapan-cname.green-japan.com IN CNAME .
 greif.actonservice.com IN CNAME .
+grgnsht.nzxt.com IN CNAME .
 gr-go.experian.com IN CNAME .
 grn.openapp.link IN CNAME .
 grofag.hollandandbarrett.ie IN CNAME .
@@ -12634,6 +12640,7 @@ gzbcuy.mamarella.com IN CNAME .
 gzjroa.bradsdeals.com IN CNAME .
 gzlxvg.papy.co.jp IN CNAME .
 h00c.sfr.fr IN CNAME .
+h031.familydollar.com IN CNAME .
 h353.ncadvertiser.com IN CNAME .
 h559.stamfordadvocate.com IN CNAME .
 h5.analytics.126.net IN CNAME .
@@ -16685,6 +16692,7 @@ lxztgb.musee-pla.com IN CNAME .
 ly8c.caci-online.fr IN CNAME .
 lydallpm.actonservice.com IN CNAME .
 lyegyo.bluenile.com IN CNAME .
+lyfnh.io IN CNAME .
 lyfrir.purehockey.com IN CNAME .
 lyonsdown.actonservice.com IN CNAME .
 l.your.md IN CNAME .
@@ -18391,6 +18399,7 @@ mckbpe.united-arrows.co.jp IN CNAME .
 mckiey.thun.com IN CNAME .
 m.communications.ihmvcu.org IN CNAME .
 mcrmqv.joiasprime.com.br IN CNAME .
+mcs-ie.tiktokw.eu IN CNAME .
 mcs.tiktokv.us IN CNAME .
 mcs.us.tiktokv.com IN CNAME .
 mcs-va.tiktokv.com IN CNAME .
@@ -23289,6 +23298,7 @@ rum.api.intuit.com IN CNAME .
 rum.azioncdn.net IN CNAME .
 rum.azion.com IN CNAME .
 rum.condenastdigital.com IN CNAME .
+rum.corewebvitals.io IN CNAME .
 rum.ingress.layer0.co IN CNAME .
 rum.kobo.com IN CNAME .
 rum.layer0.co IN CNAME .
@@ -23660,7 +23670,6 @@ s.ameriprisestats.com IN CNAME .
 sametrics.finn.no IN CNAME .
 samia.net.anwalt.de IN CNAME .
 sam.manager-magazin.de IN CNAME .
-sams.manager-magazin.de IN CNAME .
 sams.spiegel.de IN CNAME .
 samt.frankly.ch IN CNAME .
 samt.swisscanto.com IN CNAME .
@@ -30692,6 +30701,7 @@ studentadvantage.actonservice.com IN CNAME .
 studio.joinsalut.com IN CNAME .
 study.jcu.edu.au IN CNAME .
 study.vu.edu.au IN CNAME .
+sturton-lation.com IN CNAME .
 st.wir-entdecken-bayern.de IN CNAME .
 styles.hautelook.com IN CNAME .
 su1.les-suites.ca IN CNAME .
