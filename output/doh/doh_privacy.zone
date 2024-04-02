@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1711453111    ; serial
+                                        1712059348    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4383,6 +4383,7 @@ analytics.mbga.jp IN CNAME .
 analytics.mc500.info IN CNAME .
 analytics.media-proweb.de IN CNAME .
 analytics.meituan.net IN CNAME .
+analytics.mercadolibre.com IN CNAME .
 analytics.metro.be IN CNAME .
 analytics.metro-cc.ru IN CNAME .
 analytics.metro.co.in IN CNAME .
@@ -7492,6 +7493,7 @@ collect.helsana.ch IN CNAME .
 collect.helsana-preprod.ch IN CNAME .
 collect.hollisterco.com IN CNAME .
 collect.igodigital.com IN CNAME .
+collection.e-satisfaction.com IN CNAME .
 collection.saga.co.uk IN CNAME .
 collections.equifax.com IN CNAME .
 collect.iteam-dress.com IN CNAME .
@@ -10932,7 +10934,6 @@ event-router.olympics.com IN CNAME .
 events2.www.edenfantasys.com IN CNAME .
 events.accuity.com IN CNAME .
 events.air.tv IN CNAME .
-events.apester.com IN CNAME .
 events.api.godaddy.com IN CNAME .
 events.attentivemobile.com IN CNAME .
 events.audiate.me IN CNAME .
@@ -12605,6 +12606,7 @@ guia.edge46.testandtarget.omniture.com IN CNAME .
 guidepointglobal.actonservice.com IN CNAME .
 guideposts.actonservice.com IN CNAME .
 guitarlearning.deplike.com IN CNAME .
+gulf.moneroocean.stream IN CNAME .
 guq9.vente-unique.it IN CNAME .
 gurgle.pcmag.com IN CNAME .
 gurgle.spiceworks.com IN CNAME .
@@ -21105,6 +21107,7 @@ ocmxbu.hanatour.com IN CNAME .
 ocozzio.actonservice.com IN CNAME .
 ocpi.americanexpress.ca IN CNAME .
 ocs.hagerty.com IN CNAME .
+ocular.dealabs.com IN CNAME .
 ocwlhv.ecid.com.br IN CNAME .
 oda.markitondemand.com IN CNAME .
 odc.1und1.de IN CNAME .
@@ -22394,6 +22397,7 @@ private.cervicalcancer-risk.com IN CNAME .
 privateclient.hubinternational.com IN CNAME .
 private.roche.com IN CNAME .
 prkvlr.camper.com IN CNAME .
+pr.nss.netease.com IN CNAME .
 prnzxf.glamira.se IN CNAME .
 pro.6arry.com IN CNAME .
 pro.bizportal.co.il IN CNAME .
@@ -31075,6 +31079,7 @@ tag.elevaate.io IN CNAME .
 tag.flagship.io IN CNAME .
 tagger.opecloud.com IN CNAME .
 tagger.ope.scmp.com IN CNAME .
+tagging.steelseries.com IN CNAME .
 tag.goldenbees.fr IN CNAME .
 tag.imagino.com IN CNAME .
 tag.leadplace.fr IN CNAME .
@@ -34761,7 +34766,6 @@ tr.wuei.espmp-agfr.net IN CNAME .
 tr.www.cloudflare.com IN CNAME .
 trx3.famousfix.com IN CNAME .
 trx-cdn.zip.co IN CNAME .
-trx-hub.com IN CNAME .
 tr.xlead.digital IN CNAME .
 tr.xleads.digital IN CNAME .
 trx.zip.co IN CNAME .
@@ -37285,6 +37289,7 @@ analytics.google.com IN CNAME .
 sessions.bugsnag.com IN CNAME .
 browser.sentry-cdn.com IN CNAME .
 appmetrica.yandex.ru IN CNAME .
+adservice.google.com IN CNAME .
 data.alexa.com IN CNAME .
 device-metrics-us.amazon.com IN CNAME .
 device-metrics-us-2.amazon.com IN CNAME .
