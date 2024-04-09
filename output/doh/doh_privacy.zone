@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1712059348    ; serial
+                                        1712646471    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3398,6 +3398,8 @@ accuride.actonservice.com IN CNAME .
 accutrain.actonservice.com IN CNAME .
 accuzip.actonservice.com IN CNAME .
 accwww9.53kf.com IN CNAME .
+ac.dun.163.com IN CNAME .
+ac.dun.163yun.com IN CNAME .
 ac-ebis.otoraku.jp IN CNAME .
 ac-ebis-otrk.usen.com IN CNAME .
 ac-ebis-stb.usen.com IN CNAME .
@@ -4085,6 +4087,7 @@ a.mobify.com IN CNAME .
 amo.myoyster.mx IN CNAME .
 amp-error-reporting.appspot.com IN CNAME .
 amplifypixel.outbrain.com IN CNAME .
+amplitude.chess.com IN CNAME .
 ampltd2.medal.tv IN CNAME .
 ampltd.medal.tv IN CNAME .
 ampltd.top.gg IN CNAME .
@@ -7303,6 +7306,7 @@ client-analytics.mts.ru IN CNAME .
 client-log.box.com IN CNAME .
 client-logger.beta.salemove.com IN CNAME .
 client-logger.salemove.com IN CNAME .
+clientlog.music.163.com IN CNAME .
 client-metrics.chess.com IN CNAME .
 clients.belairdirect.com IN CNAME .
 clientservice.alphasimplex.com IN CNAME .
@@ -7523,6 +7527,7 @@ collectorsvc.apac.vesta.io IN CNAME .
 collector.taoxh.life IN CNAME .
 collector-videoplayer.5centscdn.net IN CNAME .
 collector.wawlabs.com IN CNAME .
+collector.xhaccess.com IN CNAME .
 collector.xhamster2.com IN CNAME .
 collector.xhamster3.com IN CNAME .
 collector.xhamster.com IN CNAME .
@@ -8275,6 +8280,7 @@ cv.tenjin.cc IN CNAME .
 cv.theatreacademy.info IN CNAME .
 cvtk01.gmo-agree.com IN CNAME .
 cv.tokyowork.jp IN CNAME .
+cv-tracker.stanby.com IN CNAME .
 cvtspo.moebel24.de IN CNAME .
 cv.ui-chiho.clinic IN CNAME .
 cv.virtualoffice-resonance.jp IN CNAME .
@@ -8441,6 +8447,7 @@ d3vebqdofhigrn.cloudfront.net IN CNAME .
 d401.dollartree.com IN CNAME .
 d4ax0r5detcsu.cloudfront.net IN CNAME .
 d6ek.pandasuite.io IN CNAME .
+d712.theinformation.com IN CNAME .
 d761erxl2qywg.cloudfront.net IN CNAME .
 d810.mysanantonio.com IN CNAME .
 d81mfvml8p5ml.cloudfront.net IN CNAME .
@@ -8958,6 +8965,7 @@ dc.stenaline.ru IN CNAME .
 dc.stenaline.se IN CNAME .
 dc.stenalinetravel.com IN CNAME .
 dc.tuenergia.repsol.com IN CNAME .
+dcv4p460uqa46.cloudfront.net IN CNAME .
 dc.waylet.es IN CNAME .
 dcxusu.lacuracao.pe IN CNAME .
 d.cybtel.com IN CNAME .
@@ -11465,6 +11473,7 @@ fptls2.com IN CNAME .
 fptls3.com IN CNAME .
 fptls.com IN CNAME .
 fpt.microsoft.com IN CNAME .
+fp-upload.dun.163.com IN CNAME .
 fpxewa.ilmeteo.it IN CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com IN CNAME .
 fqcqnb.dwr.com IN CNAME .
@@ -18652,6 +18661,7 @@ meet.intercall.com IN CNAME .
 meet.westuc.com IN CNAME .
 mefo1.zdf.de IN CNAME .
 megadata.co.kr IN CNAME .
+mega.promodescuentos.com IN CNAME .
 megatron.igraal.com IN CNAME .
 me.glamhive.com IN CNAME .
 meinauto.hdd-dienste.de IN CNAME .
@@ -21108,6 +21118,7 @@ ocozzio.actonservice.com IN CNAME .
 ocpi.americanexpress.ca IN CNAME .
 ocs.hagerty.com IN CNAME .
 ocular.dealabs.com IN CNAME .
+ocular.promodescuentos.com IN CNAME .
 ocwlhv.ecid.com.br IN CNAME .
 oda.markitondemand.com IN CNAME .
 odc.1und1.de IN CNAME .
@@ -24729,6 +24740,7 @@ senior-systems.actonservice.com IN CNAME .
 sense.cliexa.com IN CNAME .
 sentiment.icis.com IN CNAME .
 sentry.arc.io IN CNAME .
+sentry.music.163.com IN CNAME .
 seoab.io IN CNAME .
 seo.tkc110.jp IN CNAME .
 sep02.hinagiku-life.jp IN CNAME .
@@ -25046,6 +25058,7 @@ sizcsi.eobuv.cz IN CNAME .
 sizybn.shipsltd.co.jp IN CNAME .
 sjanff.v-moda.com IN CNAME .
 sjardw.footlocker.fr IN CNAME .
+sjc.cloud.optable.co IN CNAME .
 sjms.actonservice.com IN CNAME .
 sjourney.aarp.org IN CNAME .
 sjourney.penfed.org IN CNAME .
@@ -29383,6 +29396,7 @@ sstats.wmagazine.com IN CNAME .
 sstats.www.o2.cz IN CNAME .
 sstats.yourchi.org IN CNAME .
 s.stcatharinesstandard.ca IN CNAME .
+sst.cooperativa.cl IN CNAME .
 s.stgeorgeafc.com.au IN CNAME .
 ssuork.sixt.at IN CNAME .
 ssushe.kennethcole.com IN CNAME .
@@ -31847,6 +31861,7 @@ t.itsehoitoapteekki.fi IN CNAME .
 tittendestages.net.anwalt.de IN CNAME .
 t.iuhoosiers.com IN CNAME .
 tivixv.nutribullet.com IN CNAME .
+t.iwara.tv IN CNAME .
 tjbhng.hemington.com.tr IN CNAME .
 tj.img4399.com IN CNAME .
 t.jmusports.com IN CNAME .
@@ -33475,6 +33490,7 @@ trck.propo.co.jp IN CNAME .
 trck.repesta.com IN CNAME .
 trck.rework-s.com IN CNAME .
 trckr.nordiskemedier.dk IN CNAME .
+trcksplt.miro.com IN CNAME .
 trck.spoteffects.net IN CNAME .
 trck.stefany.co.jp IN CNAME .
 trck.www4.earlywarning.com IN CNAME .
