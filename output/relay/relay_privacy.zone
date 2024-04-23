@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1713283757    ; serial
+                                        1713873401    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3399,7 +3399,6 @@ accutrain.actonservice.com IN CNAME .
 accuzip.actonservice.com IN CNAME .
 accwww9.53kf.com IN CNAME .
 ac.dun.163.com IN CNAME .
-ac.dun.163yun.com IN CNAME .
 ac-ebis.otoraku.jp IN CNAME .
 ac-ebis-otrk.usen.com IN CNAME .
 ac-ebis-stb.usen.com IN CNAME .
@@ -3868,6 +3867,7 @@ affa8.hikkoshi-master.com IN CNAME .
 affi.best-hoiku.com IN CNAME .
 afficv.lettuce.co.jp IN CNAME .
 affilate.hh.ru IN CNAME .
+affiliate-api.raptive.com IN CNAME .
 affiliate.couleur-labo.com IN CNAME .
 affiliate.dietician-family.jp IN CNAME .
 affiliate.htb-energy.co.jp IN CNAME .
@@ -4368,6 +4368,7 @@ analytics.live.com IN CNAME .
 analytics.livesense.marketing IN CNAME .
 analytics.livestream.com IN CNAME .
 analytics.logsss.com IN CNAME .
+analytics.lunaweb.cloud IN CNAME .
 analytics.lunge.de IN CNAME .
 analytics.m7g.twitch.tv IN CNAME .
 analytics.maikel.pro IN CNAME .
@@ -5991,6 +5992,7 @@ autspe.notino.hr IN CNAME .
 auwdff.dyfashion.ro IN CNAME .
 aux.lansator.ro IN CNAME .
 av6fm8zw2cvz.furucombo.app IN CNAME .
+avads.net IN CNAME .
 avalere.actonservice.com IN CNAME .
 avaloninnovation.actonservice.com IN CNAME .
 avandsecurity.actonservice.com IN CNAME .
@@ -5999,6 +6001,7 @@ avantifinance.actonservice.com IN CNAME .
 avasgtest.branch.rocks IN CNAME .
 avaya-engage.avaya.com IN CNAME .
 avbtkz.locknlockmall.com IN CNAME .
+ave-caesar-mas.modivo.io IN CNAME .
 avertium.actonservice.com IN CNAME .
 avid.actonservice.com IN CNAME .
 aviite.freaksstore.com IN CNAME .
@@ -6219,6 +6222,7 @@ barnes.send.cm IN CNAME .
 barracuda.carte-gr.total.fr IN CNAME .
 basket.mondo.link IN CNAME .
 bat.bing.com IN CNAME .
+bat.bing.net IN CNAME .
 bat.maydream.com IN CNAME .
 baton.cuetv.online IN CNAME .
 bats.video.yahoo.com IN CNAME .
@@ -6531,7 +6535,6 @@ boss.openapp.link IN CNAME .
 bot.asksyllable.com IN CNAME .
 botb.rtl2.de IN CNAME .
 botdetection.hbrsd.com IN CNAME .
-botsrv2.com IN CNAME .
 bot.stackbots.com IN CNAME .
 bot.streaktrivia.com IN CNAME .
 bounceexchange.com IN CNAME .
@@ -7133,6 +7136,7 @@ cgctsw.mytour.vn IN CNAME .
 cgicounter.oneandone.co.uk IN CNAME .
 cgicounter.onlinehome.de IN CNAME .
 cgicounter.puretec.de IN CNAME .
+c.gq.com IN CNAME .
 cgqkhc.trendyol.com IN CNAME .
 cgsisl.owllabs.com IN CNAME .
 cgvgga.mackenzie-childs.com IN CNAME .
@@ -8245,6 +8249,7 @@ cv.ag.cybersecurity-jp.com IN CNAME .
 cv.agent-sana.com IN CNAME .
 cv.a-hikkoshi.com IN CNAME .
 cv.a-internet.jp IN CNAME .
+c.vanityfair.com IN CNAME .
 cv.atelier-shark.com IN CNAME .
 cv.b2b.subscription-store.com IN CNAME .
 cv.bc-force.com IN CNAME .
@@ -8629,6 +8634,7 @@ data.digital.costco.com IN CNAME .
 data.digitalks.az IN CNAME .
 data.discover.ringcentral.com IN CNAME .
 datadog-service.mvfglobal.com IN CNAME .
+datadome.maisonsdumonde.com IN CNAME .
 datadome.patreon.com IN CNAME .
 data.dow.com IN CNAME .
 data.dreambaby.be IN CNAME .
@@ -9594,6 +9600,7 @@ dnews.fiat.it IN CNAME .
 dngpzy.bfmtv.com IN CNAME .
 dngpzy.zone-turf.fr IN CNAME .
 dnhrxt.kintetsu-re.co.jp IN CNAME .
+dniyppubkuut7.cloudfront.net IN CNAME .
 dnkeyt.svetsochtillbehor.se IN CNAME .
 dnltkp.lampeetlumiere.fr IN CNAME .
 dnn506yrbagrg.cloudfront.net IN CNAME .
@@ -16571,7 +16578,6 @@ logs.spilgames.com IN CNAME .
 logstash-3.radio-canada.ca IN CNAME .
 logs.thebloggernetwork.com IN CNAME .
 logs.theccaa.com IN CNAME .
-logs.viadata.store IN CNAME .
 logs.viavideo.digital IN CNAME .
 log.tagtic.cn IN CNAME .
 logtail.com IN CNAME .
@@ -18556,6 +18562,7 @@ m.communications.ihmvcu.org IN CNAME .
 mcrmqv.joiasprime.com.br IN CNAME .
 mcs-ie.tiktokw.eu IN CNAME .
 mcs.tiktokv.us IN CNAME .
+mcs.tiktokw.us IN CNAME .
 mcs.us.tiktokv.com IN CNAME .
 mcs-va.tiktokv.com IN CNAME .
 mcs.zijieapi.com IN CNAME .
@@ -22821,11 +22828,13 @@ qcaebg.nos.pt IN CNAME .
 qc.arstechnica.com IN CNAME .
 qcblzn.pinkpanda.it IN CNAME .
 qceyjl.cellularoutfitter.com IN CNAME .
+qc.gq.com IN CNAME .
 qcgtoz.cwjobs.co.uk IN CNAME .
 qcmxuy.hardloop.de IN CNAME .
 qc.newyorker.com IN CNAME .
 qcppad.merrell.com IN CNAME .
 qc.qualicocommunitieswinnipeg.com IN CNAME .
+qc.vanityfair.com IN CNAME .
 qc.vogue.com IN CNAME .
 qc.wired.com IN CNAME .
 qdicel.marymaxim.com IN CNAME .
@@ -30272,6 +30281,7 @@ stats.meetnfly.com IN CNAME .
 stats.meijer.com IN CNAME .
 stats.mein-futterlexikon.org IN CNAME .
 stats.memberdrive.org IN CNAME .
+stats.mempool.space IN CNAME .
 stats.meno.science IN CNAME .
 stats.merx.com IN CNAME .
 stats.mesenvies.fr IN CNAME .
@@ -32576,6 +32586,7 @@ tracker.cdnbye.com IN CNAME .
 tracker.comagic.ru IN CNAME .
 tracker.decomworld.com IN CNAME .
 tracker.digitalcamp.co.kr IN CNAME .
+tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com IN CNAME .
 tracker-dot-optimeeze.appspot.com IN CNAME .
 tracker.downdetector.com IN CNAME .
 tracker.durasite.net IN CNAME .
@@ -32598,6 +32609,7 @@ tracker.keywordintent.com IN CNAME .
 tracker.marinsoftware.com IN CNAME .
 tracker.mrpfd.com IN CNAME .
 tracker.mspy.com IN CNAME .
+tracker.myth.dev IN CNAME .
 tracker.myyschool.xyz IN CNAME .
 tracker.nbcuas.com IN CNAME .
 tracker.nitropay.com IN CNAME .
