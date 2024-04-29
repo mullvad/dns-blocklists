@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1713873401    ; serial
+                                        1714406098    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6538,6 +6538,7 @@ botdetection.hbrsd.com IN CNAME .
 bot.stackbots.com IN CNAME .
 bot.streaktrivia.com IN CNAME .
 bounceexchange.com IN CNAME .
+bouncex.net IN CNAME .
 boutique.ricoh.fr IN CNAME .
 bowl.actonservice.com IN CNAME .
 box.bossdata.be IN CNAME .
@@ -7105,6 +7106,7 @@ cdn.net.dz.jumia.com IN CNAME .
 cdn.net.elogia.net IN CNAME .
 cdn-rum.ngenix.net IN CNAME .
 cdn.usefathom.com IN CNAME .
+cdnwidget.com IN CNAME .
 cdp.cifinancial.com IN CNAME .
 cdp.yna.co.kr IN CNAME .
 cdrive.compellent.com IN CNAME .
@@ -8141,6 +8143,7 @@ cs1470sbeda.schoolasp.com IN CNAME .
 cs1863sbeda.glaucoma-arrest.net IN CNAME .
 cs2113sbeda.hokto-onlineshop.jp IN CNAME .
 cs42.pikabu.ru IN CNAME .
+cs43.pikabu.ru IN CNAME .
 cs.analytics.lego.com IN CNAME .
 cs.coopeservidores.fi.cr IN CNAME .
 cscsexam.quantresear.ch IN CNAME .
@@ -8419,6 +8422,7 @@ d1tbj6eaenapdy.cloudfront.net IN CNAME .
 d1vg5xiq7qffdj.cloudfront.net IN CNAME .
 d1wix2gc2cgqis.cloudfront.net IN CNAME .
 d1xfq2052q7thw.cloudfront.net IN CNAME .
+d1z3r0i09bwium.cloudfront.net IN CNAME .
 d1z9vm58yath60.cloudfront.net IN CNAME .
 d20kffh39acpue.cloudfront.net IN CNAME .
 d21o24qxwf7uku.cloudfront.net IN CNAME .
@@ -8455,6 +8459,7 @@ d34ko97cxuv4p7.cloudfront.net IN CNAME .
 d34r8q7sht0t9k.cloudfront.net IN CNAME .
 d35u1vg1q28b3w.cloudfront.net IN CNAME .
 d36u3psykfwy91.cloudfront.net IN CNAME .
+d39ion77s0ucuz.cloudfront.net IN CNAME .
 d39yds8oe4n4jq.cloudfront.net IN CNAME .
 d3bj8nkfly20uo.cloudfront.net IN CNAME .
 d3bo67muzbfgtl.cloudfront.net IN CNAME .
@@ -10989,7 +10994,6 @@ event.csdn.net IN CNAME .
 event.dnv.com IN CNAME .
 event.evtm.53.com IN CNAME .
 eventgateway.soundcloud.com IN CNAME .
-event.getblue.io IN CNAME .
 event.grassicpas.com IN CNAME .
 event.hackle.io IN CNAME .
 event.instiengage.com IN CNAME .
@@ -12431,6 +12435,7 @@ go.phhlending.com IN CNAME .
 go.piccolo.mobi IN CNAME .
 go.picsart.com IN CNAME .
 go.pinoy.innovatedating.com IN CNAME .
+go.planetnine.com IN CNAME .
 go.playbackbone.com IN CNAME .
 go.player2app.com IN CNAME .
 go.plygem.com IN CNAME .
@@ -12589,6 +12594,7 @@ go.unitusccu.com IN CNAME .
 go.unverbluemt.de IN CNAME .
 go.uscad.com IN CNAME .
 go.usecaya.com IN CNAME .
+go-usertrack-importer.pub.24ur.si IN CNAME .
 go.ustruckbody.com IN CNAME .
 go.venezuela.innovatedating.com IN CNAME .
 governmentcloud.avaya.com IN CNAME .
@@ -12882,6 +12888,7 @@ h.imedia.cz IN CNAME .
 hines.actonservice.com IN CNAME .
 hipizza.openapp.link IN CNAME .
 hipkqt.contorion.de IN CNAME .
+hirsung.de IN CNAME .
 hi.streetworkoutlist.com IN CNAME .
 hi.syllable.ai IN CNAME .
 hitachi-hightech-as.actonservice.com IN CNAME .
@@ -14757,6 +14764,7 @@ ipinternational.actonservice.com IN CNAME .
 ipixsi.aboutyou.fi IN CNAME .
 i.play.vividpicks.com IN CNAME .
 ip.lovely-app.com IN CNAME .
+ip.momentummedia.com.au IN CNAME .
 ipn-app.hotdoc.com.au IN CNAME .
 i.poker2u.app IN CNAME .
 i.pokerbros.net IN CNAME .
@@ -18515,6 +18523,7 @@ mat.socy.es IN CNAME .
 ma.tss.se IN CNAME .
 matsubun.matsubun.com IN CNAME .
 matt.mercadolivre.com.br IN CNAME .
+mat.ukraine-nachrichten.de IN CNAME .
 matytt.tone.ne.jp IN CNAME .
 maui.shakaguide.com IN CNAME .
 ma.uslawns.com IN CNAME .
@@ -20453,6 +20462,7 @@ minerad.com IN CNAME .
 mini-site.larksuite-marketing.com IN CNAME .
 m.ioicommunity.com.my IN CNAME .
 mirabelanalytics.com IN CNAME .
+mircheigeshoa.com IN CNAME .
 mirec.ubmmexico.com IN CNAME .
 m.irl.com IN CNAME .
 m.irlmail.org IN CNAME .
@@ -21243,6 +21253,7 @@ nzmkzl.mytheresa.com IN CNAME .
 nzqrfa.hushpuppies.com IN CNAME .
 nzueib.dice.com IN CNAME .
 nzzvvf.goldengoose.com IN CNAME .
+o1ych4jb.com IN CNAME .
 o2.ikontwerpflyers.nl IN CNAME .
 o398.trumbulltimes.com IN CNAME .
 o3gxzoewxl1x.cp.zomro.com IN CNAME .
@@ -22053,6 +22064,7 @@ pciokm.glamuse.com IN CNAME .
 p.classroombookings.com IN CNAME .
 pcm.symantec.com IN CNAME .
 pcnphysio-com.ca-eulerian.net IN CNAME .
+pcp.coupert.com IN CNAME .
 pc.personalcreations.com IN CNAME .
 p.cquotient.com IN CNAME .
 pcs.capgroup.com IN CNAME .
@@ -22563,6 +22575,7 @@ premiercio.actonservice.com IN CNAME .
 premiumapp.byjus.com IN CNAME .
 prenesi-mojm.mercator.si IN CNAME .
 preview.fi-institutional.com.au IN CNAME .
+prfct.co IN CNAME .
 prf.vagnt.com IN CNAME .
 prhhqo.vintagevoyage.ru IN CNAME .
 primary-app.hotdoc.com.au IN CNAME .
@@ -31260,6 +31273,7 @@ t.360playvid.info IN CNAME .
 t3e.firstchoice.co.uk IN CNAME .
 t570.wiltonbulletin.com IN CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com IN CNAME .
+t810.ctpost.com IN CNAME .
 t8.mailperformance.com IN CNAME .
 t.91syun.com IN CNAME .
 t.9gag.com IN CNAME .
@@ -37557,6 +37571,7 @@ zs.voyage-prive.com IN CNAME .
 ztfjtn.liujo.com IN CNAME .
 ztgblo.vidaxl.lt IN CNAME .
 ztqnls.lojasrenner.com.br IN CNAME .
+ztsrv.com IN CNAME .
 zudopk.callondoc.com IN CNAME .
 zudver.matsmart.se IN CNAME .
 zug.sbb.ch IN CNAME .
