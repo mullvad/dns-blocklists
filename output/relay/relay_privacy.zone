@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1714406098    ; serial
+                                        1714996411    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6177,6 +6177,7 @@ azcoct.bikkembergs.com IN CNAME .
 azg1.emalu-store.com IN CNAME .
 a.zleep.com IN CNAME .
 azlyta.immowelt.de IN CNAME .
+az.nzn.io IN CNAME .
 azscgj.penningtons.com IN CNAME .
 azwxpp.nequittezpas.jp IN CNAME .
 azxhnt.uniformadvantage.com IN CNAME .
@@ -7482,7 +7483,6 @@ cnt.mastorage.net IN CNAME .
 cnt.nov.ru IN CNAME .
 cnt.rambler.ru IN CNAME .
 cnt.rate.ru IN CNAME .
-cnt.trvdp.com IN CNAME .
 cnt.viptube.com IN CNAME .
 cnt.vivatube.com IN CNAME .
 cnt.wetteronline.de IN CNAME .
@@ -22276,6 +22276,7 @@ pkmvjx.my-store.ch IN CNAME .
 pktbag.flighthub.com IN CNAME .
 pktytp.membershop.lv IN CNAME .
 pl.1feed.app IN CNAME .
+pla.fwdcdn.com IN CNAME .
 plan.devbyexample.com IN CNAME .
 plans.ceteraretirement.com IN CNAME .
 plans.fundtherebuild.com IN CNAME .
@@ -23513,6 +23514,7 @@ rum.azioncdn.net IN CNAME .
 rum.azion.com IN CNAME .
 rum.condenastdigital.com IN CNAME .
 rum.corewebvitals.io IN CNAME .
+rum-ingress-coralogix.com IN CNAME .
 rum.ingress.layer0.co IN CNAME .
 rum.kobo.com IN CNAME .
 rum.layer0.co IN CNAME .
@@ -30888,6 +30890,7 @@ strack.sw.siemens.com IN CNAME .
 strack.tarif.allianz.ch IN CNAME .
 strack.www.allianzcare.com IN CNAME .
 strack.www.allianzcare-corporate.com IN CNAME .
+strapi.clickjogos.com.br IN CNAME .
 strategycompanion.actonservice.com IN CNAME .
 stratitude.actonservice.com IN CNAME .
 strawberry.basf.com IN CNAME .
@@ -32618,6 +32621,7 @@ tracker.idocdn.com IN CNAME .
 tracker.iltrovatore.it IN CNAME .
 tracker.incite-group.com IN CNAME .
 tracker.insurancenexus.com IN CNAME .
+tracker.jkplayers.com IN CNAME .
 tracker.jkstremum.xyz IN CNAME .
 tracker.keywordintent.com IN CNAME .
 tracker.marinsoftware.com IN CNAME .
@@ -32649,6 +32653,7 @@ tracker.timesgroup.com IN CNAME .
 tracker.tolvnow.com IN CNAME .
 tracker.tubecj.com IN CNAME .
 tracker.unbxdapi.com IN CNAME .
+tracker-v4.gamedock.io IN CNAME .
 tracker.wigzopush.com IN CNAME .
 tracker.winload.de IN CNAME .
 tracker.wpserveur.net IN CNAME .
@@ -37510,6 +37515,7 @@ zimadifirenze.net.anwalt.de IN CNAME .
 z.inlist.com IN CNAME .
 zion.qbo.intuit.com IN CNAME .
 zion-telemetry.api.cnn.io IN CNAME .
+zion-telemetry-nonprod.api.cnn.io IN CNAME .
 zio.xcar.com.cn IN CNAME .
 zippyfrog.co IN CNAME .
 ziqrso.24mx.no IN CNAME .
