@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1714996420    ; serial
+                                        1715615022    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4303,6 +4303,7 @@ analytics.gamesdrive.net IN CNAME .
 analytics.gazeta.pl IN CNAME .
 analytics.geastore.com IN CNAME .
 analytics.geekyminds.net IN CNAME .
+analytics.genial.ly IN CNAME .
 analytics.geoutletstore.com IN CNAME .
 analytics.gestore.com IN CNAME .
 analytics.getshogun.com IN CNAME .
@@ -5972,6 +5973,7 @@ aurora-d3.herokuapp.com IN CNAME .
 aurum.tirto.id IN CNAME .
 aus.amexforbusiness.com.au IN CNAME .
 ausclh.castlery.com IN CNAME .
+australiarevival.com IN CNAME .
 auth.carte-gr.total.fr IN CNAME .
 authentic3d.actonservice.com IN CNAME .
 authsmtp.happ.social IN CNAME .
@@ -6939,6 +6941,7 @@ ca.creditacceptance.com IN CNAME .
 caderonline.bu.edu IN CNAME .
 cadsuta.net IN CNAME .
 caf.actonservice.com IN CNAME .
+cafirebreather.com IN CNAME .
 cahf4eed.mooo.com IN CNAME .
 cakmzz.schwab.de IN CNAME .
 calgary-content.cresa.com IN CNAME .
@@ -6948,6 +6951,7 @@ caljetelite.actonservice.com IN CNAME .
 callsource.actonservice.com IN CNAME .
 calltrack.co IN CNAME .
 calmradio.actonservice.com IN CNAME .
+calvera-telemetry.polaris.me IN CNAME .
 ca.macheq.com IN CNAME .
 camagess.carte-gr.total.fr IN CNAME .
 ca.mattamyhomes.com IN CNAME .
@@ -12414,7 +12418,6 @@ go.oilkings.ca IN CNAME .
 go.ondutydoc.com IN CNAME .
 go.onecart.co.za IN CNAME .
 go.onefc.com IN CNAME .
-go.oracle.com IN CNAME .
 go.oroinc.com IN CNAME .
 go.ortholive.com IN CNAME .
 go.ovsoftware.nl IN CNAME .
@@ -12700,6 +12703,7 @@ gsupplyair.carte-gr.total.fr IN CNAME .
 gsyegj.shatura.com IN CNAME .
 gtgvze.chintai.net IN CNAME .
 gtm.diamond.jp IN CNAME .
+gtmfsstatic.getgoogletagmanager.com IN CNAME .
 gtm.wise.com IN CNAME .
 gtreus.aliexpress.com IN CNAME .
 gtrk.s3.amazonaws.com IN CNAME .
@@ -12942,6 +12946,7 @@ hk-go.experian.com IN CNAME .
 hkj8.evobanco.com IN CNAME .
 hkskqs.belvilla.fr IN CNAME .
 hktracker.hankookilbo.com IN CNAME .
+hk-trc-events.taboola.com IN CNAME .
 hlagkl.vinatis.com IN CNAME .
 hleouh.feelunique.com IN CNAME .
 hlms.ecologie.gouv.fr IN CNAME .
@@ -16522,6 +16527,7 @@ logger.kataweb.it IN CNAME .
 logger.nerdwallet.com IN CNAME .
 logger.rm.uol.com.br IN CNAME .
 logger.snackly.co IN CNAME .
+logger.torimochi-ad.net IN CNAME .
 logger.uol.com.br IN CNAME .
 logger.yp.ca IN CNAME .
 logging.api.intuit.com IN CNAME .
@@ -22473,6 +22479,7 @@ pm.eu.viatrisconnect.com IN CNAME .
 pm.eu.viatrisconnect.de IN CNAME .
 pm.eu.viatrisconnect.it IN CNAME .
 pm.geniusmonkey.com IN CNAME .
+p.minds.com IN CNAME .
 pmmpjb.matratzen-concord.de IN CNAME .
 pm.pmu.fr IN CNAME .
 pnaagn.haekplanter-heijnen.dk IN CNAME .
@@ -22517,6 +22524,7 @@ possibilities.theajinetwork.com IN CNAME .
 post.carte-gr.total.fr IN CNAME .
 postgraduate2.smu.edu.sg IN CNAME .
 postgraduate.smu.edu.sg IN CNAME .
+powerrobotflower.com IN CNAME .
 powerup.rsaworks.com IN CNAME .
 power.viggo.com IN CNAME .
 ppadv.actonservice.com IN CNAME .
@@ -23545,6 +23553,7 @@ rw.net.rewe.de IN CNAME .
 rwohdj.motocard.com IN CNAME .
 rwpuqm.underarmour.es IN CNAME .
 rwrnkb.lifelongcollectibles.com IN CNAME .
+r.wz.de IN CNAME .
 rxaap.actonservice.com IN CNAME .
 rx.capsulecares.com IN CNAME .
 rxhsry.sortiraparis.com IN CNAME .
@@ -30816,6 +30825,8 @@ st.img-bahn.de IN CNAME .
 stjoe.psjhealth.org IN CNAME .
 st.linkfire.com IN CNAME .
 stliom.vidaxl.cz IN CNAME .
+stlog.d.dmkt-sp.jp IN CNAME .
+stlog.dmarket.docomo.ne.jp IN CNAME .
 st.mashable.com IN CNAME .
 st.mazdausa.com IN CNAME .
 stmetrics.bbva.com.ar IN CNAME .
@@ -31802,6 +31813,7 @@ telemetry.moveworks.com IN CNAME .
 telemetry.navispherecarrier.com IN CNAME .
 telemetry.phenixrts.com IN CNAME .
 telemetry.reembed.com IN CNAME .
+telemetry.smartframe.io IN CNAME .
 telemetry.soundcloud.com IN CNAME .
 telemetry.stryker.com IN CNAME .
 telemetry.tableausoftware.com IN CNAME .
@@ -32642,6 +32654,7 @@ tracker-rec.smart-bdash.com IN CNAME .
 tracker.services.vaix.ai IN CNAME .
 tracker.shanon-services.com IN CNAME .
 tracker.shopclues.com IN CNAME .
+tracker.smartframe.io IN CNAME .
 tracker.smartseminar.jp IN CNAME .
 tracker.softcube.com IN CNAME .
 tracker.ssl0d.com IN CNAME .
@@ -35634,6 +35647,7 @@ vi.adviso.ca IN CNAME .
 video-ad-stats.googlesyndication.com IN CNAME .
 video-analytics-api.cloudinary.com IN CNAME .
 video.bzfd.it IN CNAME .
+videocdnmetrika.com IN CNAME .
 videoevents.outbrain.com IN CNAME .
 video.funnelbox.com IN CNAME .
 videoplayerhub.com IN CNAME .
@@ -37523,6 +37537,7 @@ zisr3w3i2csfa76m.edge41.testandtarget.omniture.com IN CNAME .
 ziwewm.tecovas.com IN CNAME .
 zjbfke.centerparcs.be IN CNAME .
 zjkpxw.tesco.hu IN CNAME .
+zjptg.com IN CNAME .
 zjrbwb.markenschuhe.de IN CNAME .
 zjzain.aboutyou.bg IN CNAME .
 zjzste.tom-tailor.de IN CNAME .
