@@ -191,7 +191,7 @@
       vars:
         _dns_blocklists_exclude:
           - mullvad.net
-          - welcome..org
+          - angband.live # Reported via Mastodon as incorrect
 
 
 - name: Build zonefiles
