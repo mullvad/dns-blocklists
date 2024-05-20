@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1715615022    ; serial
+                                        1716188679    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4448,6 +4448,7 @@ analytics.ovh.com IN CNAME .
 analytics.oyorooms.com IN CNAME .
 analytics.paddle.com IN CNAME .
 analytics.pagefly.io IN CNAME .
+analytics.palitra.ge IN CNAME .
 analytics.pangle-ads.com IN CNAME .
 analytics.partcommunity.com IN CNAME .
 analytics.pgncs.notion.so IN CNAME .
@@ -12774,6 +12775,7 @@ harmantest.epoise.com IN CNAME .
 harpra-companion.harvinar.com IN CNAME .
 harpra-companion-test.harvinar.com IN CNAME .
 harris.ni.com IN CNAME .
+harvester.cms.markiza.sk IN CNAME .
 hasslefree.redwingshoes.com IN CNAME .
 hauhws.asgoodasnew.de IN CNAME .
 hauixd.halistores.com IN CNAME .
@@ -13180,6 +13182,7 @@ igyswj.sixt.it IN CNAME .
 ihcamp.ybtour.co.kr IN CNAME .
 ihc.cellmarque.com IN CNAME .
 ihfwer.aboutyou.com IN CNAME .
+ihi.flowplayer.com IN CNAME .
 ihnbqe.shane.co.jp IN CNAME .
 ih.newegg.com IN CNAME .
 i.honk.me IN CNAME .
@@ -31827,6 +31830,7 @@ telstraphonewords.actonservice.com IN CNAME .
 tel.telegraaf.nl IN CNAME .
 temails.productnotice.thomsonreuters.com IN CNAME .
 te.mirapodo.de IN CNAME .
+temp.twicomi.com IN CNAME .
 temsys.temsys.fr IN CNAME .
 t.emueagles.com IN CNAME .
 t.emusic.com IN CNAME .
@@ -32313,6 +32317,7 @@ t.mktg.genesys.com IN CNAME .
 tmlt.actonservice.com IN CNAME .
 t.mmaeast.com IN CNAME .
 tm-marketing.wolterskluwer.com IN CNAME .
+tm.msgs.jp IN CNAME .
 t.montecarlosbm.com IN CNAME .
 tmpbr.getgifted.com IN CNAME .
 tmrhpl.nurse-agent.com IN CNAME .
@@ -33482,6 +33487,7 @@ track.ultimate-guitar.com IN CNAME .
 track.unidata.ai IN CNAME .
 track.untd.com IN CNAME .
 track.uppromote.com IN CNAME .
+track.us.org IN CNAME .
 track-v4.ipadpresence.com IN CNAME .
 track.veedio.it IN CNAME .
 track.venatusmedia.com IN CNAME .
@@ -36362,6 +36368,7 @@ wqfflc.plantopedia.de IN CNAME .
 wqkcsg.armandthiery.fr IN CNAME .
 wqudcv.finnishdesignshop.com IN CNAME .
 wqytxm.kurly.com IN CNAME .
+wranalytics.wildrocket.io IN CNAME .
 wren.condenastdigital.com IN CNAME .
 wrhv.education.gouv.fr IN CNAME .
 wrkbha.lyst.de IN CNAME .
