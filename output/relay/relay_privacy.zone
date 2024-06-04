@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1717150883    ; serial
+                                        1717505292    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9693,6 +9693,7 @@ dp.shoprunner.com IN CNAME .
 dptgdj.usagi-online.com IN CNAME .
 dptkdh.joinhoney.com IN CNAME .
 dp.tuex.ca IN CNAME .
+dqif5bl25s0bf.cloudfront.net IN CNAME .
 dqqfrs.qatarairways.com IN CNAME .
 dqs3.darjeeling.fr IN CNAME .
 dqs.actonservice.com IN CNAME .
@@ -10919,6 +10920,7 @@ etui.fs.ml.com IN CNAME .
 etwovr.underarmour.eu IN CNAME .
 etx.indiatimes.com IN CNAME .
 etznkn.ec-store.net IN CNAME .
+eu-1-id5-sync.com IN CNAME .
 euapp.levi.com IN CNAME .
 eu.business.samsung.com IN CNAME .
 eu.cignaglobalhealth.com IN CNAME .
@@ -28561,6 +28563,7 @@ soejzg.efe.com.pe IN CNAME .
 soelui.butosklep.pl IN CNAME .
 sofa.bankofamerica.com IN CNAME .
 sofire.bdstatic.com IN CNAME .
+sofire.terabox.app IN CNAME .
 sohiuc.sheego.de IN CNAME .
 sokutei.car2828.jp IN CNAME .
 solar.sharpmarketing.eu IN CNAME .
@@ -35822,6 +35825,8 @@ v.topya.com IN CNAME .
 vtrtl.de IN CNAME .
 vttics.world.co.jp IN CNAME .
 v-t.topya.com IN CNAME .
+vturb.com.br IN CNAME .
+vturb.net IN CNAME .
 vuypew.ikks.com IN CNAME .
 vvaaol.enuygun.com IN CNAME .
 vvcufx.colombo.com.br IN CNAME .
@@ -37189,6 +37194,7 @@ x9.shinobi.jp IN CNAME .
 xaguwy.thomas-muenz.ru IN CNAME .
 xait.actonservice.com IN CNAME .
 x.allabout.co.jp IN CNAME .
+xanalytics.vip IN CNAME .
 xay5o.toscane-boutique.fr IN CNAME .
 x.babe.today IN CNAME .
 x.bloggurat.net IN CNAME .
