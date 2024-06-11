@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1717505307    ; serial
+                                        1718024733    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6017,6 +6017,7 @@ avocado.laprovence.com IN CNAME .
 avolvesoftware.actonservice.com IN CNAME .
 avp.labanquepostale.fr IN CNAME .
 avs.adpinfo.com IN CNAME .
+a.vturb.net IN CNAME .
 awap.equifax.com IN CNAME .
 awaps.yandex.net IN CNAME .
 awaps.yandex.ru IN CNAME .
@@ -7390,6 +7391,7 @@ clouderrorreporting.googleapis.com IN CNAME .
 cloudfront-labs.amazonaws.com IN CNAME .
 cloudhosting.actonservice.com IN CNAME .
 cloudhosting-business.vodafone.com IN CNAME .
+cloudmetrics.xenforo.com IN CNAME .
 cloud-miner.eu IN CNAME .
 cloud.trapptechnology.com IN CNAME .
 cloud.webtrack.online IN CNAME .
@@ -8057,7 +8059,6 @@ counter.top.ge IN CNAME .
 counter.ukr.net IN CNAME .
 counter.webmart.de IN CNAME .
 counter.websitevoice.com IN CNAME .
-counter.wikiwiki.jp IN CNAME .
 counter.yadro.ru IN CNAME .
 count.gothaer-digital.de IN CNAME .
 count.me.uk IN CNAME .
@@ -8449,6 +8450,7 @@ d2ibu2ug0mt5qp.cloudfront.net IN CNAME .
 d2j1fszo1axgmp.cloudfront.net IN CNAME .
 d2j74sjmqqyf26.cloudfront.net IN CNAME .
 d2kdl5wcwrtj90.cloudfront.net IN CNAME .
+d2lxqodqbpy7c2.cloudfront.net IN CNAME .
 d2nxi61n77zqpl.cloudfront.net IN CNAME .
 d2o67tzzxkqap2.cloudfront.net IN CNAME .
 d2oh4tlt9mrke9.cloudfront.net IN CNAME .
@@ -20137,6 +20139,7 @@ metrics.steelcase.com IN CNAME .
 metrics.steinhafels.com IN CNAME .
 metrics.stockhead.com.au IN CNAME .
 metrics.store.irobot.com IN CNAME .
+metrics.streaks.jp IN CNAME .
 metrics.striderite.com IN CNAME .
 metrics.strokeawareness.com IN CNAME .
 metrics.stubhub.co.uk IN CNAME .
@@ -32321,6 +32324,7 @@ t.mashable.com IN CNAME .
 t.massmutualcenter.com IN CNAME .
 tmbsxx.oxybul.com IN CNAME .
 t.meangreensports.com IN CNAME .
+t.mediaset.it IN CNAME .
 t.menepe.com IN CNAME .
 tm-eps.neutrino.nu IN CNAME .
 tmetrics.hdfcbank.com IN CNAME .
@@ -35825,8 +35829,6 @@ v.topya.com IN CNAME .
 vtrtl.de IN CNAME .
 vttics.world.co.jp IN CNAME .
 v-t.topya.com IN CNAME .
-vturb.com.br IN CNAME .
-vturb.net IN CNAME .
 vuypew.ikks.com IN CNAME .
 vvaaol.enuygun.com IN CNAME .
 vvcufx.colombo.com.br IN CNAME .
