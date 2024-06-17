@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1718024733    ; serial
+                                        1718608757    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4109,6 +4109,7 @@ anaconda.net.anwalt.de IN CNAME .
 ana.e-ticket.co.jp IN CNAME .
 analitica.webrpp.com IN CNAME .
 analitik.bik.gov.tr IN CNAME .
+anal.sataniskwijt.be IN CNAME .
 analyse.bcovery.com IN CNAME .
 analyse.hinemos.info IN CNAME .
 analysis.aws.locondo.jp IN CNAME .
@@ -4230,6 +4231,7 @@ analytics.cnblogs.com IN CNAME .
 analytics.cnfanart.com IN CNAME .
 analytics.cnnchile.com IN CNAME .
 analytics.cocolog-nifty.com IN CNAME .
+analytics.code.dccouncil.gov IN CNAME .
 analytics.codeforscience.org IN CNAME .
 analytics.codeskulptor.org IN CNAME .
 analytics.codigo.se IN CNAME .
@@ -8068,6 +8070,7 @@ count.rin.ru IN CNAME .
 count-server.sharethis.com IN CNAME .
 count.sibbo.net IN CNAME .
 count.upc.rakuten.co.jp IN CNAME .
+count.vidsrc.pro IN CNAME .
 count.xxxssk.com IN CNAME .
 count.yandeg.ru IN CNAME .
 covenant.psjhealth.org IN CNAME .
@@ -12105,6 +12108,10 @@ go.anthonyliftgates.com IN CNAME .
 go.app.sharekey.com IN CNAME .
 go.asian.mingle.com IN CNAME .
 go.askbee.my IN CNAME .
+goat.hepicgamerz.com IN CNAME .
+goat.nhimmeo.cf IN CNAME .
+goat.skeetstats.xyz IN CNAME .
+goat.tailspace.net IN CNAME .
 go.audacy.com IN CNAME .
 go.augin.app IN CNAME .
 go.aussie.mingle.com IN CNAME .
@@ -16600,6 +16607,7 @@ logs.mezmo.com IN CNAME .
 log.snapdeal.com IN CNAME .
 logs.naukri.com IN CNAME .
 logs.netflix.com IN CNAME .
+logs.openbank.com IN CNAME .
 logs-partners.coupang.com IN CNAME .
 logs.spilgames.com IN CNAME .
 logstash-3.radio-canada.ca IN CNAME .
@@ -29865,6 +29873,7 @@ stats.administrarweb.es IN CNAME .
 stats.adobe.com IN CNAME .
 stats.adultswim.com IN CNAME .
 stats.aerotime.aero IN CNAME .
+stats.afrocave.com IN CNAME .
 stats.agl.com.au IN CNAME .
 stats.airfarewatchdog.com IN CNAME .
 stats.airfarewatchdog.co.uk IN CNAME .
@@ -29941,6 +29950,7 @@ stats.bookingbuddy.co.uk IN CNAME .
 stats.bookingbuddy.eu IN CNAME .
 stats.book-rec.com IN CNAME .
 stats.booncon.com IN CNAME .
+stats.boringproxy.io IN CNAME .
 stats.boscabeatha.ie IN CNAME .
 stats-bq.stylight.net IN CNAME .
 stats.bradmax.com IN CNAME .
@@ -30117,6 +30127,7 @@ stats.fishersci.com IN CNAME .
 stats.fishersci.de IN CNAME .
 stats.fishersci.it IN CNAME .
 stats.flightsphere.com IN CNAME .
+stats.flixhq.live IN CNAME .
 stats.florianfritz.net IN CNAME .
 stats.flowphantom.com IN CNAME .
 stats.fomo.com IN CNAME .
@@ -30181,6 +30192,7 @@ stats.homepage-2021.askmiso-dev.com IN CNAME .
 stats.homestow.com IN CNAME .
 stats.honeywell.com IN CNAME .
 stats.hostfactor.io IN CNAME .
+stats.how.wtf IN CNAME .
 stats.hpz-scharnhausen.de IN CNAME .
 stats.htmlcsstoimage.com IN CNAME .
 stats.htp.org IN CNAME .
@@ -30850,6 +30862,7 @@ st.linkfire.com IN CNAME .
 stliom.vidaxl.cz IN CNAME .
 stlog.d.dmkt-sp.jp IN CNAME .
 stlog.dmarket.docomo.ne.jp IN CNAME .
+st.mapleranks.com IN CNAME .
 st.mashable.com IN CNAME .
 st.mazdausa.com IN CNAME .
 stmetrics.bbva.com.ar IN CNAME .
@@ -33767,6 +33780,7 @@ trck.asset.malcotools.com IN CNAME .
 trck.atnenga.com IN CNAME .
 trck.bdi-services.de IN CNAME .
 trck.comms.watlow.com IN CNAME .
+trck.coomeet.com IN CNAME .
 trck.copeland.com IN CNAME .
 trck.e.atradius.com IN CNAME .
 trck.el.supremapoker.com.br IN CNAME .
@@ -33995,6 +34009,7 @@ tr.em.cdiscountpro.com IN CNAME .
 tr.emc.moethennessy.com IN CNAME .
 tr.e.m-entreprise.fr IN CNAME .
 trends.newsmaxwidget.com IN CNAME .
+trends.privacywall.org IN CNAME .
 tr.enedis-infos.fr IN CNAME .
 tr.enews.customsolutions.fr IN CNAME .
 tr.enquetes.actionlogement.fr IN CNAME .
