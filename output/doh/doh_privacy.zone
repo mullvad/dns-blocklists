@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1718608757    ; serial
+                                        1719215863    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -51,6 +51,7 @@ $TTL 3600
 1a715b8q5m3j.www.logology.co IN CNAME .
 1amehwchx31.bloxdhop.io IN CNAME .
 1baq2nvd6n7.www.keevowallet.com IN CNAME .
+1bliq.io IN CNAME .
 1bpmtrvkqkj.pettoonies.com IN CNAME .
 1bw7etm93lf.www.woodbrass.com IN CNAME .
 1cros.net IN CNAME .
@@ -3819,6 +3820,7 @@ adtrack.loracle.jp IN CNAME .
 ad-track.paravi.jp IN CNAME .
 ad.udition.jp IN CNAME .
 adultium.com IN CNAME .
+adv-analytics-collector.videograph.ai IN CNAME .
 advancedsolutions.actonservice.com IN CNAME .
 advancing.acams.org IN CNAME .
 advantageauburn.actonservice.com IN CNAME .
@@ -6406,6 +6408,7 @@ bigbtmbvdzda.freelancer.taxmachine.be IN CNAME .
 bigcustomernetwork.actonservice.com IN CNAME .
 bigdata.clarin.com IN CNAME .
 b.iheart.southwest.com IN CNAME .
+bi.heyloyalty.com IN CNAME .
 bi.irisdating.com IN CNAME .
 bijkep.hotelesestelar.com IN CNAME .
 bilahh.feuvert.fr IN CNAME .
@@ -8054,6 +8057,7 @@ counter.reddigital.ru IN CNAME .
 counter.scribblelive.com IN CNAME .
 counters.freewebs.com IN CNAME .
 counter.sibnet.ru IN CNAME .
+counter.smotrim.ru IN CNAME .
 counter.snackly.co IN CNAME .
 counter.subtitlebee.com IN CNAME .
 counter.tldw.me IN CNAME .
@@ -8781,6 +8785,7 @@ data.kameleoon.io IN CNAME .
 data.keybank.dev.cjmadobe.com IN CNAME .
 data.kulturkaufhaus.de IN CNAME .
 data.latinamerica.coca-cola.com IN CNAME .
+datalayer.orange.fr IN CNAME .
 data.leipzig.de IN CNAME .
 data.lifesize.com IN CNAME .
 data-logdelivery.wconcept.co.kr IN CNAME .
@@ -11146,6 +11151,7 @@ evt.24.com IN CNAME .
 evt-api.ntm.eu IN CNAME .
 evt.houzz.com IN CNAME .
 evupmg.olehenriksen.com IN CNAME .
+ew3.io IN CNAME .
 ewfarp.kappa.com IN CNAME .
 ewfrnd.stockmann.ru IN CNAME .
 eworfe.babyartikel.de IN CNAME .
@@ -11315,6 +11321,7 @@ fdowic.hoiku.mynavi.jp IN CNAME .
 fdt.kraken.com IN CNAME .
 fdxtbs.meeters.org IN CNAME .
 featured.bradyid.com IN CNAME .
+feature-flag-edge.live.clickbus.net IN CNAME .
 febcyv.joshi-spa.jp IN CNAME .
 fec1.optimhome.com IN CNAME .
 fedexfield.redskins.com IN CNAME .
@@ -12914,6 +12921,7 @@ hirsung.de IN CNAME .
 hi.streetworkoutlist.com IN CNAME .
 hi.syllable.ai IN CNAME .
 hitachi-hightech-as.actonservice.com IN CNAME .
+hit.cnbce.com IN CNAME .
 hit.interia.pl IN CNAME .
 hitmse.altinbas.com IN CNAME .
 hit.mybestpro.com IN CNAME .
@@ -19170,6 +19178,7 @@ metrics.brightcove.com IN CNAME .
 metrics.brighthorizons.com IN CNAME .
 metrics.britishgas.co.uk IN CNAME .
 metrics.brocade.com IN CNAME .
+metrics-broker.prod.p.tf1.fr IN CNAME .
 metrics.bt.com IN CNAME .
 metrics.bt.com.au IN CNAME .
 metrics.bt.se IN CNAME .
@@ -22407,6 +22416,7 @@ plausible.regex.help IN CNAME .
 plausible.retune.de IN CNAME .
 plausible.safing.io IN CNAME .
 plausible.sbw.org IN CNAME .
+plausible.server.hakai.app IN CNAME .
 plausible.shadygrovepca.org IN CNAME .
 plausible.simplelogin.io IN CNAME .
 plausible.srijn.net IN CNAME .
@@ -35835,6 +35845,7 @@ v.shopify.com IN CNAME .
 vsqyaz.sweetwater.com IN CNAME .
 vs.target.com IN CNAME .
 vstat.borderlessbd.com IN CNAME .
+vstat.rtr-vesti.ru IN CNAME .
 vstats.me IN CNAME .
 vst.sibnet.ru IN CNAME .
 vs.verisure.fr IN CNAME .
