@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1719215863    ; serial
+                                        1719820453    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -32,6 +32,7 @@ $TTL 3600
 12915784.help.sanvello.com IN CNAME .
 12build.actonservice.com IN CNAME .
 13js1lbtbj3.sparkloop.app IN CNAME .
+1438976156.recolution.de IN CNAME .
 1558334541.rsc.cdn77.org IN CNAME .
 16134024.artcollection.io IN CNAME .
 161779.publy.co IN CNAME .
@@ -3780,6 +3781,7 @@ adoffice.11st.co.kr IN CNAME .
 ad.ordersuit.info IN CNAME .
 adpia130611.adpinfo.com IN CNAME .
 adpia.client.adpinfo.com IN CNAME .
+ad-platform.jmty.jp IN CNAME .
 adppartner.solutions.adpinfo.com IN CNAME .
 adpromo.peppynet.com IN CNAME .
 ad.rejichoice.jp IN CNAME .
@@ -4526,6 +4528,7 @@ analytics.seagate.com IN CNAME .
 analyticssec.overwolf.com IN CNAME .
 analytics-secure.dollargeneral.com IN CNAME .
 analytics.send.cm IN CNAME .
+analytics-server.arras.cx IN CNAME .
 analytics-sg.tiktok.com IN CNAME .
 analytics.shareaholic.com IN CNAME .
 analytics.shop.hisense.com IN CNAME .
@@ -8419,7 +8422,6 @@ d17m68fovwmgxj.cloudfront.net IN CNAME .
 d18p8z0ptb8qab.cloudfront.net IN CNAME .
 d191y0yd6d0jy4.cloudfront.net IN CNAME .
 d196fri2z18sm.cloudfront.net IN CNAME .
-d1af033869koo7.cloudfront.net IN CNAME .
 d1cr9zxt7u0sgu.cloudfront.net IN CNAME .
 d1f0tbk1v3e25u.cloudfront.net IN CNAME .
 d1gp8joe0evc8s.cloudfront.net IN CNAME .
@@ -8513,6 +8515,7 @@ da29e6b8-f018-490f-b25f-39a887fc95e7.xyz IN CNAME .
 da.bodenhaus.de IN CNAME .
 dabu.askmediagroup.com IN CNAME .
 dacocorp.actonservice.com IN CNAME .
+dadalytics.it IN CNAME .
 dadispapi.gmarket.co.kr IN CNAME .
 d.adlpo.com IN CNAME .
 da.freo.nl IN CNAME .
@@ -9758,6 +9761,7 @@ dumpster.cam4.com IN CNAME .
 d.uni-medias.com IN CNAME .
 dup.baidustatic.com IN CNAME .
 duprelogistics.actonservice.com IN CNAME .
+durchsichtig.xyz IN CNAME .
 durst-group.actonservice.com IN CNAME .
 duu8lzqdm8tsz.cloudfront.net IN CNAME .
 dv59b.montecarlomeeting.com IN CNAME .
@@ -13070,6 +13074,7 @@ hssyje.theathletesfoot.com.au IN CNAME .
 hst2-invite.ander.ai IN CNAME .
 hstats.askmiso.com IN CNAME .
 hstats.hepsiburada.com IN CNAME .
+hstatstest.hepsiburada.com IN CNAME .
 htcnbx.odkarla.cz IN CNAME .
 htc.oaken.com IN CNAME .
 htmgrl.jollyroom.no IN CNAME .
@@ -17016,6 +17021,7 @@ mandrillapp.zola.com IN CNAME .
 mantis.edge47.testandtarget.omniture.com IN CNAME .
 manufacturing.autodeskcommunications.com IN CNAME .
 ma.pasco.com IN CNAME .
+mapixl.com IN CNAME .
 mapp.biryanibykilo.com IN CNAME .
 mapp.ewm.co.uk IN CNAME .
 mapp.jysk.dk IN CNAME .
@@ -20451,6 +20457,7 @@ mggakg.littleblack.co.kr IN CNAME .
 m.giftry.com IN CNAME .
 mg.info.averydennison.com IN CNAME .
 mgixgn.wittchen.com IN CNAME .
+mgln.ai IN CNAME .
 mg.mistrasgroup.com IN CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net IN CNAME .
 m.go4.io IN CNAME .
@@ -22257,6 +22264,7 @@ pixel.coccoc.com IN CNAME .
 pixel.condenastdigital.com IN CNAME .
 pixel.convertize.io IN CNAME .
 pixel.cpex.cz IN CNAME .
+pixel.driveniq.com IN CNAME .
 pixel.dugwood.com IN CNAME .
 pixel.europapress.net IN CNAME .
 pixel.facebook.com IN CNAME .
@@ -25046,6 +25054,7 @@ sffsgi.miele.com.tr IN CNAME .
 sffyrc.ruparupa.com IN CNAME .
 sf.groc.press IN CNAME .
 sfgysl.ppomppu.co.kr IN CNAME .
+sf-insights.io IN CNAME .
 sfirstparty.here.com IN CNAME .
 s.fission.codes IN CNAME .
 s.flamboroughreview.com IN CNAME .
