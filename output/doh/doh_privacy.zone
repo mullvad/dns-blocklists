@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1720427386    ; serial
+                                        1721029091    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4505,6 +4505,7 @@ adppartner.solutions.adpinfo.com IN CNAME .
 adpromo.peppynet.com IN CNAME .
 ad.rejichoice.jp IN CNAME .
 adrtx.net IN CNAME .
+ads-collector.luizalabs.com IN CNAME .
 adscore.com IN CNAME .
 ads.dandelionchocolate.jp IN CNAME .
 adsdk.yandex.ru IN CNAME .
@@ -4900,6 +4901,7 @@ am-vid-events.taboola.com IN CNAME .
 amvtwk.thebottleclub.com IN CNAME .
 anaconda.net.anwalt.de IN CNAME .
 ana.e-ticket.co.jp IN CNAME .
+anal.doubledouble.top IN CNAME .
 analitica.webrpp.com IN CNAME .
 analitik.bik.gov.tr IN CNAME .
 anal.sataniskwijt.be IN CNAME .
@@ -7676,6 +7678,7 @@ brvelocity.eccocar.com IN CNAME .
 brwanacars.eccocar.com IN CNAME .
 brwerental.eccocar.com IN CNAME .
 b.rwjf.org IN CNAME .
+brwsrfrm.com IN CNAME .
 brycys.24mx.se IN CNAME .
 bryurent.eccocar.com IN CNAME .
 bsbmex.flaschenpost.ch IN CNAME .
@@ -8137,6 +8140,7 @@ cjnbqe.glamira.com.mx IN CNAME .
 cjulor.marimekko.jp IN CNAME .
 ck123.io IN CNAME .
 ck.connatix.com IN CNAME .
+c.keltis.com IN CNAME .
 ckies.net IN CNAME .
 ckpxtt.justfly.com IN CNAME .
 cksfgh.jaycar.com.au IN CNAME .
@@ -8934,6 +8938,7 @@ coop.vmware.com IN CNAME .
 cooyxg.tennis-point.de IN CNAME .
 copilot-telemetry.githubusercontent.com IN CNAME .
 co.promo.skf.com IN CNAME .
+core-apps.b-cdn.net IN CNAME .
 corporate.americanexpress.it IN CNAME .
 corporate.averydennison.com IN CNAME .
 corporatecard.americanexpress.nl IN CNAME .
@@ -9114,6 +9119,7 @@ csp-collector.appspot.com IN CNAME .
 cspmkl.gruppal.com IN CNAME .
 csp-reporting.cloudflare.com IN CNAME .
 csp.secureserver.net IN CNAME .
+csp.yandex.net IN CNAME .
 csr11.net.asambeauty.com IN CNAME .
 csr.onet.pl IN CNAME .
 cstats.sankakucomplex.com IN CNAME .
@@ -12185,6 +12191,7 @@ events.careallies.com IN CNAME .
 events.centex.com IN CNAME .
 events.chaordicsystems.com IN CNAME .
 events.cigna.com IN CNAME .
+events.clips4sale.com IN CNAME .
 events.coface.com IN CNAME .
 events.demoup.com IN CNAME .
 events.devcycle.com IN CNAME .
@@ -15939,7 +15946,6 @@ insights.avad3.com IN CNAME .
 insights.biallo.de IN CNAME .
 insights.bodogaffiliate.com IN CNAME .
 insights.cdt.ch IN CNAME .
-insights.decathlon.net IN CNAME .
 insights.diamond-consultants.com IN CNAME .
 insightseries.redbull.racing IN CNAME .
 insights.golubcapital.com IN CNAME .
@@ -15961,6 +15967,7 @@ insights.prophet.com IN CNAME .
 insights.sitesearch360.com IN CNAME .
 insights.sport1.de IN CNAME .
 insights.squintopera.com IN CNAME .
+insights.v3.decathlon.net IN CNAME .
 insights.zinio.com IN CNAME .
 insight.velocify.com IN CNAME .
 insight.wittkieffer.com IN CNAME .
@@ -16251,6 +16258,7 @@ jatpmv.megacolchoes.com.br IN CNAME .
 javascriptcounter.appspot.com IN CNAME .
 javs.actonservice.com IN CNAME .
 javvso.newone-shop.com IN CNAME .
+jazzyzest.cfd IN CNAME .
 jbbljg.autoscout24.bg IN CNAME .
 jbezdi.ilsole24ore.com IN CNAME .
 jcaqvl.twinset.com IN CNAME .
@@ -16759,6 +16767,7 @@ ladxxr.sonovente.com IN CNAME .
 la.idgenterprise.com IN CNAME .
 lakerspreferences.gleague.nba.com IN CNAME .
 lakerspreferences.nba.com IN CNAME .
+lambda-url.us-east-1.on.aws IN CNAME .
 lammico.actonservice.com IN CNAME .
 lam.promo.skf.com IN CNAME .
 landing-activemeetings.wolterskluwer.com IN CNAME .
@@ -18482,6 +18491,7 @@ ma.revideco.se IN CNAME .
 maricich.actonservice.com IN CNAME .
 marine.promo.skf.com IN CNAME .
 ma.ri.se IN CNAME .
+markadver.com IN CNAME .
 markentive.actonservice.com IN CNAME .
 market.bellelily.com IN CNAME .
 marketing.100days.co.il IN CNAME .
@@ -18898,6 +18908,7 @@ marketing.dreamlawn.com IN CNAME .
 marketing.dreamstyleremodeling.com IN CNAME .
 marketing.driveline.co.nz IN CNAME .
 marketing.driveulu.com IN CNAME .
+marketing.dropbox.com IN CNAME .
 marketing.dryvit.com IN CNAME .
 marketing.dscdredge.com IN CNAME .
 marketing.ducenit.com IN CNAME .
@@ -21840,6 +21851,7 @@ mhs.hrm.healthgrades.com IN CNAME .
 mhwbhn.tohapi.fr IN CNAME .
 mhz-design.actonservice.com IN CNAME .
 miao.baidu.com IN CNAME .
+michiganrobotflower.com IN CNAME .
 microfocus.qm-g.com IN CNAME .
 microlearning.att.com IN CNAME .
 microlise.actonservice.com IN CNAME .
@@ -22315,6 +22327,7 @@ nasi.etherscan.com IN CNAME .
 nasscom.epoise.com IN CNAME .
 nasscomtest.epoise.com IN CNAME .
 nationalaccounts.adp.com IN CNAME .
+native-ads-events-api.c4s-rd.services IN CNAME .
 native-track.com IN CNAME .
 natsp.xing.com IN CNAME .
 nats.xing.com IN CNAME .
@@ -22820,6 +22833,7 @@ ojm4.palladiumhotelgroup.com IN CNAME .
 ojmxro.yatsan.com IN CNAME .
 ojufuk.vincecamuto.com IN CNAME .
 ojvxtz.junonline.jp IN CNAME .
+ok88okg.infinityscans.net IN CNAME .
 okhwxl.rnainc.jp IN CNAME .
 oksiqv.styletread.com.au IN CNAME .
 oktagv.immobilienscout24.at IN CNAME .
@@ -24454,6 +24468,7 @@ questrominfo.bu.edu IN CNAME .
 questtest.epoise.com IN CNAME .
 quickkoala.io IN CNAME .
 quick.openapp.link IN CNAME .
+quickpcfixer.click IN CNAME .
 quidel.actonservice.com IN CNAME .
 quinceimaging.actonservice.com IN CNAME .
 quirklogic.actonservice.com IN CNAME .
@@ -25686,6 +25701,7 @@ sats.mailbrew.com IN CNAME .
 sats.manager-magazin.de IN CNAME .
 sat.soluall.net IN CNAME .
 sats.spiegel.de IN CNAME .
+sa.uswitch.com IN CNAME .
 s.autopilotapp.com IN CNAME .
 save.salary.com.au IN CNAME .
 save.smartsalary.com.au IN CNAME .
@@ -32672,6 +32688,7 @@ syqhvv.vivense.com IN CNAME .
 sys.hager.com IN CNAME .
 sysmon.kakaku.com IN CNAME .
 systancia-scp.actonservice.com IN CNAME .
+system-beta.b-cdn.net IN CNAME .
 system.nefiber.com IN CNAME .
 sytuzk.nissanvimontlaval.com IN CNAME .
 syvvsv.artex.com.br IN CNAME .
@@ -33409,6 +33426,7 @@ tfoyfx.dukefotografia.com IN CNAME .
 tfpeev.chanluu.com IN CNAME .
 t.freelancer.com IN CNAME .
 t.friars.com IN CNAME .
+t.fullres.net IN CNAME .
 tfunqc.domonet.jp IN CNAME .
 tfuodg.memolife.de IN CNAME .
 t.fuzeon.com IN CNAME .
@@ -33915,6 +33933,7 @@ t.pmu.fr IN CNAME .
 tp.mytoys.de IN CNAME .
 t.poconoraceway.com IN CNAME .
 t.pointandplace.com IN CNAME .
+t.poki.io IN CNAME .
 t.popsugar.com IN CNAME .
 t.portland5.com IN CNAME .
 tp.otto.de IN CNAME .
@@ -34959,6 +34978,7 @@ track.yellostrom.de IN CNAME .
 track.yfret.com IN CNAME .
 track.yieldsoftware.com IN CNAME .
 track.youniversalmedia.com IN CNAME .
+track.zapimoveis.com.br IN CNAME .
 tr.acq-pjms.fr IN CNAME .
 trac.roomster.com IN CNAME .
 tr.actiflip.devisdirect.com IN CNAME .
