@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1721029116    ; serial
+                                        1721636709    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4897,7 +4897,6 @@ a.munters.jp IN CNAME .
 a.munters.nl IN CNAME .
 a.munters.se IN CNAME .
 a.munters.us IN CNAME .
-am-vid-events.taboola.com IN CNAME .
 amvtwk.thebottleclub.com IN CNAME .
 anaconda.net.anwalt.de IN CNAME .
 ana.e-ticket.co.jp IN CNAME .
@@ -5141,6 +5140,7 @@ analytics.ihg.com IN CNAME .
 analytics.ikyu.com IN CNAME .
 analytic.simplyhealth.co.uk IN CNAME .
 analytics.infobae.com IN CNAME .
+analytics.inquisitr.com IN CNAME .
 analytics.iraiser.eu IN CNAME .
 analytics.ishopchangi.com IN CNAME .
 analytics.jazel.net IN CNAME .
@@ -5601,6 +5601,7 @@ a.perfumesclub.pt IN CNAME .
 aperio.leicabiosystems.com IN CNAME .
 ape-tagit.timeinc.net IN CNAME .
 apfbrk.butorline.hu IN CNAME .
+apharponloun.com IN CNAME .
 ap.hibbett.com IN CNAME .
 aphxav.green-acres.it IN CNAME .
 api-analytics-prd.pelcro.com IN CNAME .
@@ -7168,6 +7169,7 @@ beacons.mediamelon.com IN CNAME .
 beacon.sojern.com IN CNAME .
 beacon.statful.com IN CNAME .
 beacon.tingyun.com IN CNAME .
+beacon-v2.helpscout.net IN CNAME .
 beacon.vertebrae-axis.com IN CNAME .
 beacon.viewlift.com IN CNAME .
 beacon.walmart.com IN CNAME .
@@ -7643,9 +7645,11 @@ brmov.eccocar.com IN CNAME .
 brmuvif.eccocar.com IN CNAME .
 brmuvon.eccocar.com IN CNAME .
 brnc.seidecor.com.br IN CNAME .
+broadstreet.ai IN CNAME .
 b.rohde-schwarz.com IN CNAME .
 bronxvanilla.openapp.link IN CNAME .
 brooklynway.openapp.link IN CNAME .
+browser.covatic.io IN CNAME .
 browser-intake-datadoghq.com IN CNAME .
 browser.pipe.aria.microsoft.com IN CNAME .
 browser-updater.yandex.net IN CNAME .
@@ -8498,6 +8502,7 @@ collector.mazeberry.com IN CNAME .
 collector.megaxh.com IN CNAME .
 collector.pi.spectrum.net IN CNAME .
 collector-px0py5pczn.octopart.com IN CNAME .
+collector.quillbot.com IN CNAME .
 collector.schibsted.io IN CNAME .
 collector-soompi.viki.io IN CNAME .
 collector.sspinc.io IN CNAME .
@@ -8910,7 +8915,6 @@ conversions.genieventures.co.uk IN CNAME .
 convertlink.com IN CNAME .
 conveyor.lewcoinc.com IN CNAME .
 convision.davivienda.com IN CNAME .
-convsgmp.taboola.com IN CNAME .
 coobuo.pinkpanda.cz IN CNAME .
 cookie.amerigas.com IN CNAME .
 cookie.cynch.com IN CNAME .
@@ -10685,6 +10689,7 @@ dmcc.actonservice.com IN CNAME .
 dmcnyf.nevzatonay.com IN CNAME .
 dmc.romotur.com IN CNAME .
 dmdgdu.atmosphera.com IN CNAME .
+dmepyodjotcuks.com IN CNAME .
 dm-event.net IN CNAME .
 dmkt.solutions.cas.org IN CNAME .
 d.m-net.de IN CNAME .
@@ -11229,6 +11234,7 @@ ef71.pandasuite.io IN CNAME .
 efadyz.smartbuyglasses.co.nz IN CNAME .
 efbenj.adorebeauty.com.au IN CNAME .
 e.fdm.dk IN CNAME .
+effect.habr.com IN CNAME .
 efficiency.nl.visma.com IN CNAME .
 efficiency.visma.com IN CNAME .
 efficiency.visma.dk IN CNAME .
@@ -11958,6 +11964,7 @@ enroll.workforcewellness.com IN CNAME .
 en-sg.siemensplmevents.com IN CNAME .
 ens.luzernerzeitung.ch IN CNAME .
 ens.tagblatt.ch IN CNAME .
+enterombacerick.com IN CNAME .
 enterprise2.secureforms.mcafee.com IN CNAME .
 enterprise.dnb.ca IN CNAME .
 enterprisehive.actonservice.com IN CNAME .
@@ -12219,6 +12226,7 @@ events.jotform.com IN CNAME .
 events.kangan.edu.au IN CNAME .
 events.limango.com IN CNAME .
 events-logs.doctolib.com IN CNAME .
+events.mapbox.com IN CNAME .
 events.marketingcube.com.au IN CNAME .
 events.matterport.com IN CNAME .
 events.mbrl.ae IN CNAME .
@@ -12270,6 +12278,7 @@ events.verticurl.com IN CNAME .
 events.whisk.com IN CNAME .
 event.syndigo.cloud IN CNAME .
 events.yourcx.io IN CNAME .
+event.tagtoo.co IN CNAME .
 event.thermofisher.com IN CNAME .
 event.thermoscientific.cn IN CNAME .
 event.thermoscientific.com IN CNAME .
@@ -12950,6 +12959,7 @@ gastdn.wolfandbadger.com IN CNAME .
 gatan.actonservice.com IN CNAME .
 gateway.aimia.com IN CNAME .
 gateway.foresee.com IN CNAME .
+ga-tracker-dot-detmir-bonus.appspot.com IN CNAME .
 gawayez.e-postserv.com IN CNAME .
 ga.webdigi.co.uk IN CNAME .
 gay-hotvideo.net IN CNAME .
@@ -13415,6 +13425,7 @@ go.dev.upnext.in IN CNAME .
 go.dgsta.com IN CNAME .
 go.diagraph.com IN CNAME .
 go.diagraphmsp.com IN CNAME .
+godiciardstia.com IN CNAME .
 go.divorced.ignite.technology IN CNAME .
 go.dngn.kr IN CNAME .
 go.dreamgaragealabama.com IN CNAME .
@@ -14204,7 +14215,6 @@ hkj8.evobanco.com IN CNAME .
 hksfkh.otomotoprofi.pl IN CNAME .
 hkskqs.belvilla.fr IN CNAME .
 hktracker.hankookilbo.com IN CNAME .
-hk-trc-events.taboola.com IN CNAME .
 hlagkl.vinatis.com IN CNAME .
 hleouh.feelunique.com IN CNAME .
 hlhyzh.fann.cz IN CNAME .
@@ -15100,6 +15110,7 @@ imp.go.sohu.com IN CNAME .
 imp.optaim.com IN CNAME .
 imp.pvnsolutions.com IN CNAME .
 impression.clickinc.com IN CNAME .
+impressions.svc.abillion.com IN CNAME .
 impression-tracker-service-5eimuebuhq-lz.a.run.app IN CNAME .
 impress.vcita.com IN CNAME .
 improve.tempest.com IN CNAME .
@@ -16767,7 +16778,6 @@ ladxxr.sonovente.com IN CNAME .
 la.idgenterprise.com IN CNAME .
 lakerspreferences.gleague.nba.com IN CNAME .
 lakerspreferences.nba.com IN CNAME .
-lambda-url.us-east-1.on.aws IN CNAME .
 lammico.actonservice.com IN CNAME .
 lam.promo.skf.com IN CNAME .
 landing-activemeetings.wolterskluwer.com IN CNAME .
@@ -16813,7 +16823,6 @@ laplink.actonservice.com IN CNAME .
 l.apna.co IN CNAME .
 lapwkd.feelgood-shop.com IN CNAME .
 laserconcepts.actonservice.com IN CNAME .
-la-sync.taboola.com IN CNAME .
 latam.thomsonreuters.com IN CNAME .
 l.audibook.si IN CNAME .
 launch.aella.app IN CNAME .
@@ -17904,6 +17913,7 @@ lltmch.zurifurniture.com IN CNAME .
 lltrck.com IN CNAME .
 llwoyl.mirraw.com IN CNAME .
 l.lyfshort.com IN CNAME .
+lma.npaw.com IN CNAME .
 lmavci.eloquii.com IN CNAME .
 lmeniu.timberland.com.au IN CNAME .
 lmepbq.com IN CNAME .
@@ -20007,6 +20017,7 @@ m.bell.ca IN CNAME .
 mbeoxt.perfumesclub.pt IN CNAME .
 m.bigroad.com IN CNAME .
 m.bitmo.com IN CNAME .
+mbmgivexdvpajr.com IN CNAME .
 mbna.bruker.com IN CNAME .
 mbns.bruker.com IN CNAME .
 m.bookis.com IN CNAME .
@@ -22621,7 +22632,6 @@ nqozgp.botland.com.pl IN CNAME .
 nqxnvy.levi.com.hk IN CNAME .
 nqyuel589fq5.esgrounding.com IN CNAME .
 nra.locktonaffinity.net IN CNAME .
-nr-events.taboola.com IN CNAME .
 nrg.red-by-sfr.fr IN CNAME .
 nrjcur.pomelofashion.com IN CNAME .
 nrquff.supurgemarket.com IN CNAME .
@@ -23165,7 +23175,6 @@ opo4.assuronline.com IN CNAME .
 opoffice.actonservice.com IN CNAME .
 opportunity.businessbroker.net IN CNAME .
 opportunityfund.actonservice.com IN CNAME .
-opps.taboola.com IN CNAME .
 oppuz.com IN CNAME .
 ops.sunpowercorp.com IN CNAME .
 opsveda.actonservice.com IN CNAME .
@@ -23932,6 +23941,7 @@ pl.kanbanmail.app IN CNAME .
 pl.kis-nagy.art IN CNAME .
 pl.letsblock.it IN CNAME .
 pll.pearlinsurance.com IN CNAME .
+pl.lucida.to IN CNAME .
 pl.maya-astro.fi IN CNAME .
 pl.mynorthstarapp.com IN CNAME .
 p.logbox.io IN CNAME .
@@ -24313,6 +24323,8 @@ pzapi-kg.com IN CNAME .
 pzd.rakuten.co.jp IN CNAME .
 pzimff.com IN CNAME .
 pzxhyp.aeropostale.com IN CNAME .
+q0losid.com IN CNAME .
+q20jqurls0y7gk8.info IN CNAME .
 q4l5gz6lqog6.www.eventus.io IN CNAME .
 q777.sfchronicle.com IN CNAME .
 q88.actonservice.com IN CNAME .
@@ -31600,6 +31612,7 @@ stats.guersanguillaume.com IN CNAME .
 stats.guidingwallet.app IN CNAME .
 stats.guycarp.com IN CNAME .
 stats.gynsprechstunde.de IN CNAME .
+stats.habr.com IN CNAME .
 stats.hackershare.dev IN CNAME .
 stats.hager.com IN CNAME .
 stats.halcyon.hr IN CNAME .
@@ -32671,6 +32684,7 @@ sxjfhh.vcstar.com IN CNAME .
 sxmxpm.nectarsleep.com IN CNAME .
 sxp.allianz.de IN CNAME .
 sxwxswg8z1xe.www.arnowebtv.com IN CNAME .
+sy57d8wi.com IN CNAME .
 sy.amebame.com IN CNAME .
 sy.ameblo.jp IN CNAME .
 syfwnf.society6.com IN CNAME .
@@ -32682,7 +32696,6 @@ sync-a8.cocolocala.jp IN CNAME .
 sync.adap.tv IN CNAME .
 sync.rambler.ru IN CNAME .
 sync.shinobi.jp IN CNAME .
-sync.taboola.com IN CNAME .
 s.yorkregion.com IN CNAME .
 syqhvv.vivense.com IN CNAME .
 sys.hager.com IN CNAME .
@@ -33289,6 +33302,7 @@ te.nitro-test-extern.otto.boreus.de IN CNAME .
 t.enuygun.com IN CNAME .
 te.otto.de IN CNAME .
 te.ottoversand.at IN CNAME .
+tepatonol.com IN CNAME .
 te.quelle.de IN CNAME .
 teracom.actonservice.com IN CNAME .
 teraes.hgreg.com IN CNAME .
@@ -33782,7 +33796,6 @@ t.mgoblue.com IN CNAME .
 tmhgma.juwelo.de IN CNAME .
 t.miamihurricanes.com IN CNAME .
 t.miamiredhawks.com IN CNAME .
-tm.jsuol.com.br IN CNAME .
 t.mktg.genesys.com IN CNAME .
 tmlt.actonservice.com IN CNAME .
 t.mmaeast.com IN CNAME .
@@ -36988,7 +37001,6 @@ uqd.io IN CNAME .
 uqhpej.wiberrentacar.com IN CNAME .
 urbanairship.com IN CNAME .
 ur.b.inhaabit.com IN CNAME .
-urc.taboolasyndication.com IN CNAME .
 urehgr.halekulani.com IN CNAME .
 ureoaw.netthandelen.no IN CNAME .
 ureruadebis.papawash.com IN CNAME .
@@ -37155,6 +37167,7 @@ venture-365-inspired.com IN CNAME .
 venusrevival.com IN CNAME .
 veoci.actonservice.com IN CNAME .
 veosfi.woonexpress.nl IN CNAME .
+veozn3f.com IN CNAME .
 veqvek.bnnbloomberg.ca IN CNAME .
 veqvek.ctv.ca IN CNAME .
 veqvek.ctvnews.ca IN CNAME .
@@ -37215,7 +37228,6 @@ videostats.kakao.com IN CNAME .
 video.verintsystemsinc.com IN CNAME .
 video.vitcord.com IN CNAME .
 vidfiles.net.mydays.de IN CNAME .
-vidstat.taboola.com IN CNAME .
 vietnam.promo.skf.com IN CNAME .
 view.americanbuildings.com IN CNAME .
 view.aon.com IN CNAME .
@@ -37297,6 +37309,7 @@ vmsspl.tenamall.co.kr IN CNAME .
 vmsxzx.buienradar.nl IN CNAME .
 vmwody.seibu-k.co.jp IN CNAME .
 v.myvoleo.com IN CNAME .
+vmzqqmlpwwmazjnio.com IN CNAME .
 vnl1.voyage-prive.nl IN CNAME .
 vnlvxi.vivastreet.co.uk IN CNAME .
 vnmopn.brax.com IN CNAME .
@@ -37831,7 +37844,6 @@ westevents.presidio.com IN CNAME .
 wevbgr.vidaxl.it IN CNAME .
 wezbvq.heine-shop.nl IN CNAME .
 wfmcgd.msccruzeiros.com.br IN CNAME .
-wf.taboola.com IN CNAME .
 wgeaqi.laredoute.gr IN CNAME .
 wgnrrd.culturekings.com IN CNAME .
 wgpepw.boatoutfitters.com IN CNAME .
