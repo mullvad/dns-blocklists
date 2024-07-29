@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1721636709    ; serial
+                                        1722251539    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -117,6 +117,7 @@ $TTL 3600
 40caidaylimpia.catzolab.net IN CNAME .
 4251.tech IN CNAME .
 4399stat.5054399.com IN CNAME .
+46rtpw.ru IN CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br IN CNAME .
 492733704185584515.academyforconsciousculture.com IN CNAME .
 4b.oktium.com IN CNAME .
@@ -7043,6 +7044,7 @@ b2bmarketingsb.swisscom.ch IN CNAME .
 b2bmarketingsb.swisscom.com IN CNAME .
 b2bmarketing.swisscom.ch IN CNAME .
 b2bmkt.lge.co.kr IN CNAME .
+b3mxnuvcer.com IN CNAME .
 b536mpmxoqxa.www.themoneytizer.com IN CNAME .
 b5j6itccyluq.nofluffjobs.com IN CNAME .
 b629.electronicdesign.com IN CNAME .
@@ -8457,6 +8459,7 @@ collab9.actonservice.com IN CNAME .
 collaborate.blackboard.com IN CNAME .
 collect2.allianz.ch IN CNAME .
 collect.adplogger.no IN CNAME .
+collect.air1.com IN CNAME .
 collect.alipay.com IN CNAME .
 collect.allianz.ch IN CNAME .
 collect.allianz-technology.ch IN CNAME .
@@ -8480,6 +8483,7 @@ collection.e-satisfaction.com IN CNAME .
 collection.saga.co.uk IN CNAME .
 collections.equifax.com IN CNAME .
 collect.iteam-dress.com IN CNAME .
+collect.klove.com IN CNAME .
 collect.meilleurtaux.com IN CNAME .
 collector2c.zhihuishu.com IN CNAME .
 collector5.zipy.ai IN CNAME .
@@ -8972,6 +8976,7 @@ count.asnetworks.de IN CNAME .
 count.bank99.at IN CNAME .
 count.candou.com IN CNAME .
 count.carrierzone.com IN CNAME .
+count.darkreader.app IN CNAME .
 counter.1i.kz IN CNAME .
 counter2.blog.livedoor.com IN CNAME .
 counter.blogoscoop.net IN CNAME .
@@ -10005,6 +10010,7 @@ data.your.hesta.com.au IN CNAME .
 data.your.hestaformercy.com.au IN CNAME .
 daten.union-investment.de IN CNAME .
 datum.appfleet.com IN CNAME .
+datum.jsdelivr.com IN CNAME .
 dav.davrontech.com IN CNAME .
 dax.yle.fi IN CNAME .
 dazdmx.cobra.fr IN CNAME .
@@ -10740,7 +10746,6 @@ donjigrad.viessmann.rs IN CNAME .
 dopljl.noleggiosemplice.it IN CNAME .
 doppler-beacon.cbsivideo.com IN CNAME .
 doppler-client-events.cbsivideo.com IN CNAME .
-doppler-config.cbsivideo.com IN CNAME .
 doppler-reporting.cbsivideo.com IN CNAME .
 dot.nonolive.com IN CNAME .
 dotvox.actonservice.com IN CNAME .
@@ -17988,6 +17993,7 @@ logger007.cam4.com IN CNAME .
 logger.bzu.kr IN CNAME .
 logger.kataweb.it IN CNAME .
 logger.nerdwallet.com IN CNAME .
+logger.omio.com IN CNAME .
 logger.rm.uol.com.br IN CNAME .
 logger.snackly.co IN CNAME .
 logger.torimochi-ad.net IN CNAME .
@@ -23489,6 +23495,7 @@ paramedicexam.quantresear.ch IN CNAME .
 pardko.pricerunner.com IN CNAME .
 parentapp.byjus.com IN CNAME .
 parents.app.playosmo.com IN CNAME .
+parsley.detik.com IN CNAME .
 partenaireslld.temsys.fr IN CNAME .
 partnerapp.kravein.com.au IN CNAME .
 partnerapp.urbanclap.com IN CNAME .
@@ -23887,6 +23894,7 @@ plausible.tac.dappstar.io IN CNAME .
 plausible.tasteslikeme.ca IN CNAME .
 plausible.tlschedule.com IN CNAME .
 plausible.treelightsoftware.com IN CNAME .
+plausible.tubemagic.com IN CNAME .
 plausible.urbanekuensteruhr.de IN CNAME .
 plausible.veszelovszki.com IN CNAME .
 plausible.visitu.com IN CNAME .
@@ -23941,7 +23949,6 @@ pl.kanbanmail.app IN CNAME .
 pl.kis-nagy.art IN CNAME .
 pl.letsblock.it IN CNAME .
 pll.pearlinsurance.com IN CNAME .
-pl.lucida.to IN CNAME .
 pl.maya-astro.fi IN CNAME .
 pl.mynorthstarapp.com IN CNAME .
 p.logbox.io IN CNAME .
@@ -23957,6 +23964,7 @@ pl.sharpmarketing.eu IN CNAME .
 pls.skycastle.dev IN CNAME .
 pl.terraintinker.com IN CNAME .
 pl-topgal.m-shop.me IN CNAME .
+p.lucida.to IN CNAME .
 plugs.jameco.com IN CNAME .
 plusavecmoins.adp.ca IN CNAME .
 pl.venusafe.com IN CNAME .
@@ -25719,6 +25727,7 @@ save.salary.com.au IN CNAME .
 save.smartsalary.com.au IN CNAME .
 savings.adp.ca IN CNAME .
 sawap.equifax.com IN CNAME .
+sayac.kapital.com.tr IN CNAME .
 say.hello.navan.com IN CNAME .
 say.hello.tripactions.com IN CNAME .
 sbc-app-links.specialized.com IN CNAME .
@@ -32771,6 +32780,7 @@ tag.myplay.com IN CNAME .
 tagourounakia.openapp.link IN CNAME .
 tag.rightmessage.com IN CNAME .
 tag.rmp.rakuten.com IN CNAME .
+tags.air1.com IN CNAME .
 tags.aljazeera.com IN CNAME .
 tags.aljazeera.net IN CNAME .
 tags.catapultx.com IN CNAME .
@@ -32785,6 +32795,7 @@ tags.hilabel.nl IN CNAME .
 tag.shopping-feed.com IN CNAME .
 tags.igeo.com.bo IN CNAME .
 tags.johnlewis.com IN CNAME .
+tags.klove.com IN CNAME .
 tags.master-perf-tools.com IN CNAME .
 tags.op-palvelut.fi IN CNAME .
 tags.refinery89.com IN CNAME .
@@ -33171,6 +33182,7 @@ t.classiccenter.com IN CNAME .
 t.clic2buy.com IN CNAME .
 t.cofcsports.com IN CNAME .
 t.collinscenterforthearts.com IN CNAME .
+t.cometlytrack.com IN CNAME .
 t.comms.thetimes.co.uk IN CNAME .
 t.cozone.com IN CNAME .
 t.csurams.com IN CNAME .
@@ -33278,6 +33290,7 @@ telemetry.sdk.inmobi.com IN CNAME .
 telemetry.smartframe.io IN CNAME .
 telemetry.soundcloud.com IN CNAME .
 telemetry.stryker.com IN CNAME .
+telemetry.stytch.com IN CNAME .
 telemetry.tableausoftware.com IN CNAME .
 telemetry.tradingview.com IN CNAME .
 telemetry.vtex.com IN CNAME .
@@ -33397,6 +33410,7 @@ test.takedwn.ws IN CNAME .
 testtarget.jeep.com IN CNAME .
 test.thei.co IN CNAME .
 test.thomsonreuters.com IN CNAME .
+test.torrentfreak.com IN CNAME .
 test.vast IN CNAME .
 test.zeus-wifi.jp IN CNAME .
 t.etraveli.com IN CNAME .
@@ -34138,6 +34152,7 @@ tracker.myth.dev IN CNAME .
 tracker.myyschool.xyz IN CNAME .
 tracker.nbcuas.com IN CNAME .
 tracker.nitropay.com IN CNAME .
+tracker.nocodelytics.com IN CNAME .
 tracker.novage.com.ua IN CNAME .
 tracker.openwebtorrent.com IN CNAME .
 tracker.prom.ua IN CNAME .
