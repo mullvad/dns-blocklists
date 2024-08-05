@@ -4897,6 +4897,7 @@ analyse.bcovery.com
 analyse.hinemos.info
 analysis.aws.locondo.jp
 analysis.fi
+analysis.prod.joyfru.jiji.com
 analys.live
 analytic20.detik.com
 analytic.alabama.aaa.com
@@ -4995,6 +4996,7 @@ analytics.cdf.cl
 analytics.ceneo.pl
 analytics.certifriedit.com
 analytics.ceu.com
+analytics-cf.bigcrunch.com
 analytics.changiairport.com
 analytics.chase.com
 analytics.chattarize.de
@@ -5279,6 +5281,7 @@ analytics.pop2watch.com
 analytics-prd.aws.wehaa.net
 analytics.prezly.com
 analytics-prod2.glance-internal.inmobi.com
+analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics-production.hapyak.com
 analytics.productreview.com.au
 analytics-proxy.springboard.com
@@ -7146,6 +7149,7 @@ beacon.flow.io
 beaconhealthsystem.hrm.healthgrades.com
 beacon.klm.com
 beacon.qq.com
+beacon.radiko.jp
 beacon.riskified.com
 beacon.samsclub.com
 beacon.searchspring.io
@@ -9113,6 +9117,7 @@ cs.nakanohito.jp
 cs.nexttv.co.il
 c.snow.com
 csp-collector.appspot.com
+csplog.kwai-pro.com
 cspmkl.gruppal.com
 csp-reporting.cloudflare.com
 csp.secureserver.net
@@ -9407,6 +9412,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
@@ -10840,6 +10846,7 @@ dtqcpx.eskor.se
 dtr-onsite-feed.datarize.ai
 dttrk.com
 d.tv-asahi.co.jp
+dt.xfyun.cn
 dtxtngytz5im1.cloudfront.net
 dtzrrz.green-japan.com
 du4rq1xqh3i1k.cloudfront.net
@@ -12171,6 +12178,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+event.platform.autotrader.com.au
 event.platform.tunein.com
 event.raise3d.cn
 event-router.olympics.com
@@ -12264,6 +12272,7 @@ events-tracker.deliveroo.net
 events.trapptechnology.com
 eventstream.dodopizza.com
 event-stream.spot.im
+events.tryamped.com
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
@@ -12484,6 +12493,7 @@ fdxtbs.meeters.org
 fea-cfd.simutechgroup.com
 featured.bradyid.com
 feature-flag-edge.live.clickbus.net
+featuregates.org
 febcyv.joshi-spa.jp
 fedexfield.redskins.com
 fedsched.actonservice.com
@@ -12494,7 +12504,6 @@ feedback.imsmetals.com
 feedback.lifeguardarena.com
 feedback.nslsc-csnpe.ca
 feedme.use-beez.com
-feliz.data.tm-awx.com
 f-emc.ngsp.gov.vn
 femetrics.grammarly.io
 feppiu.systemaction.es
@@ -12517,6 +12526,7 @@ fgfukd.sakazen.co.jp
 fgjfwz.legami.com
 fglrgt.ruggable.com
 fgmaal.u-canshop.jp
+fgn-plausible.serverable.com
 fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
@@ -15111,6 +15121,7 @@ improving.wuzhuiso.com
 imrworldwide.com
 imzahrwl.xyz
 inbound-analytics.pixlee.co
+in.brilliant.org
 in-business.vodafone.com
 incisive.actonservice.com
 incs.get-go.com
@@ -15962,6 +15973,7 @@ insights.jackporter.com
 insights.journey.world
 insights.labcorp.com
 insights.morrismohawk.ca
+insights-mxp-cdn.coursecareers.com
 insights.networks.global.fujitsu.com
 insights.nexansdatacenter.com
 insights.nowitmatters.com
@@ -16019,6 +16031,7 @@ interest.truvenhealth.com
 internal-analytics.odoo.com
 internalcomms.dbschenker.com
 internalcomms.hubinternational.com
+internal-e.posthog.com
 internal.hcltech.com
 international.edc.ca
 internationalpayments.americanexpress.com
@@ -18034,6 +18047,7 @@ logs.51cto.com
 logs.animaapp.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
+logsdk.kwai-pro.com
 log.seekda.com
 logservice1.hicloud.com
 logservice.hicloud.com
@@ -21832,7 +21846,6 @@ mgefhu.suomi24.fi
 mggakg.littleblack.co.kr
 m.giftry.com
 mgixgn.wittchen.com
-mgln.ai
 mg.mistrasgroup.com
 mgn.ebis.xn--olsz5f0ufw02b.net
 m.go4.io
@@ -22560,6 +22573,7 @@ nntgna.dmm.com
 nnvoia.closetworld.com
 no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
+noa.yahoo.com
 nocaadobefpc.optus.com.au
 noeyeon.click
 noeyeon.com
@@ -23712,6 +23726,7 @@ pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
+pixel.fohr.co
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
@@ -23971,6 +23986,7 @@ pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
 pm.geniusmonkey.com
+pmi.flowplayer.com
 p.minds.com
 pm.pmu.fr
 pnaagn.haekplanter-heijnen.dk
@@ -26585,6 +26601,8 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
+services.haaretz.co.il
+services.haaretz.com
 services.princes-trust.org.uk
 services.releasepoint.com
 service.trustpid.com
@@ -30471,6 +30489,7 @@ spmyma.moscowfresh.ru
 sp.naver.com
 spread.epoolers.com
 springboard.aon.com
+sprtnd.com
 spscas.hitachi-solutions.co.jp
 sp.soniccares.com
 sp.spaceomatic.fr
@@ -36944,6 +36963,7 @@ ulidoo.montblanc.com
 ulinyo.bandito.com.tr
 ultund.misterspex.nl
 ulutlv.esprit.fr
+umami.aigenerations.net
 umami.wakarimasen.moe
 umassmemorial.hrm.healthgrades.com
 umazvs.raybiotech.com

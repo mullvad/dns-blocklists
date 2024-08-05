@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1722251539    ; serial
+                                        1722841478    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4909,6 +4909,7 @@ analyse.bcovery.com IN CNAME .
 analyse.hinemos.info IN CNAME .
 analysis.aws.locondo.jp IN CNAME .
 analysis.fi IN CNAME .
+analysis.prod.joyfru.jiji.com IN CNAME .
 analys.live IN CNAME .
 analytic20.detik.com IN CNAME .
 analytic.alabama.aaa.com IN CNAME .
@@ -5007,6 +5008,7 @@ analytics.cdf.cl IN CNAME .
 analytics.ceneo.pl IN CNAME .
 analytics.certifriedit.com IN CNAME .
 analytics.ceu.com IN CNAME .
+analytics-cf.bigcrunch.com IN CNAME .
 analytics.changiairport.com IN CNAME .
 analytics.chase.com IN CNAME .
 analytics.chattarize.de IN CNAME .
@@ -5291,6 +5293,7 @@ analytics.pop2watch.com IN CNAME .
 analytics-prd.aws.wehaa.net IN CNAME .
 analytics.prezly.com IN CNAME .
 analytics-prod2.glance-internal.inmobi.com IN CNAME .
+analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com IN CNAME .
 analytics-production.hapyak.com IN CNAME .
 analytics.productreview.com.au IN CNAME .
 analytics-proxy.springboard.com IN CNAME .
@@ -7158,6 +7161,7 @@ beacon.flow.io IN CNAME .
 beaconhealthsystem.hrm.healthgrades.com IN CNAME .
 beacon.klm.com IN CNAME .
 beacon.qq.com IN CNAME .
+beacon.radiko.jp IN CNAME .
 beacon.riskified.com IN CNAME .
 beacon.samsclub.com IN CNAME .
 beacon.searchspring.io IN CNAME .
@@ -9125,6 +9129,7 @@ cs.nakanohito.jp IN CNAME .
 cs.nexttv.co.il IN CNAME .
 c.snow.com IN CNAME .
 csp-collector.appspot.com IN CNAME .
+csplog.kwai-pro.com IN CNAME .
 cspmkl.gruppal.com IN CNAME .
 csp-reporting.cloudflare.com IN CNAME .
 csp.secureserver.net IN CNAME .
@@ -9419,6 +9424,7 @@ d2lxqodqbpy7c2.cloudfront.net IN CNAME .
 d2nxi61n77zqpl.cloudfront.net IN CNAME .
 d2o67tzzxkqap2.cloudfront.net IN CNAME .
 d2oh4tlt9mrke9.cloudfront.net IN CNAME .
+d2pozfvrp52dk4.cloudfront.net IN CNAME .
 d2pt12ct4kmq21.cloudfront.net IN CNAME .
 d2r1yp2w7bby2u.cloudfront.net IN CNAME .
 d2rnkf2kqy5m6h.cloudfront.net IN CNAME .
@@ -10852,6 +10858,7 @@ dtqcpx.eskor.se IN CNAME .
 dtr-onsite-feed.datarize.ai IN CNAME .
 dttrk.com IN CNAME .
 d.tv-asahi.co.jp IN CNAME .
+dt.xfyun.cn IN CNAME .
 dtxtngytz5im1.cloudfront.net IN CNAME .
 dtzrrz.green-japan.com IN CNAME .
 du4rq1xqh3i1k.cloudfront.net IN CNAME .
@@ -12183,6 +12190,7 @@ eventos.emkt.ingressorapido.com.br IN CNAME .
 eventos.mirecweek.com IN CNAME .
 eventos.ubmmexico.com IN CNAME .
 eventos.usj.es IN CNAME .
+event.platform.autotrader.com.au IN CNAME .
 event.platform.tunein.com IN CNAME .
 event.raise3d.cn IN CNAME .
 event-router.olympics.com IN CNAME .
@@ -12276,6 +12284,7 @@ events-tracker.deliveroo.net IN CNAME .
 events.trapptechnology.com IN CNAME .
 eventstream.dodopizza.com IN CNAME .
 event-stream.spot.im IN CNAME .
+events.tryamped.com IN CNAME .
 events.tubecup.org IN CNAME .
 events.turbosquid.com IN CNAME .
 events.ubembed.com IN CNAME .
@@ -12496,6 +12505,7 @@ fdxtbs.meeters.org IN CNAME .
 fea-cfd.simutechgroup.com IN CNAME .
 featured.bradyid.com IN CNAME .
 feature-flag-edge.live.clickbus.net IN CNAME .
+featuregates.org IN CNAME .
 febcyv.joshi-spa.jp IN CNAME .
 fedexfield.redskins.com IN CNAME .
 fedsched.actonservice.com IN CNAME .
@@ -12506,7 +12516,6 @@ feedback.imsmetals.com IN CNAME .
 feedback.lifeguardarena.com IN CNAME .
 feedback.nslsc-csnpe.ca IN CNAME .
 feedme.use-beez.com IN CNAME .
-feliz.data.tm-awx.com IN CNAME .
 f-emc.ngsp.gov.vn IN CNAME .
 femetrics.grammarly.io IN CNAME .
 feppiu.systemaction.es IN CNAME .
@@ -12529,6 +12538,7 @@ fgfukd.sakazen.co.jp IN CNAME .
 fgjfwz.legami.com IN CNAME .
 fglrgt.ruggable.com IN CNAME .
 fgmaal.u-canshop.jp IN CNAME .
+fgn-plausible.serverable.com IN CNAME .
 fgosob.unhcr.it IN CNAME .
 fgqxcz.thehipstore.co.uk IN CNAME .
 fhdnds.mrmarvis.com IN CNAME .
@@ -15123,6 +15133,7 @@ improving.wuzhuiso.com IN CNAME .
 imrworldwide.com IN CNAME .
 imzahrwl.xyz IN CNAME .
 inbound-analytics.pixlee.co IN CNAME .
+in.brilliant.org IN CNAME .
 in-business.vodafone.com IN CNAME .
 incisive.actonservice.com IN CNAME .
 incs.get-go.com IN CNAME .
@@ -15974,6 +15985,7 @@ insights.jackporter.com IN CNAME .
 insights.journey.world IN CNAME .
 insights.labcorp.com IN CNAME .
 insights.morrismohawk.ca IN CNAME .
+insights-mxp-cdn.coursecareers.com IN CNAME .
 insights.networks.global.fujitsu.com IN CNAME .
 insights.nexansdatacenter.com IN CNAME .
 insights.nowitmatters.com IN CNAME .
@@ -16031,6 +16043,7 @@ interest.truvenhealth.com IN CNAME .
 internal-analytics.odoo.com IN CNAME .
 internalcomms.dbschenker.com IN CNAME .
 internalcomms.hubinternational.com IN CNAME .
+internal-e.posthog.com IN CNAME .
 internal.hcltech.com IN CNAME .
 international.edc.ca IN CNAME .
 internationalpayments.americanexpress.com IN CNAME .
@@ -18046,6 +18059,7 @@ logs.51cto.com IN CNAME .
 logs.animaapp.com IN CNAME .
 logs-api.shoprunner.com IN CNAME .
 logsbin.dantri.com.vn IN CNAME .
+logsdk.kwai-pro.com IN CNAME .
 log.seekda.com IN CNAME .
 logservice1.hicloud.com IN CNAME .
 logservice.hicloud.com IN CNAME .
@@ -21844,7 +21858,6 @@ mgefhu.suomi24.fi IN CNAME .
 mggakg.littleblack.co.kr IN CNAME .
 m.giftry.com IN CNAME .
 mgixgn.wittchen.com IN CNAME .
-mgln.ai IN CNAME .
 mg.mistrasgroup.com IN CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net IN CNAME .
 m.go4.io IN CNAME .
@@ -22572,6 +22585,7 @@ nntgna.dmm.com IN CNAME .
 nnvoia.closetworld.com IN CNAME .
 no9pldds1lmn3.soundcloud.com IN CNAME .
 noa0.compteczam.fr IN CNAME .
+noa.yahoo.com IN CNAME .
 nocaadobefpc.optus.com.au IN CNAME .
 noeyeon.click IN CNAME .
 noeyeon.com IN CNAME .
@@ -23724,6 +23738,7 @@ pixel.driveniq.com IN CNAME .
 pixel.dugwood.com IN CNAME .
 pixel.europapress.net IN CNAME .
 pixel.facebook.com IN CNAME .
+pixel.fohr.co IN CNAME .
 pixel.homebook.pl IN CNAME .
 pixel.honestjohn.co.uk IN CNAME .
 pixel.inforsea.com IN CNAME .
@@ -23983,6 +23998,7 @@ pm.eu.viatrisconnect.com IN CNAME .
 pm.eu.viatrisconnect.de IN CNAME .
 pm.eu.viatrisconnect.it IN CNAME .
 pm.geniusmonkey.com IN CNAME .
+pmi.flowplayer.com IN CNAME .
 p.minds.com IN CNAME .
 pm.pmu.fr IN CNAME .
 pnaagn.haekplanter-heijnen.dk IN CNAME .
@@ -26597,6 +26613,8 @@ services.blackboard.com IN CNAME .
 services.cairn.info IN CNAME .
 services.eclerx.com IN CNAME .
 services.edc.ca IN CNAME .
+services.haaretz.co.il IN CNAME .
+services.haaretz.com IN CNAME .
 services.princes-trust.org.uk IN CNAME .
 services.releasepoint.com IN CNAME .
 service.trustpid.com IN CNAME .
@@ -30483,6 +30501,7 @@ spmyma.moscowfresh.ru IN CNAME .
 sp.naver.com IN CNAME .
 spread.epoolers.com IN CNAME .
 springboard.aon.com IN CNAME .
+sprtnd.com IN CNAME .
 spscas.hitachi-solutions.co.jp IN CNAME .
 sp.soniccares.com IN CNAME .
 sp.spaceomatic.fr IN CNAME .
@@ -36956,6 +36975,7 @@ ulidoo.montblanc.com IN CNAME .
 ulinyo.bandito.com.tr IN CNAME .
 ultund.misterspex.nl IN CNAME .
 ulutlv.esprit.fr IN CNAME .
+umami.aigenerations.net IN CNAME .
 umami.wakarimasen.moe IN CNAME .
 umassmemorial.hrm.healthgrades.com IN CNAME .
 umazvs.raybiotech.com IN CNAME .
