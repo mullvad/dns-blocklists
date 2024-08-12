@@ -23,37 +23,45 @@ dns_blocklists_lists:
     url: https://v.firebog.net/hosts/Easyprivacy.txt
     type: privacy
 
-  - name: windows-spy-blocker-spy
-    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+  - name: hagezi-tracker-amazon
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
     type: privacy
 
-  - name: telemetry-alexa
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
+  - name: hagezi-tracker-apple
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt
     type: privacy
 
-  - name: telemetry-apple
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
+  - name: hagezi-tracker-huawei
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt
     type: privacy
 
-  - name: telemetry-huawei
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
+  - name: hagezi-tracker-windows
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt
     type: privacy
 
-  - name: telemetry-samsung
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
+  - name: hagezi-tracker-tiktok-aggressive
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
     type: privacy
   
-  - name: telemetry-sonos
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
+  - name: hagezi-tracker-webos
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
     type: privacy
 
-  - name: telemetry-windows
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
+  - name: hagezi-tracker-vivo
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
     type: privacy
 
-  - name: telemetry-xiaomi
-    url: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+  - name: hagezi-tracker-oppp
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
     type: privacy
+
+  - name: hagezi-tracker-xiamomi
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
+    type: privacy
+  
+  - name: mullvad-tracker-blocklist
+    type: privacy
+    content: "{{ lookup('ansible.builtin.file', 'files/tracker') }}"
 
   - name: oisd-nsfw
     url: https://nsfw.oisd.nl/rpz
@@ -62,7 +70,3 @@ dns_blocklists_lists:
   - name: mullvad-social-blocklist
     type: social
     content: "{{ lookup('ansible.builtin.file', 'files/social') }}"
-
-  - name: mullvad-tracker-blocklist
-    type: privacy
-    content: "{{ lookup('ansible.builtin.file', 'files/tracker') }}"

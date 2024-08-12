@@ -60,14 +60,15 @@ The following lists are what we import to our service. You can find these define
 
 We currently use these tracker blocklists with our service:
 - firebog-easylist-privacy: https://v.firebog.net/hosts/Easyprivacy.txt
-- windows-spy-blocker-spy: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-- telemetry-alexa: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa
-- telemetry-apple: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple
-- telemetry-huawei: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei
-- telemetry-samsung: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung
-- telemetry-sonos: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos
-- telemetry-windows: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows
-- telemetry-xiaomi: https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi
+- hagezi-tracker-amazon: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
+- hagezi-tracker-apple: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt
+- hagezi-tracker-huawei: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt
+- hagezi-tracker-windows: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt
+- hagezi-tracker-tiktok-aggressive: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
+- hagezi-tracker-webos: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
+- hagezi-tracker-vivo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
+- hagezi-tracker-oppp: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
+- hagezi-tracker-xiamomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
 - mullvad-tracker-blocklist: custom file
 
 ### Advertising
@@ -202,7 +203,7 @@ The output files located in `output/relay/` are what are imported onto our VPN s
   - Ensure the values in `group_vars/<group>.yml` are up to date with any block lists
   - Ensure the values in `scripts/generate_social_blocklists_urls` and `scripts/generate_social_blocklists_asn.py` are up to date (URLs and ASNs)
   - Start a DisposibleVM (dispVM) and `qvm-copy` this repository to it
-  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
+  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run: `cd scripts/ && ./generate_social_blocklists.sh` in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
   - Ensure you have added any 'custom' extra lists or websites to block
   - Run the playbook to generate the lists:
     - `ansible-playbook -i inventory/ playbook.yml`

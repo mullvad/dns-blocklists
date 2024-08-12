@@ -207,7 +207,7 @@ The output files located in `output/relay/` are what are imported onto our VPN s
   - Ensure the values in `group_vars/<group>.yml` are up to date with any block lists
   - Ensure the values in `scripts/generate_social_blocklists_urls` and `scripts/generate_social_blocklists_asn.py` are up to date (URLs and ASNs)
   - Start a DisposibleVM (dispVM) and `qvm-copy` this repository to it
-  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
+  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run: `cd scripts/ && ./generate_social_blocklists.sh` in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
   - Ensure you have added any 'custom' extra lists or websites to block
   - Run the playbook to generate the lists:
     - `ansible-playbook -i inventory/ playbook.yml`
