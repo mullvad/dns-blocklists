@@ -501,7 +501,6 @@ rmads.msn.com
 c.ru.msn.com
 sam.msn.com
 c.se.msn.com
-auto.search.msn.com
 c.sg.msn.com
 srtb.msn.com
 stjjp.msn.com
@@ -518,10 +517,10 @@ zmetrics.msn.com
 measure.office.com
 measure.office.net
 fp.measure.office.com
+4e83215548583efc70931bb7da7ddd61.fp.measure.office.com
 66ed06ba24d0447d99be625dc7a80b00.fp.measure.office.com
 ce2617d2a3a1a6b03e6b908e5fde808f.fp.measure.office.com
 config.fp.measure.office.com
-fe39653332994916a0e6c9dbe06d9a78.fp.measure.office.com
 graph-next.fp.measure.office.com
 ns1.fp.measure.office.com
 ns2.fp.measure.office.com
@@ -610,6 +609,7 @@ legacywatson.trafficmanager.net
 o365diagtelemetry.trafficmanager.net
 office-events-data.trafficmanager.net
 oms-analytics.trafficmanager.net
+pixel-sync.trafficmanager.net
 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
@@ -662,6 +662,7 @@ analyticsehnwe.servicebus.windows.net
 analyticsiot-prod-simpad-ehn.servicebus.windows.net
 btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
 btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
+chem4wordtelemetry.servicebus.windows.net
 citrixanalyticseh.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net

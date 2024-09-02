@@ -21,6 +21,7 @@ idiagnostics.apple.com.akadns.net
 iphonesubmissions.apple.com.akadns.net
 radarsubmissions.apple.com.akadns.net
 iad-apple.com.akadns.net
+partiality.itunes-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
 searchads.lb-apple.com.akadns.net
 advertising.apple.com
@@ -272,6 +273,7 @@ internalcheck.apple.com
 iphonesubmissions.apple.com
 iphonesubmissions-old.apple.com
 autolinkmaker.itunes.apple.com
+partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
 msc-dct-prod.msc.apple.com
@@ -307,6 +309,7 @@ cdn-xp-ingest.edge.apple
 experiments.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
 linkmaker.itunes.apple.com.edgekey.net
+partiality.itunes.apple.com.edgekey.net
 xp.apple.com.edgekey.net
 cstat.apple.com.edgesuite.net
 searchads.apple.com.edgesuite.net

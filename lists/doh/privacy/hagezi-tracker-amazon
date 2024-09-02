@@ -104,8 +104,10 @@ adx-bids.apse.rtb.axp.amazon-adsystem.com
 aes.ap-southeast.3px.axp.amazon-adsystem.com
 aes-beta.axp.amazon-adsystem.com
 aes.eu-west.3px.axp.amazon-adsystem.com
+aes.eu-west.ono.axp.amazon-adsystem.com
 aes.us-east.3px.axp.amazon-adsystem.com
 aes.us-east.live-events.ono.axp.amazon-adsystem.com
+aes.us-east.ono.axp.amazon-adsystem.com
 aes.us-west.3px.axp.amazon-adsystem.com
 aes.us-west.live-events.ono.axp.amazon-adsystem.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
@@ -234,6 +236,7 @@ eu-west-3-2.telemetry.insights.video.a2z.com
 eu-west-3-3.telemetry.insights.video.a2z.com
 eu-west.3px.axp.amazon-adsystem.com
 eu-west.aps.axp.amazon-adsystem.com
+eu-west.ono.axp.amazon-adsystem.com
 event.mshopbugsnag.irm.amazon.dev
 event-na.ads.aps.amazon-adsystem.com
 event-na.ads-beta.aps.amazon-adsystem.com
@@ -510,6 +513,7 @@ us-east-2-3.telemetry.insights.video.a2z.com
 us-east.3px.axp.amazon-adsystem.com
 us-east.aps.axp.amazon-adsystem.com
 us-east.live-events.ono.axp.amazon-adsystem.com
+us-east.ono.axp.amazon-adsystem.com
 us-east.prod.service.minerva.devices.a2z.com
 useast.rtb.axp.amazon-adsystem.com
 us-e.prod.service.minerva.devices.a2z.com
