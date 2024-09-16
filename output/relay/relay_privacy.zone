@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1725865864    ; serial
+                                        1726468664    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4229,6 +4229,7 @@ ada8.ampleur.jp IN CNAME .
 ad-a8.www.zeiri4.com IN CNAME .
 ad.aceplanet.co.kr IN CNAME .
 ad.aim-universe.co.jp IN CNAME .
+a-da.invideo.io IN CNAME .
 ad.aloodo.com IN CNAME .
 adat.borsonline.hu IN CNAME .
 adat.ingatlanbazar.hu IN CNAME .
@@ -5058,6 +5059,7 @@ analytics.cyrillus.de IN CNAME .
 analytics.cyrillus.fr IN CNAME .
 analytics.daasrv.net IN CNAME .
 analytics.data.lloydsbankinggroup.com IN CNAME .
+analytics-dataplane.invideo.io IN CNAME .
 analytics.data.visenze.com IN CNAME .
 analytics.designspiration.com IN CNAME .
 analytics.deutscher-apotheker-verlag.de IN CNAME .
@@ -5301,6 +5303,7 @@ analytics.qogita.com IN CNAME .
 analytics.qualcomm.com IN CNAME .
 analytics.qualityquestions.co IN CNAME .
 analytics.qualityunit.com IN CNAME .
+analytics.qushad.com IN CNAME .
 analytics.radiatemedia.com IN CNAME .
 analytics.rambla.be IN CNAME .
 analytics.ramiyer.io IN CNAME .
@@ -12171,6 +12174,7 @@ events.attentivemobile.com IN CNAME .
 events.audiate.me IN CNAME .
 events.auth.gid.ru IN CNAME .
 events.avaya.com IN CNAME .
+events.baselime.io IN CNAME .
 events.bendigotafe.edu.au IN CNAME .
 events.blackboard.com IN CNAME .
 events.brightline.tv IN CNAME .
@@ -13665,7 +13669,6 @@ go.piccolo.mobi IN CNAME .
 go.picsart.com IN CNAME .
 go.pinoy.innovatedating.com IN CNAME .
 go.planetnine.com IN CNAME .
-go.playbackbone.com IN CNAME .
 go.player2app.com IN CNAME .
 go.plygem.com IN CNAME .
 go.poland.innovatedating.com IN CNAME .
@@ -20069,6 +20072,7 @@ mds.ricoh.ie IN CNAME .
 mds.ricoh.it IN CNAME .
 mds.ricoh.no IN CNAME .
 mdstats.info IN CNAME .
+mdt.crateandbarrel.com IN CNAME .
 mdtnjvcsdbc02-eth1-0.net.mydays.de IN CNAME .
 mdugiz.jdsports.de IN CNAME .
 mdws.1stchoicesavings.ca IN CNAME .
@@ -23697,6 +23701,7 @@ pixel.biano.cz IN CNAME .
 pixel.biano.ro IN CNAME .
 pixel.blivenyc.com IN CNAME .
 pixel.byspotify.com IN CNAME .
+pixel.clutter.com IN CNAME .
 pixel.coccoc.com IN CNAME .
 pixel.condenastdigital.com IN CNAME .
 pixel.convertize.io IN CNAME .
@@ -31325,6 +31330,7 @@ stats.aixbrain.de IN CNAME .
 stats.albert-kropp-gmbh.de IN CNAME .
 stats.alibhai.co IN CNAME .
 stats.alleaktien.de IN CNAME .
+stats.allenai.org IN CNAME .
 stats.alocreativa.com IN CNAME .
 stats.amaeya.media IN CNAME .
 stats.am.ai IN CNAME .
@@ -31421,6 +31427,7 @@ stats.cfcasts.com IN CNAME .
 stats.chadly.net IN CNAME .
 stats.changelog.com IN CNAME .
 stats.chomp.haus IN CNAME .
+stats.chromatone.center IN CNAME .
 stats.chronoslabs.net IN CNAME .
 stats.cinqsecondes.fr IN CNAME .
 stats.citizenos.com IN CNAME .
@@ -36899,6 +36906,7 @@ uidpcx.planet.fr IN CNAME .
 uifesg.modulor.de IN CNAME .
 uigwgn.france-abonnements.fr IN CNAME .
 uijciz.gunze.jp IN CNAME .
+uilogging.tcdevops.com IN CNAME .
 uilwmi.coop.nl IN CNAME .
 uim.tifbs.net IN CNAME .
 uinpmz.iichi.com IN CNAME .
@@ -36966,6 +36974,7 @@ unitusccu.actonservice.com IN CNAME .
 universaldev.taylormadegolf.com IN CNAME .
 universal.okane-reco-plus.com IN CNAME .
 universal.shakaguide.com IN CNAME .
+unleash.livepix.gg IN CNAME .
 unm.emol.com IN CNAME .
 unsubscribe.datadelivers.com IN CNAME .
 unsubscribe.email.verizon.com IN CNAME .
@@ -42031,7 +42040,6 @@ mitv.tracking.india.miui.com IN CNAME .
 inf.miui.com IN CNAME .
 mcc.intl.inf.miui.com IN CNAME .
 api.accelerator.intl.miui.com IN CNAME .
-brs.api.intl.miui.com IN CNAME .
 newsfeed.api.intl.miui.com IN CNAME .
 privacy.api.intl.miui.com IN CNAME .
 h5.app.intl.miui.com IN CNAME .
