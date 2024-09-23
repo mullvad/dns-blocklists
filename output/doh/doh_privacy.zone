@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1726468636    ; serial
+                                        1727076799    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8145,6 +8145,7 @@ cksfgh.jaycar.com.au IN CNAME .
 ckygge.mohd.it IN CNAME .
 ckyhec.maxisport.com IN CNAME .
 clanker-events.squarespace.com IN CNAME .
+clanto.cloud IN CNAME .
 clariant.actonservice.com IN CNAME .
 clarice.streema.com IN CNAME .
 clarity-infographic.zebra.com IN CNAME .
@@ -9142,6 +9143,7 @@ csvtu.bmolending.com IN CNAME .
 csymrm.24mx.fr IN CNAME .
 csyqts.tmon.co.kr IN CNAME .
 ct5m.citadium.com IN CNAME .
+cta-service-cms2.hubspot.com IN CNAME .
 ct.beslist.nl IN CNAME .
 ct.capterra.com IN CNAME .
 ct.corpusapp.com IN CNAME .
@@ -9504,6 +9506,7 @@ data.accountsapac.coca-cola.com IN CNAME .
 data.accountsemea.coca-cola.com IN CNAME .
 data.accountslatam.coca-cola.com IN CNAME .
 data.accounts.t-mobile.com IN CNAME .
+data.acierto.com IN CNAME .
 data.adlermode.com IN CNAME .
 data.admin-updates.airmiles.ca IN CNAME .
 data.aem-sites-internal.adobe.com IN CNAME .
@@ -15122,6 +15125,7 @@ ineed2s.ro IN CNAME .
 inencr.woodhouseclothing.com IN CNAME .
 inetprocess.actonservice.com IN CNAME .
 infinityid.condenastdigital.com IN CNAME .
+infisecure.com IN CNAME .
 influencer.picklebutnotcucumber.com IN CNAME .
 info01.on24.com IN CNAME .
 info10.4thoughtmarketing.com IN CNAME .
@@ -22105,6 +22109,7 @@ m.pcmobile.ca IN CNAME .
 m.petmire.com IN CNAME .
 mpglie.apartmentguide.com IN CNAME .
 mpgtft.zoobeauval.com IN CNAME .
+mp.imgur.com IN CNAME .
 mpjtif.viabovag.nl IN CNAME .
 mp.pitchero.com IN CNAME .
 m.premier.info.shutterstock.com IN CNAME .
@@ -25089,6 +25094,7 @@ rum.azioncdn.net IN CNAME .
 rum.azion.com IN CNAME .
 rum.condenastdigital.com IN CNAME .
 rum.corewebvitals.io IN CNAME .
+rum.hlx.page IN CNAME .
 rum-ingress-coralogix.com IN CNAME .
 rum.ingress.layer0.co IN CNAME .
 rum.layer0.co IN CNAME .
@@ -31883,6 +31889,7 @@ stats.projectcongress.com IN CNAME .
 stats.psychotherapieravensburg.de IN CNAME .
 stats.pubfind.io IN CNAME .
 stats.pusher.com IN CNAME .
+stats.pushloop.io IN CNAME .
 stat.sputnik.ru IN CNAME .
 stats.qdq.com IN CNAME .
 stats.qovery.com IN CNAME .
@@ -32736,7 +32743,6 @@ t9h2.ricardocuisine.com IN CNAME .
 t9k3a.jeanpaulfortin.com IN CNAME .
 t.a3cloud.net IN CNAME .
 tablesafe.actonservice.com IN CNAME .
-t.ac.pandora.com IN CNAME .
 t.actemra.com IN CNAME .
 t.adlpo.com IN CNAME .
 taduhy.timberland.co.uk IN CNAME .
@@ -33353,6 +33359,7 @@ testing.news.forhims.com IN CNAME .
 testing.news.hims.com IN CNAME .
 test-landing-page-122122.email-disney.cjm.adobe.com IN CNAME .
 test-landing-page.a.news.aida.de IN CNAME .
+test.legitcode.ws IN CNAME .
 testlink.blueheart.io IN CNAME .
 test-link.californiapsychics.com IN CNAME .
 test-link-ccontact.focuscura.com IN CNAME .
@@ -33559,7 +33566,6 @@ tilanalytics.timesinternet.in IN CNAME .
 tilt.bankofamerica.com IN CNAME .
 timeclock.mytoolr.com IN CNAME .
 timejs.game.163.com IN CNAME .
-t.imgur.com IN CNAME .
 timing.uhrforum.de IN CNAME .
 timing.whenandhowagency.com IN CNAME .
 tim.nextinpact.com IN CNAME .
@@ -37538,6 +37544,7 @@ wct-2.com IN CNAME .
 wddnff.bonprix.cz IN CNAME .
 wdnyom.faces.com IN CNAME .
 wdsgpy.lekarna.cz IN CNAME .
+wds.weqs.me IN CNAME .
 wdukge.midwayusa.com IN CNAME .
 wealthcarecapital.actonservice.com IN CNAME .
 wealth.informabi.com IN CNAME .
@@ -39420,6 +39427,7 @@ aes.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aes-beta.axp.amazon-adsystem.com IN CNAME .
 aes.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 aes.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
+aes.fe.ono.axp.amazon-adsystem.com IN CNAME .
 aes.us-east.3px.axp.amazon-adsystem.com IN CNAME .
 aes.us-east.live-events.ono.axp.amazon-adsystem.com IN CNAME .
 aes.us-east.ono.axp.amazon-adsystem.com IN CNAME .
@@ -39560,6 +39568,7 @@ events.app-performance.music.amazon.dev IN CNAME .
 events.bugsnag.shopbop.amazon.dev IN CNAME .
 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev IN CNAME .
 events.prod.bugs.firebat.prime-video.amazon.dev IN CNAME .
+fe.ono.axp.amazon-adsystem.com IN CNAME .
 firetv.bugsnag.appstore.a2z.com IN CNAME .
 fls-cn.amazon-adsystem.com IN CNAME .
 fls-cn.amazon.cn IN CNAME .
@@ -42325,7 +42334,6 @@ findapi.micloud.xiaomi.net IN CNAME .
 api.g.micloud.xiaomi.net IN CNAME .
 galleryapi.micloud.xiaomi.net IN CNAME .
 g.galleryapi.micloud.xiaomi.net IN CNAME .
-sfsapi.micloud.xiaomi.net IN CNAME .
 statusapi.micloud.xiaomi.net IN CNAME .
 us.statusapi.micloud.xiaomi.net IN CNAME .
 tv.app.migc.xiaomi.com IN CNAME .
