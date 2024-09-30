@@ -8,7 +8,7 @@ We aim to update these lists on a weekly basis. You can view the latest update b
 
 # Why is list "X" not included?
 
-If you find a block list that is not included it is because we have gone through these validation steps:
+If you find a block list that is included it is because we have gone through these validation steps:
 - The blocklist is an amalgamation of other blocklists.
 - The blocklist no longer maintained.
 - The blocklist blocks things we do not believe should be blocked (like our own domains).
@@ -112,7 +112,7 @@ The following is a list of all the IP addresses we use for our DNS based blockin
 
 These IPs can be used within custom DNS in our configuration files, or via our Apps.
 
-To block _everything_, enter: `100.64.0.63`
+To block _everything_ enter: `100.64.0.63`
 
 ### Ads and Tracker combinations
     100.64.0.1 - Ad blocking only
