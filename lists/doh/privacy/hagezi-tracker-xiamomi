@@ -253,7 +253,6 @@ extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
 sdkconfig.ad.eu.xiaomi.com
 cdn.exp.xiaomi.com
-us.mixin.api.files.xiaomi.com
 lxcdn.dl.files.xiaomi.net
 data.game.xiaomi.com
 bgp.data.game.xiaomi.com
@@ -290,7 +289,6 @@ hd.xiaomi.com
 orig.hd.xiaomi.com
 secode2.hd.xiaomi.com
 heyue.xiaomi.com
-hm.xiaomi.com
 huodong.xiaomi.com
 huosai.xiaomi.com
 activity.hybrid.xiaomi.com
@@ -339,7 +337,6 @@ t7.a.market.xiaomi.com
 drm.market.xiaomi.com
 xadx.file.market.xiaomi.com
 t1.market.xiaomi.com
-t14.market.xiaomi.com
 t15.market.xiaomi.com
 t17.market.xiaomi.com
 t2.market.xiaomi.com
@@ -389,7 +386,6 @@ tj1.staging.nfcpay.xiaomi.com
 appstore.pandora.xiaomi.com
 assistant.pandora.xiaomi.com
 bossadmin.pandora.xiaomi.com
-preview.bossadmin.pandora.xiaomi.com
 box.pandora.xiaomi.com
 bss.pandora.xiaomi.com
 m.bss.pandora.xiaomi.com

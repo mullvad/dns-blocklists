@@ -4854,6 +4854,7 @@ americanwatergroup.actonservice.com
 americasbrandperformancesupport.hilton.com
 amer.juniper.net
 amersc.actonservice.com
+amethyst.6pm.com
 amethyst.zappos.com
 ametrics.finn.no
 ametrics.lumen.com
@@ -7721,6 +7722,7 @@ budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
+bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
 bulgaria.openapp.link
@@ -19973,6 +19975,7 @@ marshinsurance.actonservice.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
+marty.zappos.com
 mas.hronboard.me
 mas.marsh.com
 ma.smartplanes.se
@@ -22094,6 +22097,7 @@ motion.kollmorgen.com
 motista.actonservice.com
 motm.adp.ca
 motorsports.locktonaffinity.net
+motu-teamblue.services
 mousebusters.odencat.com
 move.azets.com
 move.azets.dk
@@ -22698,6 +22702,7 @@ nvxlag.liligo.fr
 nwajdf.zakzak.co.jp
 nwbmvq.jockey.com
 nwfkjx.gadventures.com
+nwr.static.mmcdn.com
 nws.naltis.com
 nwvupz.cljoias.com.br
 nwwucx.palemoba.com
@@ -33142,6 +33147,7 @@ t.birchlane.com
 tbjasp.cyrillus.de
 tbknig.ecc.jp
 t.blablacar.com
+t.blog.livedoor.jp
 t.bluehens.com
 tbmgyz.centerparcs.de
 t.bucky.uwbadgers.com
@@ -35000,6 +35006,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
+track.zappos.com
 tr.acq-pjms.fr
 trac.roomster.com
 tr.actiflip.devisdirect.com
@@ -35662,6 +35669,7 @@ tr.jimb.espmp-cufr.net
 tr.jkcd.espmp-cufr.net
 tr.jkcd.espmp-pofr.net
 tr.jkyg.espmp-cufr.net
+trjs2.mediafin.be
 trk01.informaconnect.com
 trk01.knect365.com
 trk02.knect365.com
@@ -40425,7 +40433,6 @@ i.sau.foreign.coloros.com
 guif.coloros.com
 guif-eu.coloros.com
 icosa.coloros.com
-icosa-eu.coloros.com
 icosa-sg.coloros.com
 icota-eu.coloros.com
 ifota.coloros.com
@@ -40759,7 +40766,6 @@ xlog.byteoversea.com
 xlog-o.byteoversea.com
 xlog-va.byteoversea.com
 xlog-va-useast2a.byteoversea.com
-sf16-muse-va.ibytedtos.com
 abtest-ch.snssdk.com
 analytics.snssdk.com
 applog.snssdk.com
@@ -40898,6 +40904,16 @@ gecko31-normal.tiktokv.com
 gecko31-normal-alisg.tiktokv.com
 gecko31-normal-useast1a.tiktokv.com
 gecko31-normal-useast2a.tiktokv.com
+location.tiktokv.com
+location-i18n.tiktokv.com
+location-sg.tiktokv.com
+location-ttp2.tiktokv.com
+location-v6.tiktokv.com
+location-v6-i18n.tiktokv.com
+location-v6-ru.tiktokv.com
+location-v6-sg.tiktokv.com
+location-v6-va.tiktokv.com
+location-va.tiktokv.com
 log.tiktokv.com
 log-i18n.tiktokv.com
 log-phx.tiktokv.com
@@ -41085,6 +41101,8 @@ frontier.us.tiktokv.com
 frontier-ttp2.us.tiktokv.com
 gecko16-normal-useast8.us.tiktokv.com
 gecko16-platform-useast5.us.tiktokv.com
+location.us.tiktokv.com
+location-ttp2.us.tiktokv.com
 log.us.tiktokv.com
 log16-applog-useast5.us.tiktokv.com
 log16-normal-useast8.us.tiktokv.com
@@ -41251,6 +41269,7 @@ cssmps40.alphonso.tv
 csxnc89.alphonso.tv
 cxlqmxzemg54.alphonso.tv
 cyijq72.alphonso.tv
+dar-pix-prod-lb.alphonso.tv
 dkpae73.alphonso.tv
 dmkfppbdav49.alphonso.tv
 dqzljjhryn04.alphonso.tv
@@ -41261,6 +41280,7 @@ dzqkrgamr75.alphonso.tv
 ebgyjue7.alphonso.tv
 ecbmtltfbu47.alphonso.tv
 edqsadx4.alphonso.tv
+eqdrews7.alphonso.tv
 erafukhaie3.alphonso.tv
 eu-acr-gpu1.alphonso.tv
 eu-acr-gpu2.alphonso.tv
@@ -41628,6 +41648,7 @@ krishnaw464.alphonso.tv
 krishnaw465.alphonso.tv
 krishnaw466.alphonso.tv
 krishnaw467.alphonso.tv
+krishnaw468.alphonso.tv
 krishnaw469.alphonso.tv
 krishnaw470.alphonso.tv
 krishnaw471.alphonso.tv
@@ -41718,6 +41739,7 @@ prov-lb.alphonso.tv
 prov-lg.alphonso.tv
 qarawx1.alphonso.tv
 qdlmwrluk95.alphonso.tv
+qhaciv57.alphonso.tv
 qinvc14.alphonso.tv
 rbdkfs9.alphonso.tv
 rdewdwf27.alphonso.tv
@@ -41741,6 +41763,7 @@ svwoyj82.alphonso.tv
 syiprakqeu8.alphonso.tv
 syxjwpfr3.alphonso.tv
 tabdqklvfv8.alphonso.tv
+tcootf8.alphonso.tv
 test-tn.alphonso.tv
 tkacr300.alphonso.tv
 tkacr301.alphonso.tv
@@ -42033,6 +42056,7 @@ tkacr591.alphonso.tv
 tkacr592.alphonso.tv
 tkacr593.alphonso.tv
 tkacr594.alphonso.tv
+tkacr596.alphonso.tv
 tkacr598.alphonso.tv
 tkacr599.alphonso.tv
 tkacr600.alphonso.tv
@@ -42267,6 +42291,7 @@ yubyryonu18.alphonso.tv
 yumhcpugj62.alphonso.tv
 zbzcbkflw2.alphonso.tv
 zcesm62.alphonso.tv
+zeokb1.alphonso.tv
 zmepmwhey7.alphonso.tv
 zpvvb87.alphonso.tv
 zqsyp37.alphonso.tv
@@ -42985,11 +43010,9 @@ weus2watcab02.blob.core.windows.net
 cache.datamart.windows.com
 sa.windows.com
 adsdktelemetry-prod.servicebus.windows.net
-ams-aase-1-bus-analytics-1-1.servicebus.windows.net
 ams-euno-1-bus-analytics-1-1.servicebus.windows.net
 ams-usea-1-bus-analytics-1-1.servicebus.windows.net
 ams-usso-1-bus-analytics-1-1.servicebus.windows.net
-ams-uswe-1-bus-analytics-1-1.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
@@ -43279,7 +43302,6 @@ extranet.ap-southeast-1.miui-l7-feedback.s3hawgekth.elb.xiaomi.com
 extranet.c3.bigdata-l7-dp-lan.x0x8wmy6im.elb.xiaomi.com
 sdkconfig.ad.eu.xiaomi.com
 cdn.exp.xiaomi.com
-us.mixin.api.files.xiaomi.com
 lxcdn.dl.files.xiaomi.net
 data.game.xiaomi.com
 bgp.data.game.xiaomi.com
@@ -43316,7 +43338,6 @@ hd.xiaomi.com
 orig.hd.xiaomi.com
 secode2.hd.xiaomi.com
 heyue.xiaomi.com
-hm.xiaomi.com
 huodong.xiaomi.com
 huosai.xiaomi.com
 activity.hybrid.xiaomi.com
@@ -43365,7 +43386,6 @@ t7.a.market.xiaomi.com
 drm.market.xiaomi.com
 xadx.file.market.xiaomi.com
 t1.market.xiaomi.com
-t14.market.xiaomi.com
 t15.market.xiaomi.com
 t17.market.xiaomi.com
 t2.market.xiaomi.com
@@ -43415,7 +43435,6 @@ tj1.staging.nfcpay.xiaomi.com
 appstore.pandora.xiaomi.com
 assistant.pandora.xiaomi.com
 bossadmin.pandora.xiaomi.com
-preview.bossadmin.pandora.xiaomi.com
 box.pandora.xiaomi.com
 bss.pandora.xiaomi.com
 m.bss.pandora.xiaomi.com

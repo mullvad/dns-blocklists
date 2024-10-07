@@ -652,11 +652,9 @@ weus2watcab02.blob.core.windows.net
 cache.datamart.windows.com
 sa.windows.com
 adsdktelemetry-prod.servicebus.windows.net
-ams-aase-1-bus-analytics-1-1.servicebus.windows.net
 ams-euno-1-bus-analytics-1-1.servicebus.windows.net
 ams-usea-1-bus-analytics-1-1.servicebus.windows.net
 ams-usso-1-bus-analytics-1-1.servicebus.windows.net
-ams-uswe-1-bus-analytics-1-1.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
