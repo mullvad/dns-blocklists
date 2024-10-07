@@ -13,5 +13,9 @@ subfinder -dL generate_social_blocklists_urls --silent | \
     cat /tmp/lists/subfinder | \
     awk '{ print "0.0.0.0 " $1 }' > /tmp/lists/output
 
+grep -v -e '^#' -e '^$' generate_social_blocklists_urls | while read -r domain; do
+    echo "0.0.0.0 $domain" >> /tmp/lists/output
+done
+
 python3 generate_social_blocklists_asn.py
 cat /tmp/lists/output /tmp/AS* > /tmp/social
