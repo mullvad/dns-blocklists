@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1728284665    ; serial
+                                        1728890651    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4948,7 +4948,6 @@ analytics.30m.com IN CNAME .
 analytics.3c5.com IN CNAME .
 analytics.academy.com IN CNAME .
 analytics.adam.page IN CNAME .
-analytics.adfreetime.com IN CNAME .
 analytics.adliners.de IN CNAME .
 analytics.adobe.io IN CNAME .
 analytics.adobe.ly IN CNAME .
@@ -5150,6 +5149,7 @@ analytics.hottopic.com IN CNAME .
 analytics-hub.3plearning.com IN CNAME .
 analytics.id.amazongames.com IN CNAME .
 analytics.idfnet.net IN CNAME .
+analytics.ifanrusercontent.com IN CNAME .
 analytics.ihg.com IN CNAME .
 analytics.ikyu.com IN CNAME .
 analytic.simplyhealth.co.uk IN CNAME .
@@ -5414,6 +5414,7 @@ analytics.tnt-tv.com IN CNAME .
 analytics.tnt-tv.de IN CNAME .
 analytics.tnt-tv.pl IN CNAME .
 analytics.tnt-tv.ro IN CNAME .
+analytics.tomato.gg IN CNAME .
 analytics.tondach.pl IN CNAME .
 analytics.top10-charts.com IN CNAME .
 analytics.tout.com IN CNAME .
@@ -6771,7 +6772,6 @@ at.norisbank.de IN CNAME .
 atom-log.3.cn IN CNAME .
 a.topya.com IN CNAME .
 at.postbank.de IN CNAME .
-atrack.allposters.com IN CNAME .
 a.transportgruppen.se IN CNAME .
 a.trivita.com IN CNAME .
 ats.alot.com IN CNAME .
@@ -7154,6 +7154,7 @@ beacon.adelphic.com IN CNAME .
 beacon.affil.walmart.com IN CNAME .
 beacon.aimtell.com IN CNAME .
 beacon.cdnma.com IN CNAME .
+beacon.cdn.qq.com IN CNAME .
 beaconcdn.qq.com IN CNAME .
 beacon.dropbox.com IN CNAME .
 beacon.errorception.com IN CNAME .
@@ -13098,6 +13099,7 @@ get.informedmortgage.com IN CNAME .
 get.ingomoney.com IN CNAME .
 get.instalocum.com IN CNAME .
 get.jan.ai IN CNAME .
+getjan.io IN CNAME .
 get.jaranda.kr IN CNAME .
 get.kabbee.com IN CNAME .
 getl4w.lookout.com IN CNAME .
@@ -14458,7 +14460,6 @@ iduk.barcodesgroup.com IN CNAME .
 id-ward.com IN CNAME .
 idx.lat IN CNAME .
 ie-business.vodafone.com IN CNAME .
-iedc.fitbit.com IN CNAME .
 ieeowa.marcjacobsbeauty.com IN CNAME .
 iefiop.raizs.com.br IN CNAME .
 ieg.intel.com IN CNAME .
@@ -15051,6 +15052,7 @@ imap2.carte-gr.total.fr IN CNAME .
 imap.happ.social IN CNAME .
 imbhdu.housedo.co.jp IN CNAME .
 imeetcentral.pgi.com IN CNAME .
+img2021.navyfederal.org IN CNAME .
 img.aonunited.com IN CNAME .
 img.biospace.com IN CNAME .
 img.buch.ch IN CNAME .
@@ -16196,6 +16198,7 @@ i.shelf.im IN CNAME .
 ish.tumedia.no IN CNAME .
 isjoui.cainz.com IN CNAME .
 is.lg.com IN CNAME .
+is-log.furunavi.jp IN CNAME .
 isoplexis.actonservice.com IN CNAME .
 isovav.akomeya.jp IN CNAME .
 i.spyn.co IN CNAME .
@@ -18023,6 +18026,7 @@ loglady.skypicker.com IN CNAME .
 log-lb.skyperfectv.co.jp IN CNAME .
 log.mediacategory.com IN CNAME .
 log.medietall.no IN CNAME .
+log.mgtv.com IN CNAME .
 log.mix.sina.com.cn IN CNAME .
 log.mofa.go.kr IN CNAME .
 log.m.sm.cn IN CNAME .
@@ -23734,7 +23738,6 @@ pixel.europapress.net IN CNAME .
 pixel.facebook.com IN CNAME .
 pixel.fohr.co IN CNAME .
 pixel.homebook.pl IN CNAME .
-pixel.honestjohn.co.uk IN CNAME .
 pixel.ionos.com IN CNAME .
 pixel.ionos.de IN CNAME .
 pixel.ionos.fr IN CNAME .
@@ -33263,7 +33266,6 @@ t.ecomms.origin.com.au IN CNAME .
 te.creation-l.de IN CNAME .
 t.ecupirates.com IN CNAME .
 teczbq.amicashop.com IN CNAME .
-ted.dailymail.co.uk IN CNAME .
 teefiksummin.visma.fi IN CNAME .
 teen.zubie.com IN CNAME .
 te.frankonia.at IN CNAME .
@@ -43137,9 +43139,7 @@ mitv.tracking.india.miui.com IN CNAME .
 inf.miui.com IN CNAME .
 mcc.intl.inf.miui.com IN CNAME .
 api.accelerator.intl.miui.com IN CNAME .
-newsfeed.api.intl.miui.com IN CNAME .
 privacy.api.intl.miui.com IN CNAME .
-h5.app.intl.miui.com IN CNAME .
 api.aurogon.intl.miui.com IN CNAME .
 activity.browser.intl.miui.com IN CNAME .
 api.activity.browser.intl.miui.com IN CNAME .
