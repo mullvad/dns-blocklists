@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1728890681    ; serial
+                                        1729495343    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13,7 +13,6 @@ $TTL 3600
 000scripps.hb.omtrdc.net IN CNAME .
 00px.net IN CNAME .
 07b3.pandasuite.io IN CNAME .
-0d8is908gby1.www.terraform.com.ar IN CNAME .
 0ddf.pandasuite.io IN CNAME .
 0.myikas.com IN CNAME .
 0.net.easyjet.com IN CNAME .
@@ -156,13 +155,11 @@ $TTL 3600
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr IN CNAME .
 757d.pandasuite.io IN CNAME .
 76ef.pandasuite.io IN CNAME .
-76zvoxo5yx0l.www.eldorado.gg IN CNAME .
 7701534.emails.tntdrama.com IN CNAME .
 771fnypadw0j.pt.themoneytizer.com IN CNAME .
 78rkcgj4i8c6.www.cefirates.com IN CNAME .
 7hdl8dlfjm4g.www.cybernetman.com IN CNAME .
 7lbd4.armandthiery.fr IN CNAME .
-7mvmjg.www.emanualonline.com IN CNAME .
 7mx.eider.com IN CNAME .
 7mx.eidershop.com IN CNAME .
 7q1z79gxsi.global.ssl.fastly.net IN CNAME .
@@ -173,7 +170,6 @@ $TTL 3600
 8147563.your-way.bk.com IN CNAME .
 8820.pandasuite.io IN CNAME .
 8d4b.pandasuite.io IN CNAME .
-8e0905osvgw5.taleez.com IN CNAME .
 8ehhtsv9bo7i.monkeylearn.com IN CNAME .
 8ezc.sfr.fr IN CNAME .
 8ue4rp6yxyis.www.tapmyback.com IN CNAME .
@@ -6638,6 +6634,7 @@ asd.bauhaus.hr IN CNAME .
 asd.bauhaus.info IN CNAME .
 asd.bauhaus.lu IN CNAME .
 asd.nl.bauhaus IN CNAME .
+aseads.com IN CNAME .
 asentech-dev.actonservice.com IN CNAME .
 as.fitbook.de IN CNAME .
 ashasafety.actonservice.com IN CNAME .
@@ -7822,6 +7819,7 @@ c0012.brsimg.com IN CNAME .
 c0i.ckoi.com IN CNAME .
 c0p.cepsum.umontreal.ca IN CNAME .
 c1hit.zerkalo.io IN CNAME .
+c319tpiw462o.segops.madisonspecs.com IN CNAME .
 c3metrics.medifast1.com IN CNAME .
 c4c9.pandasuite.io IN CNAME .
 c4cm.actonservice.com IN CNAME .
@@ -8274,6 +8272,7 @@ client-logger.salemove.com IN CNAME .
 client-log.karte.io IN CNAME .
 clientlog.music.163.com IN CNAME .
 client-metrics.chess.com IN CNAME .
+client.perimeterx.net IN CNAME .
 clients.belairdirect.com IN CNAME .
 clients.hermes-investment.com IN CNAME .
 clients.intact.ca IN CNAME .
@@ -10682,6 +10681,7 @@ dl.wooribank.com.kh IN CNAME .
 dl.workindia.in IN CNAME .
 dlxpix.net IN CNAME .
 dlzbax.street-academy.com IN CNAME .
+dlziqh9bo7.boring.fm IN CNAME .
 dl.zola.com IN CNAME .
 d.mail.levi.com IN CNAME .
 dmarkconsulting.actonservice.com IN CNAME .
@@ -10866,7 +10866,6 @@ dvvkov.agrieuro.de IN CNAME .
 dw0c.sfr.fr IN CNAME .
 dw7u.hotelsbarriere.com IN CNAME .
 dwbotr.ssg.com IN CNAME .
-dwdlpqm6d4ra.test1.emanualonline.com IN CNAME .
 dwglgp.dunelm.com IN CNAME .
 d.whoscall.com IN CNAME .
 d.wi-fi.ru IN CNAME .
@@ -14401,6 +14400,7 @@ hzymxd.nocibe.fr IN CNAME .
 hzzyhl.jobs.ch IN CNAME .
 i218435.net IN CNAME .
 ia.51.la IN CNAME .
+ia84berzxy7v.de.themoneytizer.com IN CNAME .
 iaalxo.vans.ru IN CNAME .
 iabdly.hoselink.com.au IN CNAME .
 iabgvi.usadosbr.com IN CNAME .
@@ -16280,6 +16280,7 @@ javvso.newone-shop.com IN CNAME .
 jazzyzest.cfd IN CNAME .
 jbbljg.autoscout24.bg IN CNAME .
 jbezdi.ilsole24ore.com IN CNAME .
+jc917x3.adaptive.marketing IN CNAME .
 jcaqvl.twinset.com IN CNAME .
 jcblar.floridarentals.com IN CNAME .
 jcimgi.bestcuckoo.co.kr IN CNAME .
@@ -16358,7 +16359,6 @@ jhzwle.ryuryumall.jp IN CNAME .
 jiciqm.antalyahomes.com IN CNAME .
 jifflenow.actonservice.com IN CNAME .
 jifjai.instamotion.com IN CNAME .
-jii3gnhro.www.emanualonline.com IN CNAME .
 jiktq0fr9hv6.meleton.ru IN CNAME .
 jill.fc.yahoo.com IN CNAME .
 jinair.nsc.jinair.com IN CNAME .
@@ -18372,6 +18372,7 @@ m1.stadiumgoods.com IN CNAME .
 m2t.actonservice.com IN CNAME .
 m2.washmen.com IN CNAME .
 m3ds.subarumetropolitain.com IN CNAME .
+m3uef4b38brmbntdzx.franchiseplus.nl IN CNAME .
 m4zoxtrcea1k.controlconceptsusa.com IN CNAME .
 m6c4t9vmqarj.www.cefirates.com IN CNAME .
 ma.a3.se IN CNAME .
@@ -22266,6 +22267,7 @@ mx.mywd.com IN CNAME .
 mxpdsu.bhv.fr IN CNAME .
 mx.promo.skf.com IN CNAME .
 mxsvjc.hackers.ac IN CNAME .
+my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com IN CNAME .
 mya.actonservice.com IN CNAME .
 myakiu.trendhim.ch IN CNAME .
 myapp.branch.rocks IN CNAME .
@@ -22561,12 +22563,14 @@ nlp-japan.life-and-mind.com IN CNAME .
 nltihf.fashiondays.ro IN CNAME .
 nltzqx.autodoc.co.uk IN CNAME .
 nlvnht.miror.jp IN CNAME .
+nlytcs.idfnet.net IN CNAME .
 nmetrics.samsung.com IN CNAME .
 nmetrics.samsungmobile.com IN CNAME .
 nmgassets.com IN CNAME .
 nmgplatform.com IN CNAME .
 nmiodk.promiflash.de IN CNAME .
 nmo1.orpi.com IN CNAME .
+nmo-ep.nl IN CNAME .
 nmu3.destinia.be IN CNAME .
 n.netquote.com IN CNAME .
 nnhxjd.zielonalazienka.pl IN CNAME .
@@ -23095,6 +23099,7 @@ om.vrbo.com IN CNAME .
 omvzcq.vidaxl.be IN CNAME .
 omxodt.shredoptics.com IN CNAME .
 o.myomnicard.in IN CNAME .
+omyvimmw9wsk.t.mahapowerex.eu IN CNAME .
 om.zdnet.com.au IN CNAME .
 on.allposters.com IN CNAME .
 on.art.com IN CNAME .
@@ -23381,7 +23386,6 @@ p2.danskebank.dk IN CNAME .
 p2.danskebank.fi IN CNAME .
 p2.danskebank.no IN CNAME .
 p2.danskebank.se IN CNAME .
-p2ro4u.trybawaryjny.pl IN CNAME .
 p3tq.pandasuite.io IN CNAME .
 p5mcwdbu.ginzo-buy.jp IN CNAME .
 p7cloud.net IN CNAME .
@@ -23734,6 +23738,7 @@ pixel.convertize.io IN CNAME .
 pixel.cpex.cz IN CNAME .
 pixel.driveniq.com IN CNAME .
 pixel.dugwood.com IN CNAME .
+pixel.embed.su IN CNAME .
 pixel.europapress.net IN CNAME .
 pixel.facebook.com IN CNAME .
 pixel.fohr.co IN CNAME .
@@ -24579,7 +24584,6 @@ ratings-events.standardandpoors.com IN CNAME .
 r.atlasearth.com IN CNAME .
 rat.rakuten.co.jp IN CNAME .
 rba-screen.healthsafe-id.com IN CNAME .
-rbat6ac0zzjd.www.terraform.com.ar IN CNAME .
 r.bbci.co.uk IN CNAME .
 rbbgnn.hanshintigers.jp IN CNAME .
 rbcore-wlc-3.net.jumia.co.ke IN CNAME .
@@ -32482,6 +32486,7 @@ support.panasonic.eu IN CNAME .
 support.ricoh.de IN CNAME .
 support.ricoh.fr IN CNAME .
 supvka.colancolan.com IN CNAME .
+surfshark.events IN CNAME .
 suriwl.petsmart.com IN CNAME .
 surpreendaapp.hanzo.com.br IN CNAME .
 survey.communication.qualfon.com IN CNAME .
@@ -37002,6 +37007,7 @@ unitusccu.actonservice.com IN CNAME .
 universaldev.taylormadegolf.com IN CNAME .
 universal.okane-reco-plus.com IN CNAME .
 universal.shakaguide.com IN CNAME .
+unl1zvy2zuyn.franchiseplus.nl IN CNAME .
 unleash.livepix.gg IN CNAME .
 unm.emol.com IN CNAME .
 unsubscribe.datadelivers.com IN CNAME .
@@ -37439,6 +37445,8 @@ vzcfqp.unibet.fr IN CNAME .
 vzeyba.shopee.co.id IN CNAME .
 vzhjnw.officedepot.com IN CNAME .
 vzynem.lamporochljus.se IN CNAME .
+w2g-mtrx.w2g.tv IN CNAME .
+w2g-ping.b-cdn.net IN CNAME .
 w38ju82bano4.cv.gerardbosch.xyz IN CNAME .
 w3.air-worldwide.com IN CNAME .
 w3.aktionaersbank.de IN CNAME .
@@ -37458,6 +37466,7 @@ w88.m.espn.go.com IN CNAME .
 w88.natgeo.pt IN CNAME .
 w88.natgeotv.com IN CNAME .
 w88.nationalgeographic.com IN CNAME .
+w9g7dlhw3kaank.www.eldorado.gg IN CNAME .
 wa1.otto.de IN CNAME .
 waaf1.aldi-gaming.de IN CNAME .
 waaf1.aldilife.com IN CNAME .
@@ -38949,6 +38958,7 @@ ybzcmz.momoshop.com.tw IN CNAME .
 ycembr.net-a-porter.com IN CNAME .
 ychqww.aboutyou.lv IN CNAME .
 ycjhuh.stripe-club.com IN CNAME .
+yctjw54slxrwwlh.trybawaryjny.pl IN CNAME .
 ydbcct.nikigolf.jp IN CNAME .
 ydbeuq.superpharm.pl IN CNAME .
 ydccky.direnc.net IN CNAME .
@@ -39648,22 +39658,6 @@ ir-mx.amazon-adsystem.com IN CNAME .
 ir-na.amazon-adsystem.com IN CNAME .
 ir-nl.amazon-adsystem.com IN CNAME .
 ir-uk.amazon-adsystem.com IN CNAME .
-kinesis.ap-northeast-1.amazonaws.com IN CNAME .
-kinesis.ap-northeast-2.amazonaws.com IN CNAME .
-kinesis.ap-south-1.amazonaws.com IN CNAME .
-kinesis.ap-southeast-1.amazonaws.com IN CNAME .
-kinesis.ap-southeast-2.amazonaws.com IN CNAME .
-kinesis.ap-southeast-3.amazonaws.com IN CNAME .
-kinesis.ca-central-1.amazonaws.com IN CNAME .
-kinesis.eu-central-1.amazonaws.com IN CNAME .
-kinesis.eu-north-1.amazonaws.com IN CNAME .
-kinesis.eu-west-1.amazonaws.com IN CNAME .
-kinesis.eu-west-2.amazonaws.com IN CNAME .
-kinesis.sa-east-1.amazonaws.com IN CNAME .
-kinesis.us-east-1.amazonaws.com IN CNAME .
-kinesis.us-east-2.amazonaws.com IN CNAME .
-kinesis.us-west-1.amazonaws.com IN CNAME .
-kinesis.us-west-2.amazonaws.com IN CNAME .
 kraken-measurements.s3-external-1.amazonaws.com IN CNAME .
 live-events.ono.axp.amazon-adsystem.com IN CNAME .
 mads.amazon-adsystem.com IN CNAME .
@@ -39972,8 +39966,11 @@ diagnostics.apple.com IN CNAME .
 experiments.apple.com IN CNAME .
 iad.apple.com IN CNAME .
 am02p01ad-ext-cloud.iad.apple.com IN CNAME .
+am02p01adext-infcloud.iad.apple.com IN CNAME .
 apps.iad.apple.com IN CNAME .
 da21p01ad-ext-cloud.iad.apple.com IN CNAME .
+da21p01ad-ext-infcloud.iad.apple.com IN CNAME .
+dat.iad.apple.com IN CNAME .
 demoworkbench.iad.apple.com IN CNAME .
 display-apps-ui.iad.apple.com IN CNAME .
 hk24p01ad-ext-cloud.iad.apple.com IN CNAME .
@@ -39996,6 +39993,7 @@ iad2s1-iadsdktest.iad.apple.com IN CNAME .
 iad2s1-newssdk.iad.apple.com IN CNAME .
 iad2s1-oo.iad.apple.com IN CNAME .
 iad2s1-pass.iad.apple.com IN CNAME .
+iad2s1feed.iad.apple.com IN CNAME .
 iad2s2-chalkboard.iad.apple.com IN CNAME .
 iad2s2-cmws.iad.apple.com IN CNAME .
 iad2s2-feed.iad.apple.com IN CNAME .
@@ -40005,6 +40003,8 @@ iad2s2-iadsdktest.iad.apple.com IN CNAME .
 iad2s2-newssdk.iad.apple.com IN CNAME .
 iad2s2-oo.iad.apple.com IN CNAME .
 iad2s2-pass.iad.apple.com IN CNAME .
+iad2s2api.iad.apple.com IN CNAME .
+iad2s2workbench.iad.apple.com IN CNAME .
 iad2s3-chalkboard.iad.apple.com IN CNAME .
 iad2s3-cmws.iad.apple.com IN CNAME .
 iad2s3-iadc.iad.apple.com IN CNAME .
@@ -40020,6 +40020,7 @@ iad2s4-iadsdk.iad.apple.com IN CNAME .
 iad2s4-newssdk.iad.apple.com IN CNAME .
 iad2s4-oo.iad.apple.com IN CNAME .
 iad2s4-pass.iad.apple.com IN CNAME .
+iad2s4pass.iad.apple.com IN CNAME .
 iad2v1-chalkboard.iad.apple.com IN CNAME .
 iad2v1-cmws.iad.apple.com IN CNAME .
 iad2v1-feed.iad.apple.com IN CNAME .
@@ -40028,6 +40029,7 @@ iad2v1-iadsdktest.iad.apple.com IN CNAME .
 iad2v1-newssdk.iad.apple.com IN CNAME .
 iad2v1-oo.iad.apple.com IN CNAME .
 iad2v1-pass.iad.apple.com IN CNAME .
+iad2v1chalkboard.iad.apple.com IN CNAME .
 iad2v2-chalkboard.iad.apple.com IN CNAME .
 iad2v2-chalkboard2.iad.apple.com IN CNAME .
 iad2v2-cmws.iad.apple.com IN CNAME .
@@ -40039,15 +40041,21 @@ iad2v2-pass.iad.apple.com IN CNAME .
 iad2v3-chalkboard.iad.apple.com IN CNAME .
 iad2v3-cmws.iad.apple.com IN CNAME .
 iad2v3-iadc.iad.apple.com IN CNAME .
+iad2v3-iadctest.iad.apple.com IN CNAME .
 iad2v3-iadsdk-soak.iad.apple.com IN CNAME .
 iad2v3-iadsdktest.iad.apple.com IN CNAME .
 iad2v4-chalkboard.iad.apple.com IN CNAME .
 iad2v4-feed.iad.apple.com IN CNAME .
 iad2v4-iadc.iad.apple.com IN CNAME .
 iad2v4-newssdk.iad.apple.com IN CNAME .
+iad2v4iadctest.iad.apple.com IN CNAME .
+iad2v4iadsdk.iad.apple.com IN CNAME .
 iad2v5-feed.iad.apple.com IN CNAME .
+iad2v5-iadctest.iad.apple.com IN CNAME .
+iad2v5-oo.iad.apple.com IN CNAME .
 iad2v5-pass.iad.apple.com IN CNAME .
 iad2v5-workbench.iad.apple.com IN CNAME .
+iad2v5cmws.iad.apple.com IN CNAME .
 iadsdk-nwk.iad.apple.com IN CNAME .
 iadsdk-r1.iad.apple.com IN CNAME .
 mr11q01ad-cf.iadsdk-r1.iad.apple.com IN CNAME .
@@ -40075,6 +40083,10 @@ mr11p01ad-iadsdk01205.iad.apple.com IN CNAME .
 mr11p01ad-static.iad.apple.com IN CNAME .
 mr11p01ad-stg-ext-csc-cloud.iad.apple.com IN CNAME .
 mr11p01ad-stgadbweb.iad.apple.com IN CNAME .
+mr11p01adiadsdk00702.iad.apple.com IN CNAME .
+mr11p01adiadsdk00801.iad.apple.com IN CNAME .
+mr11p01adiadsdk01004.iad.apple.com IN CNAME .
+mr11p01adiadsdk01103.iad.apple.com IN CNAME .
 mr11q01ad-ext-cloud.iad.apple.com IN CNAME .
 mr11q01ad-ext-csc-cloud.iad.apple.com IN CNAME .
 mr11q01ad-r1-ext-svc.iad.apple.com IN CNAME .
@@ -40183,6 +40195,7 @@ st11p01ad-netscaler006-snip.iad.apple.com IN CNAME .
 st11p01ad-netscaler009-pass.iad.apple.com IN CNAME .
 st11p01ad-netscaler013-pass.iad.apple.com IN CNAME .
 st11p01ad-netscaler014-pass.iad.apple.com IN CNAME .
+st11p01adext-infcloud.iad.apple.com IN CNAME .
 sv06p01ad-ext-cloud.iad.apple.com IN CNAME .
 sy21p01ad-ext-cloud.iad.apple.com IN CNAME .
 ty92p01ad-ext-cloud.iad.apple.com IN CNAME .
@@ -40198,6 +40211,7 @@ iadworkbench.apple.com IN CNAME .
 idiagnostics.apple.com IN CNAME .
 idiagnostics-devices-mdn.apple.com IN CNAME .
 idiagnostics-devices-qa.apple.com IN CNAME .
+idiagnostics-devices-reno.apple.com IN CNAME .
 idiagnostics-ft.apple.com IN CNAME .
 idiagnostics-mdn1.apple.com IN CNAME .
 idiagnostics-qa.apple.com IN CNAME .
@@ -40219,11 +40233,13 @@ proxy-skadnetwork.apple.com IN CNAME .
 qa-iad.apple.com IN CNAME .
 overlord.qa-iad.apple.com IN CNAME .
 radarsubmissions.apple.com IN CNAME .
+sdkintg-iad.apple.com IN CNAME .
 sdkintgiad.apple.com IN CNAME .
 searchads.apple.com IN CNAME .
 securemetrics.apple.com IN CNAME .
 securemvt.apple.com IN CNAME .
 stg-iad.apple.com IN CNAME .
+st11p01adiadc-origin.stg-iad.apple.com IN CNAME .
 stocks-analytics-events.apple.com IN CNAME .
 supportmetrics.apple.com IN CNAME .
 uxintg-iad.apple.com IN CNAME .
@@ -40399,7 +40415,6 @@ icosa-service-us.allawnos.com IN CNAME .
 icota-service-eu.allawnos.com IN CNAME .
 iot-earbuds-eu.allawnos.com IN CNAME .
 iot-earbuds-sg.allawnos.com IN CNAME .
-iot-earbuds-us.allawnos.com IN CNAME .
 lang-server-eu.allawnos.com IN CNAME .
 lang-server-in.allawnos.com IN CNAME .
 lang-server-sg.allawnos.com IN CNAME .
@@ -40561,6 +40576,10 @@ mdp-appconf-vn.heytapdl.com IN CNAME .
 mdp-appconf-za.heytapdl.com IN CNAME .
 appconf.heytapdownload.com IN CNAME .
 adsfs-sdkconfig.heytapimage.com IN CNAME .
+dhfs-id.heytapimage.com IN CNAME .
+dhfs-in.heytapimage.com IN CNAME .
+dhfs-my.heytapimage.com IN CNAME .
+dhfs-ph.heytapimage.com IN CNAME .
 ads.heytapmobi.com IN CNAME .
 adx.ads.heytapmobi.com IN CNAME .
 adx-f.ads.heytapmobi.com IN CNAME .
@@ -40673,6 +40692,19 @@ iflow-in.browser.heytapmobile.com IN CNAME .
 iflow-sg.browser.heytapmobile.com IN CNAME .
 iflow-th.browser.heytapmobile.com IN CNAME .
 iflow-vn.browser.heytapmobile.com IN CNAME .
+browser-api-br.heytapmobile.com IN CNAME .
+browser-api-fr.heytapmobile.com IN CNAME .
+browser-api-gl.heytapmobile.com IN CNAME .
+browser-api-id.heytapmobile.com IN CNAME .
+browser-api-in.heytapmobile.com IN CNAME .
+browser-api-my.heytapmobile.com IN CNAME .
+browser-api-ph.heytapmobile.com IN CNAME .
+browser-api-ru.heytapmobile.com IN CNAME .
+browser-api-th.heytapmobile.com IN CNAME .
+browser-api-us.heytapmobile.com IN CNAME .
+browser-api-vn.heytapmobile.com IN CNAME .
+browser-api-za.heytapmobile.com IN CNAME .
+browserfiles.heytapmobile.com IN CNAME .
 api-gl.cdo.heytapmobile.com IN CNAME .
 api-id.cdo.heytapmobile.com IN CNAME .
 api-in.cdo.heytapmobile.com IN CNAME .
@@ -40718,6 +40750,11 @@ bsf.sc.heytapmobile.com IN CNAME .
 slb-apisnd-in.heytapmobile.com IN CNAME .
 api-id.theme.heytapmobile.com IN CNAME .
 report-sg.uc.heytapmobile.com IN CNAME .
+dhfs-id.oppomobile.com IN CNAME .
+dhfs-in.oppomobile.com IN CNAME .
+dhfs-th.oppomobile.com IN CNAME .
+dhfs-vn.oppomobile.com IN CNAME .
+dhfsf.oppomobile.com IN CNAME .
 docs-frontier-sg.byteoversea.com IN CNAME .
 frontier.byteoversea.com IN CNAME .
 frontier-prek-room.byteoversea.com IN CNAME .
@@ -41775,6 +41812,7 @@ svlhahgr1.alphonso.tv IN CNAME .
 svpaxcept51.alphonso.tv IN CNAME .
 svwoyj82.alphonso.tv IN CNAME .
 syiprakqeu8.alphonso.tv IN CNAME .
+sync.alphonso.tv IN CNAME .
 syxjwpfr3.alphonso.tv IN CNAME .
 tabdqklvfv8.alphonso.tv IN CNAME .
 tcootf8.alphonso.tv IN CNAME .
@@ -43160,7 +43198,6 @@ m.beehive.in.intl.miui.com IN CNAME .
 api.launcher.intl.miui.com IN CNAME .
 api.mintbrs.intl.miui.com IN CNAME .
 api.muc.intl.miui.com IN CNAME .
-api.newsfeed.intl.miui.com IN CNAME .
 adv.sec.intl.miui.com IN CNAME .
 authbe.sec.intl.miui.com IN CNAME .
 data.sec.intl.miui.com IN CNAME .

@@ -50,7 +50,6 @@ icosa-service-us.allawnos.com
 icota-service-eu.allawnos.com
 iot-earbuds-eu.allawnos.com
 iot-earbuds-sg.allawnos.com
-iot-earbuds-us.allawnos.com
 lang-server-eu.allawnos.com
 lang-server-in.allawnos.com
 lang-server-sg.allawnos.com
@@ -212,6 +211,10 @@ mdp-appconf-vn.heytapdl.com
 mdp-appconf-za.heytapdl.com
 appconf.heytapdownload.com
 adsfs-sdkconfig.heytapimage.com
+dhfs-id.heytapimage.com
+dhfs-in.heytapimage.com
+dhfs-my.heytapimage.com
+dhfs-ph.heytapimage.com
 ads.heytapmobi.com
 adx.ads.heytapmobi.com
 adx-f.ads.heytapmobi.com
@@ -324,6 +327,19 @@ iflow-in.browser.heytapmobile.com
 iflow-sg.browser.heytapmobile.com
 iflow-th.browser.heytapmobile.com
 iflow-vn.browser.heytapmobile.com
+browser-api-br.heytapmobile.com
+browser-api-fr.heytapmobile.com
+browser-api-gl.heytapmobile.com
+browser-api-id.heytapmobile.com
+browser-api-in.heytapmobile.com
+browser-api-my.heytapmobile.com
+browser-api-ph.heytapmobile.com
+browser-api-ru.heytapmobile.com
+browser-api-th.heytapmobile.com
+browser-api-us.heytapmobile.com
+browser-api-vn.heytapmobile.com
+browser-api-za.heytapmobile.com
+browserfiles.heytapmobile.com
 api-gl.cdo.heytapmobile.com
 api-id.cdo.heytapmobile.com
 api-in.cdo.heytapmobile.com
@@ -369,3 +385,8 @@ bsf.sc.heytapmobile.com
 slb-apisnd-in.heytapmobile.com
 api-id.theme.heytapmobile.com
 report-sg.uc.heytapmobile.com
+dhfs-id.oppomobile.com
+dhfs-in.oppomobile.com
+dhfs-th.oppomobile.com
+dhfs-vn.oppomobile.com
+dhfsf.oppomobile.com
