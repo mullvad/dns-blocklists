@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1729495343    ; serial
+                                        1730102056    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5445,6 +5445,7 @@ analytics.virginaustralia.com IN CNAME .
 analytics.virginmobileusa.com IN CNAME .
 analytics.visible.com IN CNAME .
 analytics.vixcloud.co IN CNAME .
+analytics.vortexscans.com IN CNAME .
 analytics.warnertv.fr IN CNAME .
 analytics.wavebox.io IN CNAME .
 analytics.wayland.app IN CNAME .
@@ -6768,6 +6769,7 @@ at.neom.com IN CNAME .
 at.norisbank.de IN CNAME .
 atom-log.3.cn IN CNAME .
 a.topya.com IN CNAME .
+at.pagesjaunes.fr IN CNAME .
 at.postbank.de IN CNAME .
 a.transportgruppen.se IN CNAME .
 a.trivita.com IN CNAME .
@@ -9152,7 +9154,6 @@ csvtu.bmolending.com IN CNAME .
 csymrm.24mx.fr IN CNAME .
 csyqts.tmon.co.kr IN CNAME .
 ct5m.citadium.com IN CNAME .
-cta-service-cms2.hubspot.com IN CNAME .
 ct.beslist.nl IN CNAME .
 ct.capterra.com IN CNAME .
 ct.corpusapp.com IN CNAME .
@@ -12401,7 +12402,6 @@ ezgo.advancedtech.com IN CNAME .
 ezhddx.thesouledstore.com IN CNAME .
 eziccr.dedoles.cz IN CNAME .
 ezobam.jdsports.nl IN CNAME .
-ezodn.com IN CNAME .
 ezstat.ru IN CNAME .
 ezuhbd.industrialdiscount.it IN CNAME .
 ezvjys.belezanaweb.com.br IN CNAME .
@@ -14171,6 +14171,7 @@ hits.antena3.com IN CNAME .
 hits.dealer.com IN CNAME .
 hitserver.ibope.com.br IN CNAME .
 hits.getelevar.com IN CNAME .
+hits.gokwik.co IN CNAME .
 hits.guardian.co.uk IN CNAME .
 hits.informer.com IN CNAME .
 hit.skrz.cz IN CNAME .
@@ -22582,7 +22583,6 @@ nnofmj.studiof.com.co IN CNAME .
 nnqyed.laredoute.be IN CNAME .
 nntgna.dmm.com IN CNAME .
 nnvoia.closetworld.com IN CNAME .
-no88kks.infinityscans.net IN CNAME .
 no9pldds1lmn3.soundcloud.com IN CNAME .
 noa0.compteczam.fr IN CNAME .
 noa.yahoo.com IN CNAME .
@@ -22654,6 +22654,7 @@ nr-data.noelleeming.co.nz IN CNAME .
 nrg.red-by-sfr.fr IN CNAME .
 nrjcur.pomelofashion.com IN CNAME .
 nr.noelleeming.co.nz IN CNAME .
+nrpukcsgboqr0gz2o8.www.bolighub.dk IN CNAME .
 nrquff.supurgemarket.com IN CNAME .
 nrrgyk.hair-gallery.it IN CNAME .
 nr.static.mmcdn.com IN CNAME .
@@ -24274,6 +24275,7 @@ puiwrs.misterspex.de IN CNAME .
 pulsar.ebay.com IN CNAME .
 pulse.delta.com IN CNAME .
 pulse.munsonhealthcare.org IN CNAME .
+pulse.shopflo.com IN CNAME .
 pumlmb.netcologne.de IN CNAME .
 pumpkin.abine.com IN CNAME .
 pu.pretunique.fr IN CNAME .
@@ -26669,6 +26671,7 @@ sg-go.experian.com IN CNAME .
 sggsbd.fonteyn.nl IN CNAME .
 s.glimesh.tv IN CNAME .
 sg.lucanet.com IN CNAME .
+sgmntfy.com IN CNAME .
 sgms.greatschools.org IN CNAME .
 s.goat.com IN CNAME .
 s.gofile.io IN CNAME .
@@ -30518,6 +30521,7 @@ sqtivj.vidaxl.hr IN CNAME .
 squirrel.cividi.ch IN CNAME .
 squirrel.malaynahocker.com IN CNAME .
 sr59t7wbx5.claricelin.com IN CNAME .
+src.freshmarketer.in IN CNAME .
 srd1-pdx.net.jumia.ci IN CNAME .
 srepdata.12newsnow.com IN CNAME .
 srepdata.13wmaz.com IN CNAME .
@@ -38978,6 +38982,7 @@ ydvsok.newbalance.jp IN CNAME .
 yebvpc.gardengoodsdirect.com IN CNAME .
 yefktd.avito.ru IN CNAME .
 yehyqc.hugoboss.com IN CNAME .
+yes88kks.infinityscans.net IN CNAME .
 yewrcd.govoyages.com IN CNAME .
 yezztf.pinkelephant.co.kr IN CNAME .
 yf5.voyage-prive.at IN CNAME .
@@ -40270,6 +40275,7 @@ qwapi.com IN CNAME .
 www.qwapi.com IN CNAME .
 marketing.services.apple IN CNAME .
 beacon.shazam.com IN CNAME .
+browsercfg-drcn.cloud.dbankcloud.cn IN CNAME .
 ubacollect-drcn.cloud.dbankcloud.cn IN CNAME .
 metrics-dre.data.dbankcloud.cn IN CNAME .
 metrics1.data.dbankcloud.cn IN CNAME .
@@ -40308,6 +40314,7 @@ events-op-hicloud-com-drcn.appacc.dbankedge.net IN CNAME .
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dre.appacc.dbankedge.cn IN CNAME .
+openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn IN CNAME .
 events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
 events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn IN CNAME .
@@ -42699,6 +42706,7 @@ beta.bingads.microsoft.com IN CNAME .
 ch1b.bingads.microsoft.com IN CNAME .
 community.bingads.microsoft.com IN CNAME .
 developers.bingads.microsoft.com IN CNAME .
+express.bingads.microsoft.com IN CNAME .
 fd.bingads.microsoft.com IN CNAME .
 feedback.bingads.microsoft.com IN CNAME .
 help.bingads.microsoft.com IN CNAME .
@@ -43289,7 +43297,6 @@ imgg.traffic-media.co IN CNAME .
 www.traffic-media.co IN CNAME .
 ad.xiaomi.com IN CNAME .
 api.ad.xiaomi.com IN CNAME .
-cdn.ad.xiaomi.com IN CNAME .
 staging.cname.ad.xiaomi.com IN CNAME .
 cupid.ad.xiaomi.com IN CNAME .
 databi.ad.xiaomi.com IN CNAME .
