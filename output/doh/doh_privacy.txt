@@ -4938,6 +4938,7 @@ analytics.adobe.ly
 analytics.adultswim.co.uk
 analytics.agenedia.com
 analytics.agoda.com
+analytics.ahrefs.dev
 analytics.aimtell.com
 analytics.airindia.com
 analytics.airtron.com
@@ -5611,6 +5612,7 @@ api.elliehuxtable.com
 api.fuck.education
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
+api.june.so
 a.pikabu.ru
 apilog-web.acfun.cn
 api.ryanyao.design
@@ -10683,6 +10685,7 @@ dm-event.net
 dmkt.solutions.cas.org
 d.m-net.de
 dmpcdn.el-mundo.net
+dmp.citynews.ovh
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -12010,6 +12013,7 @@ erp.qwic.nl
 err.ifengcloud.ifeng.com
 error-collector.ted.com
 errorreports.couponcabin.com
+errors.darkreader.app
 errors.snackly.co
 error.videonow.ru
 ert5.rmcsport.tv
@@ -12724,6 +12728,7 @@ fpc.golubcapital.com
 fpc.immattersacp.org
 fpc.inxinternational.com
 fpc.laerdal.com
+fpcn.bpsgameserver.com
 fpc.pelican.com
 fpc.questoraclecommunity.org
 fpc.sage.com
@@ -12905,6 +12910,7 @@ fzgpzp.opodo.de
 fzlnk.com
 fzqjvw.oakandluna.com
 fzu4.bysidecar.com
+g10102301085.co
 g10300385420.co
 g11686975765.co
 g11885060100.co
@@ -15568,7 +15574,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.m.seek.com.au
 info.m.seek.co.nz
@@ -21894,6 +21899,7 @@ mi.miliboo.lu
 mine.nahnoji.cz
 minerad.com
 mini-site.larksuite-marketing.com
+minstats.xyz
 m.ioicommunity.com.my
 miqeuu.timberland.it
 mirabelanalytics.com
@@ -26791,6 +26797,7 @@ sheeta.nrj-play.fr
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
 sheregesh-io.traveler.today
+shgcdn3.com
 shhoix0fuonj0hz6.net.fidor.de
 shipsmarter.idrivelogistics.com
 shjwhv.falsepeti.com
@@ -30605,6 +30612,7 @@ srsa.srglobal.com
 srsg.srglobal.com
 srtb.msn.com
 sruk.srglobal.com
+srvgl.com
 srv.plesk.com
 ssa.asianfoodnetwork.com
 s.sachem.ca
@@ -31269,6 +31277,7 @@ statisticplatform.com
 statistic.qzone.qq.com
 statistics.csob.cz
 statistics.daktilo.com
+statistics.darkreader.app
 statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
@@ -31280,6 +31289,7 @@ statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
+statistiek.rijksoverheid.nl
 statistik.apartments-tirolerhaus.at
 statistik.simaja.de
 stat.iteye.com
@@ -31492,6 +31502,7 @@ stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
+stats.darkreader.app
 stats.dashbit.co
 stats.datahjaelp.net
 stats.datamanie.cz
@@ -31700,6 +31711,7 @@ stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
 stats.jsbible.com
+statsjs.klevu.com
 stats.jtrees.io
 stats.jun-etan.com
 stats.justinwilliams.ca
@@ -32139,6 +32151,7 @@ stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
 stats.vican.me
+stats.vidbinge.com
 stats.viddler.com
 stats.vidyome.com
 stats.visions.ch
@@ -32814,7 +32827,6 @@ tags.johnlewis.com
 tags.klove.com
 tags.master-perf-tools.com
 tags.op-palvelut.fi
-tags.refinery89.com
 tags.soloway.ru
 tags.stepstone.com
 tag.statshop.fr
@@ -32870,7 +32882,6 @@ tao.barstoolsports.com
 t.ao.consumerfinancereport.com
 t.ao.walletjoy.com
 tap.carling.com
-taplytics-umami.grubhub.com
 t.appsflyer.com
 t.appstatesports.com
 t.arcade.show
@@ -33852,7 +33863,6 @@ tm.urssaf.fr
 tmvasapp.fitnessyard.com
 tm.vendemore.com
 tmwkya.jh-profishop.at
-tmx.bestbuy.com
 tmxjdr.benaza.ro
 tmx.td.com
 tmy8.madeindesign.ch
@@ -37225,7 +37235,6 @@ vfo4.carrefour-banque.fr
 vfo.voyage-prive.co.uk
 vf.startpage.com
 vfvcxv.naturhaeuschen.de
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
@@ -37602,7 +37611,6 @@ web.campaign.miriade.com
 web.campaigns.colonialfirststate.com.au
 web.campaign.v73.it
 web.capriceshoes.com
-webcare.byside.com
 web.care.eehealth.org
 web.care.lcmchealth.org
 web.care.mclaren.org
@@ -39959,7 +39967,6 @@ diagnostics.apple.com
 experiments.apple.com
 iad.apple.com
 am02p01ad-ext-cloud.iad.apple.com
-am02p01adext-infcloud.iad.apple.com
 apps.iad.apple.com
 da21p01ad-ext-cloud.iad.apple.com
 da21p01ad-ext-infcloud.iad.apple.com
@@ -39986,7 +39993,6 @@ iad2s1-iadsdktest.iad.apple.com
 iad2s1-newssdk.iad.apple.com
 iad2s1-oo.iad.apple.com
 iad2s1-pass.iad.apple.com
-iad2s1feed.iad.apple.com
 iad2s2-chalkboard.iad.apple.com
 iad2s2-cmws.iad.apple.com
 iad2s2-feed.iad.apple.com
@@ -39996,8 +40002,6 @@ iad2s2-iadsdktest.iad.apple.com
 iad2s2-newssdk.iad.apple.com
 iad2s2-oo.iad.apple.com
 iad2s2-pass.iad.apple.com
-iad2s2api.iad.apple.com
-iad2s2workbench.iad.apple.com
 iad2s3-chalkboard.iad.apple.com
 iad2s3-cmws.iad.apple.com
 iad2s3-iadc.iad.apple.com
@@ -40013,7 +40017,6 @@ iad2s4-iadsdk.iad.apple.com
 iad2s4-newssdk.iad.apple.com
 iad2s4-oo.iad.apple.com
 iad2s4-pass.iad.apple.com
-iad2s4pass.iad.apple.com
 iad2v1-chalkboard.iad.apple.com
 iad2v1-cmws.iad.apple.com
 iad2v1-feed.iad.apple.com
@@ -40022,7 +40025,6 @@ iad2v1-iadsdktest.iad.apple.com
 iad2v1-newssdk.iad.apple.com
 iad2v1-oo.iad.apple.com
 iad2v1-pass.iad.apple.com
-iad2v1chalkboard.iad.apple.com
 iad2v2-chalkboard.iad.apple.com
 iad2v2-chalkboard2.iad.apple.com
 iad2v2-cmws.iad.apple.com
@@ -40034,21 +40036,17 @@ iad2v2-pass.iad.apple.com
 iad2v3-chalkboard.iad.apple.com
 iad2v3-cmws.iad.apple.com
 iad2v3-iadc.iad.apple.com
-iad2v3-iadctest.iad.apple.com
 iad2v3-iadsdk-soak.iad.apple.com
 iad2v3-iadsdktest.iad.apple.com
 iad2v4-chalkboard.iad.apple.com
 iad2v4-feed.iad.apple.com
 iad2v4-iadc.iad.apple.com
 iad2v4-newssdk.iad.apple.com
-iad2v4iadctest.iad.apple.com
-iad2v4iadsdk.iad.apple.com
 iad2v5-feed.iad.apple.com
 iad2v5-iadctest.iad.apple.com
 iad2v5-oo.iad.apple.com
 iad2v5-pass.iad.apple.com
 iad2v5-workbench.iad.apple.com
-iad2v5cmws.iad.apple.com
 iadsdk-nwk.iad.apple.com
 iadsdk-r1.iad.apple.com
 mr11q01ad-cf.iadsdk-r1.iad.apple.com
@@ -40076,10 +40074,6 @@ mr11p01ad-iadsdk01205.iad.apple.com
 mr11p01ad-static.iad.apple.com
 mr11p01ad-stg-ext-csc-cloud.iad.apple.com
 mr11p01ad-stgadbweb.iad.apple.com
-mr11p01adiadsdk00702.iad.apple.com
-mr11p01adiadsdk00801.iad.apple.com
-mr11p01adiadsdk01004.iad.apple.com
-mr11p01adiadsdk01103.iad.apple.com
 mr11q01ad-ext-cloud.iad.apple.com
 mr11q01ad-ext-csc-cloud.iad.apple.com
 mr11q01ad-r1-ext-svc.iad.apple.com
@@ -40098,8 +40092,6 @@ p1-mr-iad-ss-client-settings.iad.apple.com
 p1-mr-iad-ss-logging-server.iad.apple.com
 p1-mr-iad-ss-services-attribution.iad.apple.com
 p1-mr-iad-ss-services-campaign.iad.apple.com
-p1-mr-iad-ss-services-creative.iad.apple.com
-p1-mr-iad-ss-services-media.iad.apple.com
 p1-mr-iad-ss-services-reporting.iad.apple.com
 p1-mr-iad-ss-services-search.iad.apple.com
 p1-mr-iad-ss-static-assets.iad.apple.com
@@ -40188,7 +40180,6 @@ st11p01ad-netscaler006-snip.iad.apple.com
 st11p01ad-netscaler009-pass.iad.apple.com
 st11p01ad-netscaler013-pass.iad.apple.com
 st11p01ad-netscaler014-pass.iad.apple.com
-st11p01adext-infcloud.iad.apple.com
 sv06p01ad-ext-cloud.iad.apple.com
 sy21p01ad-ext-cloud.iad.apple.com
 ty92p01ad-ext-cloud.iad.apple.com
@@ -40212,7 +40203,6 @@ idiagnostics-reno.apple.com
 internalcheck.apple.com
 iphonesubmissions.apple.com
 iphonesubmissions-old.apple.com
-autolinkmaker.itunes.apple.com
 partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
@@ -40232,7 +40222,6 @@ searchads.apple.com
 securemetrics.apple.com
 securemvt.apple.com
 stg-iad.apple.com
-st11p01adiadc-origin.stg-iad.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
 uxintg-iad.apple.com
@@ -40250,7 +40239,6 @@ feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple
 experiments.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
-linkmaker.itunes.apple.com.edgekey.net
 partiality.itunes.apple.com.edgekey.net
 xp.apple.com.edgekey.net
 cstat.apple.com.edgesuite.net
@@ -40286,6 +40274,8 @@ adx-dra.op.dbankcloud.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.dbankcloud.com
 adx-drru.op.dbankcloud.com
+events-drcn.op.dbankcloud.cn
+events-drcn.op.dbankcloud.com
 events-dre.op.dbankcloud.com
 dnkeeper.platform.dbankcloud.cn
 grs.platform.dbankcloud.ru
@@ -40953,7 +40943,6 @@ gecko31-normal-useast2a.tiktokv.com
 location.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
-location-ttp2.tiktokv.com
 location-v6.tiktokv.com
 location-v6-i18n.tiktokv.com
 location-v6-ru.tiktokv.com
@@ -41209,6 +41198,7 @@ asia-onrt-stsdk.vivoglobal.com
 asia-ort-stsdk.vivoglobal.com
 asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
+asia-st-sl.vivoglobal.com
 asia-stsdk.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
@@ -41634,6 +41624,7 @@ krishnaw369.alphonso.tv
 krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
 krishnaw374.alphonso.tv
+krishnaw375.alphonso.tv
 krishnaw380.alphonso.tv
 krishnaw381.alphonso.tv
 krishnaw382.alphonso.tv
@@ -42407,6 +42398,7 @@ in.appcenter.ms
 applicationinsights.azure.com
 aimon.applicationinsights.azure.com
 in.aimon.applicationinsights.azure.com
+westcentralus-0.in.aimon.applicationinsights.azure.com
 westcentralus-global.in.aimon.applicationinsights.azure.com
 api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
@@ -42562,6 +42554,12 @@ jpc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 noc-visio-telemetry.officeapps.live.com
+pgtbr1-excel-telemetry-vip.officeapps.live.com
+pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtca1-word-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -42573,6 +42571,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-excel-telemetry-vip.officeapps.live.com
+pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -43021,7 +43022,6 @@ rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
 settingsfd-geo.trafficmanager.net
-sre-metrics-thanos-prod.trafficmanager.net
 ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
@@ -43058,9 +43058,6 @@ weus2watcab02.blob.core.windows.net
 cache.datamart.windows.com
 sa.windows.com
 adsdktelemetry-prod.servicebus.windows.net
-ams-euno-1-bus-analytics-1-1.servicebus.windows.net
-ams-usea-1-bus-analytics-1-1.servicebus.windows.net
-ams-usso-1-bus-analytics-1-1.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net
@@ -43278,8 +43275,6 @@ staging.tracking.miui.com
 api.vip.miui.com
 www.miui.net
 intl.up.w.xk.miui.com
-rus-mi.com
-www.rus-mi.com
 traffic-media.co
 imgg.traffic-media.co
 www.traffic-media.co

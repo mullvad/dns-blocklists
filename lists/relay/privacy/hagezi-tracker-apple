@@ -38,7 +38,6 @@ diagnostics.apple.com
 experiments.apple.com
 iad.apple.com
 am02p01ad-ext-cloud.iad.apple.com
-am02p01adext-infcloud.iad.apple.com
 apps.iad.apple.com
 da21p01ad-ext-cloud.iad.apple.com
 da21p01ad-ext-infcloud.iad.apple.com
@@ -65,7 +64,6 @@ iad2s1-iadsdktest.iad.apple.com
 iad2s1-newssdk.iad.apple.com
 iad2s1-oo.iad.apple.com
 iad2s1-pass.iad.apple.com
-iad2s1feed.iad.apple.com
 iad2s2-chalkboard.iad.apple.com
 iad2s2-cmws.iad.apple.com
 iad2s2-feed.iad.apple.com
@@ -75,8 +73,6 @@ iad2s2-iadsdktest.iad.apple.com
 iad2s2-newssdk.iad.apple.com
 iad2s2-oo.iad.apple.com
 iad2s2-pass.iad.apple.com
-iad2s2api.iad.apple.com
-iad2s2workbench.iad.apple.com
 iad2s3-chalkboard.iad.apple.com
 iad2s3-cmws.iad.apple.com
 iad2s3-iadc.iad.apple.com
@@ -92,7 +88,6 @@ iad2s4-iadsdk.iad.apple.com
 iad2s4-newssdk.iad.apple.com
 iad2s4-oo.iad.apple.com
 iad2s4-pass.iad.apple.com
-iad2s4pass.iad.apple.com
 iad2v1-chalkboard.iad.apple.com
 iad2v1-cmws.iad.apple.com
 iad2v1-feed.iad.apple.com
@@ -101,7 +96,6 @@ iad2v1-iadsdktest.iad.apple.com
 iad2v1-newssdk.iad.apple.com
 iad2v1-oo.iad.apple.com
 iad2v1-pass.iad.apple.com
-iad2v1chalkboard.iad.apple.com
 iad2v2-chalkboard.iad.apple.com
 iad2v2-chalkboard2.iad.apple.com
 iad2v2-cmws.iad.apple.com
@@ -113,21 +107,17 @@ iad2v2-pass.iad.apple.com
 iad2v3-chalkboard.iad.apple.com
 iad2v3-cmws.iad.apple.com
 iad2v3-iadc.iad.apple.com
-iad2v3-iadctest.iad.apple.com
 iad2v3-iadsdk-soak.iad.apple.com
 iad2v3-iadsdktest.iad.apple.com
 iad2v4-chalkboard.iad.apple.com
 iad2v4-feed.iad.apple.com
 iad2v4-iadc.iad.apple.com
 iad2v4-newssdk.iad.apple.com
-iad2v4iadctest.iad.apple.com
-iad2v4iadsdk.iad.apple.com
 iad2v5-feed.iad.apple.com
 iad2v5-iadctest.iad.apple.com
 iad2v5-oo.iad.apple.com
 iad2v5-pass.iad.apple.com
 iad2v5-workbench.iad.apple.com
-iad2v5cmws.iad.apple.com
 iadsdk-nwk.iad.apple.com
 iadsdk-r1.iad.apple.com
 mr11q01ad-cf.iadsdk-r1.iad.apple.com
@@ -155,10 +145,6 @@ mr11p01ad-iadsdk01205.iad.apple.com
 mr11p01ad-static.iad.apple.com
 mr11p01ad-stg-ext-csc-cloud.iad.apple.com
 mr11p01ad-stgadbweb.iad.apple.com
-mr11p01adiadsdk00702.iad.apple.com
-mr11p01adiadsdk00801.iad.apple.com
-mr11p01adiadsdk01004.iad.apple.com
-mr11p01adiadsdk01103.iad.apple.com
 mr11q01ad-ext-cloud.iad.apple.com
 mr11q01ad-ext-csc-cloud.iad.apple.com
 mr11q01ad-r1-ext-svc.iad.apple.com
@@ -177,8 +163,6 @@ p1-mr-iad-ss-client-settings.iad.apple.com
 p1-mr-iad-ss-logging-server.iad.apple.com
 p1-mr-iad-ss-services-attribution.iad.apple.com
 p1-mr-iad-ss-services-campaign.iad.apple.com
-p1-mr-iad-ss-services-creative.iad.apple.com
-p1-mr-iad-ss-services-media.iad.apple.com
 p1-mr-iad-ss-services-reporting.iad.apple.com
 p1-mr-iad-ss-services-search.iad.apple.com
 p1-mr-iad-ss-static-assets.iad.apple.com
@@ -267,7 +251,6 @@ st11p01ad-netscaler006-snip.iad.apple.com
 st11p01ad-netscaler009-pass.iad.apple.com
 st11p01ad-netscaler013-pass.iad.apple.com
 st11p01ad-netscaler014-pass.iad.apple.com
-st11p01adext-infcloud.iad.apple.com
 sv06p01ad-ext-cloud.iad.apple.com
 sy21p01ad-ext-cloud.iad.apple.com
 ty92p01ad-ext-cloud.iad.apple.com
@@ -291,7 +274,6 @@ idiagnostics-reno.apple.com
 internalcheck.apple.com
 iphonesubmissions.apple.com
 iphonesubmissions-old.apple.com
-autolinkmaker.itunes.apple.com
 partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
@@ -311,7 +293,6 @@ searchads.apple.com
 securemetrics.apple.com
 securemvt.apple.com
 stg-iad.apple.com
-st11p01adiadc-origin.stg-iad.apple.com
 stocks-analytics-events.apple.com
 supportmetrics.apple.com
 uxintg-iad.apple.com
@@ -329,7 +310,6 @@ feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple
 experiments.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
-linkmaker.itunes.apple.com.edgekey.net
 partiality.itunes.apple.com.edgekey.net
 xp.apple.com.edgekey.net
 cstat.apple.com.edgesuite.net

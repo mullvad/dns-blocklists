@@ -2,6 +2,7 @@ in.appcenter.ms
 applicationinsights.azure.com
 aimon.applicationinsights.azure.com
 in.aimon.applicationinsights.azure.com
+westcentralus-0.in.aimon.applicationinsights.azure.com
 westcentralus-global.in.aimon.applicationinsights.azure.com
 api.applicationinsights.azure.com
 dc.applicationinsights.azure.cn
@@ -157,6 +158,12 @@ jpc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 noc-visio-telemetry.officeapps.live.com
+pgtbr1-excel-telemetry-vip.officeapps.live.com
+pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr1-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtca1-word-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -168,6 +175,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-excel-telemetry-vip.officeapps.live.com
+pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
+pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -616,7 +626,6 @@ rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
 settingsfd-geo.trafficmanager.net
-sre-metrics-thanos-prod.trafficmanager.net
 ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
@@ -653,9 +662,6 @@ weus2watcab02.blob.core.windows.net
 cache.datamart.windows.com
 sa.windows.com
 adsdktelemetry-prod.servicebus.windows.net
-ams-euno-1-bus-analytics-1-1.servicebus.windows.net
-ams-usea-1-bus-analytics-1-1.servicebus.windows.net
-ams-usso-1-bus-analytics-1-1.servicebus.windows.net
 analytics-dev-lleap-events.servicebus.windows.net
 analytics-dev-simpad-events.servicebus.windows.net
 analyticsehnwe.servicebus.windows.net

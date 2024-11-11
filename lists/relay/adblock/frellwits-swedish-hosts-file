@@ -41,6 +41,7 @@
  ads.aland.com
  ads.annonsbladet.com
  ads.aralego.com
+ ads.bethard.com
  ads.compro.se
  ads.docunordic.net
  ads.exakt24.se
@@ -119,12 +120,14 @@
  analytics.residencemagazine.se
  analytics.sitewit.com
  analytics.sjf.se
+ analytics.sleeknote.com
  analytics.smhi.se
  analytics.svenskdam.se
  analytics.svt.se
  analytics.teknikveckan.se
  analytics.undeco.se
  analytics.vackertvader.se
+ analytics-ingress-global.bitmovin.com
  analytics-sdk.yle.fi
  analytics-smhise.smhi.se
  analytics.ci-360.se
@@ -402,6 +405,7 @@
  eum.instana.io
  europe-west1-bonnier-big-data.cloudfunctions.net
  eus.rubiconproject.com
+ eu.npario-inc.net
  events-collector.spot.im
  exitintel.com
  expo.ads.ramsalt.com
@@ -507,7 +511,6 @@
  jsc.adskeeper.co.uk
  jsc.mgid.com
  jscdn.yieldbird.com
- jssdk.pulse.schibsted.com
  jssdkcdns.mparticle.com
  js-agent.newrelic.com
  js-sec.indexww.com
@@ -748,8 +751,6 @@
  se-ads-microservice.ads.allermedia.io
  sgtm.inet.se
  sibautomation.com
- sleeknote.com
- sleeknotecustomerscripts.sleeknote.com
  smtvn.112.2o7.net
  snap.licdn.com
  source.advisible.com
@@ -1077,7 +1078,6 @@
  www.topdisplaynetwork.com
  www.tourn.se
  www.vejaskor.com.se
- www.vejasskor.com
  www.vizzit.se
  www8.smartadserver.com
  www.datadoghq-browser-agent.com

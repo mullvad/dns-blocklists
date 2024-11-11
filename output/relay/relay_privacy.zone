@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1730102056    ; serial
+                                        1731310134    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4950,6 +4950,7 @@ analytics.adobe.ly IN CNAME .
 analytics.adultswim.co.uk IN CNAME .
 analytics.agenedia.com IN CNAME .
 analytics.agoda.com IN CNAME .
+analytics.ahrefs.dev IN CNAME .
 analytics.aimtell.com IN CNAME .
 analytics.airindia.com IN CNAME .
 analytics.airtron.com IN CNAME .
@@ -5623,6 +5624,7 @@ api.elliehuxtable.com IN CNAME .
 api.fuck.education IN CNAME .
 api-hotmart-tracking-manager.hotmart.com IN CNAME .
 api-js.mixpanel.com IN CNAME .
+api.june.so IN CNAME .
 a.pikabu.ru IN CNAME .
 apilog-web.acfun.cn IN CNAME .
 api.ryanyao.design IN CNAME .
@@ -10695,6 +10697,7 @@ dm-event.net IN CNAME .
 dmkt.solutions.cas.org IN CNAME .
 d.m-net.de IN CNAME .
 dmpcdn.el-mundo.net IN CNAME .
+dmp.citynews.ovh IN CNAME .
 dmpmetrics.rcsmetrics.it IN CNAME .
 dmpxs.com IN CNAME .
 dmqykw.thirtymall.com IN CNAME .
@@ -12022,6 +12025,7 @@ erp.qwic.nl IN CNAME .
 err.ifengcloud.ifeng.com IN CNAME .
 error-collector.ted.com IN CNAME .
 errorreports.couponcabin.com IN CNAME .
+errors.darkreader.app IN CNAME .
 errors.snackly.co IN CNAME .
 error.videonow.ru IN CNAME .
 ert5.rmcsport.tv IN CNAME .
@@ -12736,6 +12740,7 @@ fpc.golubcapital.com IN CNAME .
 fpc.immattersacp.org IN CNAME .
 fpc.inxinternational.com IN CNAME .
 fpc.laerdal.com IN CNAME .
+fpcn.bpsgameserver.com IN CNAME .
 fpc.pelican.com IN CNAME .
 fpc.questoraclecommunity.org IN CNAME .
 fpc.sage.com IN CNAME .
@@ -12917,6 +12922,7 @@ fzgpzp.opodo.de IN CNAME .
 fzlnk.com IN CNAME .
 fzqjvw.oakandluna.com IN CNAME .
 fzu4.bysidecar.com IN CNAME .
+g10102301085.co IN CNAME .
 g10300385420.co IN CNAME .
 g11686975765.co IN CNAME .
 g11885060100.co IN CNAME .
@@ -15580,7 +15586,6 @@ info.moneycontrol.network18online.com IN CNAME .
 info.monsooninc.com IN CNAME .
 info.morganfranklin.com IN CNAME .
 info.motion10.nl IN CNAME .
-info.mouser.com IN CNAME .
 info.msconsultants.com IN CNAME .
 info.m.seek.com.au IN CNAME .
 info.m.seek.co.nz IN CNAME .
@@ -21906,6 +21911,7 @@ mi.miliboo.lu IN CNAME .
 mine.nahnoji.cz IN CNAME .
 minerad.com IN CNAME .
 mini-site.larksuite-marketing.com IN CNAME .
+minstats.xyz IN CNAME .
 m.ioicommunity.com.my IN CNAME .
 miqeuu.timberland.it IN CNAME .
 mirabelanalytics.com IN CNAME .
@@ -26803,6 +26809,7 @@ sheeta.nrj-play.fr IN CNAME .
 shelbypublishing.actonservice.com IN CNAME .
 shell-recharge.tupinambaenergia.com.br IN CNAME .
 sheregesh-io.traveler.today IN CNAME .
+shgcdn3.com IN CNAME .
 shhoix0fuonj0hz6.net.fidor.de IN CNAME .
 shipsmarter.idrivelogistics.com IN CNAME .
 shjwhv.falsepeti.com IN CNAME .
@@ -30617,6 +30624,7 @@ srsa.srglobal.com IN CNAME .
 srsg.srglobal.com IN CNAME .
 srtb.msn.com IN CNAME .
 sruk.srglobal.com IN CNAME .
+srvgl.com IN CNAME .
 srv.plesk.com IN CNAME .
 ssa.asianfoodnetwork.com IN CNAME .
 s.sachem.ca IN CNAME .
@@ -31281,6 +31289,7 @@ statisticplatform.com IN CNAME .
 statistic.qzone.qq.com IN CNAME .
 statistics.csob.cz IN CNAME .
 statistics.daktilo.com IN CNAME .
+statistics.darkreader.app IN CNAME .
 statistics.fppressa.ru IN CNAME .
 statistics.heatbeat.de IN CNAME .
 statistics.jfmedier.dk IN CNAME .
@@ -31292,6 +31301,7 @@ statistics.streamdav.com IN CNAME .
 statistics.tattermedia.com IN CNAME .
 statistics.tuv.com IN CNAME .
 statistics.wibiya.com IN CNAME .
+statistiek.rijksoverheid.nl IN CNAME .
 statistik.apartments-tirolerhaus.at IN CNAME .
 statistik.simaja.de IN CNAME .
 stat.iteye.com IN CNAME .
@@ -31504,6 +31514,7 @@ stats.dailyposter.com IN CNAME .
 stats.danestevens.dev IN CNAME .
 stats.danielwolf.photography IN CNAME .
 stats.danner-landschaftsbau.at IN CNAME .
+stats.darkreader.app IN CNAME .
 stats.dashbit.co IN CNAME .
 stats.datahjaelp.net IN CNAME .
 stats.datamanie.cz IN CNAME .
@@ -31712,6 +31723,7 @@ stats.jhsheridan.com IN CNAME .
 stats.jjude.com IN CNAME .
 stats.joaopedro.dev IN CNAME .
 stats.jsbible.com IN CNAME .
+statsjs.klevu.com IN CNAME .
 stats.jtrees.io IN CNAME .
 stats.jun-etan.com IN CNAME .
 stats.justinwilliams.ca IN CNAME .
@@ -32151,6 +32163,7 @@ stats.vattenfall.nl IN CNAME .
 stats.vattenfall.se IN CNAME .
 stats.vdsnow.ru IN CNAME .
 stats.vican.me IN CNAME .
+stats.vidbinge.com IN CNAME .
 stats.viddler.com IN CNAME .
 stats.vidyome.com IN CNAME .
 stats.visions.ch IN CNAME .
@@ -32826,7 +32839,6 @@ tags.johnlewis.com IN CNAME .
 tags.klove.com IN CNAME .
 tags.master-perf-tools.com IN CNAME .
 tags.op-palvelut.fi IN CNAME .
-tags.refinery89.com IN CNAME .
 tags.soloway.ru IN CNAME .
 tags.stepstone.com IN CNAME .
 tag.statshop.fr IN CNAME .
@@ -32882,7 +32894,6 @@ tao.barstoolsports.com IN CNAME .
 t.ao.consumerfinancereport.com IN CNAME .
 t.ao.walletjoy.com IN CNAME .
 tap.carling.com IN CNAME .
-taplytics-umami.grubhub.com IN CNAME .
 t.appsflyer.com IN CNAME .
 t.appstatesports.com IN CNAME .
 t.arcade.show IN CNAME .
@@ -33864,7 +33875,6 @@ tm.urssaf.fr IN CNAME .
 tmvasapp.fitnessyard.com IN CNAME .
 tm.vendemore.com IN CNAME .
 tmwkya.jh-profishop.at IN CNAME .
-tmx.bestbuy.com IN CNAME .
 tmxjdr.benaza.ro IN CNAME .
 tmx.td.com IN CNAME .
 tmy8.madeindesign.ch IN CNAME .
@@ -37237,7 +37247,6 @@ vfo4.carrefour-banque.fr IN CNAME .
 vfo.voyage-prive.co.uk IN CNAME .
 vf.startpage.com IN CNAME .
 vfvcxv.naturhaeuschen.de IN CNAME .
-vg247-p2.vg247.com IN CNAME .
 vg247-uk.vg247.com IN CNAME .
 vgavzy.spierandmackay.com IN CNAME .
 vgazda.krefel.be IN CNAME .
@@ -37614,7 +37623,6 @@ web.campaign.miriade.com IN CNAME .
 web.campaigns.colonialfirststate.com.au IN CNAME .
 web.campaign.v73.it IN CNAME .
 web.capriceshoes.com IN CNAME .
-webcare.byside.com IN CNAME .
 web.care.eehealth.org IN CNAME .
 web.care.lcmchealth.org IN CNAME .
 web.care.mclaren.org IN CNAME .
@@ -39971,7 +39979,6 @@ diagnostics.apple.com IN CNAME .
 experiments.apple.com IN CNAME .
 iad.apple.com IN CNAME .
 am02p01ad-ext-cloud.iad.apple.com IN CNAME .
-am02p01adext-infcloud.iad.apple.com IN CNAME .
 apps.iad.apple.com IN CNAME .
 da21p01ad-ext-cloud.iad.apple.com IN CNAME .
 da21p01ad-ext-infcloud.iad.apple.com IN CNAME .
@@ -39998,7 +40005,6 @@ iad2s1-iadsdktest.iad.apple.com IN CNAME .
 iad2s1-newssdk.iad.apple.com IN CNAME .
 iad2s1-oo.iad.apple.com IN CNAME .
 iad2s1-pass.iad.apple.com IN CNAME .
-iad2s1feed.iad.apple.com IN CNAME .
 iad2s2-chalkboard.iad.apple.com IN CNAME .
 iad2s2-cmws.iad.apple.com IN CNAME .
 iad2s2-feed.iad.apple.com IN CNAME .
@@ -40008,8 +40014,6 @@ iad2s2-iadsdktest.iad.apple.com IN CNAME .
 iad2s2-newssdk.iad.apple.com IN CNAME .
 iad2s2-oo.iad.apple.com IN CNAME .
 iad2s2-pass.iad.apple.com IN CNAME .
-iad2s2api.iad.apple.com IN CNAME .
-iad2s2workbench.iad.apple.com IN CNAME .
 iad2s3-chalkboard.iad.apple.com IN CNAME .
 iad2s3-cmws.iad.apple.com IN CNAME .
 iad2s3-iadc.iad.apple.com IN CNAME .
@@ -40025,7 +40029,6 @@ iad2s4-iadsdk.iad.apple.com IN CNAME .
 iad2s4-newssdk.iad.apple.com IN CNAME .
 iad2s4-oo.iad.apple.com IN CNAME .
 iad2s4-pass.iad.apple.com IN CNAME .
-iad2s4pass.iad.apple.com IN CNAME .
 iad2v1-chalkboard.iad.apple.com IN CNAME .
 iad2v1-cmws.iad.apple.com IN CNAME .
 iad2v1-feed.iad.apple.com IN CNAME .
@@ -40034,7 +40037,6 @@ iad2v1-iadsdktest.iad.apple.com IN CNAME .
 iad2v1-newssdk.iad.apple.com IN CNAME .
 iad2v1-oo.iad.apple.com IN CNAME .
 iad2v1-pass.iad.apple.com IN CNAME .
-iad2v1chalkboard.iad.apple.com IN CNAME .
 iad2v2-chalkboard.iad.apple.com IN CNAME .
 iad2v2-chalkboard2.iad.apple.com IN CNAME .
 iad2v2-cmws.iad.apple.com IN CNAME .
@@ -40046,21 +40048,17 @@ iad2v2-pass.iad.apple.com IN CNAME .
 iad2v3-chalkboard.iad.apple.com IN CNAME .
 iad2v3-cmws.iad.apple.com IN CNAME .
 iad2v3-iadc.iad.apple.com IN CNAME .
-iad2v3-iadctest.iad.apple.com IN CNAME .
 iad2v3-iadsdk-soak.iad.apple.com IN CNAME .
 iad2v3-iadsdktest.iad.apple.com IN CNAME .
 iad2v4-chalkboard.iad.apple.com IN CNAME .
 iad2v4-feed.iad.apple.com IN CNAME .
 iad2v4-iadc.iad.apple.com IN CNAME .
 iad2v4-newssdk.iad.apple.com IN CNAME .
-iad2v4iadctest.iad.apple.com IN CNAME .
-iad2v4iadsdk.iad.apple.com IN CNAME .
 iad2v5-feed.iad.apple.com IN CNAME .
 iad2v5-iadctest.iad.apple.com IN CNAME .
 iad2v5-oo.iad.apple.com IN CNAME .
 iad2v5-pass.iad.apple.com IN CNAME .
 iad2v5-workbench.iad.apple.com IN CNAME .
-iad2v5cmws.iad.apple.com IN CNAME .
 iadsdk-nwk.iad.apple.com IN CNAME .
 iadsdk-r1.iad.apple.com IN CNAME .
 mr11q01ad-cf.iadsdk-r1.iad.apple.com IN CNAME .
@@ -40088,10 +40086,6 @@ mr11p01ad-iadsdk01205.iad.apple.com IN CNAME .
 mr11p01ad-static.iad.apple.com IN CNAME .
 mr11p01ad-stg-ext-csc-cloud.iad.apple.com IN CNAME .
 mr11p01ad-stgadbweb.iad.apple.com IN CNAME .
-mr11p01adiadsdk00702.iad.apple.com IN CNAME .
-mr11p01adiadsdk00801.iad.apple.com IN CNAME .
-mr11p01adiadsdk01004.iad.apple.com IN CNAME .
-mr11p01adiadsdk01103.iad.apple.com IN CNAME .
 mr11q01ad-ext-cloud.iad.apple.com IN CNAME .
 mr11q01ad-ext-csc-cloud.iad.apple.com IN CNAME .
 mr11q01ad-r1-ext-svc.iad.apple.com IN CNAME .
@@ -40110,8 +40104,6 @@ p1-mr-iad-ss-client-settings.iad.apple.com IN CNAME .
 p1-mr-iad-ss-logging-server.iad.apple.com IN CNAME .
 p1-mr-iad-ss-services-attribution.iad.apple.com IN CNAME .
 p1-mr-iad-ss-services-campaign.iad.apple.com IN CNAME .
-p1-mr-iad-ss-services-creative.iad.apple.com IN CNAME .
-p1-mr-iad-ss-services-media.iad.apple.com IN CNAME .
 p1-mr-iad-ss-services-reporting.iad.apple.com IN CNAME .
 p1-mr-iad-ss-services-search.iad.apple.com IN CNAME .
 p1-mr-iad-ss-static-assets.iad.apple.com IN CNAME .
@@ -40200,7 +40192,6 @@ st11p01ad-netscaler006-snip.iad.apple.com IN CNAME .
 st11p01ad-netscaler009-pass.iad.apple.com IN CNAME .
 st11p01ad-netscaler013-pass.iad.apple.com IN CNAME .
 st11p01ad-netscaler014-pass.iad.apple.com IN CNAME .
-st11p01adext-infcloud.iad.apple.com IN CNAME .
 sv06p01ad-ext-cloud.iad.apple.com IN CNAME .
 sy21p01ad-ext-cloud.iad.apple.com IN CNAME .
 ty92p01ad-ext-cloud.iad.apple.com IN CNAME .
@@ -40224,7 +40215,6 @@ idiagnostics-reno.apple.com IN CNAME .
 internalcheck.apple.com IN CNAME .
 iphonesubmissions.apple.com IN CNAME .
 iphonesubmissions-old.apple.com IN CNAME .
-autolinkmaker.itunes.apple.com IN CNAME .
 partiality.itunes.apple.com IN CNAME .
 launch.apple.com IN CNAME .
 metrics.apple.com IN CNAME .
@@ -40244,7 +40234,6 @@ searchads.apple.com IN CNAME .
 securemetrics.apple.com IN CNAME .
 securemvt.apple.com IN CNAME .
 stg-iad.apple.com IN CNAME .
-st11p01adiadc-origin.stg-iad.apple.com IN CNAME .
 stocks-analytics-events.apple.com IN CNAME .
 supportmetrics.apple.com IN CNAME .
 uxintg-iad.apple.com IN CNAME .
@@ -40262,7 +40251,6 @@ feedbackws.icloud.com.cn IN CNAME .
 cdn-xp-ingest.edge.apple IN CNAME .
 experiments.apple.com.edgekey.net IN CNAME .
 iadsdk.apple.com.edgekey.net IN CNAME .
-linkmaker.itunes.apple.com.edgekey.net IN CNAME .
 partiality.itunes.apple.com.edgekey.net IN CNAME .
 xp.apple.com.edgekey.net IN CNAME .
 cstat.apple.com.edgesuite.net IN CNAME .
@@ -40298,6 +40286,8 @@ adx-dra.op.dbankcloud.com IN CNAME .
 adx-drcn.op.dbankcloud.cn IN CNAME .
 adx-dre.op.dbankcloud.com IN CNAME .
 adx-drru.op.dbankcloud.com IN CNAME .
+events-drcn.op.dbankcloud.cn IN CNAME .
+events-drcn.op.dbankcloud.com IN CNAME .
 events-dre.op.dbankcloud.com IN CNAME .
 dnkeeper.platform.dbankcloud.cn IN CNAME .
 grs.platform.dbankcloud.ru IN CNAME .
@@ -40965,7 +40955,6 @@ gecko31-normal-useast2a.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
 location-sg.tiktokv.com IN CNAME .
-location-ttp2.tiktokv.com IN CNAME .
 location-v6.tiktokv.com IN CNAME .
 location-v6-i18n.tiktokv.com IN CNAME .
 location-v6-ru.tiktokv.com IN CNAME .
@@ -41221,6 +41210,7 @@ asia-onrt-stsdk.vivoglobal.com IN CNAME .
 asia-ort-stsdk.vivoglobal.com IN CNAME .
 asia-pnrt-stsdk.vivoglobal.com IN CNAME .
 asia-prt-stsdk.vivoglobal.com IN CNAME .
+asia-st-sl.vivoglobal.com IN CNAME .
 asia-stsdk.vivoglobal.com IN CNAME .
 asia-vcode-or.vivoglobal.com IN CNAME .
 asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
@@ -41646,6 +41636,7 @@ krishnaw369.alphonso.tv IN CNAME .
 krishnaw370.alphonso.tv IN CNAME .
 krishnaw371.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
+krishnaw375.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -42419,6 +42410,7 @@ in.appcenter.ms IN CNAME .
 applicationinsights.azure.com IN CNAME .
 aimon.applicationinsights.azure.com IN CNAME .
 in.aimon.applicationinsights.azure.com IN CNAME .
+westcentralus-0.in.aimon.applicationinsights.azure.com IN CNAME .
 westcentralus-global.in.aimon.applicationinsights.azure.com IN CNAME .
 api.applicationinsights.azure.com IN CNAME .
 dc.applicationinsights.azure.cn IN CNAME .
@@ -42574,6 +42566,12 @@ jpc-visio-telemetry.officeapps.live.com IN CNAME .
 nexus.officeapps.live.com IN CNAME .
 nexusrules.officeapps.live.com IN CNAME .
 noc-visio-telemetry.officeapps.live.com IN CNAME .
+pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
+pgtbr1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtbr1-word-telemetry-vip.officeapps.live.com IN CNAME .
+pgtca1-excel-telemetry-vip.officeapps.live.com IN CNAME .
+pgtca1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtca1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -42585,6 +42583,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu3-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu4-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtmx1-excel-telemetry-vip.officeapps.live.com IN CNAME .
+pgtmx1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtmx1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -43033,7 +43034,6 @@ rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net IN CNAME .
 sconsentit9.trafficmanager.net IN CNAME .
 self-events-data.trafficmanager.net IN CNAME .
 settingsfd-geo.trafficmanager.net IN CNAME .
-sre-metrics-thanos-prod.trafficmanager.net IN CNAME .
 ssp-prod-eastus-nonmutt.trafficmanager.net IN CNAME .
 stats-partner.trafficmanager.net IN CNAME .
 teams-events-data.trafficmanager.net IN CNAME .
@@ -43070,9 +43070,6 @@ weus2watcab02.blob.core.windows.net IN CNAME .
 cache.datamart.windows.com IN CNAME .
 sa.windows.com IN CNAME .
 adsdktelemetry-prod.servicebus.windows.net IN CNAME .
-ams-euno-1-bus-analytics-1-1.servicebus.windows.net IN CNAME .
-ams-usea-1-bus-analytics-1-1.servicebus.windows.net IN CNAME .
-ams-usso-1-bus-analytics-1-1.servicebus.windows.net IN CNAME .
 analytics-dev-lleap-events.servicebus.windows.net IN CNAME .
 analytics-dev-simpad-events.servicebus.windows.net IN CNAME .
 analyticsehnwe.servicebus.windows.net IN CNAME .
@@ -43290,8 +43287,6 @@ staging.tracking.miui.com IN CNAME .
 api.vip.miui.com IN CNAME .
 www.miui.net IN CNAME .
 intl.up.w.xk.miui.com IN CNAME .
-rus-mi.com IN CNAME .
-www.rus-mi.com IN CNAME .
 traffic-media.co IN CNAME .
 imgg.traffic-media.co IN CNAME .
 www.traffic-media.co IN CNAME .
