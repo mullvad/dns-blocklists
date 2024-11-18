@@ -8045,6 +8045,7 @@ cfb.8it.me
 cf.campagnes-france.com
 c.fingerprint.com
 cf.overblog.com
+cf-pixelfront-analytics.widencdn.net
 cfpwood.actonservice.com
 cfrnyp.kars4kids.org
 cfsaze.retailmenot.com
@@ -8489,6 +8490,7 @@ collector.betway.be
 collector.betway.com
 collector.cint.com
 collector.clareity.net
+collector-direct.xhamster.com
 collector.dmp.cnna.io
 collector.fiverr.com
 collector.getyourguide.com
@@ -8510,6 +8512,7 @@ collector.xhamster2.com
 collector.xhamster3.com
 collector.xhamster.com
 collector.xhamster.desi
+collector.xhamsterporno.mx
 collect.reagroupdata.com.au
 collect.rebelmouse.io
 collect.rewardstyle.com
@@ -11952,6 +11955,7 @@ enroll.workforcewellness.com
 en-sg.siemensplmevents.com
 ens.luzernerzeitung.ch
 ens.tagblatt.ch
+entail-insights.com
 enterombacerick.com
 enterprise2.secureforms.mcafee.com
 enterprise.dnb.ca
@@ -15907,6 +15911,7 @@ info.zoominfo-privacy.com
 info.zoominfotechnologies.com
 info.zoomintel.com
 info.zuidema.nl
+ingest.coincodex.com
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 in-go.experian.com
@@ -23224,6 +23229,7 @@ orbis.actonservice.com
 ordbng.extra.com.br
 ordpmx.victorianplumbing.co.uk
 oregonstate.actonservice.com
+organiccdn.io
 organizations.stratfor.com
 orhdev.com
 origin-smetrics.go365.com
@@ -31759,6 +31765,7 @@ stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
+stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
@@ -39931,11 +39938,13 @@ cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
 cdn-xp-ingest-ab.v.aaplimg.com
 iphonesubmissions.v.aaplimg.com
+prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
+prod-news-notification-events.v.aaplimg.com
 securemetrics.v.aaplimg.com
 securemvt.v.aaplimg.com
 smoot-feedback.v.aaplimg.com
@@ -40207,6 +40216,9 @@ partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
 msc-dct-prod.msc.apple.com
+news-app-events.apple.com
+news-notification-events.apple.com
+news-sports-events.apple.com
 notes-analytics-events.apple.com
 odin-signals.apple.com
 performance-partners.apple.com
@@ -42825,7 +42837,6 @@ sqm.telemetry.microsoft.com
 telecommand.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 telemetrycollector.microsoft.com
-uhf.microsoft.com
 telemetry.urs.microsoft.com
 watson.microsoft.com
 cab.watson.microsoft.com

@@ -2,11 +2,13 @@ cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
 cdn-xp-ingest-ab.v.aaplimg.com
 iphonesubmissions.v.aaplimg.com
+prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
+prod-news-notification-events.v.aaplimg.com
 securemetrics.v.aaplimg.com
 securemvt.v.aaplimg.com
 smoot-feedback.v.aaplimg.com
@@ -278,6 +280,9 @@ partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
 msc-dct-prod.msc.apple.com
+news-app-events.apple.com
+news-notification-events.apple.com
+news-sports-events.apple.com
 notes-analytics-events.apple.com
 odin-signals.apple.com
 performance-partners.apple.com

@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1731310122    ; serial
+                                        1731918906    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8057,6 +8057,7 @@ cfb.8it.me IN CNAME .
 cf.campagnes-france.com IN CNAME .
 c.fingerprint.com IN CNAME .
 cf.overblog.com IN CNAME .
+cf-pixelfront-analytics.widencdn.net IN CNAME .
 cfpwood.actonservice.com IN CNAME .
 cfrnyp.kars4kids.org IN CNAME .
 cfsaze.retailmenot.com IN CNAME .
@@ -8501,6 +8502,7 @@ collector.betway.be IN CNAME .
 collector.betway.com IN CNAME .
 collector.cint.com IN CNAME .
 collector.clareity.net IN CNAME .
+collector-direct.xhamster.com IN CNAME .
 collector.dmp.cnna.io IN CNAME .
 collector.fiverr.com IN CNAME .
 collector.getyourguide.com IN CNAME .
@@ -8522,6 +8524,7 @@ collector.xhamster2.com IN CNAME .
 collector.xhamster3.com IN CNAME .
 collector.xhamster.com IN CNAME .
 collector.xhamster.desi IN CNAME .
+collector.xhamsterporno.mx IN CNAME .
 collect.reagroupdata.com.au IN CNAME .
 collect.rebelmouse.io IN CNAME .
 collect.rewardstyle.com IN CNAME .
@@ -11964,6 +11967,7 @@ enroll.workforcewellness.com IN CNAME .
 en-sg.siemensplmevents.com IN CNAME .
 ens.luzernerzeitung.ch IN CNAME .
 ens.tagblatt.ch IN CNAME .
+entail-insights.com IN CNAME .
 enterombacerick.com IN CNAME .
 enterprise2.secureforms.mcafee.com IN CNAME .
 enterprise.dnb.ca IN CNAME .
@@ -15919,6 +15923,7 @@ info.zoominfo-privacy.com IN CNAME .
 info.zoominfotechnologies.com IN CNAME .
 info.zoomintel.com IN CNAME .
 info.zuidema.nl IN CNAME .
+ingest.coincodex.com IN CNAME .
 ingest.make.rvapps.io IN CNAME .
 ingest.make.rvohealth.com IN CNAME .
 in-go.experian.com IN CNAME .
@@ -23236,6 +23241,7 @@ orbis.actonservice.com IN CNAME .
 ordbng.extra.com.br IN CNAME .
 ordpmx.victorianplumbing.co.uk IN CNAME .
 oregonstate.actonservice.com IN CNAME .
+organiccdn.io IN CNAME .
 organizations.stratfor.com IN CNAME .
 orhdev.com IN CNAME .
 origin-smetrics.go365.com IN CNAME .
@@ -31771,6 +31777,7 @@ stats.lippeshirts.de IN CNAME .
 stats.literacysomerset.org IN CNAME .
 stats.literaturkreis.online IN CNAME .
 stats.lmdsp.com IN CNAME .
+stats.locallabs.com IN CNAME .
 stats.localmetravel.com IN CNAME .
 stats.lord.io IN CNAME .
 stats.lotlinx.com IN CNAME .
@@ -39943,11 +39950,13 @@ cstat.g.aaplimg.com IN CNAME .
 diagassets.g.aaplimg.com IN CNAME .
 cdn-xp-ingest-ab.v.aaplimg.com IN CNAME .
 iphonesubmissions.v.aaplimg.com IN CNAME .
+prod-event-relay-api.v.aaplimg.com IN CNAME .
 prod-event-relay-books-api.v.aaplimg.com IN CNAME .
 prod-event-relay-notes-api.v.aaplimg.com IN CNAME .
 prod-event-relay-sports-api.v.aaplimg.com IN CNAME .
 prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
+prod-news-notification-events.v.aaplimg.com IN CNAME .
 securemetrics.v.aaplimg.com IN CNAME .
 securemvt.v.aaplimg.com IN CNAME .
 smoot-feedback.v.aaplimg.com IN CNAME .
@@ -40219,6 +40228,9 @@ partiality.itunes.apple.com IN CNAME .
 launch.apple.com IN CNAME .
 metrics.apple.com IN CNAME .
 msc-dct-prod.msc.apple.com IN CNAME .
+news-app-events.apple.com IN CNAME .
+news-notification-events.apple.com IN CNAME .
+news-sports-events.apple.com IN CNAME .
 notes-analytics-events.apple.com IN CNAME .
 odin-signals.apple.com IN CNAME .
 performance-partners.apple.com IN CNAME .
@@ -42837,7 +42849,6 @@ sqm.telemetry.microsoft.com IN CNAME .
 telecommand.telemetry.microsoft.com IN CNAME .
 watson.telemetry.microsoft.com IN CNAME .
 telemetrycollector.microsoft.com IN CNAME .
-uhf.microsoft.com IN CNAME .
 telemetry.urs.microsoft.com IN CNAME .
 watson.microsoft.com IN CNAME .
 cab.watson.microsoft.com IN CNAME .
