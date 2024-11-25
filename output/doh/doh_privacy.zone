@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1731918906    ; serial
+                                        1732523430    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6390,6 +6390,7 @@ app.solutions.intermec.com IN CNAME .
 app.soonersports.com IN CNAME .
 app.sortedai.com IN CNAME .
 app.soultime.com IN CNAME .
+apps-pbd.ctraffic.io IN CNAME .
 apps.shakaguide.com IN CNAME .
 apps.software.netsimplicity.com IN CNAME .
 apps.spectrum-member.com IN CNAME .
@@ -7305,7 +7306,6 @@ bjfbac.hyundaivaudreuil.com IN CNAME .
 bjpsuk.fray-id.com IN CNAME .
 bjqnpe.i-office1.net IN CNAME .
 bjuvux.andgino.jp IN CNAME .
-b.karte.io IN CNAME .
 bk.brookeo.fr IN CNAME .
 bke.actonservice.com IN CNAME .
 bkifg.actonservice.com IN CNAME .
@@ -9182,6 +9182,7 @@ ct.pinterest.com IN CNAME .
 ctr-iwb.nmg.de IN CNAME .
 ctrkd.ilsole24ore.com IN CNAME .
 ctr-opc.nmg.de IN CNAME .
+ctr.po-kaki-to.com IN CNAME .
 ct.taskhuman.com IN CNAME .
 cttest.branch.rocks IN CNAME .
 c-t.topya.com IN CNAME .
@@ -11302,7 +11303,6 @@ ekphpa.perfectlypriscilla.com IN CNAME .
 elastoproxy.actonservice.com IN CNAME .
 elcaminohospital.hrm.healthgrades.com IN CNAME .
 elconfidencialdigital.actonservice.com IN CNAME .
-ele26126.jscrambler.com IN CNAME .
 e-learning.brainshark.com IN CNAME .
 electricity2.tokyu-ps.jp IN CNAME .
 electrifai.actonservice.com IN CNAME .
@@ -12199,10 +12199,12 @@ events.baselime.io IN CNAME .
 events.bendigotafe.edu.au IN CNAME .
 events.blackboard.com IN CNAME .
 events.brightline.tv IN CNAME .
+events.bsky.app IN CNAME .
 events.btw.so IN CNAME .
 events.careallies.com IN CNAME .
 events.centex.com IN CNAME .
 events.chaordicsystems.com IN CNAME .
+events.character.ai IN CNAME .
 events.cigna.com IN CNAME .
 events.clips4sale.com IN CNAME .
 events.coface.com IN CNAME .
@@ -12933,6 +12935,7 @@ g11885060100.co IN CNAME .
 g1188506010.co IN CNAME .
 g12083144435.co IN CNAME .
 g12281228770.co IN CNAME .
+g1386590346.co IN CNAME .
 g1584674682.co IN CNAME .
 g1584674684.co IN CNAME .
 g1782759015.co IN CNAME .
@@ -17992,6 +17995,7 @@ log.cizion.com IN CNAME .
 log.codemarketing.cloud IN CNAME .
 log.cognex.com IN CNAME .
 log.collectaction.com IN CNAME .
+logcollector.note.com IN CNAME .
 log.cookieyes.com IN CNAME .
 log.cpex.cz IN CNAME .
 log.dance IN CNAME .
@@ -18061,6 +18065,7 @@ logs.51cto.com IN CNAME .
 logs.animaapp.com IN CNAME .
 logs-api.shoprunner.com IN CNAME .
 logsbin.dantri.com.vn IN CNAME .
+logs.chatboost-cv.algoage.co.jp IN CNAME .
 logsdk.kwai-pro.com IN CNAME .
 log.seekda.com IN CNAME .
 logservice1.hicloud.com IN CNAME .
@@ -23407,6 +23412,7 @@ pabgey.siepomaga.pl IN CNAME .
 pacstainless.actonservice.com IN CNAME .
 pac.thescottishsun.co.uk IN CNAME .
 pac.thesun.co.uk IN CNAME .
+pac.thetimes.com IN CNAME .
 paeppk.spar-mit.com IN CNAME .
 page1solutions.actonservice.com IN CNAME .
 page.asraymond.com IN CNAME .
@@ -24159,6 +24165,7 @@ prod.ew.srp.navigacloud.com IN CNAME .
 prod.fennec.atp.fox IN CNAME .
 proditor.sparda.de IN CNAME .
 prod.nitrosniffer.ottogroup.io IN CNAME .
+prodregistryv2.org IN CNAME .
 prod.tracking.refinitiv.com IN CNAME .
 product.cel-fi.com IN CNAME .
 product.cloud.travelport.com IN CNAME .
@@ -32398,7 +32405,6 @@ strack.www.allianzcare-corporate.com IN CNAME .
 strapi.clickjogos.com.br IN CNAME .
 strategycompanion.actonservice.com IN CNAME .
 strawberry.basf.com IN CNAME .
-stream.9now.com.au IN CNAME .
 stream.corporatefinanceinstitute.com IN CNAME .
 stream-log.dditscdn.com IN CNAME .
 streams.cablecar.sph.com.sg IN CNAME .
@@ -34196,6 +34202,7 @@ tracker.nbcuas.com IN CNAME .
 tracker.nitropay.com IN CNAME .
 tracker.nocodelytics.com IN CNAME .
 tracker.novage.com.ua IN CNAME .
+tracker.prod.ams3.k8s.hyperia.sk IN CNAME .
 tracker.prom.ua IN CNAME .
 tracker.providence.org IN CNAME .
 tracker.psjhealth.org IN CNAME .
@@ -35529,6 +35536,7 @@ tr.enedis-infos.fr IN CNAME .
 tr.enews.customsolutions.fr IN CNAME .
 tr.enquetes.actionlogement.fr IN CNAME .
 t.rentcafe.com IN CNAME .
+t.rentio.jp IN CNAME .
 tr.entreprise.axa.fr IN CNAME .
 tr.entreprise-pro.info IN CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net IN CNAME .
@@ -37149,6 +37157,7 @@ ut.econnect.utexas.edu IN CNAME .
 u-test.getgoose.com IN CNAME .
 utexas.actonservice.com IN CNAME .
 utgckq.reductionrevolution.com.au IN CNAME .
+utics.nodejibi.in IN CNAME .
 ut.iggroup.com IN CNAME .
 utjzyz.phillips.com IN CNAME .
 utklhk.kojima.net IN CNAME .
@@ -40548,6 +40557,7 @@ mdp-appconf-latam.heytapdl.com IN CNAME .
 mdp-appconf-lk.heytapdl.com IN CNAME .
 mdp-appconf-ly.heytapdl.com IN CNAME .
 mdp-appconf-ma.heytapdl.com IN CNAME .
+mdp-appconf-me.heytapdl.com IN CNAME .
 mdp-appconf-mea.heytapdl.com IN CNAME .
 mdp-appconf-mm.heytapdl.com IN CNAME .
 mdp-appconf-mx.heytapdl.com IN CNAME .
@@ -40569,6 +40579,7 @@ mdp-appconf-pt.heytapdl.com IN CNAME .
 mdp-appconf-qa.heytapdl.com IN CNAME .
 mdp-appconf-ro.heytapdl.com IN CNAME .
 mdp-appconf-row.heytapdl.com IN CNAME .
+mdp-appconf-rs.heytapdl.com IN CNAME .
 mdp-appconf-ru.heytapdl.com IN CNAME .
 mdp-appconf-sa.heytapdl.com IN CNAME .
 mdp-appconf-sg.heytapdl.com IN CNAME .
@@ -40964,6 +40975,7 @@ gecko31-normal.tiktokv.com IN CNAME .
 gecko31-normal-alisg.tiktokv.com IN CNAME .
 gecko31-normal-useast1a.tiktokv.com IN CNAME .
 gecko31-normal-useast2a.tiktokv.com IN CNAME .
+lemon8-api.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
 location-sg.tiktokv.com IN CNAME .
@@ -41206,6 +41218,12 @@ xlog16-normal-c-useast1a.tiktokv.com IN CNAME .
 xlog16-normal-c-useast2a.tiktokv.com IN CNAME .
 xlog16-platform-ycru.tiktokv.com IN CNAME .
 xlog16-tmp-normal-useast1a.tiktokv.com IN CNAME .
+ads-ie.tiktokw.eu IN CNAME .
+ads-ttp2.tiktokw.eu IN CNAME .
+analytics-ie.tiktokw.eu IN CNAME .
+analytics-ttp2.tiktokw.eu IN CNAME .
+mcs-ie.tiktokw.eu IN CNAME .
+mcs-ie2.tiktokw.eu IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
 asia-adsjssdk.vivoglobal.com IN CNAME .
 asia-analyzer-appstore.vivoglobal.com IN CNAME .
@@ -43298,6 +43316,8 @@ staging.tracking.miui.com IN CNAME .
 api.vip.miui.com IN CNAME .
 www.miui.net IN CNAME .
 intl.up.w.xk.miui.com IN CNAME .
+rus-mi.com IN CNAME .
+www.rus-mi.com IN CNAME .
 traffic-media.co IN CNAME .
 imgg.traffic-media.co IN CNAME .
 www.traffic-media.co IN CNAME .
