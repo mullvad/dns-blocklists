@@ -1,5 +1,6 @@
 browsercfg-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.cn
+ubacollect-drcn.cloud.dbankcloud.co
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
@@ -17,6 +18,7 @@ grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
+logservice1.dbankcloud.com
 adx-dra.op.dbankcloud.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.dbankcloud.com

@@ -10837,6 +10837,7 @@ dtmssl.bobcat.com
 dtnmyp.cocotorico.com
 dtqcpx.eskor.se
 dtr-onsite-feed.datarize.ai
+dt-tracker.mamikos.com
 dttrk.com
 d.tv-asahi.co.jp
 dt.xfyun.cn
@@ -39968,6 +39969,7 @@ idiagnostics.apple.com.akadns.net
 iphonesubmissions.apple.com.akadns.net
 radarsubmissions.apple.com.akadns.net
 iad-apple.com.akadns.net
+skadnetwork.iad-apple.com.akadns.net
 partiality.itunes-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
 searchads.lb-apple.com.akadns.net
@@ -40274,6 +40276,7 @@ marketing.services.apple
 beacon.shazam.com
 browsercfg-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.cn
+ubacollect-drcn.cloud.dbankcloud.co
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
@@ -40291,6 +40294,7 @@ grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
+logservice1.dbankcloud.com
 adx-dra.op.dbankcloud.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.dbankcloud.com
@@ -40503,6 +40507,7 @@ mdp-appconf-bh.heytapdl.com
 mdp-appconf-bo.heytapdl.com
 mdp-appconf-br.heytapdl.com
 mdp-appconf-by.heytapdl.com
+mdp-appconf-ca.heytapdl.com
 mdp-appconf-ch.heytapdl.com
 mdp-appconf-chl.heytapdl.com
 mdp-appconf-cn.heytapdl.com
@@ -40964,6 +40969,8 @@ gecko31-normal-alisg.tiktokv.com
 gecko31-normal-useast1a.tiktokv.com
 gecko31-normal-useast2a.tiktokv.com
 lemon8-api.tiktokv.com
+lemonapi16-normal-alisg.tiktokv.com
+lemonapi22-normal-alisg.tiktokv.com
 location.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
@@ -41194,6 +41201,7 @@ webcast-frontier22-alisg.tiktokv.com
 webcast-frontier22-normal-alisg.tiktokv.com
 webcast-frontier22-normal-useast1a.tiktokv.com
 webcast-frontier22-normal-useast2a.tiktokv.com
+webcast-frontier23-normal-useast1a.tiktokv.com
 webcast-frontier32-alisg.tiktokv.com
 webcast-frontier32-normal-alisg.tiktokv.com
 webcast-frontier32-normal-useast1a.tiktokv.com
@@ -41763,6 +41771,7 @@ lwwue70.alphonso.tv
 mczcxzlxj2.alphonso.tv
 medtmpwecm01.alphonso.tv
 mercury.alphonso.tv
+mercury-lb.alphonso.tv
 mhfzxyb54.alphonso.tv
 miadhqsm4.alphonso.tv
 mmfmkbhbvj6.alphonso.tv
@@ -42357,6 +42366,7 @@ ygkibjr6.alphonso.tv
 yrdpnjajw79.alphonso.tv
 yubyryonu18.alphonso.tv
 yumhcpugj62.alphonso.tv
+yygzydzs13.alphonso.tv
 zbzcbkflw2.alphonso.tv
 zcesm62.alphonso.tv
 zeokb1.alphonso.tv
@@ -42565,6 +42575,7 @@ nexusrules.live.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
+chc-visio-telemetry.officeapps.live.com
 dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-onenote-telemetry.officeapps.live.com
@@ -42869,6 +42880,7 @@ ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
 www.msads.net
+win10-trt.msedge.net
 ad.msn.com
 adevents.msn.com
 ads.msn.com
@@ -43199,7 +43211,6 @@ mitv.tracking.india.miui.com
 inf.miui.com
 mcc.intl.inf.miui.com
 api.accelerator.intl.miui.com
-privacy.api.intl.miui.com
 api.aurogon.intl.miui.com
 activity.browser.intl.miui.com
 api.activity.browser.intl.miui.com

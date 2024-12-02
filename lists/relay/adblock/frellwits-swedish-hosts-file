@@ -406,7 +406,6 @@
  eum.instana.io
  europe-west1-bonnier-big-data.cloudfunctions.net
  eus.rubiconproject.com
- eu.npario-inc.net
  events-collector.spot.im
  exitintel.com
  expo.ads.ramsalt.com
@@ -456,6 +455,7 @@
  gtm.findroommate.dk
  gtm.proff.se
  gtm.stampenmedia.se
+ gtm-service.flygbra.se
  gwen.insertcoin.se
  hapyak.com
  hb.adpone.com
@@ -788,7 +788,6 @@
  static.ads-twitter.com
  statistics.heltenkelt.se
  statistik.blogg1.se
- statistik.mxo.se
  statistik.svenskaakademien.se
  stats.agrar.nu
  stats.blogg.se
@@ -946,6 +945,7 @@
  tracking.falukuriren.se
  tracking.fasab6f.se
  tracking.fastighetsnytt.se
+ tracking.folkracepuls.se
  tracking.gd.se
  tracking.hd.se
  tracking.ht.se
@@ -954,6 +954,7 @@
  tracking.jp.se
  tracking.kalmarposten.se
  tracking.klt.nu
+ tracking.kpwebben.se
  tracking.kristianstadsbladet.se
  tracking.ljusdalsposten.se
  tracking.ljusnan.se
@@ -963,11 +964,14 @@
  tracking.meraosterlen.se
  tracking.missaffiliate.com
  tracking.moratidning.se
+ tracking.morgonexpressen.se
  tracking.na.se
  tracking.norrteljetidning.se
  tracking.nsk.se
  tracking.nvp.se
  tracking.nyaludvikatidning.se
+ tracking.nyhetstjansterna.dagensmedicin.se
+ tracking.nyhetstjansterna.di.se
  tracking.nynashamnsposten.se
  tracking.olandsbladet.se
  tracking.omniture.nt.se
@@ -999,7 +1003,6 @@
  tracking.visitorsvoice.com
  tracking.vlt.se
  tracking.vn.se
- tracking.vxonews.se
  tracking.ystadsallehanda.se
  tracking.etidning.fagersta-posten.se
  tracking.fagersta-posten.se
@@ -1071,6 +1074,7 @@
  www.filasverigese.com
  www.guesssverige.com.se
  www.kundvisaren.se
+ www.lduhtrp.net
  www.mymediaindex.com
  www.nichehuset.dk
  www.npttech.com

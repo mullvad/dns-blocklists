@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1732523430    ; serial
+                                        1733129589    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -10849,6 +10849,7 @@ dtmssl.bobcat.com IN CNAME .
 dtnmyp.cocotorico.com IN CNAME .
 dtqcpx.eskor.se IN CNAME .
 dtr-onsite-feed.datarize.ai IN CNAME .
+dt-tracker.mamikos.com IN CNAME .
 dttrk.com IN CNAME .
 d.tv-asahi.co.jp IN CNAME .
 dt.xfyun.cn IN CNAME .
@@ -39980,6 +39981,7 @@ idiagnostics.apple.com.akadns.net IN CNAME .
 iphonesubmissions.apple.com.akadns.net IN CNAME .
 radarsubmissions.apple.com.akadns.net IN CNAME .
 iad-apple.com.akadns.net IN CNAME .
+skadnetwork.iad-apple.com.akadns.net IN CNAME .
 partiality.itunes-apple.com.akadns.net IN CNAME .
 xp.itunes-apple.com.akadns.net IN CNAME .
 searchads.lb-apple.com.akadns.net IN CNAME .
@@ -40286,6 +40288,7 @@ marketing.services.apple IN CNAME .
 beacon.shazam.com IN CNAME .
 browsercfg-drcn.cloud.dbankcloud.cn IN CNAME .
 ubacollect-drcn.cloud.dbankcloud.cn IN CNAME .
+ubacollect-drcn.cloud.dbankcloud.co IN CNAME .
 metrics-dre.data.dbankcloud.cn IN CNAME .
 metrics1.data.dbankcloud.cn IN CNAME .
 dnkeeper.dbankcloud.com IN CNAME .
@@ -40303,6 +40306,7 @@ grs.dbankcloud.asia IN CNAME .
 grs.dbankcloud.cn IN CNAME .
 grs.dbankcloud.com IN CNAME .
 grs.dbankcloud.eu IN CNAME .
+logservice1.dbankcloud.com IN CNAME .
 adx-dra.op.dbankcloud.com IN CNAME .
 adx-drcn.op.dbankcloud.cn IN CNAME .
 adx-dre.op.dbankcloud.com IN CNAME .
@@ -40515,6 +40519,7 @@ mdp-appconf-bh.heytapdl.com IN CNAME .
 mdp-appconf-bo.heytapdl.com IN CNAME .
 mdp-appconf-br.heytapdl.com IN CNAME .
 mdp-appconf-by.heytapdl.com IN CNAME .
+mdp-appconf-ca.heytapdl.com IN CNAME .
 mdp-appconf-ch.heytapdl.com IN CNAME .
 mdp-appconf-chl.heytapdl.com IN CNAME .
 mdp-appconf-cn.heytapdl.com IN CNAME .
@@ -40976,6 +40981,8 @@ gecko31-normal-alisg.tiktokv.com IN CNAME .
 gecko31-normal-useast1a.tiktokv.com IN CNAME .
 gecko31-normal-useast2a.tiktokv.com IN CNAME .
 lemon8-api.tiktokv.com IN CNAME .
+lemonapi16-normal-alisg.tiktokv.com IN CNAME .
+lemonapi22-normal-alisg.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
 location-sg.tiktokv.com IN CNAME .
@@ -41206,6 +41213,7 @@ webcast-frontier22-alisg.tiktokv.com IN CNAME .
 webcast-frontier22-normal-alisg.tiktokv.com IN CNAME .
 webcast-frontier22-normal-useast1a.tiktokv.com IN CNAME .
 webcast-frontier22-normal-useast2a.tiktokv.com IN CNAME .
+webcast-frontier23-normal-useast1a.tiktokv.com IN CNAME .
 webcast-frontier32-alisg.tiktokv.com IN CNAME .
 webcast-frontier32-normal-alisg.tiktokv.com IN CNAME .
 webcast-frontier32-normal-useast1a.tiktokv.com IN CNAME .
@@ -41775,6 +41783,7 @@ lwwue70.alphonso.tv IN CNAME .
 mczcxzlxj2.alphonso.tv IN CNAME .
 medtmpwecm01.alphonso.tv IN CNAME .
 mercury.alphonso.tv IN CNAME .
+mercury-lb.alphonso.tv IN CNAME .
 mhfzxyb54.alphonso.tv IN CNAME .
 miadhqsm4.alphonso.tv IN CNAME .
 mmfmkbhbvj6.alphonso.tv IN CNAME .
@@ -42369,6 +42378,7 @@ ygkibjr6.alphonso.tv IN CNAME .
 yrdpnjajw79.alphonso.tv IN CNAME .
 yubyryonu18.alphonso.tv IN CNAME .
 yumhcpugj62.alphonso.tv IN CNAME .
+yygzydzs13.alphonso.tv IN CNAME .
 zbzcbkflw2.alphonso.tv IN CNAME .
 zcesm62.alphonso.tv IN CNAME .
 zeokb1.alphonso.tv IN CNAME .
@@ -42577,6 +42587,7 @@ nexusrules.live.com IN CNAME .
 auc-visio-telemetry.officeapps.live.com IN CNAME .
 brc-visio-telemetry.officeapps.live.com IN CNAME .
 cac-visio-telemetry.officeapps.live.com IN CNAME .
+chc-visio-telemetry.officeapps.live.com IN CNAME .
 dec-visio-telemetry.officeapps.live.com IN CNAME .
 euc-excel-telemetry.officeapps.live.com IN CNAME .
 euc-onenote-telemetry.officeapps.live.com IN CNAME .
@@ -42881,6 +42892,7 @@ ads2.msads.net IN CNAME .
 a.ads2.msads.net IN CNAME .
 b.ads2.msads.net IN CNAME .
 www.msads.net IN CNAME .
+win10-trt.msedge.net IN CNAME .
 ad.msn.com IN CNAME .
 adevents.msn.com IN CNAME .
 ads.msn.com IN CNAME .
@@ -43211,7 +43223,6 @@ mitv.tracking.india.miui.com IN CNAME .
 inf.miui.com IN CNAME .
 mcc.intl.inf.miui.com IN CNAME .
 api.accelerator.intl.miui.com IN CNAME .
-privacy.api.intl.miui.com IN CNAME .
 api.aurogon.intl.miui.com IN CNAME .
 activity.browser.intl.miui.com IN CNAME .
 api.activity.browser.intl.miui.com IN CNAME .

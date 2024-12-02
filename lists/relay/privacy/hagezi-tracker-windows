@@ -139,6 +139,7 @@ nexusrules.live.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
+chc-visio-telemetry.officeapps.live.com
 dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-onenote-telemetry.officeapps.live.com
@@ -443,6 +444,7 @@ ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
 www.msads.net
+win10-trt.msedge.net
 ad.msn.com
 adevents.msn.com
 ads.msn.com
