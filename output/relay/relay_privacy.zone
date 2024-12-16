@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1733731460    ; serial
+                                        1734336771    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5416,6 +5416,7 @@ analytics.tnt-tv.ro IN CNAME .
 analytics.tomato.gg IN CNAME .
 analytics.tondach.pl IN CNAME .
 analytics.top10-charts.com IN CNAME .
+analytics.topseotoolkit.com IN CNAME .
 analytics.tout.com IN CNAME .
 analytics.toyotaforklift.com IN CNAME .
 analytics-tracking.meetup.com IN CNAME .
@@ -7169,6 +7170,7 @@ beacon.qq.com IN CNAME .
 beacon.radiko.jp IN CNAME .
 beacon.riskified.com IN CNAME .
 beacon.samsclub.com IN CNAME .
+beacons.digital.disneyadvertising.com IN CNAME .
 beacon.searchspring.io IN CNAME .
 beacon.securestudies.com IN CNAME .
 beacon.sftoaa.com IN CNAME .
@@ -7672,7 +7674,6 @@ brshareandrent.eccocar.com IN CNAME .
 brsmovecity.eccocar.com IN CNAME .
 brsolenelocation.eccocar.com IN CNAME .
 br.sprbl.st IN CNAME .
-brsrvr.com IN CNAME .
 brtelefurgo.eccocar.com IN CNAME .
 brtimove.eccocar.com IN CNAME .
 brtimovesharing.eccocar.com IN CNAME .
@@ -8028,6 +8029,7 @@ cdn.net.dz.jumia.com IN CNAME .
 cdn.net.elogia.net IN CNAME .
 cdn.ravm.tv IN CNAME .
 cdn-rum.ngenix.net IN CNAME .
+cdns.brsrvr.com IN CNAME .
 cdn.usefathom.com IN CNAME .
 cdnwidget.com IN CNAME .
 cdp.cifinancial.com IN CNAME .
@@ -12275,7 +12277,6 @@ events.santander.co.uk IN CNAME .
 events.shareably.net IN CNAME .
 events.sk.ht IN CNAME .
 events.splash-screen.net IN CNAME .
-events.split.io IN CNAME .
 events.squarespace.com IN CNAME .
 events.storifyme.com IN CNAME .
 events.tafensw.edu.au IN CNAME .
@@ -13886,7 +13887,6 @@ go.worldwinner.com IN CNAME .
 go.wtcmachinery.com IN CNAME .
 go.wu.com IN CNAME .
 go.www4.earlywarning.com IN CNAME .
-goya.rutube.ru IN CNAME .
 go.you-app.com IN CNAME .
 go.zakatpedia.com IN CNAME .
 go.zapyle.com IN CNAME .
@@ -23509,6 +23509,7 @@ pages.vuzion.cloud IN CNAME .
 pages.wardsintelligence.informa.com IN CNAME .
 pages.zenefits.com IN CNAME .
 page.thalesgroup.com IN CNAME .
+pageviews.tray.com.br IN CNAME .
 page.vital4.net IN CNAME .
 paginaseloqua.unisabana.edu.co IN CNAME .
 paintersusainc.actonservice.com IN CNAME .
@@ -33618,6 +33619,7 @@ tidy.intel.in IN CNAME .
 tidy.intel.la IN CNAME .
 tif.ionos.com IN CNAME .
 tiglck.technopolis.bg IN CNAME .
+tiktok.tray.com.br IN CNAME .
 tilanalytics.timesinternet.in IN CNAME .
 tilt.bankofamerica.com IN CNAME .
 timeclock.mytoolr.com IN CNAME .
@@ -34171,6 +34173,7 @@ tracker.bt.uol.com.br IN CNAME .
 tracker.cauly.co.kr IN CNAME .
 tracker.cdnbye.com IN CNAME .
 tracker.comagic.ru IN CNAME .
+tracker.curama.jp IN CNAME .
 tracker.decomworld.com IN CNAME .
 tracker.digitalcamp.co.kr IN CNAME .
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com IN CNAME .
@@ -42535,6 +42538,9 @@ pgteu4-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtmx1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtmx1-word-telemetry-vip.officeapps.live.com IN CNAME .
+pgtsg1-excel-telemetry-vip.officeapps.live.com IN CNAME .
+pgtsg1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtsg1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -43199,7 +43205,6 @@ flow.sec.miui.com IN CNAME .
 gamebox.sec.miui.com IN CNAME .
 srv.greenguard.sec.miui.com IN CNAME .
 app.greengurad.sec.miui.com IN CNAME .
-info.sec.miui.com IN CNAME .
 info.analysis.kp.sec.miui.com IN CNAME .
 mazu.sec.miui.com IN CNAME .
 nav.sec.miui.com IN CNAME .
@@ -43339,7 +43344,6 @@ hd.xiaomi.com IN CNAME .
 orig.hd.xiaomi.com IN CNAME .
 secode2.hd.xiaomi.com IN CNAME .
 heyue.xiaomi.com IN CNAME .
-huodong.xiaomi.com IN CNAME .
 huosai.xiaomi.com IN CNAME .
 activity.hybrid.xiaomi.com IN CNAME .
 api.hybrid.xiaomi.com IN CNAME .
@@ -43434,7 +43438,6 @@ staging.api.zhuti.n.xiaomi.com IN CNAME .
 tj1.staging.nfcpay.xiaomi.com IN CNAME .
 3rdupgrade.pandora.xiaomi.com IN CNAME .
 appstore.pandora.xiaomi.com IN CNAME .
-assistant.pandora.xiaomi.com IN CNAME .
 bossadmin.pandora.xiaomi.com IN CNAME .
 box.pandora.xiaomi.com IN CNAME .
 bss.pandora.xiaomi.com IN CNAME .

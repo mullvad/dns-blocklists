@@ -5404,6 +5404,7 @@ analytics.tnt-tv.ro
 analytics.tomato.gg
 analytics.tondach.pl
 analytics.top10-charts.com
+analytics.topseotoolkit.com
 analytics.tout.com
 analytics.toyotaforklift.com
 analytics-tracking.meetup.com
@@ -7157,6 +7158,7 @@ beacon.qq.com
 beacon.radiko.jp
 beacon.riskified.com
 beacon.samsclub.com
+beacons.digital.disneyadvertising.com
 beacon.searchspring.io
 beacon.securestudies.com
 beacon.sftoaa.com
@@ -7660,7 +7662,6 @@ brshareandrent.eccocar.com
 brsmovecity.eccocar.com
 brsolenelocation.eccocar.com
 br.sprbl.st
-brsrvr.com
 brtelefurgo.eccocar.com
 brtimove.eccocar.com
 brtimovesharing.eccocar.com
@@ -8016,6 +8017,7 @@ cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.ravm.tv
 cdn-rum.ngenix.net
+cdns.brsrvr.com
 cdn.usefathom.com
 cdnwidget.com
 cdp.cifinancial.com
@@ -12263,7 +12265,6 @@ events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
-events.split.io
 events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
@@ -13874,7 +13875,6 @@ go.worldwinner.com
 go.wtcmachinery.com
 go.wu.com
 go.www4.earlywarning.com
-goya.rutube.ru
 go.you-app.com
 go.zakatpedia.com
 go.zapyle.com
@@ -23497,6 +23497,7 @@ pages.vuzion.cloud
 pages.wardsintelligence.informa.com
 pages.zenefits.com
 page.thalesgroup.com
+pageviews.tray.com.br
 page.vital4.net
 paginaseloqua.unisabana.edu.co
 paintersusainc.actonservice.com
@@ -33606,6 +33607,7 @@ tidy.intel.in
 tidy.intel.la
 tif.ionos.com
 tiglck.technopolis.bg
+tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 timeclock.mytoolr.com
@@ -34159,6 +34161,7 @@ tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com
 tracker.comagic.ru
+tracker.curama.jp
 tracker.decomworld.com
 tracker.digitalcamp.co.kr
 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
@@ -42523,6 +42526,9 @@ pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
+pgtsg1-excel-telemetry-vip.officeapps.live.com
+pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
+pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -43187,7 +43193,6 @@ flow.sec.miui.com
 gamebox.sec.miui.com
 srv.greenguard.sec.miui.com
 app.greengurad.sec.miui.com
-info.sec.miui.com
 info.analysis.kp.sec.miui.com
 mazu.sec.miui.com
 nav.sec.miui.com
@@ -43327,7 +43332,6 @@ hd.xiaomi.com
 orig.hd.xiaomi.com
 secode2.hd.xiaomi.com
 heyue.xiaomi.com
-huodong.xiaomi.com
 huosai.xiaomi.com
 activity.hybrid.xiaomi.com
 api.hybrid.xiaomi.com
@@ -43422,7 +43426,6 @@ staging.api.zhuti.n.xiaomi.com
 tj1.staging.nfcpay.xiaomi.com
 3rdupgrade.pandora.xiaomi.com
 appstore.pandora.xiaomi.com
-assistant.pandora.xiaomi.com
 bossadmin.pandora.xiaomi.com
 box.pandora.xiaomi.com
 bss.pandora.xiaomi.com
