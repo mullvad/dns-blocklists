@@ -2,13 +2,11 @@ cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
 cdn-xp-ingest-ab.v.aaplimg.com
 iphonesubmissions.v.aaplimg.com
-prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
-prod-news-notification-events.v.aaplimg.com
 securemetrics.v.aaplimg.com
 securemvt.v.aaplimg.com
 smoot-feedback.v.aaplimg.com
@@ -23,7 +21,6 @@ idiagnostics.apple.com.akadns.net
 iphonesubmissions.apple.com.akadns.net
 radarsubmissions.apple.com.akadns.net
 iad-apple.com.akadns.net
-skadnetwork.iad-apple.com.akadns.net
 partiality.itunes-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
 searchads.lb-apple.com.akadns.net
@@ -43,8 +40,6 @@ iad.apple.com
 am02p01ad-ext-cloud.iad.apple.com
 apps.iad.apple.com
 da21p01ad-ext-cloud.iad.apple.com
-da21p01ad-ext-infcloud.iad.apple.com
-dat.iad.apple.com
 demoworkbench.iad.apple.com
 display-apps-ui.iad.apple.com
 hk24p01ad-ext-cloud.iad.apple.com
@@ -117,8 +112,6 @@ iad2v4-feed.iad.apple.com
 iad2v4-iadc.iad.apple.com
 iad2v4-newssdk.iad.apple.com
 iad2v5-feed.iad.apple.com
-iad2v5-iadctest.iad.apple.com
-iad2v5-oo.iad.apple.com
 iad2v5-pass.iad.apple.com
 iad2v5-workbench.iad.apple.com
 iadsdk-nwk.iad.apple.com
@@ -166,6 +159,8 @@ p1-mr-iad-ss-client-settings.iad.apple.com
 p1-mr-iad-ss-logging-server.iad.apple.com
 p1-mr-iad-ss-services-attribution.iad.apple.com
 p1-mr-iad-ss-services-campaign.iad.apple.com
+p1-mr-iad-ss-services-creative.iad.apple.com
+p1-mr-iad-ss-services-media.iad.apple.com
 p1-mr-iad-ss-services-reporting.iad.apple.com
 p1-mr-iad-ss-services-search.iad.apple.com
 p1-mr-iad-ss-static-assets.iad.apple.com
@@ -269,7 +264,6 @@ iadworkbench.apple.com
 idiagnostics.apple.com
 idiagnostics-devices-mdn.apple.com
 idiagnostics-devices-qa.apple.com
-idiagnostics-devices-reno.apple.com
 idiagnostics-ft.apple.com
 idiagnostics-mdn1.apple.com
 idiagnostics-qa.apple.com
@@ -277,13 +271,11 @@ idiagnostics-reno.apple.com
 internalcheck.apple.com
 iphonesubmissions.apple.com
 iphonesubmissions-old.apple.com
+autolinkmaker.itunes.apple.com
 partiality.itunes.apple.com
 launch.apple.com
 metrics.apple.com
 msc-dct-prod.msc.apple.com
-news-app-events.apple.com
-news-notification-events.apple.com
-news-sports-events.apple.com
 notes-analytics-events.apple.com
 odin-signals.apple.com
 performance-partners.apple.com
@@ -293,7 +285,6 @@ proxy-skadnetwork.apple.com
 qa-iad.apple.com
 overlord.qa-iad.apple.com
 radarsubmissions.apple.com
-sdkintg-iad.apple.com
 sdkintgiad.apple.com
 searchads.apple.com
 securemetrics.apple.com
@@ -316,6 +307,7 @@ feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple
 experiments.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
+linkmaker.itunes.apple.com.edgekey.net
 partiality.itunes.apple.com.edgekey.net
 xp.apple.com.edgekey.net
 cstat.apple.com.edgesuite.net

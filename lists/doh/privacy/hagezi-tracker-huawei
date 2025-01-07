@@ -1,6 +1,4 @@
-browsercfg-drcn.cloud.dbankcloud.cn
 ubacollect-drcn.cloud.dbankcloud.cn
-ubacollect-drcn.cloud.dbankcloud.co
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
@@ -18,13 +16,10 @@ grs.dbankcloud.asia
 grs.dbankcloud.cn
 grs.dbankcloud.com
 grs.dbankcloud.eu
-logservice1.dbankcloud.com
 adx-dra.op.dbankcloud.com
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.dbankcloud.com
 adx-drru.op.dbankcloud.com
-events-drcn.op.dbankcloud.cn
-events-drcn.op.dbankcloud.com
 events-dre.op.dbankcloud.com
 dnkeeper.platform.dbankcloud.cn
 grs.platform.dbankcloud.ru
@@ -41,7 +36,6 @@ events-op-hicloud-com-drcn.appacc.dbankedge.net
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dra.appacc.dbankedge.cn
 grs-dbankcloud-com-dre.appacc.dbankedge.cn
-openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn
 events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn
 events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn
