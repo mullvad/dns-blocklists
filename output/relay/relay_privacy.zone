@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1736255705    ; serial
+                                        1736764166    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8496,6 +8496,7 @@ collector.quillbot.com IN CNAME .
 collector.schibsted.io IN CNAME .
 collector.sspinc.io IN CNAME .
 collector.taoxh.life IN CNAME .
+collector.t-idr.com IN CNAME .
 collector-videoplayer.5centscdn.net IN CNAME .
 collector.wawlabs.com IN CNAME .
 collector.xhaccess.com IN CNAME .
