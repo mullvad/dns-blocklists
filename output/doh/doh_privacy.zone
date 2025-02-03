@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1737969284    ; serial
+                                        1738586516    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5211,6 +5211,7 @@ analytics.getshogun.com IN CNAME .
 analytics.gewaterheater.com IN CNAME .
 analytics.glance.inmobi.com IN CNAME .
 analytics.global.sky.com IN CNAME .
+analytics.gokwik.co IN CNAME .
 analytics.gooogol.com IN CNAME .
 analytics.greenmountain.com IN CNAME .
 analytics.greenmountainenergy.com IN CNAME .
@@ -25155,6 +25156,7 @@ plausible.exploreandcreate.com IN CNAME .
 plausible.external.sine.foundation IN CNAME .
 plausible.f1laps.com IN CNAME .
 plausible.factly.in IN CNAME .
+plausible.flamekiller.org IN CNAME .
 plausible.flowcv.io IN CNAME .
 plausible.getlean.digital IN CNAME .
 plausible.giveatip.io IN CNAME .
@@ -25891,6 +25893,7 @@ questions.theanswerco.com IN CNAME .
 questrominfo.bu.edu IN CNAME .
 questtest.epoise.com IN CNAME .
 quickkoala.io IN CNAME .
+quicklyedit.com IN CNAME .
 quick.openapp.link IN CNAME .
 quickpcfixer.click IN CNAME .
 quicksandear.com IN CNAME .
@@ -26594,6 +26597,7 @@ rtpmqv.smakon.jp IN CNAME .
 rt.prnewswire.com IN CNAME .
 rttkpr.bidolubaski.com IN CNAME .
 rtvision.actonservice.com IN CNAME .
+rt.whitebridge.ai IN CNAME .
 rtxlni.doclasse.com IN CNAME .
 rtxpx-a.akamaihd.net IN CNAME .
 ruddycast.com IN CNAME .
@@ -28392,6 +28396,7 @@ sharppatch.com IN CNAME .
 sh.b.inhaabit.com IN CNAME .
 s.hdsupplysolutions.com IN CNAME .
 sheeta.nrj-play.fr IN CNAME .
+sheideal.com IN CNAME .
 shelbypublishing.actonservice.com IN CNAME .
 shell-recharge.tupinambaenergia.com.br IN CNAME .
 sheregesh-io.traveler.today IN CNAME .
@@ -41601,6 +41606,7 @@ assoc-msdk-cn.amazon-adsystem.com IN CNAME .
 assoc-msdk-eu.amazon-adsystem.com IN CNAME .
 assoc-msdk-us.amazon-adsystem.com IN CNAME .
 at-beta.amazon-adsystem.com IN CNAME .
+ateu.amazon-adsystem.com IN CNAME .
 atfe.amazon-adsystem.com IN CNAME .
 at-gamma-us-east.amazon-adsystem.com IN CNAME .
 atue.amazon-adsystem.com IN CNAME .
@@ -41797,7 +41803,6 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
-monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -42332,7 +42337,10 @@ moa-upload-online.coloros.com IN CNAME .
 moa-upload-online-in.coloros.com IN CNAME .
 finosfin.com IN CNAME .
 www.finosfin.com IN CNAME .
+appconf-ocs-eu.heytapdl.com IN CNAME .
+appconf-ocs-in.heytapdl.com IN CNAME .
 appconf-ocs-sgp.heytapdl.com IN CNAME .
+appconf-ocs-us.heytapdl.com IN CNAME .
 appconf-sgp.heytapdl.com IN CNAME .
 conf-in-dc.heytapdl.com IN CNAME .
 conf-sg-dc.heytapdl.com IN CNAME .
@@ -42474,6 +42482,7 @@ conf-in-dc.heytapmobile.com IN CNAME .
 u-id.cpc.heytapmobile.com IN CNAME .
 obus-in.dc.heytapmobile.com IN CNAME .
 obus-sg.dc.heytapmobile.com IN CNAME .
+dc-stat-in.heytapmobile.com IN CNAME .
 dragate-in-dc.heytapmobile.com IN CNAME .
 api-id.game.heytapmobile.com IN CNAME .
 httpdns-euex-push.heytapmobile.com IN CNAME .
@@ -42499,6 +42508,7 @@ obus-jssdk-in.heytapmobile.com IN CNAME .
 obus-jssdk-sg.heytapmobile.com IN CNAME .
 obus-jssdk-us.heytapmobile.com IN CNAME .
 omes-sec.heytapmobile.com IN CNAME .
+report-in.opay.heytapmobile.com IN CNAME .
 report-sg.opay.heytapmobile.com IN CNAME .
 api-id.play.heytapmobile.com IN CNAME .
 push.heytapmobile.com IN CNAME .
@@ -42511,6 +42521,8 @@ push-dc-us.heytapmobile.com IN CNAME .
 bsf.sc.heytapmobile.com IN CNAME .
 slb-apisnd-in.heytapmobile.com IN CNAME .
 api-id.theme.heytapmobile.com IN CNAME .
+report-eu.uc.heytapmobile.com IN CNAME .
+report-in.uc.heytapmobile.com IN CNAME .
 report-sg.uc.heytapmobile.com IN CNAME .
 hizonetech.com IN CNAME .
 www.hizonetech.com IN CNAME .
@@ -42538,6 +42550,9 @@ dhfs-th.oppomobile.com IN CNAME .
 dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
 log16-normal-alisg.tiktokv.com.bytewlb.akadns.net IN CNAME .
+log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net IN CNAME .
+rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net IN CNAME .
+rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net IN CNAME .
 frontier.byteoversea.com IN CNAME .
 gplog-sg.byteoversea.com IN CNAME .
 gplog-va.byteoversea.com IN CNAME .
@@ -42615,6 +42630,7 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
+ads-service.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 ads-useast2a.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
@@ -42652,7 +42668,6 @@ ad-instantpage.tiktokv.us IN CNAME .
 ad-instantpage-i18n.tiktokv.com IN CNAME .
 ad-instantpage-sg.tiktokv.com IN CNAME .
 ad-instantpage-ttp2.tiktokv.eu IN CNAME .
-ad-instantpage-ttp2.tiktokv.us IN CNAME .
 ad-instantpage-va.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
@@ -43602,6 +43617,7 @@ tkacr389.alphonso.tv IN CNAME .
 tkacr390.alphonso.tv IN CNAME .
 tkacr391.alphonso.tv IN CNAME .
 tkacr392.alphonso.tv IN CNAME .
+tkacr393.alphonso.tv IN CNAME .
 tkacr394.alphonso.tv IN CNAME .
 tkacr395.alphonso.tv IN CNAME .
 tkacr396.alphonso.tv IN CNAME .
@@ -43801,9 +43817,15 @@ tkacr591.alphonso.tv IN CNAME .
 tkacr592.alphonso.tv IN CNAME .
 tkacr593.alphonso.tv IN CNAME .
 tkacr594.alphonso.tv IN CNAME .
+tkacr595.alphonso.tv IN CNAME .
+tkacr596.alphonso.tv IN CNAME .
+tkacr597.alphonso.tv IN CNAME .
 tkacr598.alphonso.tv IN CNAME .
 tkacr599.alphonso.tv IN CNAME .
 tkacr600.alphonso.tv IN CNAME .
+tkacr601.alphonso.tv IN CNAME .
+tkacr602.alphonso.tv IN CNAME .
+tkacr606.alphonso.tv IN CNAME .
 tkacr607.alphonso.tv IN CNAME .
 tkacr608.alphonso.tv IN CNAME .
 tkacr609.alphonso.tv IN CNAME .
@@ -44204,7 +44226,6 @@ collector.azure.cn IN CNAME .
 js.monitor.azure.com IN CNAME .
 adsdkpreprod.azureedge.net IN CNAME .
 adsdkprod.azureedge.net IN CNAME .
-adsdkpreprod.afd.azureedge.net IN CNAME .
 adsdkprod.afd.azureedge.net IN CNAME .
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net IN CNAME .
 location-microsoft-com.b-0005.b-msedge.net IN CNAME .
@@ -44336,6 +44357,7 @@ status.ads.microsoft.com IN CNAME .
 ucm.ads.microsoft.com IN CNAME .
 ui.ads.microsoft.com IN CNAME .
 adsdk.microsoft.com IN CNAME .
+adsstatic.microsoft.com IN CNAME .
 advertising.microsoft.com IN CNAME .
 community.advertising.microsoft.com IN CNAME .
 fp.advertising.microsoft.com IN CNAME .
@@ -44668,7 +44690,6 @@ bf-analytics-tracker-tm.trafficmanager.net IN CNAME .
 bf-tracker-release-tm.trafficmanager.net IN CNAME .
 bingads.trafficmanager.net IN CNAME .
 azure.bingads.trafficmanager.net IN CNAME .
-cas-telemetry.trafficmanager.net IN CNAME .
 collector-main.trafficmanager.net IN CNAME .
 tracker.flightview.com.trafficmanager.net IN CNAME .
 events.data.trafficmanager.net IN CNAME .

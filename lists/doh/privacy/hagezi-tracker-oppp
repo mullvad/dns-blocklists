@@ -115,7 +115,10 @@ moa-upload-online.coloros.com
 moa-upload-online-in.coloros.com
 finosfin.com
 www.finosfin.com
+appconf-ocs-eu.heytapdl.com
+appconf-ocs-in.heytapdl.com
 appconf-ocs-sgp.heytapdl.com
+appconf-ocs-us.heytapdl.com
 appconf-sgp.heytapdl.com
 conf-in-dc.heytapdl.com
 conf-sg-dc.heytapdl.com
@@ -257,6 +260,7 @@ conf-in-dc.heytapmobile.com
 u-id.cpc.heytapmobile.com
 obus-in.dc.heytapmobile.com
 obus-sg.dc.heytapmobile.com
+dc-stat-in.heytapmobile.com
 dragate-in-dc.heytapmobile.com
 api-id.game.heytapmobile.com
 httpdns-euex-push.heytapmobile.com
@@ -282,6 +286,7 @@ obus-jssdk-in.heytapmobile.com
 obus-jssdk-sg.heytapmobile.com
 obus-jssdk-us.heytapmobile.com
 omes-sec.heytapmobile.com
+report-in.opay.heytapmobile.com
 report-sg.opay.heytapmobile.com
 api-id.play.heytapmobile.com
 push.heytapmobile.com
@@ -294,6 +299,8 @@ push-dc-us.heytapmobile.com
 bsf.sc.heytapmobile.com
 slb-apisnd-in.heytapmobile.com
 api-id.theme.heytapmobile.com
+report-eu.uc.heytapmobile.com
+report-in.uc.heytapmobile.com
 report-sg.uc.heytapmobile.com
 hizonetech.com
 www.hizonetech.com

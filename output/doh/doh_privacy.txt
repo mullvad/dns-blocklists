@@ -5199,6 +5199,7 @@ analytics.getshogun.com
 analytics.gewaterheater.com
 analytics.glance.inmobi.com
 analytics.global.sky.com
+analytics.gokwik.co
 analytics.gooogol.com
 analytics.greenmountain.com
 analytics.greenmountainenergy.com
@@ -25143,6 +25144,7 @@ plausible.exploreandcreate.com
 plausible.external.sine.foundation
 plausible.f1laps.com
 plausible.factly.in
+plausible.flamekiller.org
 plausible.flowcv.io
 plausible.getlean.digital
 plausible.giveatip.io
@@ -25879,6 +25881,7 @@ questions.theanswerco.com
 questrominfo.bu.edu
 questtest.epoise.com
 quickkoala.io
+quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
 quicksandear.com
@@ -26582,6 +26585,7 @@ rtpmqv.smakon.jp
 rt.prnewswire.com
 rttkpr.bidolubaski.com
 rtvision.actonservice.com
+rt.whitebridge.ai
 rtxlni.doclasse.com
 rtxpx-a.akamaihd.net
 ruddycast.com
@@ -28380,6 +28384,7 @@ sharppatch.com
 sh.b.inhaabit.com
 s.hdsupplysolutions.com
 sheeta.nrj-play.fr
+sheideal.com
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
 sheregesh-io.traveler.today
@@ -41589,6 +41594,7 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
+ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com
@@ -41785,7 +41791,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -42320,7 +42325,10 @@ moa-upload-online.coloros.com
 moa-upload-online-in.coloros.com
 finosfin.com
 www.finosfin.com
+appconf-ocs-eu.heytapdl.com
+appconf-ocs-in.heytapdl.com
 appconf-ocs-sgp.heytapdl.com
+appconf-ocs-us.heytapdl.com
 appconf-sgp.heytapdl.com
 conf-in-dc.heytapdl.com
 conf-sg-dc.heytapdl.com
@@ -42462,6 +42470,7 @@ conf-in-dc.heytapmobile.com
 u-id.cpc.heytapmobile.com
 obus-in.dc.heytapmobile.com
 obus-sg.dc.heytapmobile.com
+dc-stat-in.heytapmobile.com
 dragate-in-dc.heytapmobile.com
 api-id.game.heytapmobile.com
 httpdns-euex-push.heytapmobile.com
@@ -42487,6 +42496,7 @@ obus-jssdk-in.heytapmobile.com
 obus-jssdk-sg.heytapmobile.com
 obus-jssdk-us.heytapmobile.com
 omes-sec.heytapmobile.com
+report-in.opay.heytapmobile.com
 report-sg.opay.heytapmobile.com
 api-id.play.heytapmobile.com
 push.heytapmobile.com
@@ -42499,6 +42509,8 @@ push-dc-us.heytapmobile.com
 bsf.sc.heytapmobile.com
 slb-apisnd-in.heytapmobile.com
 api-id.theme.heytapmobile.com
+report-eu.uc.heytapmobile.com
+report-in.uc.heytapmobile.com
 report-sg.uc.heytapmobile.com
 hizonetech.com
 www.hizonetech.com
@@ -42526,6 +42538,9 @@ dhfs-th.oppomobile.com
 dhfs-vn.oppomobile.com
 dhfsf.oppomobile.com
 log16-normal-alisg.tiktokv.com.bytewlb.akadns.net
+log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
+rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
+rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -42603,6 +42618,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
+ads-service.tiktok.com
 ads-sg.tiktok.com
 ads-useast2a.tiktok.com
 analytics.tiktok.com
@@ -42640,7 +42656,6 @@ ad-instantpage.tiktokv.us
 ad-instantpage-i18n.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu
-ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 location.tiktokv.com
 location-i18n.tiktokv.com
@@ -43590,6 +43605,7 @@ tkacr389.alphonso.tv
 tkacr390.alphonso.tv
 tkacr391.alphonso.tv
 tkacr392.alphonso.tv
+tkacr393.alphonso.tv
 tkacr394.alphonso.tv
 tkacr395.alphonso.tv
 tkacr396.alphonso.tv
@@ -43789,9 +43805,15 @@ tkacr591.alphonso.tv
 tkacr592.alphonso.tv
 tkacr593.alphonso.tv
 tkacr594.alphonso.tv
+tkacr595.alphonso.tv
+tkacr596.alphonso.tv
+tkacr597.alphonso.tv
 tkacr598.alphonso.tv
 tkacr599.alphonso.tv
 tkacr600.alphonso.tv
+tkacr601.alphonso.tv
+tkacr602.alphonso.tv
+tkacr606.alphonso.tv
 tkacr607.alphonso.tv
 tkacr608.alphonso.tv
 tkacr609.alphonso.tv
@@ -44192,7 +44214,6 @@ collector.azure.cn
 js.monitor.azure.com
 adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
-adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -44324,6 +44345,7 @@ status.ads.microsoft.com
 ucm.ads.microsoft.com
 ui.ads.microsoft.com
 adsdk.microsoft.com
+adsstatic.microsoft.com
 advertising.microsoft.com
 community.advertising.microsoft.com
 fp.advertising.microsoft.com
@@ -44656,7 +44678,6 @@ bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
-cas-telemetry.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net
