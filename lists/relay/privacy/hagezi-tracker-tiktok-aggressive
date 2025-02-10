@@ -1,7 +1,3 @@
-log16-normal-alisg.tiktokv.com.bytewlb.akadns.net
-log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
-rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
-rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -16,6 +12,7 @@ log15.byteoversea.com
 log16.byteoversea.com
 maliva-mcs.byteoversea.com
 maliva-mcs-useast2a.byteoversea.com
+mcs-tiktok.byteoversea.net
 mon.byteoversea.com
 mon-csj-maliva-ios.byteoversea.com
 mon-va.byteoversea.com
@@ -79,7 +76,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
-ads-service.tiktok.com
+ads-imapi.tiktok.com
 ads-sg.tiktok.com
 ads-useast2a.tiktok.com
 analytics.tiktok.com
@@ -111,6 +108,7 @@ mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
 mssdk-ttp2.us.tiktok.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
 ad-instantpage.tiktokv.us
@@ -193,11 +191,13 @@ log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
+mcs.tiktokv.us
 mcs-sg.tiktokv.com
 mcs-ttp2.tiktokv.us
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
+mon.tiktokv.eu
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
@@ -217,7 +217,10 @@ mon16-normal.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
+mon16-normal-no1a.tiktokv.eu
 mon16-normal-useast1a.tiktokv.com
+mon16-normal-useast5.tiktokv.us
+mon16-normal-useast8.tiktokv.us
 mon16-normal-zr-useast1a.tiktokv.com
 mon16-platform-ycru.tiktokv.com
 mon16-tmp-normal-useast1a.tiktokv.com
@@ -352,7 +355,10 @@ analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
 location.tiktokw.us
+mcs.tiktokw.us
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
 mcs16-normal-no1a.tiktokw.eu
+mssdk.tiktokw.eu
+mssdk.tiktokw.us
 mssdk-ttp2.tiktokw.us

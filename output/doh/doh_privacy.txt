@@ -7564,6 +7564,7 @@ bmwebm.org
 b.mynewplace.com
 bmyudk.clarins.de
 bmzuyj.nifty.com
+b.nativendo.de
 bnc.autopass.xyz
 bnc.chewchunks.com
 bnc.citylink.ro
@@ -7943,6 +7944,7 @@ btn.listonic.com
 btn.rtl2.de
 b.todaytix.com
 btptod.aerzteblatt.de
+b.trueanthem.com
 btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
@@ -13094,6 +13096,7 @@ fairfeeling.com
 fairiesbranch.com
 fairygaze.com
 fairytaleflame.com
+faithrowold.com
 fal2.carrefour-banque.fr
 fallaciousfifth.com
 falsefeet.com
@@ -14822,6 +14825,7 @@ gvfbpo.diafer.com.br
 gvmomuqjv1.swyftx.com
 gvxnff.soulara.com.au
 gw-analytics.panasonic.com
+gw.conversionsapigateway.com
 gw-dv.vip
 gwguyh.edreams.es
 g.whatsapp.net.iberostar.com
@@ -19092,6 +19096,7 @@ logtake.weidian.com
 log.targetpush.co.kr
 log.tossinvest.com
 log.ttbc-hcm.gov.vn
+log-upload-os.hoyolab.com
 log-upload-os.hoyoverse.com
 log.webnovel.com
 log.worldsoft-cms.info
@@ -35475,6 +35480,7 @@ thoughtlessknot.com
 thraka.openapp.link
 threechurch.com
 threetruck.com
+thrillasoft.com
 thrive.metagenics.com
 throattrees.com
 thsnvv.hollywoodschaukel-paradies.de
@@ -41791,6 +41797,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -42537,10 +42544,6 @@ dhfs-in.oppomobile.com
 dhfs-th.oppomobile.com
 dhfs-vn.oppomobile.com
 dhfsf.oppomobile.com
-log16-normal-alisg.tiktokv.com.bytewlb.akadns.net
-log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
-rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net
-rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
 gplog-va.byteoversea.com
@@ -42555,6 +42558,7 @@ log15.byteoversea.com
 log16.byteoversea.com
 maliva-mcs.byteoversea.com
 maliva-mcs-useast2a.byteoversea.com
+mcs-tiktok.byteoversea.net
 mon.byteoversea.com
 mon-csj-maliva-ios.byteoversea.com
 mon-va.byteoversea.com
@@ -42618,7 +42622,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
-ads-service.tiktok.com
+ads-imapi.tiktok.com
 ads-sg.tiktok.com
 ads-useast2a.tiktok.com
 analytics.tiktok.com
@@ -42650,6 +42654,7 @@ mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
 mssdk-ttp2.us.tiktok.com
+sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
 ad-instantpage.tiktokv.us
@@ -42732,11 +42737,13 @@ log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
+mcs.tiktokv.us
 mcs-sg.tiktokv.com
 mcs-ttp2.tiktokv.us
 mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
+mon.tiktokv.eu
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
@@ -42756,7 +42763,10 @@ mon16-normal.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
+mon16-normal-no1a.tiktokv.eu
 mon16-normal-useast1a.tiktokv.com
+mon16-normal-useast5.tiktokv.us
+mon16-normal-useast8.tiktokv.us
 mon16-normal-zr-useast1a.tiktokv.com
 mon16-platform-ycru.tiktokv.com
 mon16-tmp-normal-useast1a.tiktokv.com
@@ -42891,9 +42901,12 @@ analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
 location.tiktokw.us
+mcs.tiktokw.us
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
 mcs16-normal-no1a.tiktokw.eu
+mssdk.tiktokw.eu
+mssdk.tiktokw.us
 mssdk-ttp2.tiktokw.us
 asia-adlog.vivoglobal.com
 asia-adsjssdk.vivoglobal.com
@@ -43605,7 +43618,6 @@ tkacr389.alphonso.tv
 tkacr390.alphonso.tv
 tkacr391.alphonso.tv
 tkacr392.alphonso.tv
-tkacr393.alphonso.tv
 tkacr394.alphonso.tv
 tkacr395.alphonso.tv
 tkacr396.alphonso.tv
@@ -43805,15 +43817,9 @@ tkacr591.alphonso.tv
 tkacr592.alphonso.tv
 tkacr593.alphonso.tv
 tkacr594.alphonso.tv
-tkacr595.alphonso.tv
-tkacr596.alphonso.tv
-tkacr597.alphonso.tv
 tkacr598.alphonso.tv
 tkacr599.alphonso.tv
 tkacr600.alphonso.tv
-tkacr601.alphonso.tv
-tkacr602.alphonso.tv
-tkacr606.alphonso.tv
 tkacr607.alphonso.tv
 tkacr608.alphonso.tv
 tkacr609.alphonso.tv
@@ -44109,6 +44115,9 @@ rdl.lgtvcommon.com
 aic.rdl.lgtvcommon.com
 kic.rdl.lgtvcommon.com
 aic.wiseconfig.lgtvcommon.com
+measure.office.com.akamaized.net
+fp.measure.office.com.akamaized.net
+upload2.fp.measure.office.com.akamaized.net
 in.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
@@ -44214,6 +44223,7 @@ collector.azure.cn
 js.monitor.azure.com
 adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -44345,10 +44355,8 @@ status.ads.microsoft.com
 ucm.ads.microsoft.com
 ui.ads.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
 advertising.microsoft.com
 community.advertising.microsoft.com
-fp.advertising.microsoft.com
 sts.advertising.microsoft.com
 analyticspixel.microsoft.com
 applicationinsights.microsoft.com
@@ -44532,7 +44540,6 @@ statsfe2.ws.microsoft.com
 gateway.bingviz.microsoftapp.net
 msads.net
 ads1.msads.net
-a.ads1.msads.net
 ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
@@ -44547,8 +44554,6 @@ ads.msn.com
 ads1.msn.com
 ads2.msn.com
 adsyndication.msn.com
-images.adsyndication.msn.com
-images-ppe.adsyndication.msn.com
 analytics.msn.com
 metric.appex-rf.msn.com
 c.ar.msn.com

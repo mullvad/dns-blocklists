@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1738586545    ; serial
+                                        1739177394    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7576,6 +7576,7 @@ bmwebm.org IN CNAME .
 b.mynewplace.com IN CNAME .
 bmyudk.clarins.de IN CNAME .
 bmzuyj.nifty.com IN CNAME .
+b.nativendo.de IN CNAME .
 bnc.autopass.xyz IN CNAME .
 bnc.chewchunks.com IN CNAME .
 bnc.citylink.ro IN CNAME .
@@ -7955,6 +7956,7 @@ btn.listonic.com IN CNAME .
 btn.rtl2.de IN CNAME .
 b.todaytix.com IN CNAME .
 btptod.aerzteblatt.de IN CNAME .
+b.trueanthem.com IN CNAME .
 btstats.benakt.com IN CNAME .
 btstats.devtribu.fr IN CNAME .
 bttmkj.diesel.com IN CNAME .
@@ -13106,6 +13108,7 @@ fairfeeling.com IN CNAME .
 fairiesbranch.com IN CNAME .
 fairygaze.com IN CNAME .
 fairytaleflame.com IN CNAME .
+faithrowold.com IN CNAME .
 fal2.carrefour-banque.fr IN CNAME .
 fallaciousfifth.com IN CNAME .
 falsefeet.com IN CNAME .
@@ -14834,6 +14837,7 @@ gvfbpo.diafer.com.br IN CNAME .
 gvmomuqjv1.swyftx.com IN CNAME .
 gvxnff.soulara.com.au IN CNAME .
 gw-analytics.panasonic.com IN CNAME .
+gw.conversionsapigateway.com IN CNAME .
 gw-dv.vip IN CNAME .
 gwguyh.edreams.es IN CNAME .
 g.whatsapp.net.iberostar.com IN CNAME .
@@ -19104,6 +19108,7 @@ logtake.weidian.com IN CNAME .
 log.targetpush.co.kr IN CNAME .
 log.tossinvest.com IN CNAME .
 log.ttbc-hcm.gov.vn IN CNAME .
+log-upload-os.hoyolab.com IN CNAME .
 log-upload-os.hoyoverse.com IN CNAME .
 log.webnovel.com IN CNAME .
 log.worldsoft-cms.info IN CNAME .
@@ -35487,6 +35492,7 @@ thoughtlessknot.com IN CNAME .
 thraka.openapp.link IN CNAME .
 threechurch.com IN CNAME .
 threetruck.com IN CNAME .
+thrillasoft.com IN CNAME .
 thrive.metagenics.com IN CNAME .
 throattrees.com IN CNAME .
 thsnvv.hollywoodschaukel-paradies.de IN CNAME .
@@ -41803,6 +41809,7 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
+monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -42549,10 +42556,6 @@ dhfs-in.oppomobile.com IN CNAME .
 dhfs-th.oppomobile.com IN CNAME .
 dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
-log16-normal-alisg.tiktokv.com.bytewlb.akadns.net IN CNAME .
-log16-normal-useast1a.tiktokv.com.bytewlb.akadns.net IN CNAME .
-rtlog16-normal-alisg.tiktokv.com.bytewlb.akadns.net IN CNAME .
-rtlog16-normal-useast1a.tiktokv.com.bytewlb.akadns.net IN CNAME .
 frontier.byteoversea.com IN CNAME .
 gplog-sg.byteoversea.com IN CNAME .
 gplog-va.byteoversea.com IN CNAME .
@@ -42567,6 +42570,7 @@ log15.byteoversea.com IN CNAME .
 log16.byteoversea.com IN CNAME .
 maliva-mcs.byteoversea.com IN CNAME .
 maliva-mcs-useast2a.byteoversea.com IN CNAME .
+mcs-tiktok.byteoversea.net IN CNAME .
 mon.byteoversea.com IN CNAME .
 mon-csj-maliva-ios.byteoversea.com IN CNAME .
 mon-va.byteoversea.com IN CNAME .
@@ -42630,7 +42634,7 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
-ads-service.tiktok.com IN CNAME .
+ads-imapi.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 ads-useast2a.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
@@ -42662,6 +42666,7 @@ mcs.us.tiktok.com IN CNAME .
 mcs-ttp2.us.tiktok.com IN CNAME .
 mssdk.us.tiktok.com IN CNAME .
 mssdk-ttp2.us.tiktok.com IN CNAME .
+sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 ad.tiktokv.com IN CNAME .
 ad.tiktokv.us IN CNAME .
 ad-instantpage.tiktokv.us IN CNAME .
@@ -42744,11 +42749,13 @@ log77-normal-c-alisg.tiktokv.com IN CNAME .
 log77-normal-c-useast1a.tiktokv.com IN CNAME .
 log9-normal-c-useast1a.tiktokv.com IN CNAME .
 logbk.tiktokv.com IN CNAME .
+mcs.tiktokv.us IN CNAME .
 mcs-sg.tiktokv.com IN CNAME .
 mcs-ttp2.tiktokv.us IN CNAME .
 mcs-va.tiktokv.com IN CNAME .
 mcs-va-useast2a.tiktokv.com IN CNAME .
 mon.tiktokv.com IN CNAME .
+mon.tiktokv.eu IN CNAME .
 mon-i18n.tiktokv.com IN CNAME .
 mon-phx.tiktokv.com IN CNAME .
 mon-ru.tiktokv.com IN CNAME .
@@ -42768,7 +42775,10 @@ mon16-normal.tiktokv.com IN CNAME .
 mon16-normal-alisg.tiktokv.com IN CNAME .
 mon16-normal-c-useast1a.tiktokv.com IN CNAME .
 mon16-normal-c-useast2a.tiktokv.com IN CNAME .
+mon16-normal-no1a.tiktokv.eu IN CNAME .
 mon16-normal-useast1a.tiktokv.com IN CNAME .
+mon16-normal-useast5.tiktokv.us IN CNAME .
+mon16-normal-useast8.tiktokv.us IN CNAME .
 mon16-normal-zr-useast1a.tiktokv.com IN CNAME .
 mon16-platform-ycru.tiktokv.com IN CNAME .
 mon16-tmp-normal-useast1a.tiktokv.com IN CNAME .
@@ -42903,9 +42913,12 @@ analytics-ie.tiktokw.eu IN CNAME .
 analytics-ipv6.tiktokw.us IN CNAME .
 analytics-ttp2.tiktokw.eu IN CNAME .
 location.tiktokw.us IN CNAME .
+mcs.tiktokw.us IN CNAME .
 mcs-ie.tiktokw.eu IN CNAME .
 mcs-ie2.tiktokw.eu IN CNAME .
 mcs16-normal-no1a.tiktokw.eu IN CNAME .
+mssdk.tiktokw.eu IN CNAME .
+mssdk.tiktokw.us IN CNAME .
 mssdk-ttp2.tiktokw.us IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
 asia-adsjssdk.vivoglobal.com IN CNAME .
@@ -43617,7 +43630,6 @@ tkacr389.alphonso.tv IN CNAME .
 tkacr390.alphonso.tv IN CNAME .
 tkacr391.alphonso.tv IN CNAME .
 tkacr392.alphonso.tv IN CNAME .
-tkacr393.alphonso.tv IN CNAME .
 tkacr394.alphonso.tv IN CNAME .
 tkacr395.alphonso.tv IN CNAME .
 tkacr396.alphonso.tv IN CNAME .
@@ -43817,15 +43829,9 @@ tkacr591.alphonso.tv IN CNAME .
 tkacr592.alphonso.tv IN CNAME .
 tkacr593.alphonso.tv IN CNAME .
 tkacr594.alphonso.tv IN CNAME .
-tkacr595.alphonso.tv IN CNAME .
-tkacr596.alphonso.tv IN CNAME .
-tkacr597.alphonso.tv IN CNAME .
 tkacr598.alphonso.tv IN CNAME .
 tkacr599.alphonso.tv IN CNAME .
 tkacr600.alphonso.tv IN CNAME .
-tkacr601.alphonso.tv IN CNAME .
-tkacr602.alphonso.tv IN CNAME .
-tkacr606.alphonso.tv IN CNAME .
 tkacr607.alphonso.tv IN CNAME .
 tkacr608.alphonso.tv IN CNAME .
 tkacr609.alphonso.tv IN CNAME .
@@ -44121,6 +44127,9 @@ rdl.lgtvcommon.com IN CNAME .
 aic.rdl.lgtvcommon.com IN CNAME .
 kic.rdl.lgtvcommon.com IN CNAME .
 aic.wiseconfig.lgtvcommon.com IN CNAME .
+measure.office.com.akamaized.net IN CNAME .
+fp.measure.office.com.akamaized.net IN CNAME .
+upload2.fp.measure.office.com.akamaized.net IN CNAME .
 in.appcenter.ms IN CNAME .
 js.cdn.applicationinsights.io IN CNAME .
 js0.cdn.applicationinsights.io IN CNAME .
@@ -44226,6 +44235,7 @@ collector.azure.cn IN CNAME .
 js.monitor.azure.com IN CNAME .
 adsdkpreprod.azureedge.net IN CNAME .
 adsdkprod.azureedge.net IN CNAME .
+adsdkpreprod.afd.azureedge.net IN CNAME .
 adsdkprod.afd.azureedge.net IN CNAME .
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net IN CNAME .
 location-microsoft-com.b-0005.b-msedge.net IN CNAME .
@@ -44357,10 +44367,8 @@ status.ads.microsoft.com IN CNAME .
 ucm.ads.microsoft.com IN CNAME .
 ui.ads.microsoft.com IN CNAME .
 adsdk.microsoft.com IN CNAME .
-adsstatic.microsoft.com IN CNAME .
 advertising.microsoft.com IN CNAME .
 community.advertising.microsoft.com IN CNAME .
-fp.advertising.microsoft.com IN CNAME .
 sts.advertising.microsoft.com IN CNAME .
 analyticspixel.microsoft.com IN CNAME .
 applicationinsights.microsoft.com IN CNAME .
@@ -44544,7 +44552,6 @@ statsfe2.ws.microsoft.com IN CNAME .
 gateway.bingviz.microsoftapp.net IN CNAME .
 msads.net IN CNAME .
 ads1.msads.net IN CNAME .
-a.ads1.msads.net IN CNAME .
 ads2.msads.net IN CNAME .
 a.ads2.msads.net IN CNAME .
 b.ads2.msads.net IN CNAME .
@@ -44559,8 +44566,6 @@ ads.msn.com IN CNAME .
 ads1.msn.com IN CNAME .
 ads2.msn.com IN CNAME .
 adsyndication.msn.com IN CNAME .
-images.adsyndication.msn.com IN CNAME .
-images-ppe.adsyndication.msn.com IN CNAME .
 analytics.msn.com IN CNAME .
 metric.appex-rf.msn.com IN CNAME .
 c.ar.msn.com IN CNAME .
