@@ -1,3 +1,4 @@
+asia-ad-mkt-vivofs.vivoglobal.com
 asia-adlog.vivoglobal.com
 asia-adsjssdk.vivoglobal.com
 asia-analyzer-appstore.vivoglobal.com
@@ -16,6 +17,7 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-stsdk.vivoglobal.com
+asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
@@ -44,8 +46,10 @@ in-ctdbprt-stsdk.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-monitor-stsdk.vivoglobal.com
+in-news-abroad-backstage-interface.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
+in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
@@ -88,4 +92,10 @@ onrt.stsdk.vivoglobal.com
 ort.stsdk.vivoglobal.com
 pnrt.stsdk.vivoglobal.com
 prt.stsdk.vivoglobal.com
+tr-domaincfg.vivoglobal.com
+tr-romsp-unifyconfig.vivoglobal.com
+tr-st-sl.vivoglobal.com
+tr-timesync.vivoglobal.com
+tr-vcode-api.vivoglobal.com
+tr-vcode-od.vivoglobal.com
 err.up.vivoglobal.com

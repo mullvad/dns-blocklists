@@ -6509,7 +6509,6 @@ app.tagachi.io
 app.tajawal.com
 app.talksport.com
 app.task.io
-app.teachfx.com
 app.tech.pentontech.com
 app-test.albrt.co
 app-test.barking.city
@@ -9637,6 +9636,7 @@ cumbersomecarpenter.com
 cumbersomecloud.com
 cups.republicoftea.com
 curated.fieldtest.cc
+curbminers.com
 cure.trueface.org
 curiouschalk.com
 curious.cognyte.com
@@ -13822,6 +13822,7 @@ geo.nbcsports.com
 geonetric.actonservice.com
 geo.ngtv.io
 geoservice.curse.com
+geotags.refinery89.com
 geo.thehindu.com
 geo.xcel.io
 geo.yahoo.com
@@ -16988,6 +16989,7 @@ international.wandw.ac.nz
 internet.degoo.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
+in.treasuredata.com
 int-shares.ri.la
 intuitvisitorid.api.intuit.com
 in.upipr.co
@@ -18831,7 +18833,6 @@ link.truckerpath.com
 link.trycircle.com
 link.trymida.com
 link.trytaptab.com
-link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tupinambaenergia.com.br
@@ -25569,6 +25570,7 @@ propertypotato.com
 prophet.heise-academy.de
 prophet.heise.de
 pro.pokerup.net
+propsid.b-cdn.net
 propsynergy.com
 prospex.actonservice.com
 pro.stormwindstudios.com
@@ -32895,6 +32897,7 @@ sswmetrics.firstair.ca
 sswmetrics.omanair.com
 sswmetrics.philippineairlines.com
 sswmetrics.sabre.com
+ss.woodupp.pl
 ssy7.destinia.com.ua
 st1.lg.avendrealouer.fr
 st-a8.tscubic.com
@@ -34108,6 +34111,7 @@ stnt.sky.at
 stnt.sky.de
 st.nylannuities.com
 st.nylinvestments.com
+stockerator.com
 stockingsleet.com
 stockingsneeze.com
 stocktheme.com
@@ -39340,7 +39344,6 @@ visitors.gigianddavid.com
 visitping.rossel.be
 visit-prod-us.occa.ocs.oraclecloud.com
 visit.sendheirloom.com
-visit.tafensw.edu.au
 visit.tenplay.com.au
 visit.xchina.pics
 visma.e-conomic.dk
@@ -41797,7 +41800,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -42622,9 +42624,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
-ads-imapi.tiktok.com
 ads-sg.tiktok.com
-ads-useast2a.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
@@ -42658,10 +42658,11 @@ sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
 ad-instantpage.tiktokv.us
-ad-instantpage-i18n.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu
 ad-instantpage-va.tiktokv.com
+frontier.tiktokv.com
+frontier.tiktokv.us
 location.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
@@ -42908,6 +42909,7 @@ mcs16-normal-no1a.tiktokw.eu
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
 mssdk-ttp2.tiktokw.us
+asia-ad-mkt-vivofs.vivoglobal.com
 asia-adlog.vivoglobal.com
 asia-adsjssdk.vivoglobal.com
 asia-analyzer-appstore.vivoglobal.com
@@ -42926,6 +42928,7 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-stsdk.vivoglobal.com
+asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
@@ -42954,8 +42957,10 @@ in-ctdbprt-stsdk.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-monitor-stsdk.vivoglobal.com
+in-news-abroad-backstage-interface.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
+in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
@@ -42998,6 +43003,12 @@ onrt.stsdk.vivoglobal.com
 ort.stsdk.vivoglobal.com
 pnrt.stsdk.vivoglobal.com
 prt.stsdk.vivoglobal.com
+tr-domaincfg.vivoglobal.com
+tr-romsp-unifyconfig.vivoglobal.com
+tr-st-sl.vivoglobal.com
+tr-timesync.vivoglobal.com
+tr-vcode-api.vivoglobal.com
+tr-vcode-od.vivoglobal.com
 err.up.vivoglobal.com
 alphonso.tv
 ad-inserter.alphonso.tv
@@ -44272,6 +44283,7 @@ ffc-excel-telemetry.officeapps.live.com
 ffc-word-telemetry.officeapps.live.com
 frc-visio-telemetry.officeapps.live.com
 inc-visio-telemetry.officeapps.live.com
+jpc-visio-telemetry.officeapps.live.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 noc-visio-telemetry.officeapps.live.com
