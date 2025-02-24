@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1739784310    ; serial
+                                        1740385580    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7173,6 +7173,7 @@ azlyta.immowelt.de IN CNAME .
 az.nzn.io IN CNAME .
 azscgj.penningtons.com IN CNAME .
 azuremystique.com IN CNAME .
+azurestealth.com IN CNAME .
 azveac.pearl.ch IN CNAME .
 azwucq.locservice.fr IN CNAME .
 azwxpp.nequittezpas.jp IN CNAME .
@@ -9252,6 +9253,7 @@ content.commandc.com IN CNAME .
 content.convio.com IN CNAME .
 content.czarnowski.com IN CNAME .
 content.demand-on.com IN CNAME .
+content.discover.com IN CNAME .
 content.distium.com IN CNAME .
 content.eaton.com IN CNAME .
 content.enlightiumacademy.com IN CNAME .
@@ -14070,6 +14072,7 @@ glamhawk.com IN CNAME .
 glamipixel.com IN CNAME .
 glass.autovistagroup.com IN CNAME .
 glassbox-hlx-igw.bankofamerica.com IN CNAME .
+glasscoyote.com IN CNAME .
 glassguide-au.autovistagroup.com IN CNAME .
 glassmoni.researchgate.net IN CNAME .
 glbgox.djoser.de IN CNAME .
@@ -24035,6 +24038,7 @@ offers.la-z-boy.com IN CNAME .
 offer.slgnt.eu IN CNAME .
 offers.storagepipe.com IN CNAME .
 offshorecyclone.com IN CNAME .
+offshoregeology.com IN CNAME .
 ofkqiy.knowfashionstyle.com IN CNAME .
 ofqkbk.proclipusa.com IN CNAME .
 ofvosb.jumbo.com.tr IN CNAME .
@@ -32182,6 +32186,7 @@ sp.aviasales.com IN CNAME .
 sp.aviasales.ru IN CNAME .
 sp.ballsdigroup.com IN CNAME .
 sp.cargurus.co.uk IN CNAME .
+sp.chip.de IN CNAME .
 spc.personalcreations.com IN CNAME .
 sp.data.funkedigital.de IN CNAME .
 sp.dpgmedia.net IN CNAME .
@@ -37066,6 +37071,7 @@ transplant.care.uhssa.com IN CNAME .
 transplant.universityhealth.com IN CNAME .
 transportation.external.conduent.com IN CNAME .
 transportation.external.xerox.com IN CNAME .
+tr.api.fanbyte.com IN CNAME .
 tr.apou032.espmp-agfr.net IN CNAME .
 trappcloudservices.trapptechnology.com IN CNAME .
 trapptech.actonservice.com IN CNAME .
@@ -42090,6 +42096,7 @@ launch.apple.com IN CNAME .
 metrics.apple.com IN CNAME .
 msc-dct-prod.msc.apple.com IN CNAME .
 news-app-events.apple.com IN CNAME .
+news-events.apple.com IN CNAME .
 news-notification-events.apple.com IN CNAME .
 news-sports-events.apple.com IN CNAME .
 notes-analytics-events.apple.com IN CNAME .
@@ -42636,6 +42643,7 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
+ads-imapi.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
 analytics-attribution.tiktok.com IN CNAME .
@@ -44138,6 +44146,7 @@ rdl.lgtvcommon.com IN CNAME .
 aic.rdl.lgtvcommon.com IN CNAME .
 kic.rdl.lgtvcommon.com IN CNAME .
 aic.wiseconfig.lgtvcommon.com IN CNAME .
+c-bingapis-com.dual-a-0034.a-msedge.net IN CNAME .
 measure.office.com.akamaized.net IN CNAME .
 fp.measure.office.com.akamaized.net IN CNAME .
 upload2.fp.measure.office.com.akamaized.net IN CNAME .
@@ -44190,6 +44199,7 @@ eastus-global.in.applicationinsights.azure.com IN CNAME .
 eastus2-0.in.applicationinsights.azure.com IN CNAME .
 eastus2-3.in.applicationinsights.azure.com IN CNAME .
 eastus2-4.in.applicationinsights.azure.com IN CNAME .
+francecentral-0.in.applicationinsights.azure.com IN CNAME .
 francecentral-1.in.applicationinsights.azure.com IN CNAME .
 germanywestcentral-0.in.applicationinsights.azure.com IN CNAME .
 germanywestcentral-1.in.applicationinsights.azure.com IN CNAME .
@@ -44244,9 +44254,7 @@ inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
 azsc-bingads-westus.westus.cloudapp.azure.com IN CNAME .
 collector.azure.cn IN CNAME .
 js.monitor.azure.com IN CNAME .
-adsdkpreprod.azureedge.net IN CNAME .
 adsdkprod.azureedge.net IN CNAME .
-adsdkpreprod.afd.azureedge.net IN CNAME .
 adsdkprod.afd.azureedge.net IN CNAME .
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net IN CNAME .
 location-microsoft-com.b-0005.b-msedge.net IN CNAME .
@@ -44262,6 +44270,7 @@ commerce.bing.com IN CNAME .
 g.bing.com IN CNAME .
 r.g.bing.com IN CNAME .
 raka.bing.com IN CNAME .
+c.bingapis.com IN CNAME .
 insights.cloud.microsoft IN CNAME .
 analysis.insights.cloud.microsoft IN CNAME .
 measure.office.net.edgesuite.net IN CNAME .
@@ -44295,7 +44304,6 @@ ffc-excel-telemetry.officeapps.live.com IN CNAME .
 ffc-word-telemetry.officeapps.live.com IN CNAME .
 frc-visio-telemetry.officeapps.live.com IN CNAME .
 inc-visio-telemetry.officeapps.live.com IN CNAME .
-jpc-visio-telemetry.officeapps.live.com IN CNAME .
 nexus.officeapps.live.com IN CNAME .
 nexusrules.officeapps.live.com IN CNAME .
 noc-visio-telemetry.officeapps.live.com IN CNAME .
@@ -44381,6 +44389,7 @@ ui.ads.microsoft.com IN CNAME .
 adsdk.microsoft.com IN CNAME .
 advertising.microsoft.com IN CNAME .
 community.advertising.microsoft.com IN CNAME .
+fp.advertising.microsoft.com IN CNAME .
 sts.advertising.microsoft.com IN CNAME .
 analyticspixel.microsoft.com IN CNAME .
 applicationinsights.microsoft.com IN CNAME .
@@ -44564,6 +44573,7 @@ statsfe2.ws.microsoft.com IN CNAME .
 gateway.bingviz.microsoftapp.net IN CNAME .
 msads.net IN CNAME .
 ads1.msads.net IN CNAME .
+a.ads1.msads.net IN CNAME .
 ads2.msads.net IN CNAME .
 a.ads2.msads.net IN CNAME .
 b.ads2.msads.net IN CNAME .
@@ -44578,6 +44588,8 @@ ads.msn.com IN CNAME .
 ads1.msn.com IN CNAME .
 ads2.msn.com IN CNAME .
 adsyndication.msn.com IN CNAME .
+images.adsyndication.msn.com IN CNAME .
+images-ppe.adsyndication.msn.com IN CNAME .
 analytics.msn.com IN CNAME .
 metric.appex-rf.msn.com IN CNAME .
 c.ar.msn.com IN CNAME .
