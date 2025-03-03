@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1740385580    ; serial
+                                        1740991467    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7433,6 +7433,7 @@ bi.banggood.com IN CNAME .
 biberukalap.com IN CNAME .
 bibglj.timberland.fr IN CNAME .
 bi.concordesolutions.com IN CNAME .
+bicp-analytics.postscript.io IN CNAME .
 bidder.mediams.mb.softbank.jp IN CNAME .
 bidgx.com IN CNAME .
 bidswitch.net IN CNAME .
@@ -15367,6 +15368,7 @@ iconmediapixel.com IN CNAME .
 iconnode.com IN CNAME .
 icslearn.actonsoftware.com IN CNAME .
 ictrjw.barcastores.com IN CNAME .
+id.a-mx.com IN CNAME .
 idbkfy.kango-roo.com IN CNAME .
 iddu1vvb7sk8-a.akamaihd.net IN CNAME .
 ideadevice.actonservice.com IN CNAME .
@@ -23231,7 +23233,6 @@ money.clerkie.io IN CNAME .
 monicaatron.com IN CNAME .
 mon.ingservices.nl IN CNAME .
 monitor-api.blackcrow.ai IN CNAME .
-monitor.azure.com IN CNAME .
 monitor.channel4.com IN CNAME .
 monitor-frontend-collector.a.bybit-aws.com IN CNAME .
 monitoring.iraiser.eu IN CNAME .
@@ -41621,7 +41622,6 @@ assoc-msdk-cn.amazon-adsystem.com IN CNAME .
 assoc-msdk-eu.amazon-adsystem.com IN CNAME .
 assoc-msdk-us.amazon-adsystem.com IN CNAME .
 at-beta.amazon-adsystem.com IN CNAME .
-ateu.amazon-adsystem.com IN CNAME .
 atfe.amazon-adsystem.com IN CNAME .
 at-gamma-us-east.amazon-adsystem.com IN CNAME .
 atue.amazon-adsystem.com IN CNAME .
@@ -41818,6 +41818,7 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
+monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -42643,7 +42644,6 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
-ads-imapi.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
 analytics-attribution.tiktok.com IN CNAME .
@@ -44199,7 +44199,6 @@ eastus-global.in.applicationinsights.azure.com IN CNAME .
 eastus2-0.in.applicationinsights.azure.com IN CNAME .
 eastus2-3.in.applicationinsights.azure.com IN CNAME .
 eastus2-4.in.applicationinsights.azure.com IN CNAME .
-francecentral-0.in.applicationinsights.azure.com IN CNAME .
 francecentral-1.in.applicationinsights.azure.com IN CNAME .
 germanywestcentral-0.in.applicationinsights.azure.com IN CNAME .
 germanywestcentral-1.in.applicationinsights.azure.com IN CNAME .
@@ -44254,7 +44253,9 @@ inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
 azsc-bingads-westus.westus.cloudapp.azure.com IN CNAME .
 collector.azure.cn IN CNAME .
 js.monitor.azure.com IN CNAME .
+adsdkpreprod.azureedge.net IN CNAME .
 adsdkprod.azureedge.net IN CNAME .
+adsdkpreprod.afd.azureedge.net IN CNAME .
 adsdkprod.afd.azureedge.net IN CNAME .
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net IN CNAME .
 location-microsoft-com.b-0005.b-msedge.net IN CNAME .
@@ -44706,7 +44707,6 @@ m365cdn.nelsdf.measure.office.net IN CNAME .
 powerpointonline.nelsdf.measure.office.net IN CNAME .
 sdwan.measure.office.com IN CNAME .
 wan.measure.office.com IN CNAME .
-hubblecontent.osi.office.net IN CNAME .
 adsdk.trafficmanager.net IN CNAME .
 agps-location-livenet.trafficmanager.net IN CNAME .
 analytics.trafficmanager.net IN CNAME .

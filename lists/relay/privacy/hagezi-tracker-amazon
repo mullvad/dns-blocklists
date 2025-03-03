@@ -155,7 +155,6 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
-ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com
@@ -352,6 +351,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com

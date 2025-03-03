@@ -51,7 +51,6 @@ eastus-global.in.applicationinsights.azure.com
 eastus2-0.in.applicationinsights.azure.com
 eastus2-3.in.applicationinsights.azure.com
 eastus2-4.in.applicationinsights.azure.com
-francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 germanywestcentral-0.in.applicationinsights.azure.com
 germanywestcentral-1.in.applicationinsights.azure.com
@@ -106,7 +105,9 @@ inference-app-gateway.northeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
+adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -558,7 +559,6 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
-hubblecontent.osi.office.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net

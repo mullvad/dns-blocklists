@@ -7421,6 +7421,7 @@ bi.banggood.com
 biberukalap.com
 bibglj.timberland.fr
 bi.concordesolutions.com
+bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
 bidswitch.net
@@ -15355,6 +15356,7 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+id.a-mx.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -23219,7 +23221,6 @@ money.clerkie.io
 monicaatron.com
 mon.ingservices.nl
 monitor-api.blackcrow.ai
-monitor.azure.com
 monitor.channel4.com
 monitor-frontend-collector.a.bybit-aws.com
 monitoring.iraiser.eu
@@ -41609,7 +41610,6 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
-ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com
@@ -41806,6 +41806,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -42631,7 +42632,6 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
-ads-imapi.tiktok.com
 ads-sg.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
@@ -44187,7 +44187,6 @@ eastus-global.in.applicationinsights.azure.com
 eastus2-0.in.applicationinsights.azure.com
 eastus2-3.in.applicationinsights.azure.com
 eastus2-4.in.applicationinsights.azure.com
-francecentral-0.in.applicationinsights.azure.com
 francecentral-1.in.applicationinsights.azure.com
 germanywestcentral-0.in.applicationinsights.azure.com
 germanywestcentral-1.in.applicationinsights.azure.com
@@ -44242,7 +44241,9 @@ inference-app-gateway.northeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
+adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
+adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -44694,7 +44695,6 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
-hubblecontent.osi.office.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
