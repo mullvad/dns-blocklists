@@ -21,6 +21,13 @@ msg2.video.ptqy.gitv.tv
 sdk-cache.video.ptqy.gitv.tv
 time.video.ptqy.gitv.tv
 openapi.vip.ptqy.gitv.tv
+app.chat.global.xiaomi.net.iberostar.com
+resolver.msg.global.xiaomi.net.iberostar.com
+find.api.micloud.xiaomi.net.iberostar.com
+us.appbackupapi.micloud.xiaomi.net.iberostar.com
+us.micardapi.micloud.xiaomi.net.iberostar.com
+us.noteapi.micloud.xiaomi.net.iberostar.com
+us.pdc.micloud.xiaomi.net.iberostar.com
 ad.intl.xiaomi.com.ksyna.net
 kuyun.com
 config.kuyun.com
@@ -195,7 +202,6 @@ maizhenapi.ad.xiaomi.com
 marketing.ad.xiaomi.com
 max.ad.xiaomi.com
 sdkconfig.ad.xiaomi.com
-default.sdkconfig.ad.xiaomi.com
 staging-diagnosis.ad.xiaomi.com
 test.ad.xiaomi.com
 track.ad.xiaomi.com
@@ -352,7 +358,6 @@ statusapi.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
 tv.app.migc.xiaomi.com
 invoice.netroam.mihome.xiaomi.net
-abtest.mistat.xiaomi.com
 data.mistat.xiaomi.com
 storeconfig.mistat.xiaomi.com
 file.cdn.mvideo.xiaomi.com

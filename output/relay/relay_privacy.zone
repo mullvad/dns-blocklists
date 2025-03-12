@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1740991496    ; serial
+                                        1741770227    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7253,7 +7253,6 @@ battlenet.openapp.link IN CNAME .
 bavvgo.zingat.com IN CNAME .
 bawdybalance.com IN CNAME .
 bawdybeast.com IN CNAME .
-baxter.olx.org IN CNAME .
 bayshoresystems.actonservice.com IN CNAME .
 bazlny.homepal.it IN CNAME .
 bbagnw.sedaily.com IN CNAME .
@@ -7604,6 +7603,7 @@ bob.gitclear.com IN CNAME .
 bobswatches.actonservice.com IN CNAME .
 boelsl.lastijerasmagicas.com IN CNAME .
 boewzj.meiji-jisho.com IN CNAME .
+boiledegglabs.com IN CNAME .
 boilingbeetle.com IN CNAME .
 boilingcredit.com IN CNAME .
 boilingumbrella.com IN CNAME .
@@ -19008,6 +19008,7 @@ lodlww.carcon.co.jp IN CNAME .
 lofo3l15c674.platform.replai.io IN CNAME .
 log000.goo.ne.jp IN CNAME .
 log-185a61e7.bendigobank.com.au IN CNAME .
+log-2ffe60ee.westpac.com.au IN CNAME .
 log2.sina.cn IN CNAME .
 log.adplex.co.kr IN CNAME .
 log-ads.r7.com IN CNAME .
@@ -23749,7 +23750,6 @@ nl-go.experian.com IN CNAME .
 nlgzhd.yoox.com IN CNAME .
 nljjem.honeys-onlineshop.com IN CNAME .
 nl-nl.coloplastcare.com IN CNAME .
-nlog.naver.com IN CNAME .
 nlp-japan.life-and-mind.com IN CNAME .
 nltihf.fashiondays.ro IN CNAME .
 nltzqx.autodoc.co.uk IN CNAME .
@@ -33770,6 +33770,7 @@ stats.sebastiangale.ca IN CNAME .
 stats.sec.telefonica.com IN CNAME .
 stats.selectam.io IN CNAME .
 stats.sendngnt.com IN CNAME .
+stats.senty.com.au IN CNAME .
 stats.servicedesignjobs.com IN CNAME .
 stats.seva.rocks IN CNAME .
 stats.sexemodel.com IN CNAME .
@@ -35230,6 +35231,7 @@ telemetry.stryker.com IN CNAME .
 telemetry.stytch.com IN CNAME .
 telemetry.tableausoftware.com IN CNAME .
 telemetry.tradingview.com IN CNAME .
+telemetry.transcend.io IN CNAME .
 telemetry.vtex.com IN CNAME .
 telemetry.webasto.com IN CNAME .
 telem.sre.gopuff.com IN CNAME .
@@ -36143,7 +36145,6 @@ tracker.myyschool.xyz IN CNAME .
 tracker.nbcuas.com IN CNAME .
 tracker.nitropay.com IN CNAME .
 tracker.nocodelytics.com IN CNAME .
-tracker.novage.com.ua IN CNAME .
 tracker.prod.ams3.k8s.hyperia.sk IN CNAME .
 tracker.prom.ua IN CNAME .
 tracker.providence.org IN CNAME .
@@ -38766,6 +38767,7 @@ tuvevx.agent-sana.com IN CNAME .
 t.valcyte.com IN CNAME .
 tvcoag.brw.pl IN CNAME .
 t.veranstaltungsticket-bahn.de IN CNAME .
+tver-metrics.streaks.jp IN CNAME .
 t.villanova.com IN CNAME .
 t.virginiasports.com IN CNAME .
 tvkfms.nta.co.jp IN CNAME .
@@ -40158,6 +40160,7 @@ wt.vhb.de IN CNAME .
 wt.viagogo.net IN CNAME .
 wucvvh.surpricenow.com IN CNAME .
 wup-185a61e7.bendigobank.com.au IN CNAME .
+wup-2ffe60ee.westpac.com.au IN CNAME .
 wvlirb.lexoffice.de IN CNAME .
 wvoudw.magaseek.com IN CNAME .
 wvrukp.globalcyclingnetwork.com IN CNAME .
@@ -41818,7 +41821,6 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
-monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -42583,6 +42585,7 @@ maliva-mcs-useast2a.byteoversea.com IN CNAME .
 mcs-tiktok.byteoversea.net IN CNAME .
 mon.byteoversea.com IN CNAME .
 mon-csj-maliva-ios.byteoversea.com IN CNAME .
+mon-sg.byteoversea.com IN CNAME .
 mon-va.byteoversea.com IN CNAME .
 mon-va-useast2a.byteoversea.com IN CNAME .
 mssdk-sg.byteoversea.com IN CNAME .
@@ -42680,6 +42683,7 @@ ad.tiktokv.us IN CNAME .
 ad-instantpage.tiktokv.us IN CNAME .
 ad-instantpage-sg.tiktokv.com IN CNAME .
 ad-instantpage-ttp2.tiktokv.eu IN CNAME .
+ad-instantpage-ttp2.tiktokv.us IN CNAME .
 ad-instantpage-va.tiktokv.com IN CNAME .
 frontier.tiktokv.com IN CNAME .
 frontier.tiktokv.us IN CNAME .
@@ -43049,6 +43053,7 @@ bsndk8.alphonso.tv IN CNAME .
 bucyhq2.alphonso.tv IN CNAME .
 budwoc80.alphonso.tv IN CNAME .
 burmsde90.alphonso.tv IN CNAME .
+bwezic7.alphonso.tv IN CNAME .
 bzgjx81.alphonso.tv IN CNAME .
 ccxspcacy49.alphonso.tv IN CNAME .
 cdn-aas-campaigns.alphonso.tv IN CNAME .
@@ -43063,6 +43068,7 @@ cssmps40.alphonso.tv IN CNAME .
 csxnc89.alphonso.tv IN CNAME .
 cxlqmxzemg54.alphonso.tv IN CNAME .
 cyijq72.alphonso.tv IN CNAME .
+dar-pix-prod-lb.alphonso.tv IN CNAME .
 dkpae73.alphonso.tv IN CNAME .
 dmkfppbdav49.alphonso.tv IN CNAME .
 dqzljjhryn04.alphonso.tv IN CNAME .
@@ -43073,6 +43079,7 @@ dzqkrgamr75.alphonso.tv IN CNAME .
 ebgyjue7.alphonso.tv IN CNAME .
 ecbmtltfbu47.alphonso.tv IN CNAME .
 edqsadx4.alphonso.tv IN CNAME .
+eqdrews7.alphonso.tv IN CNAME .
 erafukhaie3.alphonso.tv IN CNAME .
 eu-acr-gpu1.alphonso.tv IN CNAME .
 eu-acr-gpu2.alphonso.tv IN CNAME .
@@ -43380,6 +43387,7 @@ krishnaw369.alphonso.tv IN CNAME .
 krishnaw370.alphonso.tv IN CNAME .
 krishnaw371.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
+krishnaw375.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -43413,6 +43421,7 @@ krishnaw427.alphonso.tv IN CNAME .
 krishnaw428.alphonso.tv IN CNAME .
 krishnaw429.alphonso.tv IN CNAME .
 krishnaw430.alphonso.tv IN CNAME .
+krishnaw432.alphonso.tv IN CNAME .
 krishnaw434.alphonso.tv IN CNAME .
 krishnaw435.alphonso.tv IN CNAME .
 krishnaw436.alphonso.tv IN CNAME .
@@ -43440,6 +43449,7 @@ krishnaw464.alphonso.tv IN CNAME .
 krishnaw465.alphonso.tv IN CNAME .
 krishnaw466.alphonso.tv IN CNAME .
 krishnaw467.alphonso.tv IN CNAME .
+krishnaw468.alphonso.tv IN CNAME .
 krishnaw469.alphonso.tv IN CNAME .
 krishnaw470.alphonso.tv IN CNAME .
 krishnaw471.alphonso.tv IN CNAME .
@@ -43489,6 +43499,7 @@ medtmpwecm01.alphonso.tv IN CNAME .
 mercury.alphonso.tv IN CNAME .
 mercury-lb.alphonso.tv IN CNAME .
 mercury-lb-staging.alphonso.tv IN CNAME .
+mercury-staging.alphonso.tv IN CNAME .
 mhfzxyb54.alphonso.tv IN CNAME .
 miadhqsm4.alphonso.tv IN CNAME .
 mmfmkbhbvj6.alphonso.tv IN CNAME .
@@ -43532,6 +43543,7 @@ prov-lb.alphonso.tv IN CNAME .
 prov-lg.alphonso.tv IN CNAME .
 qarawx1.alphonso.tv IN CNAME .
 qdlmwrluk95.alphonso.tv IN CNAME .
+qhaciv57.alphonso.tv IN CNAME .
 qinvc14.alphonso.tv IN CNAME .
 rbdkfs9.alphonso.tv IN CNAME .
 rdewdwf27.alphonso.tv IN CNAME .
@@ -43556,6 +43568,7 @@ syiprakqeu8.alphonso.tv IN CNAME .
 sync.alphonso.tv IN CNAME .
 syxjwpfr3.alphonso.tv IN CNAME .
 tabdqklvfv8.alphonso.tv IN CNAME .
+tcootf8.alphonso.tv IN CNAME .
 test-tn.alphonso.tv IN CNAME .
 tkacr300.alphonso.tv IN CNAME .
 tkacr301.alphonso.tv IN CNAME .
@@ -43649,6 +43662,7 @@ tkacr389.alphonso.tv IN CNAME .
 tkacr390.alphonso.tv IN CNAME .
 tkacr391.alphonso.tv IN CNAME .
 tkacr392.alphonso.tv IN CNAME .
+tkacr393.alphonso.tv IN CNAME .
 tkacr394.alphonso.tv IN CNAME .
 tkacr395.alphonso.tv IN CNAME .
 tkacr396.alphonso.tv IN CNAME .
@@ -43724,6 +43738,8 @@ tkacr465.alphonso.tv IN CNAME .
 tkacr466.alphonso.tv IN CNAME .
 tkacr467.alphonso.tv IN CNAME .
 tkacr468.alphonso.tv IN CNAME .
+tkacr469.alphonso.tv IN CNAME .
+tkacr470.alphonso.tv IN CNAME .
 tkacr471.alphonso.tv IN CNAME .
 tkacr472.alphonso.tv IN CNAME .
 tkacr473.alphonso.tv IN CNAME .
@@ -43848,9 +43864,15 @@ tkacr591.alphonso.tv IN CNAME .
 tkacr592.alphonso.tv IN CNAME .
 tkacr593.alphonso.tv IN CNAME .
 tkacr594.alphonso.tv IN CNAME .
+tkacr595.alphonso.tv IN CNAME .
+tkacr596.alphonso.tv IN CNAME .
+tkacr597.alphonso.tv IN CNAME .
 tkacr598.alphonso.tv IN CNAME .
 tkacr599.alphonso.tv IN CNAME .
 tkacr600.alphonso.tv IN CNAME .
+tkacr601.alphonso.tv IN CNAME .
+tkacr602.alphonso.tv IN CNAME .
+tkacr606.alphonso.tv IN CNAME .
 tkacr607.alphonso.tv IN CNAME .
 tkacr608.alphonso.tv IN CNAME .
 tkacr609.alphonso.tv IN CNAME .
@@ -43867,6 +43889,7 @@ tkacr619.alphonso.tv IN CNAME .
 tkacr620.alphonso.tv IN CNAME .
 tkacr621.alphonso.tv IN CNAME .
 tkacr622.alphonso.tv IN CNAME .
+tkacr623.alphonso.tv IN CNAME .
 tkacr624.alphonso.tv IN CNAME .
 tkacr625.alphonso.tv IN CNAME .
 tkacr626.alphonso.tv IN CNAME .
@@ -43951,6 +43974,7 @@ tkacr705.alphonso.tv IN CNAME .
 tkacr706.alphonso.tv IN CNAME .
 tkacr707.alphonso.tv IN CNAME .
 tkacr708.alphonso.tv IN CNAME .
+tkacr709.alphonso.tv IN CNAME .
 tkacr710.alphonso.tv IN CNAME .
 tkacr711.alphonso.tv IN CNAME .
 tkacr712.alphonso.tv IN CNAME .
@@ -44022,6 +44046,7 @@ tkacr778.alphonso.tv IN CNAME .
 tkacr779.alphonso.tv IN CNAME .
 tkacr780.alphonso.tv IN CNAME .
 tkacr781.alphonso.tv IN CNAME .
+tkacr782.alphonso.tv IN CNAME .
 tkacr783.alphonso.tv IN CNAME .
 tkacr784.alphonso.tv IN CNAME .
 tkacr785.alphonso.tv IN CNAME .
@@ -44046,6 +44071,7 @@ upgldtmgz08.alphonso.tv IN CNAME .
 uwysugvwcb5.alphonso.tv IN CNAME .
 uzfsfnxy61.alphonso.tv IN CNAME .
 vewxchtqs1.alphonso.tv IN CNAME .
+vfqtgvx0.alphonso.tv IN CNAME .
 vgflwz29.alphonso.tv IN CNAME .
 vllychnv92.alphonso.tv IN CNAME .
 voexk5.alphonso.tv IN CNAME .
@@ -44080,8 +44106,10 @@ ygkibjr6.alphonso.tv IN CNAME .
 yrdpnjajw79.alphonso.tv IN CNAME .
 yubyryonu18.alphonso.tv IN CNAME .
 yumhcpugj62.alphonso.tv IN CNAME .
+yygzydzs13.alphonso.tv IN CNAME .
 zbzcbkflw2.alphonso.tv IN CNAME .
 zcesm62.alphonso.tv IN CNAME .
+zeokb1.alphonso.tv IN CNAME .
 zmepmwhey7.alphonso.tv IN CNAME .
 zpvvb87.alphonso.tv IN CNAME .
 zqsyp37.alphonso.tv IN CNAME .
@@ -44091,13 +44119,19 @@ qt2-ngfts.lge.com IN CNAME .
 ad.lgsmartad.com IN CNAME .
 ae.ad.lgsmartad.com IN CNAME .
 al.ad.lgsmartad.com IN CNAME .
+ar.ad.lgsmartad.com IN CNAME .
 at.ad.lgsmartad.com IN CNAME .
+au.ad.lgsmartad.com IN CNAME .
 be.ad.lgsmartad.com IN CNAME .
 br.ad.lgsmartad.com IN CNAME .
+by.ad.lgsmartad.com IN CNAME .
 ca.ad.lgsmartad.com IN CNAME .
 cl.ad.lgsmartad.com IN CNAME .
 co.ad.lgsmartad.com IN CNAME .
+cr.ad.lgsmartad.com IN CNAME .
+cz.ad.lgsmartad.com IN CNAME .
 de.ad.lgsmartad.com IN CNAME .
+dk.ad.lgsmartad.com IN CNAME .
 do.ad.lgsmartad.com IN CNAME .
 ec.ad.lgsmartad.com IN CNAME .
 ee.ad.lgsmartad.com IN CNAME .
@@ -44110,12 +44144,15 @@ hk.ad.lgsmartad.com IN CNAME .
 hn.ad.lgsmartad.com IN CNAME .
 hu.ad.lgsmartad.com IN CNAME .
 id.ad.lgsmartad.com IN CNAME .
+ie.ad.lgsmartad.com IN CNAME .
 il.ad.lgsmartad.com IN CNAME .
 in.ad.lgsmartad.com IN CNAME .
 iq.ad.lgsmartad.com IN CNAME .
 kz.ad.lgsmartad.com IN CNAME .
+lt.ad.lgsmartad.com IN CNAME .
 mx.ad.lgsmartad.com IN CNAME .
 my.ad.lgsmartad.com IN CNAME .
+ng.ad.lgsmartad.com IN CNAME .
 nl.ad.lgsmartad.com IN CNAME .
 pa.ad.lgsmartad.com IN CNAME .
 ph.ad.lgsmartad.com IN CNAME .
@@ -44124,14 +44161,18 @@ pt.ad.lgsmartad.com IN CNAME .
 ro.ad.lgsmartad.com IN CNAME .
 rs.ad.lgsmartad.com IN CNAME .
 ru.ad.lgsmartad.com IN CNAME .
+se.ad.lgsmartad.com IN CNAME .
 sg.ad.lgsmartad.com IN CNAME .
 sk.ad.lgsmartad.com IN CNAME .
+sv.ad.lgsmartad.com IN CNAME .
 th.ad.lgsmartad.com IN CNAME .
 tr.ad.lgsmartad.com IN CNAME .
 ua.ad.lgsmartad.com IN CNAME .
 us.ad.lgsmartad.com IN CNAME .
 ve.ad.lgsmartad.com IN CNAME .
 vn.ad.lgsmartad.com IN CNAME .
+za.ad.lgsmartad.com IN CNAME .
+us.lgsmartad.com IN CNAME .
 aic.cdpbeacon.lgtvcommon.com IN CNAME .
 eic.cdpbeacon.lgtvcommon.com IN CNAME .
 aic.homeprv.lgtvcommon.com IN CNAME .
@@ -44311,6 +44352,7 @@ noc-visio-telemetry.officeapps.live.com IN CNAME .
 pgtbr1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtbr1-word-telemetry-vip.officeapps.live.com IN CNAME .
+pgtbr2-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtca1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtca1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -44754,7 +44796,6 @@ v10-win.vortex.data.trafficmanager.net IN CNAME .
 v20-asimov-win.vortex.data.trafficmanager.net IN CNAME .
 dsp-ad-cache-tm.trafficmanager.net IN CNAME .
 adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
-adstore.response.eastus.trafficmanager.net IN CNAME .
 telemetry.eastus.trafficmanager.net IN CNAME .
 eventservice.trafficmanager.net IN CNAME .
 fsad.trafficmanager.net IN CNAME .
@@ -44865,6 +44906,13 @@ msg2.video.ptqy.gitv.tv IN CNAME .
 sdk-cache.video.ptqy.gitv.tv IN CNAME .
 time.video.ptqy.gitv.tv IN CNAME .
 openapi.vip.ptqy.gitv.tv IN CNAME .
+app.chat.global.xiaomi.net.iberostar.com IN CNAME .
+resolver.msg.global.xiaomi.net.iberostar.com IN CNAME .
+find.api.micloud.xiaomi.net.iberostar.com IN CNAME .
+us.appbackupapi.micloud.xiaomi.net.iberostar.com IN CNAME .
+us.micardapi.micloud.xiaomi.net.iberostar.com IN CNAME .
+us.noteapi.micloud.xiaomi.net.iberostar.com IN CNAME .
+us.pdc.micloud.xiaomi.net.iberostar.com IN CNAME .
 ad.intl.xiaomi.com.ksyna.net IN CNAME .
 kuyun.com IN CNAME .
 config.kuyun.com IN CNAME .
@@ -45039,7 +45087,6 @@ maizhenapi.ad.xiaomi.com IN CNAME .
 marketing.ad.xiaomi.com IN CNAME .
 max.ad.xiaomi.com IN CNAME .
 sdkconfig.ad.xiaomi.com IN CNAME .
-default.sdkconfig.ad.xiaomi.com IN CNAME .
 staging-diagnosis.ad.xiaomi.com IN CNAME .
 test.ad.xiaomi.com IN CNAME .
 track.ad.xiaomi.com IN CNAME .
@@ -45196,7 +45243,6 @@ statusapi.micloud.xiaomi.net IN CNAME .
 us.statusapi.micloud.xiaomi.net IN CNAME .
 tv.app.migc.xiaomi.com IN CNAME .
 invoice.netroam.mihome.xiaomi.net IN CNAME .
-abtest.mistat.xiaomi.com IN CNAME .
 data.mistat.xiaomi.com IN CNAME .
 storeconfig.mistat.xiaomi.com IN CNAME .
 file.cdn.mvideo.xiaomi.com IN CNAME .
