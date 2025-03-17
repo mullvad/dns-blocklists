@@ -5576,6 +5576,7 @@ analytics.yicai.com
 analytics.ynap.biz
 analytics.yolacdn.net
 analytics.yola.net
+analytics.yollamedia.com
 analytics.yomedia.vn
 analytics.yugen.to
 analytics.zagg.com
@@ -26505,6 +26506,7 @@ robustbelieve.com
 rochelle.wantsext.me
 rockagainst.com
 rockpebbles.com
+rockstarwriter.com
 rodeopolice.com
 roedwy.imidapeptide.com
 ro-go.experian.com
@@ -31754,7 +31756,6 @@ s.northumberlandnews.com
 snowman.odencat.com
 snowmentor.com
 snowplowjs.darwin.cx
-snowplow.swm.digital
 snprxx.wwfmarket.com
 snptrk.com
 snr4.canalplus.com
@@ -42134,6 +42135,7 @@ ubacollect-drcn.cloud.dbankcloud.co
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
+dt.dbankcloud.ru
 datacollector-dra.dt.dbankcloud.cn
 datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
@@ -42207,6 +42209,7 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics5.data.hicloud.com
 dnkeeper.hicloud.com
+dt.hicloud.com
 datacollector-dra.dt.hicloud.com
 datacollector-drcn.dt.hicloud.com
 datacollector-dre.dt.hicloud.com
@@ -42223,10 +42226,18 @@ logservice1.hicloud.com
 logtransform.hicloud.com
 adx-dra.op.hicloud.com
 adx-dre.op.hicloud.com
+adx-drru.op.hicloud.com
 events-dra.op.hicloud.com
 events-dre.op.hicloud.com
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.hicloud.com
+ads.cloud.huawei.com
+ads-drru.cloud.huawei.ru
+rnd-aresocean-commercial.huawei.com
+rnd-cbgpas01.huawei.com
+uba.huaweicloud.com
+logserver.nzxcloud.cn
+logservice.vmall.com
 calculator-api-fr.allawnos.com
 calculator-api-in.allawnos.com
 calculator-api-sg.allawnos.com
@@ -42573,7 +42584,6 @@ maliva-mcs-useast2a.byteoversea.com
 mcs-tiktok.byteoversea.net
 mon.byteoversea.com
 mon-csj-maliva-ios.byteoversea.com
-mon-sg.byteoversea.com
 mon-va.byteoversea.com
 mon-va-useast2a.byteoversea.com
 mssdk-sg.byteoversea.com
@@ -42635,6 +42645,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
+ads-service.tiktok.com
 ads-sg.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
@@ -42675,6 +42686,7 @@ ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 frontier.tiktokv.com
 frontier.tiktokv.us
+live-video-log16-normal-alisg.tiktokv.com
 location.tiktokv.com
 location-i18n.tiktokv.com
 location-sg.tiktokv.com
@@ -42911,7 +42923,6 @@ log-snssdk.tiktokv-us.com
 ads-ie.tiktokw.eu
 ads-ttp2.tiktokw.eu
 analytics-ie.tiktokw.eu
-analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
 location.tiktokw.us
 mcs.tiktokw.us
@@ -43581,6 +43592,7 @@ tkacr319.alphonso.tv
 tkacr320.alphonso.tv
 tkacr321.alphonso.tv
 tkacr322.alphonso.tv
+tkacr323.alphonso.tv
 tkacr324.alphonso.tv
 tkacr325.alphonso.tv
 tkacr326.alphonso.tv
@@ -44103,6 +44115,13 @@ zpvvb87.alphonso.tv
 zqsyp37.alphonso.tv
 zumqanh0.alphonso.tv
 zycigxwpgv8.alphonso.tv
+us-ad-lgsmartad-com.aws-prd.net
+us-info-lgsmartad-com.aws-prd.net
+eic-ngfts.lge.com.edgekey.net
+qt2-ngfts.lge.com.edgekey.net
+lgads.tv
+www.lgads.tv
+eic-ngfts.lge.com
 qt2-ngfts.lge.com
 ad.lgsmartad.com
 ae.ad.lgsmartad.com
@@ -44279,6 +44298,7 @@ live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
@@ -44412,6 +44432,7 @@ api.beta.ads.microsoft.com
 developers.ads.microsoft.com
 dmc.ads.microsoft.com
 help.ads.microsoft.com
+learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
@@ -44467,6 +44488,7 @@ beta.bingads.microsoft.com
 ch1b.bingads.microsoft.com
 community.bingads.microsoft.com
 developers.bingads.microsoft.com
+express.bingads.microsoft.com
 fd.bingads.microsoft.com
 feedback.bingads.microsoft.com
 help.bingads.microsoft.com
@@ -44609,6 +44631,7 @@ ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
 www.msads.net
+az667904.vo.msecnd.net
 fp.msedge.net
 win10-trt.msedge.net
 ac2.msn.com
@@ -44737,6 +44760,7 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
+ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
@@ -44812,6 +44836,7 @@ telemetry-lcp.trafficmanager.net
 tenmax-ads.trafficmanager.net
 tm-analytics-pr.trafficmanager.net
 tm-enrollment-telemetry-datacore.trafficmanager.net
+vstelemetry.trafficmanager.net
 euc-excel-telemetry.wac.trafficmanager.net
 euc-powerpoint-telemetry.wac.trafficmanager.net
 euc-word-telemetry.wac.trafficmanager.net
@@ -44872,7 +44897,10 @@ c.xbox.com
 o.xbox.com
 beacons.xboxlive.com
 traffic-media.co.uk
+mistat.india.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.edgesuite.net
+mistat.intl.xiaomi.com.edgesuite.net
+mistat.rus.xiaomi.com.edgesuite.net
 auth.api.gitv.tv
 pb.bi.gitv.tv
 appstore.ptmi.gitv.tv
@@ -44901,13 +44929,18 @@ us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
 us.noteapi.micloud.xiaomi.net.iberostar.com
 us.pdc.micloud.xiaomi.net.iberostar.com
+mistat.xiaomi.com.download.ks-cdn.com
+mistat.india.xiaomi.com.ksyna.net
 ad.intl.xiaomi.com.ksyna.net
+mistat.intl.xiaomi.com.ksyna.net
+mistat.rus.xiaomi.com.ksyna.net
 kuyun.com
 config.kuyun.com
 logonext.tv.kuyun.com
 www.kuyun.com
 ad.mi.com
 ads.mi.com
+e.mi.com
 staging.admin.e.mi.com
 api.e.mi.com
 site.e.mi.com
@@ -44953,6 +44986,7 @@ india.miui.com
 tracking.india.miui.com
 mitv.tracking.india.miui.com
 inf.miui.com
+apm-rum-ind.inf.miui.com
 mcc.intl.inf.miui.com
 api.accelerator.intl.miui.com
 api.aurogon.intl.miui.com
@@ -45167,6 +45201,7 @@ i.xiaomi.com
 pi.ias.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
 controller.india.xiaomi.com
+mistat.india.xiaomi.com
 data.mistat.india.xiaomi.com
 sys.tv.india.xiaomi.com
 api.installer.xiaomi.com

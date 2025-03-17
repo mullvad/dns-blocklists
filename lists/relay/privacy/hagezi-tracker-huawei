@@ -4,6 +4,7 @@ ubacollect-drcn.cloud.dbankcloud.co
 metrics-dre.data.dbankcloud.cn
 metrics1.data.dbankcloud.cn
 dnkeeper.dbankcloud.com
+dt.dbankcloud.ru
 datacollector-dra.dt.dbankcloud.cn
 datacollector-drcn.dt.dbankcloud.cn
 datacollector-dre.dt.dbankcloud.cn
@@ -77,6 +78,7 @@ metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics5.data.hicloud.com
 dnkeeper.hicloud.com
+dt.hicloud.com
 datacollector-dra.dt.hicloud.com
 datacollector-drcn.dt.hicloud.com
 datacollector-dre.dt.hicloud.com
@@ -93,7 +95,15 @@ logservice1.hicloud.com
 logtransform.hicloud.com
 adx-dra.op.hicloud.com
 adx-dre.op.hicloud.com
+adx-drru.op.hicloud.com
 events-dra.op.hicloud.com
 events-dre.op.hicloud.com
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.hicloud.com
+ads.cloud.huawei.com
+ads-drru.cloud.huawei.ru
+rnd-aresocean-commercial.huawei.com
+rnd-cbgpas01.huawei.com
+uba.huaweicloud.com
+logserver.nzxcloud.cn
+logservice.vmall.com

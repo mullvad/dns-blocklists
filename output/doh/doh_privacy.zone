@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1741770186    ; serial
+                                        1742199167    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5588,6 +5588,7 @@ analytics.yicai.com IN CNAME .
 analytics.ynap.biz IN CNAME .
 analytics.yolacdn.net IN CNAME .
 analytics.yola.net IN CNAME .
+analytics.yollamedia.com IN CNAME .
 analytics.yomedia.vn IN CNAME .
 analytics.yugen.to IN CNAME .
 analytics.zagg.com IN CNAME .
@@ -26517,6 +26518,7 @@ robustbelieve.com IN CNAME .
 rochelle.wantsext.me IN CNAME .
 rockagainst.com IN CNAME .
 rockpebbles.com IN CNAME .
+rockstarwriter.com IN CNAME .
 rodeopolice.com IN CNAME .
 roedwy.imidapeptide.com IN CNAME .
 ro-go.experian.com IN CNAME .
@@ -31766,7 +31768,6 @@ s.northumberlandnews.com IN CNAME .
 snowman.odencat.com IN CNAME .
 snowmentor.com IN CNAME .
 snowplowjs.darwin.cx IN CNAME .
-snowplow.swm.digital IN CNAME .
 snprxx.wwfmarket.com IN CNAME .
 snptrk.com IN CNAME .
 snr4.canalplus.com IN CNAME .
@@ -42146,6 +42147,7 @@ ubacollect-drcn.cloud.dbankcloud.co IN CNAME .
 metrics-dre.data.dbankcloud.cn IN CNAME .
 metrics1.data.dbankcloud.cn IN CNAME .
 dnkeeper.dbankcloud.com IN CNAME .
+dt.dbankcloud.ru IN CNAME .
 datacollector-dra.dt.dbankcloud.cn IN CNAME .
 datacollector-drcn.dt.dbankcloud.cn IN CNAME .
 datacollector-dre.dt.dbankcloud.cn IN CNAME .
@@ -42219,6 +42221,7 @@ metrics2.data.hicloud.com IN CNAME .
 metrics3.data.hicloud.com IN CNAME .
 metrics5.data.hicloud.com IN CNAME .
 dnkeeper.hicloud.com IN CNAME .
+dt.hicloud.com IN CNAME .
 datacollector-dra.dt.hicloud.com IN CNAME .
 datacollector-drcn.dt.hicloud.com IN CNAME .
 datacollector-dre.dt.hicloud.com IN CNAME .
@@ -42235,10 +42238,18 @@ logservice1.hicloud.com IN CNAME .
 logtransform.hicloud.com IN CNAME .
 adx-dra.op.hicloud.com IN CNAME .
 adx-dre.op.hicloud.com IN CNAME .
+adx-drru.op.hicloud.com IN CNAME .
 events-dra.op.hicloud.com IN CNAME .
 events-dre.op.hicloud.com IN CNAME .
 logservice-dra.platform.hicloud.com IN CNAME .
 logservice-dre.platform.hicloud.com IN CNAME .
+ads.cloud.huawei.com IN CNAME .
+ads-drru.cloud.huawei.ru IN CNAME .
+rnd-aresocean-commercial.huawei.com IN CNAME .
+rnd-cbgpas01.huawei.com IN CNAME .
+uba.huaweicloud.com IN CNAME .
+logserver.nzxcloud.cn IN CNAME .
+logservice.vmall.com IN CNAME .
 calculator-api-fr.allawnos.com IN CNAME .
 calculator-api-in.allawnos.com IN CNAME .
 calculator-api-sg.allawnos.com IN CNAME .
@@ -42585,7 +42596,6 @@ maliva-mcs-useast2a.byteoversea.com IN CNAME .
 mcs-tiktok.byteoversea.net IN CNAME .
 mon.byteoversea.com IN CNAME .
 mon-csj-maliva-ios.byteoversea.com IN CNAME .
-mon-sg.byteoversea.com IN CNAME .
 mon-va.byteoversea.com IN CNAME .
 mon-va-useast2a.byteoversea.com IN CNAME .
 mssdk-sg.byteoversea.com IN CNAME .
@@ -42647,6 +42657,7 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
+ads-service.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
 analytics-attribution.tiktok.com IN CNAME .
@@ -42687,6 +42698,7 @@ ad-instantpage-ttp2.tiktokv.us IN CNAME .
 ad-instantpage-va.tiktokv.com IN CNAME .
 frontier.tiktokv.com IN CNAME .
 frontier.tiktokv.us IN CNAME .
+live-video-log16-normal-alisg.tiktokv.com IN CNAME .
 location.tiktokv.com IN CNAME .
 location-i18n.tiktokv.com IN CNAME .
 location-sg.tiktokv.com IN CNAME .
@@ -42923,7 +42935,6 @@ log-snssdk.tiktokv-us.com IN CNAME .
 ads-ie.tiktokw.eu IN CNAME .
 ads-ttp2.tiktokw.eu IN CNAME .
 analytics-ie.tiktokw.eu IN CNAME .
-analytics-ipv6.tiktokw.us IN CNAME .
 analytics-ttp2.tiktokw.eu IN CNAME .
 location.tiktokw.us IN CNAME .
 mcs.tiktokw.us IN CNAME .
@@ -43593,6 +43604,7 @@ tkacr319.alphonso.tv IN CNAME .
 tkacr320.alphonso.tv IN CNAME .
 tkacr321.alphonso.tv IN CNAME .
 tkacr322.alphonso.tv IN CNAME .
+tkacr323.alphonso.tv IN CNAME .
 tkacr324.alphonso.tv IN CNAME .
 tkacr325.alphonso.tv IN CNAME .
 tkacr326.alphonso.tv IN CNAME .
@@ -44115,6 +44127,13 @@ zpvvb87.alphonso.tv IN CNAME .
 zqsyp37.alphonso.tv IN CNAME .
 zumqanh0.alphonso.tv IN CNAME .
 zycigxwpgv8.alphonso.tv IN CNAME .
+us-ad-lgsmartad-com.aws-prd.net IN CNAME .
+us-info-lgsmartad-com.aws-prd.net IN CNAME .
+eic-ngfts.lge.com.edgekey.net IN CNAME .
+qt2-ngfts.lge.com.edgekey.net IN CNAME .
+lgads.tv IN CNAME .
+www.lgads.tv IN CNAME .
+eic-ngfts.lge.com IN CNAME .
 qt2-ngfts.lge.com IN CNAME .
 ad.lgsmartad.com IN CNAME .
 ae.ad.lgsmartad.com IN CNAME .
@@ -44291,6 +44310,7 @@ live.applicationinsights.azure.com IN CNAME .
 inference-app-gateway.eastus2.cloudapp.azure.com IN CNAME .
 inference-app-gateway.koreacentral.cloudapp.azure.com IN CNAME .
 inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com IN CNAME .
 azsc-bingads-westus.westus.cloudapp.azure.com IN CNAME .
 collector.azure.cn IN CNAME .
 js.monitor.azure.com IN CNAME .
@@ -44424,6 +44444,7 @@ api.beta.ads.microsoft.com IN CNAME .
 developers.ads.microsoft.com IN CNAME .
 dmc.ads.microsoft.com IN CNAME .
 help.ads.microsoft.com IN CNAME .
+learninglab.ads.microsoft.com IN CNAME .
 mmcapi.ads.microsoft.com IN CNAME .
 smetric.ads.microsoft.com IN CNAME .
 status.ads.microsoft.com IN CNAME .
@@ -44479,6 +44500,7 @@ beta.bingads.microsoft.com IN CNAME .
 ch1b.bingads.microsoft.com IN CNAME .
 community.bingads.microsoft.com IN CNAME .
 developers.bingads.microsoft.com IN CNAME .
+express.bingads.microsoft.com IN CNAME .
 fd.bingads.microsoft.com IN CNAME .
 feedback.bingads.microsoft.com IN CNAME .
 help.bingads.microsoft.com IN CNAME .
@@ -44621,6 +44643,7 @@ ads2.msads.net IN CNAME .
 a.ads2.msads.net IN CNAME .
 b.ads2.msads.net IN CNAME .
 www.msads.net IN CNAME .
+az667904.vo.msecnd.net IN CNAME .
 fp.msedge.net IN CNAME .
 win10-trt.msedge.net IN CNAME .
 ac2.msn.com IN CNAME .
@@ -44749,6 +44772,7 @@ m365cdn.nelsdf.measure.office.net IN CNAME .
 powerpointonline.nelsdf.measure.office.net IN CNAME .
 sdwan.measure.office.com IN CNAME .
 wan.measure.office.com IN CNAME .
+ads-msn-com-profile.trafficmanager.net IN CNAME .
 adsdk.trafficmanager.net IN CNAME .
 agps-location-livenet.trafficmanager.net IN CNAME .
 analytics.trafficmanager.net IN CNAME .
@@ -44824,6 +44848,7 @@ telemetry-lcp.trafficmanager.net IN CNAME .
 tenmax-ads.trafficmanager.net IN CNAME .
 tm-analytics-pr.trafficmanager.net IN CNAME .
 tm-enrollment-telemetry-datacore.trafficmanager.net IN CNAME .
+vstelemetry.trafficmanager.net IN CNAME .
 euc-excel-telemetry.wac.trafficmanager.net IN CNAME .
 euc-powerpoint-telemetry.wac.trafficmanager.net IN CNAME .
 euc-word-telemetry.wac.trafficmanager.net IN CNAME .
@@ -44884,7 +44909,10 @@ c.xbox.com IN CNAME .
 o.xbox.com IN CNAME .
 beacons.xboxlive.com IN CNAME .
 traffic-media.co.uk IN CNAME .
+mistat.india.xiaomi.com.edgesuite.net IN CNAME .
 ad.intl.xiaomi.com.edgesuite.net IN CNAME .
+mistat.intl.xiaomi.com.edgesuite.net IN CNAME .
+mistat.rus.xiaomi.com.edgesuite.net IN CNAME .
 auth.api.gitv.tv IN CNAME .
 pb.bi.gitv.tv IN CNAME .
 appstore.ptmi.gitv.tv IN CNAME .
@@ -44913,13 +44941,18 @@ us.appbackupapi.micloud.xiaomi.net.iberostar.com IN CNAME .
 us.micardapi.micloud.xiaomi.net.iberostar.com IN CNAME .
 us.noteapi.micloud.xiaomi.net.iberostar.com IN CNAME .
 us.pdc.micloud.xiaomi.net.iberostar.com IN CNAME .
+mistat.xiaomi.com.download.ks-cdn.com IN CNAME .
+mistat.india.xiaomi.com.ksyna.net IN CNAME .
 ad.intl.xiaomi.com.ksyna.net IN CNAME .
+mistat.intl.xiaomi.com.ksyna.net IN CNAME .
+mistat.rus.xiaomi.com.ksyna.net IN CNAME .
 kuyun.com IN CNAME .
 config.kuyun.com IN CNAME .
 logonext.tv.kuyun.com IN CNAME .
 www.kuyun.com IN CNAME .
 ad.mi.com IN CNAME .
 ads.mi.com IN CNAME .
+e.mi.com IN CNAME .
 staging.admin.e.mi.com IN CNAME .
 api.e.mi.com IN CNAME .
 site.e.mi.com IN CNAME .
@@ -44965,6 +44998,7 @@ india.miui.com IN CNAME .
 tracking.india.miui.com IN CNAME .
 mitv.tracking.india.miui.com IN CNAME .
 inf.miui.com IN CNAME .
+apm-rum-ind.inf.miui.com IN CNAME .
 mcc.intl.inf.miui.com IN CNAME .
 api.accelerator.intl.miui.com IN CNAME .
 api.aurogon.intl.miui.com IN CNAME .
@@ -45179,6 +45213,7 @@ i.xiaomi.com IN CNAME .
 pi.ias.xiaomi.com IN CNAME .
 sdkconfig.ad.india.xiaomi.com IN CNAME .
 controller.india.xiaomi.com IN CNAME .
+mistat.india.xiaomi.com IN CNAME .
 data.mistat.india.xiaomi.com IN CNAME .
 sys.tv.india.xiaomi.com IN CNAME .
 api.installer.xiaomi.com IN CNAME .

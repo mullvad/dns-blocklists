@@ -1,5 +1,8 @@
 traffic-media.co.uk
+mistat.india.xiaomi.com.edgesuite.net
 ad.intl.xiaomi.com.edgesuite.net
+mistat.intl.xiaomi.com.edgesuite.net
+mistat.rus.xiaomi.com.edgesuite.net
 auth.api.gitv.tv
 pb.bi.gitv.tv
 appstore.ptmi.gitv.tv
@@ -28,13 +31,18 @@ us.appbackupapi.micloud.xiaomi.net.iberostar.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
 us.noteapi.micloud.xiaomi.net.iberostar.com
 us.pdc.micloud.xiaomi.net.iberostar.com
+mistat.xiaomi.com.download.ks-cdn.com
+mistat.india.xiaomi.com.ksyna.net
 ad.intl.xiaomi.com.ksyna.net
+mistat.intl.xiaomi.com.ksyna.net
+mistat.rus.xiaomi.com.ksyna.net
 kuyun.com
 config.kuyun.com
 logonext.tv.kuyun.com
 www.kuyun.com
 ad.mi.com
 ads.mi.com
+e.mi.com
 staging.admin.e.mi.com
 api.e.mi.com
 site.e.mi.com
@@ -80,6 +88,7 @@ india.miui.com
 tracking.india.miui.com
 mitv.tracking.india.miui.com
 inf.miui.com
+apm-rum-ind.inf.miui.com
 mcc.intl.inf.miui.com
 api.accelerator.intl.miui.com
 api.aurogon.intl.miui.com
@@ -294,6 +303,7 @@ i.xiaomi.com
 pi.ias.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
 controller.india.xiaomi.com
+mistat.india.xiaomi.com
 data.mistat.india.xiaomi.com
 sys.tv.india.xiaomi.com
 api.installer.xiaomi.com

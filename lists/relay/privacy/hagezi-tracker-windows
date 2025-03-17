@@ -102,6 +102,7 @@ live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
+azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azsc-bingads-westus.westus.cloudapp.azure.com
 collector.azure.cn
 js.monitor.azure.com
@@ -235,6 +236,7 @@ api.beta.ads.microsoft.com
 developers.ads.microsoft.com
 dmc.ads.microsoft.com
 help.ads.microsoft.com
+learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
@@ -290,6 +292,7 @@ beta.bingads.microsoft.com
 ch1b.bingads.microsoft.com
 community.bingads.microsoft.com
 developers.bingads.microsoft.com
+express.bingads.microsoft.com
 fd.bingads.microsoft.com
 feedback.bingads.microsoft.com
 help.bingads.microsoft.com
@@ -432,6 +435,7 @@ ads2.msads.net
 a.ads2.msads.net
 b.ads2.msads.net
 www.msads.net
+az667904.vo.msecnd.net
 fp.msedge.net
 win10-trt.msedge.net
 ac2.msn.com
@@ -560,6 +564,7 @@ m365cdn.nelsdf.measure.office.net
 powerpointonline.nelsdf.measure.office.net
 sdwan.measure.office.com
 wan.measure.office.com
+ads-msn-com-profile.trafficmanager.net
 adsdk.trafficmanager.net
 agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
@@ -635,6 +640,7 @@ telemetry-lcp.trafficmanager.net
 tenmax-ads.trafficmanager.net
 tm-analytics-pr.trafficmanager.net
 tm-enrollment-telemetry-datacore.trafficmanager.net
+vstelemetry.trafficmanager.net
 euc-excel-telemetry.wac.trafficmanager.net
 euc-powerpoint-telemetry.wac.trafficmanager.net
 euc-word-telemetry.wac.trafficmanager.net
