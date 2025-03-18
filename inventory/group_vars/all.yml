@@ -51,7 +51,7 @@ dns_blocklists_lists:
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
     type: privacy
 
-  - name: hagezi-tracker-oppp
+  - name: hagezi-tracker-oppo
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
     type: privacy
 
