@@ -1,84 +1,89 @@
-# Snapchat
-snapchat.com
-sc-cdn.net
-snap-dev.net
-snapads.com
-addlive.io
-feelinsonice.com
-sc-corp.net
-sc-gw.com
-sc-jpl.com
-sc-prod.net
-sc-static.net
-snapads.com
-snapchat.com
-snap-dev.net
-snapkit.com
-snapmap.com
-snapmap.org
-snapmaps.com
-snap-storage-cdn.l.google.com
+# Bluesky
+bsky.app             # Bluesky - Main domain
+bsky.social          # Bluesky - Main domain
+atproto.com        # Bluesky - Protocol
 
 # Facebook
-facebook.com
-fb.com
-fbcdn.net
-fbsbx.com
-tfbnw.net
-facebook.net
+facebook.com        # Facebook - Main domain
+facebook.net        # Facebook - Networking
+fb.com              # Facebook - Short URL
+fb.me               # Facebook - Short URL
+fbcdn.net           # Facebook - Content Delivery Network (CDN)
+fbsbx.com           # Facebook - Facebook Sandbox
+tfbnw.net           # Facebook - The Facebook Network
+messenger.com       # Facebook - Messenger
+m.me                # Facebook - Messenger Short URL
 
 # Instagram
-instagram.com
-cdninstagram.com
-ig.me 
-
-# Tiktok
-tiktokv.com
-tiktokcdn.com
-tiktok.org
-tiktok.com
-snssdk.com
-byteoversea.com
-
-# Twitter / X
-ads-twitter.com
-periscope.tv
-pscp.tv
-t.co
-tweetdeck.com
-twimg.com
-twitpic.com
-twitter.co
-twitter.com
-twitterinc.com
-twitteroauth.com
-twitterstat.us
-twtrdns.net
-twttr.com
-x.com
-
-# VK
-vk-cdn.net
-vk.com
-vk.company
-vk-portal.net
-vk.ru
-vkuseraudio.net
-vkuser.net
-vkuservideo.net
-vkontakte.ru
-userapi.com
+cdninstagram.com    # Instagram - Content Delivery Network (CDN)
+ig.me               # Instagram - Short URL
+instagram.com       # Instagram - Main domain
 
 # Likee
-likee.video
-likeevideo.com
-likeimo.tech
-liketech.tech
-like.video
-like-video.com
+like.video          # Likee - Main domain (Short)
+likee.video         # Likee - Main domain
+like-video.com      # Likee
+likeevideo.com      # Likee
+likeimo.tech        # Likee
+liketech.tech       # Likee
 
-# Bluesky
-bsky.app
+# Misskey.io
+misskey.io          # Misskey.io - Main instance
 
-# misskey.io
-misskey.io
+# Snapchat
+addlive.io          # Snapchat - (Likely related to live video)
+feelinsonice.com    # Snapchat - (Related to Bitmoji or other acquisitions)
+sc-cdn.net          # Snapchat - Content Delivery Network (CDN)
+sc-corp.net         # Snapchat - Corporate
+sc-gw.com           # Snapchat - Gateway
+sc-jpl.com          # Snapchat
+sc-prod.net         # Snapchat - Production
+sc-static.net       # Snapchat - Static content
+snapads.com         # Snapchat - Advertising
+snapchat.com        # Snapchat - Main domain
+snap-dev.net        # Snapchat - Developer
+snapkit.com         # Snapchat - Snap Kit (developer tools)
+snapmap.com         # Snapchat - Snap Map
+snapmap.org         # Snapchat - Snap Map (Unlikely official, but redirect)
+snapmaps.com        # Snapchat - Snap Map
+snap-storage-cdn.l.google.com  # Snapchat - Google Cloud Storage CDN
+
+# TikTok
+byteoversea.com     # TikTok - (ByteDance related, international)
+ibytedtos.com       # TikTok - ByteDance
+tiktok.com          # TikTok - Main domain
+tiktok.org          # TikTok
+tiktokcdn.com       # TikTok - Content Delivery Network (CDN)
+tiktokv.com         # TikTok - Video domain
+snssdk.com          # TikTok - (Related to ByteDance's news app, but used by TikTok)
+muscdn.com         # TikTok - Music CDN (Previously Musical.ly)
+
+# Twitter / X
+ads-twitter.com     # Twitter - Advertising
+periscope.tv        # Twitter - Periscope (live streaming, now integrated)
+pscp.tv             # Twitter - Periscope short URL
+t.co                # Twitter - URL shortener
+tweetdeck.com       # Twitter - TweetDeck (Twitter client)
+twimg.com           # Twitter - Twitter Images (CDN)
+twitpic.com         # Twitter - (Old image hosting, now redirects)
+twitter.co          # Twitter - (Redirects to twitter.com)
+twitter.com         # Twitter - Main domain
+twitterinc.com      # Twitter - Corporate
+twitteroauth.com    # Twitter - OAuth (authentication)
+twitterstat.us      # Twitter - (Unofficial stats, likely redirects)
+twtrdns.net         # Twitter - DNS related
+twttr.com           # Twitter - (Original name, redirects)
+x.com               # Twitter / X - Main domain (New)
+vine.co              # Twitter - Vine (Legacy short video, now redirect)
+
+# VK
+userapi.com         # VK - User API
+vk.com              # VK - Main domain
+vk.company         # VK - Company
+vk-cdn.net          # VK - Content Delivery Network (CDN)
+vkontakte.ru        # VK - (Original domain, redirects)
+vk.ru                # VK
+vk-portal.net       # VK
+vkuseraudio.net    # VK - User audio
+vkuser.net         # VK - User content
+vkuservideo.net    # VK - User video
