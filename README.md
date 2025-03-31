@@ -8,9 +8,9 @@ We aim to update these lists on a weekly basis. You can view the latest update b
 
 # Why is list "X" not included?
 
-If you find a block list that is included it is because we have gone through these validation steps:
+If you find a block list is excluded it is because we have gone through these validation steps:
 - The blocklist is an amalgamation of other blocklists.
-- The blocklist no longer maintained.
+- The blocklist is no longer maintained.
 - The blocklist blocks things we do not believe should be blocked (like our own domains).
 
 We periodically make exceptions to the included URLs for the following reasons:
@@ -67,7 +67,7 @@ We currently use these tracker blocklists with our service:
 - hagezi-tracker-tiktok-aggressive: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 - hagezi-tracker-webos: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
 - hagezi-tracker-vivo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
-- hagezi-tracker-oppp: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
+- hagezi-tracker-oppo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
 - hagezi-tracker-xiamomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
 - mullvad-tracker-blocklist: custom file
 

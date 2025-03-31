@@ -79,6 +79,7 @@ aca.ftv.bugsnag.appstore.a2z.com
 ads.aps.amazon-adsystem.com
 ads-beta.aps.amazon-adsystem.com
 ads-gamma.aps.amazon-adsystem.com
+adskit.juno.alexa.amazon.dev
 ads-setu-proxy-eu.amazon.com
 advertising.a2z.com
 advertising.amazon.ae
@@ -246,6 +247,7 @@ events.app-performance.music.amazon.dev
 events.bugsnag.shopbop.amazon.dev
 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 events.prod.bugs.firebat.prime-video.amazon.dev
+federatedanalytics.amazon.com
 fe.ono.axp.amazon-adsystem.com
 firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
@@ -351,6 +353,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
