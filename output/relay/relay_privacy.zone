@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1743404250    ; serial
+                                        1744013299    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -23825,6 +23825,7 @@ njorya.aosom.de IN CNAME .
 njtwub.schneider.de IN CNAME .
 njxnsb.paodeacucar.com IN CNAME .
 nkarmh.jmbullion.com IN CNAME .
+nkdyzf.com IN CNAME .
 nkothz.duskin.jp IN CNAME .
 nkqxyn.misterspex.co.uk IN CNAME .
 nkwvwb.fluevog.com IN CNAME .
@@ -34699,6 +34700,7 @@ sxmxpm.nectarsleep.com IN CNAME .
 sxp.allianz.de IN CNAME .
 sxwxswg8z1xe.www.arnowebtv.com IN CNAME .
 sy57d8wi.com IN CNAME .
+sy.ameba.jp IN CNAME .
 sy.amebame.com IN CNAME .
 sy.ameblo.jp IN CNAME .
 syfwnf.society6.com IN CNAME .
@@ -40086,6 +40088,7 @@ whispermeeting.com IN CNAME .
 whitepapers.blackboard.com IN CNAME .
 whitepapers.rockwellautomation.com IN CNAME .
 whoami.akamai.net.iberostar.com IN CNAME .
+whoogled.com IN CNAME .
 whqkyq.leasingmarkt.de IN CNAME .
 whwiab.pamono.it IN CNAME .
 why3.inseec.education IN CNAME .
@@ -41612,6 +41615,7 @@ aax-eu-ott-events.amazon-adsystem.com IN CNAME .
 aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 aax-eu-rtb.amazon-adsystem.com IN CNAME .
 aax-eu-test1.amazon-adsystem.com IN CNAME .
+aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-fe.amazon-adsystem.com IN CNAME .
 aax-fe-rtb.amazon-adsystem.com IN CNAME .
 aax-fe-sin.amazon-adsystem.com IN CNAME .
@@ -41655,7 +41659,6 @@ aca.ftv.bugsnag.appstore.a2z.com IN CNAME .
 ads.aps.amazon-adsystem.com IN CNAME .
 ads-beta.aps.amazon-adsystem.com IN CNAME .
 ads-gamma.aps.amazon-adsystem.com IN CNAME .
-adskit.juno.alexa.amazon.dev IN CNAME .
 ads-setu-proxy-eu.amazon.com IN CNAME .
 advertising.a2z.com IN CNAME .
 advertising.amazon.ae IN CNAME .
@@ -41687,6 +41690,7 @@ aes.us-east.live-events.ono.axp.amazon-adsystem.com IN CNAME .
 aes.us-east.ono.axp.amazon-adsystem.com IN CNAME .
 aes.us-west.3px.axp.amazon-adsystem.com IN CNAME .
 aes.us-west.live-events.ono.axp.amazon-adsystem.com IN CNAME .
+alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com IN CNAME .
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com IN CNAME .
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com IN CNAME .
 alt1-3ps.amazon-adsystem.com IN CNAME .
@@ -41775,20 +41779,34 @@ cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 c.gamma-toolbox.aps.amazon-adsystem.com IN CNAME .
 client.aps.amazon-adsystem.com IN CNAME .
+client.rum.us-east-1.amazonaws.com IN CNAME .
 config.aps.amazon-adsystem.com IN CNAME .
 c.toolbox.aps.amazon-adsystem.com IN CNAME .
 d3p8zr0ffa9t17.cloudfront.net IN CNAME .
 da-cdn.amazon-adsystem.com IN CNAME .
+dataplane.rum.ap-northeast-1.amazonaws.com IN CNAME .
+dataplane.rum.ap-southeast-1.amazonaws.com IN CNAME .
+dataplane.rum.ca-central-1.amazonaws.com IN CNAME .
+dataplane.rum.eu-central-1.amazonaws.com IN CNAME .
+dataplane.rum.eu-west-1.amazonaws.com IN CNAME .
+dataplane.rum.eu-west-2.amazonaws.com IN CNAME .
+dataplane.rum.us-east-1.amazonaws.com IN CNAME .
+dataplane.rum.us-east-2.amazonaws.com IN CNAME .
+dataplane.rum.us-west-1.amazonaws.com IN CNAME .
+dataplane.rum.us-west-2.amazonaws.com IN CNAME .
 device-metrics-us-2.amazon.com IN CNAME .
 device-metrics-us.amazon.com IN CNAME .
 device-metrics-us-ud.amazon.com IN CNAME .
@@ -41929,7 +41947,6 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
-monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -41961,6 +41978,8 @@ ott.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-west.aps.axp.amazon-adsystem.com IN CNAME .
 paa-reporting-advertising.amazon IN CNAME .
+pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
+pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 pri1-3ps.amazon-adsystem.com IN CNAME .
 pri1-id-eu.amazon-adsystem.com IN CNAME .
@@ -41987,7 +42006,18 @@ rcm-na.amazon-adsystem.com IN CNAME .
 rcm-na.assoc-amazon.com IN CNAME .
 rcm-uk.amazon.co.uk IN CNAME .
 rtb.axp.amazon-adsystem.com IN CNAME .
+rum.ap-northeast-1.amazonaws.com IN CNAME .
+rum.ap-southeast-1.amazonaws.com IN CNAME .
+rum.ca-central-1.amazonaws.com IN CNAME .
+rum.eu-central-1.amazonaws.com IN CNAME .
+rum.eu-west-1.amazonaws.com IN CNAME .
+rum.eu-west-2.amazonaws.com IN CNAME .
+rum.us-east-1.amazonaws.com IN CNAME .
+rum.us-east-2.amazonaws.com IN CNAME .
+rum.us-west-1.amazonaws.com IN CNAME .
+rum.us-west-2.amazonaws.com IN CNAME .
 s2.paa-reporting-advertising.amazon IN CNAME .
+s2s.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 s2s.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42441,6 +42471,15 @@ zen-core-fr.allawnos.com IN CNAME .
 zen-core-in.allawnos.com IN CNAME .
 zen-core-sg.allawnos.com IN CNAME .
 zen-core-us.allawnos.com IN CNAME .
+conn-service-cn-01.allawntech.com IN CNAME .
+conn-service-cn-03.allawntech.com IN CNAME .
+conn-service-cn-04.allawntech.com IN CNAME .
+conn-service-cn-05.allawntech.com IN CNAME .
+conn-service-cn-07.allawntech.com IN CNAME .
+conn-service-cn-08.allawntech.com IN CNAME .
+conn-service-gl-01.allawntech.com IN CNAME .
+conn-service-gl-03.allawntech.com IN CNAME .
+conn-service-gl-04.allawntech.com IN CNAME .
 smartcard.apps.coloros.com IN CNAME .
 smartcardf.apps.coloros.com IN CNAME .
 smartcardf-eu.apps.coloros.com IN CNAME .
@@ -42616,6 +42655,9 @@ stat.browser.heytapmobi.com IN CNAME .
 api-cn.cdo.heytapmobi.com IN CNAME .
 api-gl.cdo.heytapmobi.com IN CNAME .
 epoch-id.cdo.heytapmobi.com IN CNAME .
+dragate-cn.dc.heytapmobi.com IN CNAME .
+dragate-in.dc.heytapmobi.com IN CNAME .
+dragate-sg.dc.heytapmobi.com IN CNAME .
 obus-cn.dc.heytapmobi.com IN CNAME .
 api-id.game.heytapmobi.com IN CNAME .
 iot-earbuds-cn.heytapmobi.com IN CNAME .
@@ -42778,6 +42820,10 @@ sapi.ads.oppomobile.com IN CNAME .
 sms.ads.oppomobile.com IN CNAME .
 wifi.ads.oppomobile.com IN CNAME .
 adsfs.oppomobile.com IN CNAME .
+dragate.dc.oppomobile.com IN CNAME .
+dragate-br.dc.oppomobile.com IN CNAME .
+dragate-sg.dc.oppomobile.com IN CNAME .
+predragate.dc.oppomobile.com IN CNAME .
 dhfs-id.oppomobile.com IN CNAME .
 dhfs-in.oppomobile.com IN CNAME .
 dhfs-th.oppomobile.com IN CNAME .
@@ -42861,7 +42907,6 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
-ads-service.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
 analytics-attribution.tiktok.com IN CNAME .
@@ -43180,6 +43225,8 @@ co-stsdk.vivoglobal.com IN CNAME .
 err-up.vivoglobal.com IN CNAME .
 eu-errup.vivoglobal.com IN CNAME .
 eu-pnrt-stsdk.vivoglobal.com IN CNAME .
+ex-adreq-asia.vivoglobal.com IN CNAME .
+ex-adreq-in.vivoglobal.com IN CNAME .
 id-analyzer-appstore.vivoglobal.com IN CNAME .
 in-adlog.vivoglobal.com IN CNAME .
 in-adreq.vivoglobal.com IN CNAME .
@@ -43241,13 +43288,23 @@ onrt.stsdk.vivoglobal.com IN CNAME .
 ort.stsdk.vivoglobal.com IN CNAME .
 pnrt.stsdk.vivoglobal.com IN CNAME .
 prt.stsdk.vivoglobal.com IN CNAME .
+tr-cota.vivoglobal.com IN CNAME .
 tr-domaincfg.vivoglobal.com IN CNAME .
+tr-onrt-stsdk.vivoglobal.com IN CNAME .
+tr-ort-stsdk.vivoglobal.com IN CNAME .
+tr-p.vivoglobal.com IN CNAME .
 tr-romsp-unifyconfig.vivoglobal.com IN CNAME .
 tr-st-sl.vivoglobal.com IN CNAME .
+tr-st-sysupgrade.vivoglobal.com IN CNAME .
+tr-stsdk.vivoglobal.com IN CNAME .
+tr-sysupgrade-api.vivoglobal.com IN CNAME .
 tr-timesync.vivoglobal.com IN CNAME .
 tr-vcode-api.vivoglobal.com IN CNAME .
 tr-vcode-od.vivoglobal.com IN CNAME .
+tr-vcode-or.vivoglobal.com IN CNAME .
+tr-weather.vivoglobal.com IN CNAME .
 err.up.vivoglobal.com IN CNAME .
+xn-ex-adreq-asa-c5b.vivoglobal.com IN CNAME .
 alphonso.tv IN CNAME .
 ad-inserter.alphonso.tv IN CNAME .
 aeihat46.alphonso.tv IN CNAME .
@@ -44489,7 +44546,6 @@ uksouth-1.in.applicationinsights.azure.com IN CNAME .
 ukwest-0.in.applicationinsights.azure.com IN CNAME .
 usgovarizona-0.in.applicationinsights.azure.us IN CNAME .
 usgovarizona-global.in.applicationinsights.azure.us IN CNAME .
-usgovtexas-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-0.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-1.in.applicationinsights.azure.us IN CNAME .
 usgovvirginia-global.in.applicationinsights.azure.us IN CNAME .
@@ -44510,6 +44566,7 @@ westus2-5.in.applicationinsights.azure.com IN CNAME .
 westus2-global.in.applicationinsights.azure.com IN CNAME .
 westus3-1.in.applicationinsights.azure.com IN CNAME .
 live.applicationinsights.azure.com IN CNAME .
+inference-app-gateway.eastus2.cloudapp.azure.com IN CNAME .
 inference-app-gateway.koreacentral.cloudapp.azure.com IN CNAME .
 inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
 azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com IN CNAME .
@@ -44554,6 +44611,7 @@ nexusrules.live.com IN CNAME .
 auc-visio-telemetry.officeapps.live.com IN CNAME .
 brc-visio-telemetry.officeapps.live.com IN CNAME .
 cac-visio-telemetry.officeapps.live.com IN CNAME .
+chc-visio-telemetry.officeapps.live.com IN CNAME .
 dec-visio-telemetry.officeapps.live.com IN CNAME .
 euc-excel-telemetry.officeapps.live.com IN CNAME .
 euc-onenote-telemetry.officeapps.live.com IN CNAME .
@@ -44985,6 +45043,7 @@ bf-analytics-tracker-tm.trafficmanager.net IN CNAME .
 bf-tracker-release-tm.trafficmanager.net IN CNAME .
 bingads.trafficmanager.net IN CNAME .
 azure.bingads.trafficmanager.net IN CNAME .
+bingadsedgeextension-prod.trafficmanager.net IN CNAME .
 collector-main.trafficmanager.net IN CNAME .
 tracker.flightview.com.trafficmanager.net IN CNAME .
 events.data.trafficmanager.net IN CNAME .

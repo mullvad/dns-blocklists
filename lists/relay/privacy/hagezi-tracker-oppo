@@ -81,6 +81,15 @@ zen-core-fr.allawnos.com
 zen-core-in.allawnos.com
 zen-core-sg.allawnos.com
 zen-core-us.allawnos.com
+conn-service-cn-01.allawntech.com
+conn-service-cn-03.allawntech.com
+conn-service-cn-04.allawntech.com
+conn-service-cn-05.allawntech.com
+conn-service-cn-07.allawntech.com
+conn-service-cn-08.allawntech.com
+conn-service-gl-01.allawntech.com
+conn-service-gl-03.allawntech.com
+conn-service-gl-04.allawntech.com
 smartcard.apps.coloros.com
 smartcardf.apps.coloros.com
 smartcardf-eu.apps.coloros.com
@@ -256,6 +265,9 @@ stat.browser.heytapmobi.com
 api-cn.cdo.heytapmobi.com
 api-gl.cdo.heytapmobi.com
 epoch-id.cdo.heytapmobi.com
+dragate-cn.dc.heytapmobi.com
+dragate-in.dc.heytapmobi.com
+dragate-sg.dc.heytapmobi.com
 obus-cn.dc.heytapmobi.com
 api-id.game.heytapmobi.com
 iot-earbuds-cn.heytapmobi.com
@@ -418,6 +430,10 @@ sapi.ads.oppomobile.com
 sms.ads.oppomobile.com
 wifi.ads.oppomobile.com
 adsfs.oppomobile.com
+dragate.dc.oppomobile.com
+dragate-br.dc.oppomobile.com
+dragate-sg.dc.oppomobile.com
+predragate.dc.oppomobile.com
 dhfs-id.oppomobile.com
 dhfs-in.oppomobile.com
 dhfs-th.oppomobile.com

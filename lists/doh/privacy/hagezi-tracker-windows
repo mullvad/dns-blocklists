@@ -79,7 +79,6 @@ uksouth-1.in.applicationinsights.azure.com
 ukwest-0.in.applicationinsights.azure.com
 usgovarizona-0.in.applicationinsights.azure.us
 usgovarizona-global.in.applicationinsights.azure.us
-usgovtexas-0.in.applicationinsights.azure.us
 usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
@@ -100,6 +99,7 @@ westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
 live.applicationinsights.azure.com
+inference-app-gateway.eastus2.cloudapp.azure.com
 inference-app-gateway.koreacentral.cloudapp.azure.com
 inference-app-gateway.northeurope.cloudapp.azure.com
 azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
@@ -144,6 +144,7 @@ nexusrules.live.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
+chc-visio-telemetry.officeapps.live.com
 dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-onenote-telemetry.officeapps.live.com
@@ -575,6 +576,7 @@ bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
+bingadsedgeextension-prod.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net
