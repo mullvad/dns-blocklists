@@ -97,6 +97,7 @@ westus2-2.in.applicationinsights.azure.com
 westus2-4.in.applicationinsights.azure.com
 westus2-5.in.applicationinsights.azure.com
 westus2-global.in.applicationinsights.azure.com
+westus3.in.applicationinsights.azure.com
 westus3-1.in.applicationinsights.azure.com
 live.applicationinsights.azure.com
 inference-app-gateway.eastus2.cloudapp.azure.com
@@ -144,7 +145,6 @@ nexusrules.live.com
 auc-visio-telemetry.officeapps.live.com
 brc-visio-telemetry.officeapps.live.com
 cac-visio-telemetry.officeapps.live.com
-chc-visio-telemetry.officeapps.live.com
 dec-visio-telemetry.officeapps.live.com
 euc-excel-telemetry.officeapps.live.com
 euc-onenote-telemetry.officeapps.live.com
@@ -433,8 +433,6 @@ gateway.bingviz.microsoftapp.net
 msads.net
 ads1.msads.net
 ads2.msads.net
-a.ads2.msads.net
-b.ads2.msads.net
 www.msads.net
 az667904.vo.msecnd.net
 fp.msedge.net
@@ -576,7 +574,6 @@ bf-analytics-tracker-tm.trafficmanager.net
 bf-tracker-release-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
-bingadsedgeextension-prod.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
 events.data.trafficmanager.net

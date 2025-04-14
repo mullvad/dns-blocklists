@@ -206,6 +206,7 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -438,6 +439,7 @@ rum.us-east-2.amazonaws.com
 rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
+s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
