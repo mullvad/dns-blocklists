@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1744614086    ; serial
+                                        1745305053    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5225,6 +5225,7 @@ analytics-gw.games.wanmei.com IN CNAME .
 analytics.hambleden-capital.com IN CNAME .
 analytics.hardrock.com IN CNAME .
 analytics.hashnode.com IN CNAME .
+analytics.hatech.dev IN CNAME .
 analytics.haworth.com IN CNAME .
 analytics.hazeldenbettyford.org IN CNAME .
 analytics.hermesworld.com IN CNAME .
@@ -7287,6 +7288,7 @@ b.chme.io IN CNAME .
 bcigeg.pishposhbaby.com IN CNAME .
 bcigfr.www.uoc.edu IN CNAME .
 bclicks.lyst.com IN CNAME .
+b.clipkit.co IN CNAME .
 bc.marfeelcache.com IN CNAME .
 bc.nhk.jp IN CNAME .
 bcob.charlotte.edu IN CNAME .
@@ -7460,6 +7462,7 @@ bilingualgeek.com IN CNAME .
 billowybead.com IN CNAME .
 billowybelief.com IN CNAME .
 bi.medscape.com IN CNAME .
+bi-metrics.aramuz.net IN CNAME .
 biminibliss.rwbimini.com IN CNAME .
 binarycrest.com IN CNAME .
 binocule21c.merriam-webster.com IN CNAME .
@@ -8407,6 +8410,7 @@ charscroll.com IN CNAME .
 chartec.actonservice.com IN CNAME .
 chat.forddirectdealers.com IN CNAME .
 ch.credithypo.com IN CNAME .
+check3.tiaa.org IN CNAME .
 check.frbservices.org IN CNAME .
 checkpointcharlie.heizung.de IN CNAME .
 cheerfulrange.com IN CNAME .
@@ -10304,6 +10308,7 @@ data.info.smart.com IN CNAME .
 data.info.solvenza.hn IN CNAME .
 data.info.ultramotorhn.com IN CNAME .
 data.info.viking.com IN CNAME .
+data-ingest.xtralife.com IN CNAME .
 data.inst.socios.realmadrid.com IN CNAME .
 data.inswa.coca-cola.com IN CNAME .
 data.investing.questrade.com IN CNAME .
@@ -10422,6 +10427,7 @@ data.qamailing.mcafee.com IN CNAME .
 data.qamarketing.giftcards.com IN CNAME .
 data.queryly.com IN CNAME .
 data.reactandshare.com IN CNAME .
+data.replo.app IN CNAME .
 data.resources.ringcentral.com IN CNAME .
 data.rewards.riteaid.com IN CNAME .
 data.ricaud.com IN CNAME .
@@ -11514,10 +11520,12 @@ dztatn.soulberry.jp IN CNAME .
 dzuthv.fahrrad-xxl.de IN CNAME .
 dzwqfq.alpitour.it IN CNAME .
 e035.pandasuite.io IN CNAME .
+e045f561.b-cdn.net IN CNAME .
 e10.verticurl.com IN CNAME .
 e1e.io IN CNAME .
 e246.pandasuite.io IN CNAME .
 e403.pandasuite.io IN CNAME .
+e428.tio.nl IN CNAME .
 e5obq1v261.www.lurkit.com IN CNAME .
 e77lmzbqou0n-a.akamaihd.net IN CNAME .
 ea.armandthiery.fr IN CNAME .
@@ -14837,6 +14845,7 @@ gsbygc.clarks.eu IN CNAME .
 gsftuy.nutripure.fr IN CNAME .
 gsg9.carrefour-banque.fr IN CNAME .
 g.siliconweek.es IN CNAME .
+gsitrix.com IN CNAME .
 gslive.edm.globalsources.com IN CNAME .
 gsmatch.edm.globalsources.com IN CNAME .
 gsmqez.xcite.com IN CNAME .
@@ -15033,6 +15042,7 @@ healthier.aahs.org IN CNAME .
 healthier.luminishealth.org IN CNAME .
 health.info.baptisthealth.com IN CNAME .
 health-metrics-api.setapp.com IN CNAME .
+heap-api.com IN CNAME .
 heap.drop.com IN CNAME .
 hearinglizards.com IN CNAME .
 hearob.klix.ba IN CNAME .
@@ -19385,6 +19395,7 @@ lrhungary.wolterskluwer.com IN CNAME .
 lrhyty.weeronline.nl IN CNAME .
 lritaly.wolterskluwer.com IN CNAME .
 lrjnbf.sabon.co.jp IN CNAME .
+lrkt-in.com IN CNAME .
 lrnetherlands.wolterskluwer.com IN CNAME .
 l.rovo.co IN CNAME .
 lrp7.carrefour-banque.fr IN CNAME .
@@ -21180,6 +21191,7 @@ ma.smartplanes.se IN CNAME .
 mas.nth.ch IN CNAME .
 massivebasket.com IN CNAME .
 massivemark.com IN CNAME .
+master.cifraclub.com.br IN CNAME .
 masternaut.actonservice.com IN CNAME .
 mastertag.kpcustomer.de IN CNAME .
 mastertag.q-sis.de IN CNAME .
@@ -22540,6 +22552,7 @@ metrics.paperdirect.com IN CNAME .
 metrics.parcelforce.com IN CNAME .
 metrics.patientsatheart.com IN CNAME .
 metrics.paysafecard.com IN CNAME .
+metrics.pazzox.be IN CNAME .
 metrics.pcrichard.com IN CNAME .
 metrics.pebblebeach.com IN CNAME .
 metrics.pennymacusa.com IN CNAME .
@@ -24198,7 +24211,6 @@ o.macworld.co.uk IN CNAME .
 omadi.actonservice.com IN CNAME .
 omahasteaks.com.102.122.207.net IN CNAME .
 om.aopa.org IN CNAME .
-omappapi.com IN CNAME .
 om.burberry.com IN CNAME .
 om.cbsi.com IN CNAME .
 om.churchofjesuschrist.org IN CNAME .
@@ -24515,6 +24527,7 @@ oph7o.montecarlosbm-corporate.com IN CNAME .
 ophan.theguardian.com IN CNAME .
 opim.pixmania.com IN CNAME .
 opinionsurprise.com IN CNAME .
+oply.hearstapps.com IN CNAME .
 opo4.assuronline.com IN CNAME .
 opoffice.actonservice.com IN CNAME .
 opportunity.businessbroker.net IN CNAME .
@@ -25639,6 +25652,7 @@ profiling.plannja.com IN CNAME .
 profiling.ruukki.com IN CNAME .
 profit.edc.ca IN CNAME .
 profitrumour.com IN CNAME .
+proftrafficcounter.com IN CNAME .
 profusesupport.com IN CNAME .
 progmxs.com IN CNAME .
 programmes-skema.skema-bs.fr IN CNAME .
@@ -25757,6 +25771,7 @@ puiwrs.misterspex.de IN CNAME .
 pulsar.ebay.com IN CNAME .
 pulsatingmeadow.com IN CNAME .
 pulse.delta.com IN CNAME .
+pulse.ecmapps.com IN CNAME .
 pulse.munsonhealthcare.org IN CNAME .
 pulse.shopflo.com IN CNAME .
 pumlmb.netcologne.de IN CNAME .
@@ -33006,6 +33021,7 @@ sstats.wired.com IN CNAME .
 sstats.wmagazine.com IN CNAME .
 sstats.www.o2.cz IN CNAME .
 sstats.yourchi.org IN CNAME .
+sst.babypark.nl IN CNAME .
 s.stcatharinesstandard.ca IN CNAME .
 sst.colemanfurniture.com IN CNAME .
 sst.cooperativa.cl IN CNAME .
@@ -34789,6 +34805,7 @@ tag.elevaate.io IN CNAME .
 tag.flagship.io IN CNAME .
 tagger.opecloud.com IN CNAME .
 tagger.ope.scmp.com IN CNAME .
+tagging.sliponline.nl IN CNAME .
 tagging.steelseries.com IN CNAME .
 tag.goldenbees.fr IN CNAME .
 tag.imagino.com IN CNAME .
@@ -35262,6 +35279,7 @@ tdzvm.pw IN CNAME .
 teach.graduateprogram.org IN CNAME .
 te.ackermann.ch IN CNAME .
 teacupbooks.com IN CNAME .
+tealium-proxy.libertex.org IN CNAME .
 tealjewel.com IN CNAME .
 te.ambria.de IN CNAME .
 teamhodges.hodgesualumniandfriends.com IN CNAME .
@@ -35683,6 +35701,7 @@ tivixv.nutribullet.com IN CNAME .
 tjbhng.hemington.com.tr IN CNAME .
 tj.img4399.com IN CNAME .
 tjitde.dodo.it IN CNAME .
+tjk-njk.com IN CNAME .
 t.jmusports.com IN CNAME .
 tjnffp.tilebar.com IN CNAME .
 t.jobsyn.org IN CNAME .
@@ -38918,6 +38937,8 @@ twjobq.sixt.fr IN CNAME .
 twjobq.sixt.nl IN CNAME .
 twkbui.mansion-review.jp IN CNAME .
 twoeej.carrefour.fr IN CNAME .
+two.tio.nl IN CNAME .
+tw.reppublika.com IN CNAME .
 twsdne.petenkoiratarvike.com IN CNAME .
 tw.spiriteq.com IN CNAME .
 t.wsucougars.com IN CNAME .
@@ -38990,6 +39011,7 @@ ubmwua.maisonsetappartements.fr IN CNAME .
 ubpekn.sivillage.com IN CNAME .
 ubqjbd.daviddonahue.com IN CNAME .
 ubrihx.allbirds.jp IN CNAME .
+ubt-sgp.travix.com IN CNAME .
 ubuyanalytics.ubuy.com IN CNAME .
 ubvsjh.pointtown.com IN CNAME .
 ubyjor.distrelec.ch IN CNAME .
@@ -39100,6 +39122,7 @@ ultravalid.com IN CNAME .
 ultund.misterspex.nl IN CNAME .
 ulutlv.esprit.fr IN CNAME .
 umami.aigenerations.net IN CNAME .
+umami.heroku.uk IN CNAME .
 umami.wakarimasen.moe IN CNAME .
 umazvs.raybiotech.com IN CNAME .
 um.contentstudio.io IN CNAME .
@@ -40252,6 +40275,7 @@ web.novunapersonalfinance.co.uk IN CNAME .
 web.online.monnalisa.com IN CNAME .
 web.orionpharma.com IN CNAME .
 webpixel.smartmeapp.com IN CNAME .
+webpushstat.api.engagelab.cc IN CNAME .
 web.redazione.milanofinanza.it IN CNAME .
 websdk.appsflyer.com IN CNAME .
 websdkmetrics.blackrock.com IN CNAME .
@@ -41950,6 +41974,7 @@ aax-eu-ott-events.amazon-adsystem.com IN CNAME .
 aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 aax-eu-rtb.amazon-adsystem.com IN CNAME .
 aax-eu-test1.amazon-adsystem.com IN CNAME .
+aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-fe.amazon-adsystem.com IN CNAME .
 aax-fe-rtb.amazon-adsystem.com IN CNAME .
@@ -42120,7 +42145,6 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42283,6 +42307,7 @@ monitoring.eu-west-3.amazonaws.com IN CNAME .
 monitoring.il-central-1.amazonaws.com IN CNAME .
 monitoring.me-central-1.amazonaws.com IN CNAME .
 monitoring.me-south-1.amazonaws.com IN CNAME .
+monitoring.prod.cloudwatch.amazonaws.com IN CNAME .
 monitoring.sa-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-1.amazonaws.com IN CNAME .
 monitoring.us-east-2.amazonaws.com IN CNAME .
@@ -42401,6 +42426,7 @@ tk-beta.amazon-adsystem.com IN CNAME .
 tk-eu.amazon-adsystem.com IN CNAME .
 tk-gamma.amazon-adsystem.com IN CNAME .
 toolbox.aps.amazon-adsystem.com IN CNAME .
+trace.app-performance.music.amazon.dev IN CNAME .
 track.prod-eu.turntable.sonic.advertising.amazon.dev IN CNAME .
 ts.amazon-adsystem.com IN CNAME .
 ts-gamma.amazon-adsystem.com IN CNAME .
@@ -42629,6 +42655,10 @@ datacollector-drcn.dt.dbankcloud.cn IN CNAME .
 datacollector-dre.dt.dbankcloud.cn IN CNAME .
 datacollector-drru.dt.dbankcloud.ru IN CNAME .
 hisearch-dra.dt.dbankcloud.com IN CNAME .
+hisearch-drcn.dt.dbankcloud.com IN CNAME .
+hisearch-dre.dt.dbankcloud.com IN CNAME .
+hisearch-drru.dt.dbankcloud.com IN CNAME .
+hisearch-drru.dt.dbankcloud.ru IN CNAME .
 metrics.dt.dbankcloud.cn IN CNAME .
 metrics-dra.dt.dbankcloud.cn IN CNAME .
 metrics-dre.dt.dbankcloud.cn IN CNAME .
@@ -42661,6 +42691,7 @@ events-op-hicloud-com-drcn.appacc.dbankedge.net IN CNAME .
 grs-dbankcloud-asia-dra.appacc.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dre.appacc.dbankedge.cn IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn IN CNAME .
 openlocation-drcn-platform-dbankcloud-com-drcn.appacc.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-cn-dra.appacc-region.dbankedge.cn IN CNAME .
 events-dra-op-hicloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
@@ -42669,6 +42700,7 @@ events-op-hicloud-com-drcn.appacc-region.dbankedge.net IN CNAME .
 grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dre.appacc-region.dbankedge.cn IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn IN CNAME .
 adx-dra-op-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
 adx-dra-op-hicloud-com-dra.edge.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-cn-dra.edge.dbankedge.cn IN CNAME .
@@ -42676,6 +42708,7 @@ events-dra-op-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
 events-dra-op-hicloud-com-dra.edge.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dre.edge.dbankedge.cn IN CNAME .
+hisearch-dra-dt-dbankcloud-com-dra.edge.dbankedge.cn IN CNAME .
 metrics1-data-hicloud-com.ge.dbankedge.cn IN CNAME .
 metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn IN CNAME .
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn IN CNAME .
@@ -42719,6 +42752,30 @@ events-dra.op.hicloud.com IN CNAME .
 events-dre.op.hicloud.com IN CNAME .
 logservice-dra.platform.hicloud.com IN CNAME .
 logservice-dre.platform.hicloud.com IN CNAME .
+dt.hihonorcloud.com IN CNAME .
+logservice.dt.hihonorcloud.com IN CNAME .
+logservice-dra.dt.hihonorcloud.com IN CNAME .
+logservice-drcn.dt.hihonorcloud.com IN CNAME .
+logservice-dre.dt.hihonorcloud.com IN CNAME .
+logservice-drru.dt.hihonorcloud.com IN CNAME .
+metrics.dt.hihonorcloud.com IN CNAME .
+metrics-ad-drcn.dt.hihonorcloud.com IN CNAME .
+metrics-appdistribute-drcn.dt.hihonorcloud.com IN CNAME .
+metrics-basecloud-drcn.dt.hihonorcloud.com IN CNAME .
+metrics-dra.dt.hihonorcloud.com IN CNAME .
+metrics-drcn.dt.hihonorcloud.com IN CNAME .
+metrics-dre.dt.hihonorcloud.com IN CNAME .
+metrics-drru.dt.hihonorcloud.com IN CNAME .
+metrics-test-drcn.dt.hihonorcloud.com IN CNAME .
+grs.hihonorcloud.com IN CNAME .
+honorsearch-dra.hiboard.hihonorcloud.com IN CNAME .
+honorsearch-drcn.hiboard.hihonorcloud.com IN CNAME .
+honorsearch-dre.hiboard.hihonorcloud.com IN CNAME .
+ads-drcn.platform.hihonorcloud.com IN CNAME .
+log-dra.platform.hihonorcloud.com IN CNAME .
+log-drcn.platform.hihonorcloud.com IN CNAME .
+log-dre.platform.hihonorcloud.com IN CNAME .
+log-drru.platform.hihonorcloud.com IN CNAME .
 ads.cloud.huawei.com IN CNAME .
 ads-drru.cloud.huawei.ru IN CNAME .
 rnd-aresocean-commercial.huawei.com IN CNAME .
@@ -43535,11 +43592,13 @@ mcs-ie2.tiktokw.eu IN CNAME .
 mcs16-normal-no1a.tiktokw.eu IN CNAME .
 mssdk.tiktokw.eu IN CNAME .
 mssdk.tiktokw.us IN CNAME .
+az.appstore.vivo.com.cn IN CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 asia-abeacdataort-stsdk.vivoglobal.com IN CNAME .
 asia-ad-mkt-vivofs.vivoglobal.com IN CNAME .
 asia-adlog.vivoglobal.com IN CNAME .
 asia-adsjssdk.vivoglobal.com IN CNAME .
+asia-album-api.vivoglobal.com IN CNAME .
 asia-analyzer-appstore.vivoglobal.com IN CNAME .
 asia-commonitor-stsdk.vivoglobal.com IN CNAME .
 asia-comonrt-stsdk.vivoglobal.com IN CNAME .
@@ -43564,6 +43623,7 @@ asia-st-sl.vivoglobal.com IN CNAME .
 asia-st-sysupgrade.vivoglobal.com IN CNAME .
 asia-stsdk.vivoglobal.com IN CNAME .
 asia-sysupgrade-api.vivoglobal.com IN CNAME .
+asia-third-appstore.vivoglobal.com IN CNAME .
 asia-timesync.vivoglobal.com IN CNAME .
 asia-vcode-api.vivoglobal.com IN CNAME .
 asia-vcode-od.vivoglobal.com IN CNAME .
@@ -43614,6 +43674,7 @@ ex-adreq-asia.vivoglobal.com IN CNAME .
 ex-adreq-in.vivoglobal.com IN CNAME .
 ex-romsp-unifyconfig.vivoglobal.com IN CNAME .
 id-analyzer-appstore.vivoglobal.com IN CNAME .
+id-third-appstore.vivoglobal.com IN CNAME .
 in-adlog.vivoglobal.com IN CNAME .
 in-adreq.vivoglobal.com IN CNAME .
 in-adsjssdk.vivoglobal.com IN CNAME .
@@ -43621,6 +43682,7 @@ in-apponrt-stsdk.vivoglobal.com IN CNAME .
 in-apport-stsdk.vivoglobal.com IN CNAME .
 in-apppnrt-stsdk.vivoglobal.com IN CNAME .
 in-appprt-stsdk.vivoglobal.com IN CNAME .
+in-cota.vivoglobal.com IN CNAME .
 in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 in-ctdbort-stsdk.vivoglobal.com IN CNAME .
 in-ctdbpnrt-stsdk.vivoglobal.com IN CNAME .
@@ -43634,6 +43696,7 @@ in-onrt-stsdk.vivoglobal.com IN CNAME .
 in-ort-stsdk.vivoglobal.com IN CNAME .
 in-os-config-appstore.vivoglobal.com IN CNAME .
 in-pnrt-stsdk.vivoglobal.com IN CNAME .
+in-third-appstore.vivoglobal.com IN CNAME .
 in-timesync.vivoglobal.com IN CNAME .
 in-vcode-api.vivoglobal.com IN CNAME .
 in-vcode-od.vivoglobal.com IN CNAME .
@@ -43701,6 +43764,7 @@ ru-st-sl.vivoglobal.com IN CNAME .
 ru-st-sysupgrade.vivoglobal.com IN CNAME .
 ru-stsdk.vivoglobal.com IN CNAME .
 ru-sysupgrade-api.vivoglobal.com IN CNAME .
+ru-third-appstore.vivoglobal.com IN CNAME .
 ru-timesync.vivoglobal.com IN CNAME .
 ru-vcode-api.vivoglobal.com IN CNAME .
 ru-vcode-od.vivoglobal.com IN CNAME .
@@ -43728,6 +43792,7 @@ onrt.stsdk.vivoglobal.com IN CNAME .
 ort.stsdk.vivoglobal.com IN CNAME .
 pnrt.stsdk.vivoglobal.com IN CNAME .
 prt.stsdk.vivoglobal.com IN CNAME .
+tr-album-api.vivoglobal.com IN CNAME .
 tr-cota.vivoglobal.com IN CNAME .
 tr-domaincfg.vivoglobal.com IN CNAME .
 tr-onrt-stsdk.vivoglobal.com IN CNAME .
@@ -44891,12 +44956,15 @@ ve.ad.lgsmartad.com IN CNAME .
 vn.ad.lgsmartad.com IN CNAME .
 za.ad.lgsmartad.com IN CNAME .
 us.lgsmartad.com IN CNAME .
+cdpbeacon.lgtvcommon.com IN CNAME .
 aic.cdpbeacon.lgtvcommon.com IN CNAME .
 eic.cdpbeacon.lgtvcommon.com IN CNAME .
+homeprv.lgtvcommon.com IN CNAME .
 aic.homeprv.lgtvcommon.com IN CNAME .
 eic.homeprv.lgtvcommon.com IN CNAME .
 kic.homeprv.lgtvcommon.com IN CNAME .
 ruc.homeprv.lgtvcommon.com IN CNAME .
+nudge.lgtvcommon.com IN CNAME .
 aic.nudge.lgtvcommon.com IN CNAME .
 eic.nudge.lgtvcommon.com IN CNAME .
 kic.nudge.lgtvcommon.com IN CNAME .
@@ -44904,6 +44972,7 @@ ruc.nudge.lgtvcommon.com IN CNAME .
 rdl.lgtvcommon.com IN CNAME .
 aic.rdl.lgtvcommon.com IN CNAME .
 kic.rdl.lgtvcommon.com IN CNAME .
+wiseconfig.lgtvcommon.com IN CNAME .
 aic.wiseconfig.lgtvcommon.com IN CNAME .
 c-bingapis-com.dual-a-0034.a-msedge.net IN CNAME .
 measure.office.com.akamaized.net IN CNAME .
@@ -45093,6 +45162,7 @@ pgtmx1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtmx1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtsg1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
+pgtsg1-word-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 pgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -45264,6 +45334,7 @@ uk-mobile.events.data.microsoft.com IN CNAME .
 uk-v20.events.data.microsoft.com IN CNAME .
 umwatson.events.data.microsoft.com IN CNAME .
 umwatsonc.events.data.microsoft.com IN CNAME .
+us-ic3.events.data.microsoft.com IN CNAME .
 us-mesh.events.data.microsoft.com IN CNAME .
 us-mobile.events.data.microsoft.com IN CNAME .
 us-teams.events.data.microsoft.com IN CNAME .
@@ -45306,6 +45377,7 @@ oca.microsoft.com IN CNAME .
 watson.officeint.microsoft.com IN CNAME .
 analytics.pstnhub.microsoft.com IN CNAME .
 rad.microsoft.com IN CNAME .
+telem-edge.smartscreen.microsoft.com IN CNAME .
 i1.services.social.microsoft.com IN CNAME .
 spynet2.microsoft.com IN CNAME .
 spynetalt.microsoft.com IN CNAME .
@@ -45704,7 +45776,6 @@ abroad.api.comm.intl.miui.com IN CNAME .
 api.competition.intl.miui.com IN CNAME .
 api.content.intl.miui.com IN CNAME .
 api.collect.data.intl.miui.com IN CNAME .
-feedback.intl.miui.com IN CNAME .
 api.game.intl.miui.com IN CNAME .
 gtglobal.intl.miui.com IN CNAME .
 m.beehive.in.intl.miui.com IN CNAME .

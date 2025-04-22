@@ -1144,12 +1144,15 @@ ve.ad.lgsmartad.com
 vn.ad.lgsmartad.com
 za.ad.lgsmartad.com
 us.lgsmartad.com
+cdpbeacon.lgtvcommon.com
 aic.cdpbeacon.lgtvcommon.com
 eic.cdpbeacon.lgtvcommon.com
+homeprv.lgtvcommon.com
 aic.homeprv.lgtvcommon.com
 eic.homeprv.lgtvcommon.com
 kic.homeprv.lgtvcommon.com
 ruc.homeprv.lgtvcommon.com
+nudge.lgtvcommon.com
 aic.nudge.lgtvcommon.com
 eic.nudge.lgtvcommon.com
 kic.nudge.lgtvcommon.com
@@ -1157,4 +1160,5 @@ ruc.nudge.lgtvcommon.com
 rdl.lgtvcommon.com
 aic.rdl.lgtvcommon.com
 kic.rdl.lgtvcommon.com
+wiseconfig.lgtvcommon.com
 aic.wiseconfig.lgtvcommon.com

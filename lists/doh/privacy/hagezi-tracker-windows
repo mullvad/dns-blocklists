@@ -186,6 +186,7 @@ pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
 pgtsg1-excel-telemetry-vip.officeapps.live.com
 pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
+pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -357,6 +358,7 @@ uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
+us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
 us-teams.events.data.microsoft.com
@@ -399,6 +401,7 @@ oca.microsoft.com
 watson.officeint.microsoft.com
 analytics.pstnhub.microsoft.com
 rad.microsoft.com
+telem-edge.smartscreen.microsoft.com
 i1.services.social.microsoft.com
 spynet2.microsoft.com
 spynetalt.microsoft.com
