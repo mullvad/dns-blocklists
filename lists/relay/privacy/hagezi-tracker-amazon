@@ -116,7 +116,6 @@ alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alt1-3ps.amazon-adsystem.com
-analytics.aps.amazon-adsystem.com
 api.eu-west-1.aiv-delivery.net
 api.gamma-toolbox.aps.amazon-adsystem.com
 api.us-east-1.aiv-delivery.net
@@ -369,7 +368,6 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
-monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -440,7 +438,6 @@ rum.us-east-2.amazonaws.com
 rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
-s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
