@@ -123,7 +123,6 @@ adsdkpreprod.azureedge.net
 adsdkprod.azureedge.net
 adsdkpreprod.afd.azureedge.net
 adsdkprod.afd.azureedge.net
-adsdkprprod.ec.azureedge.net
 msadsscale.azureedge.net
 cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 location-microsoft-com.b-0005.b-msedge.net
@@ -336,7 +335,6 @@ reporting.api.sandbox.bingads.microsoft.com
 secure.sandbox.bingads.microsoft.com
 secure.bingads.microsoft.com
 si.bingads.microsoft.com
-eu.si.bingads.microsoft.com
 ui.si.bingads.microsoft.com
 tip.bingads.microsoft.com
 ucm.bingads.microsoft.com
@@ -760,6 +758,7 @@ production-jobactivity-analytics.servicebus.windows.net
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
 ss-telemetry.servicebus.windows.net
+swiftanalyticsprod.servicebus.windows.net
 wayfinderanalytics.servicebus.windows.net
 c.xbox.com
 o.xbox.com
