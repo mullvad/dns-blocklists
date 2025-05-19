@@ -181,6 +181,8 @@ pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr1-powerpoint-telemetry-vip.officeapps.live.com
 pgtbr1-word-telemetry-vip.officeapps.live.com
 pgtbr2-excel-telemetry-vip.officeapps.live.com
+pgtbr2-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr2-word-telemetry-vip.officeapps.live.com
 pgtca1-excel-telemetry-vip.officeapps.live.com
 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 pgtca1-word-telemetry-vip.officeapps.live.com
@@ -669,7 +671,6 @@ v10-win.vortex.data.trafficmanager.net
 v20-asimov-win.vortex.data.trafficmanager.net
 dsp-ad-cache-tm.trafficmanager.net
 adstore.response.gcp.eastus.trafficmanager.net
-adstore.response.eastus.trafficmanager.net
 telemetry.eastus.trafficmanager.net
 eventservice.trafficmanager.net
 fsad.trafficmanager.net
@@ -752,6 +753,7 @@ hme-live-loganalytics-namespace.servicebus.windows.net
 jetanalytics.servicebus.windows.net
 nexxtv-events.servicebus.windows.net
 ppm-licensingtelemetry.servicebus.windows.net
+analyticsehnwe.privatelink.servicebus.windows.net
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 production-jobactivity-analytics.servicebus.windows.net

@@ -38,6 +38,8 @@ aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
+aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
@@ -194,19 +196,19 @@ cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
-cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
-cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
@@ -242,6 +244,7 @@ eu-central-1-3.telemetry.insights.video.a2z.com
 eu-north-1-1.telemetry.insights.video.a2z.com
 eu-north-1-2.telemetry.insights.video.a2z.com
 eu-north-1-3.telemetry.insights.video.a2z.com
+eu-south.ono.axp.amazon-adsystem.com
 eu-west-1-1.telemetry.insights.video.a2z.com
 eu-west-1-2.telemetry.insights.video.a2z.com
 eu-west-1-3.telemetry.insights.video.a2z.com
@@ -439,6 +442,7 @@ rum.us-east-2.amazonaws.com
 rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
+s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com
