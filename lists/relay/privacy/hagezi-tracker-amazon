@@ -37,8 +37,12 @@ aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
+aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
@@ -118,6 +122,7 @@ alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 alt1-3ps.amazon-adsystem.com
+analytics.aps.amazon-adsystem.com
 api.eu-west-1.aiv-delivery.net
 api.gamma-toolbox.aps.amazon-adsystem.com
 api.us-east-1.aiv-delivery.net
@@ -159,6 +164,7 @@ assoc-msdk-cn.amazon-adsystem.com
 assoc-msdk-eu.amazon-adsystem.com
 assoc-msdk-us.amazon-adsystem.com
 at-beta.amazon-adsystem.com
+ateu.amazon-adsystem.com
 atfe.amazon-adsystem.com
 at-gamma-us-east.amazon-adsystem.com
 atue.amazon-adsystem.com
@@ -196,6 +202,7 @@ cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+cell7001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
@@ -375,6 +382,7 @@ monitoring.eu-west-3.amazonaws.com
 monitoring.il-central-1.amazonaws.com
 monitoring.me-central-1.amazonaws.com
 monitoring.me-south-1.amazonaws.com
+monitoring.prod.cloudwatch.amazonaws.com
 monitoring.sa-east-1.amazonaws.com
 monitoring.us-east-1.amazonaws.com
 monitoring.us-east-2.amazonaws.com
@@ -446,6 +454,7 @@ rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s2.paa-reporting-advertising.amazon
 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
+s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com

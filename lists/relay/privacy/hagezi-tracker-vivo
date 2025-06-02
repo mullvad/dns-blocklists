@@ -37,13 +37,11 @@ asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
-asia-weather.vivoglobal.com
 cl-domaincfg.vivoglobal.com
 cl-romsp-unifyconfig.vivoglobal.com
 cl-st-sl.vivoglobal.com
 cl-vcode-api.vivoglobal.com
 cl-vcode-od.vivoglobal.com
-cl-weather.vivoglobal.com
 cname-ali-asia-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
 cname-asia-stsdk09.vivoglobal.com
@@ -64,7 +62,6 @@ co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
 co-vcode-or.vivoglobal.com
-co-weather.vivoglobal.com
 de-err-up.vivoglobal.com
 de-gdpr-err-up.vivoglobal.com
 de-gdpr-vcode-od.vivoglobal.com
@@ -82,11 +79,11 @@ eu-ort-stsdk.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
+eu-stsdk.vivoglobal.com
 eu-timesync.vivoglobal.com
 eu-vcode-api.vivoglobal.com
 eu-vcode-od.vivoglobal.com
 eu-vcode-or.vivoglobal.com
-eu-weather.vivoglobal.com
 ex-adreq-asia.vivoglobal.com
 ex-adreq-in.vivoglobal.com
 ex-romsp-unifyconfig.vivoglobal.com
@@ -121,7 +118,6 @@ in-vcode-od.vivoglobal.com
 in-vcode-or.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
-in-weather.vivoglobal.com
 kz-cname-sin01-bigdata.vivoglobal.com
 kz-err-up.vivoglobal.com
 kz-monitor-stsdk.vivoglobal.com
@@ -139,7 +135,6 @@ kz-timesync.vivoglobal.com
 kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
-kz-weather.vivoglobal.com
 monitor-stsdk.vivoglobal.com
 mx-cota.vivoglobal.com
 mx-domaincfg.vivoglobal.com
@@ -155,7 +150,6 @@ mx-timesync.vivoglobal.com
 mx-vcode-api.vivoglobal.com
 mx-vcode-od.vivoglobal.com
 mx-vcode-or.vivoglobal.com
-mx-weather.vivoglobal.com
 onrt-stsdk.vivoglobal.com
 ort-stsdk.vivoglobal.com
 pnrt-stsdk.vivoglobal.com
@@ -185,7 +179,6 @@ ru-timesync.vivoglobal.com
 ru-vcode-api.vivoglobal.com
 ru-vcode-od.vivoglobal.com
 ru-vcode-or.vivoglobal.com
-ru-weather.vivoglobal.com
 sca-cota.vivoglobal.com
 sca-domaincfg.vivoglobal.com
 sca-err-up.vivoglobal.com
@@ -200,7 +193,6 @@ sca-timesync.vivoglobal.com
 sca-vcode-api.vivoglobal.com
 sca-vcode-od.vivoglobal.com
 sca-vcode-or.vivoglobal.com
-sca-weather.vivoglobal.com
 sg-cfg-stsdk.vivoglobal.com
 stsdk.vivoglobal.com
 onrt.stsdk.vivoglobal.com
@@ -211,6 +203,7 @@ tr-album-api.vivoglobal.com
 tr-cota.vivoglobal.com
 tr-domaincfg.vivoglobal.com
 tr-err-up.vivoglobal.com
+tr-gdpr-vgc-datacenter.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com
 tr-p.vivoglobal.com
