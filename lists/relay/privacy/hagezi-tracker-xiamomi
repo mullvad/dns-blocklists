@@ -416,6 +416,7 @@ monitor.pandora.xiaomi.com
 netcheck.pandora.xiaomi.com
 ottl7-l2.pandora.xiaomi.com
 media.pre.pandora.xiaomi.com
+redirect.pandora.xiaomi.com
 rtmpott.pandora.xiaomi.com
 bsp.sasdc.pandora.xiaomi.com
 shop.pandora.xiaomi.com
@@ -426,7 +427,6 @@ mob.tv.pandora.xiaomi.com
 tvboss.pandora.xiaomi.com
 tvepg.pandora.xiaomi.com
 upgrade.pandora.xiaomi.com
-user.pandora.xiaomi.com
 w.pandora.xiaomi.com
 sentry.pay.xiaomi.com
 tj1.staging.pay.xiaomi.com

@@ -91,6 +91,7 @@ usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
+www.westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
 westeurope-2.in.applicationinsights.azure.com
@@ -249,6 +250,7 @@ learninglab.about.ads.microsoft.com
 about-test.ads.microsoft.com
 about-test-deploy.ads.microsoft.com
 adlibrary.ads.microsoft.com
+api.ads.microsoft.com
 bcp.ads.microsoft.com
 beta.ads.microsoft.com
 api.beta.ads.microsoft.com
@@ -258,6 +260,8 @@ dmc.ads.microsoft.com
 help.ads.microsoft.com
 learninglab.ads.microsoft.com
 mmcapi.ads.microsoft.com
+sandbox.ads.microsoft.com
+api.sandbox.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
 tip.ads.microsoft.com
@@ -361,6 +365,7 @@ emea.events.data.microsoft.com
 eu-ic3.events.data.microsoft.com
 eu-mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
+eu-r-mobile.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
@@ -636,7 +641,6 @@ analytics-listener.trafficmanager.net
 atm-settingsfe-prod-geo2.trafficmanager.net
 beacons.trafficmanager.net
 bf-analytics-tracker-tm.trafficmanager.net
-bf-tracker-release-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
 bingadsresources.trafficmanager.net
