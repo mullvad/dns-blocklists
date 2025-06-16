@@ -201,14 +201,12 @@ s2-iad-ss-static-assets.iad.apple.com
 s2-iad-ss-static-assets-admin.iad.apple.com
 s2-iad-ss-static-assets-cm.iad.apple.com
 s2-iad-ss-user-targeting.iad.apple.com
-st11p01ad-data-api-ims.iad.apple.com
 st11p01ad-netscaler005-snip.iad.apple.com
 st11p01ad-netscaler006-snip.iad.apple.com
 st11p01ad-netscaler009-pass.iad.apple.com
 st11p01ad-netscaler013-pass.iad.apple.com
 st11p01ad-netscaler014-pass.iad.apple.com
 sy21p01ad-ext-cloud.iad.apple.com
-vg3-dev2cpr.iad.apple.com
 vp2pass-dev.iad.apple.com
 iadcontent.apple.com
 iadmoo.apple.com
@@ -222,6 +220,7 @@ idiagnostics-devices-mdn.apple.com
 idiagnostics-devices-qa.apple.com
 idiagnostics-devices-reno.apple.com
 idiagnostics-ft.apple.com
+idiagnostics-it2.apple.com
 idiagnostics-mdn1.apple.com
 idiagnostics-qa.apple.com
 idiagnostics-reno.apple.com

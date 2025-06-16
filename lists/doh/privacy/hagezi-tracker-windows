@@ -91,7 +91,6 @@ usgovvirginia-0.in.applicationinsights.azure.us
 usgovvirginia-1.in.applicationinsights.azure.us
 usgovvirginia-global.in.applicationinsights.azure.us
 westeurope.in.applicationinsights.azure.com
-www.westeurope.in.applicationinsights.azure.com
 westeurope-0.in.applicationinsights.azure.com
 westeurope-1.in.applicationinsights.azure.com
 westeurope-2.in.applicationinsights.azure.com
@@ -198,6 +197,9 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgteu5-excel-telemetry-vip.officeapps.live.com
+pgteu5-powerpoint-telemetry-vip.officeapps.live.com
+pgteu5-word-telemetry-vip.officeapps.live.com
 pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
@@ -431,6 +433,8 @@ api.edgeoffer.microsoft.com
 adsdisplay.glbdns2.microsoft.com
 aisefs.adsdisplay.glbdns2.microsoft.com
 bingads.glbdns2.microsoft.com
+beta.bingads.glbdns2.microsoft.com
+internal.beta.bingads.glbdns2.microsoft.com
 si.bingads.glbdns2.microsoft.com
 ieonline.microsoft.com
 location.microsoft.com
