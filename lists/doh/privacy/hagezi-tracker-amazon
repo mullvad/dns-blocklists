@@ -39,10 +39,12 @@ aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -253,6 +255,7 @@ endpoint.prod.us-west-2.forester.a2z.com
 eu-central-1-1.telemetry.insights.video.a2z.com
 eu-central-1-2.telemetry.insights.video.a2z.com
 eu-central-1-3.telemetry.insights.video.a2z.com
+eu-central.3px.axp.amazon-adsystem.com
 eu-north-1-1.telemetry.insights.video.a2z.com
 eu-north-1-2.telemetry.insights.video.a2z.com
 eu-north-1-3.telemetry.insights.video.a2z.com

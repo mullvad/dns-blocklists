@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1750057775    ; serial
+                                        1750665273    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -149,6 +149,7 @@ $TTL 3600
 68-175.net.jumia.co.ke IN CNAME .
 682a5845.b-cdn.net IN CNAME .
 69-74.net.jumia.sn IN CNAME .
+6dp0i7.ru IN CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com IN CNAME .
 6pal.consobaby.com IN CNAME .
 6swu.cpa-france.org IN CNAME .
@@ -9487,6 +9488,7 @@ crocetta.viessmann.it IN CNAME .
 crochetdivas.com IN CNAME .
 crookedcreature.com IN CNAME .
 crossees.com IN CNAME .
+crossengage.io IN CNAME .
 crowdedmass.com IN CNAME .
 crrm.onjoyri.de IN CNAME .
 crs.actonservice.com IN CNAME .
@@ -9827,6 +9829,7 @@ d1xfq2052q7thw.cloudfront.net IN CNAME .
 d1z3r0i09bwium.cloudfront.net IN CNAME .
 d1z9vm58yath60.cloudfront.net IN CNAME .
 d20kffh39acpue.cloudfront.net IN CNAME .
+d20vwa69zln1wj.cloudfront.net IN CNAME .
 d21o24qxwf7uku.cloudfront.net IN CNAME .
 d21y75miwcfqoq.cloudfront.net IN CNAME .
 d22v2nmahyeg2a.cloudfront.net IN CNAME .
@@ -14908,6 +14911,7 @@ healthier.aahs.org IN CNAME .
 healthier.luminishealth.org IN CNAME .
 health.info.baptisthealth.com IN CNAME .
 health-metrics-api.setapp.com IN CNAME .
+healthroundprince.com IN CNAME .
 heap-api.com IN CNAME .
 heap.drop.com IN CNAME .
 hearob.klix.ba IN CNAME .
@@ -15285,6 +15289,7 @@ icas.ikea.com IN CNAME .
 icas.ikea.net IN CNAME .
 icaubf.casamundo.de IN CNAME .
 icfckg.myft.com.br IN CNAME .
+icg-in.com IN CNAME .
 icharts.actonservice.com IN CNAME .
 icmakp.united-arrows.tw IN CNAME .
 icoktb.onygo.com IN CNAME .
@@ -23767,6 +23772,7 @@ nossl.aafpfoundation.org IN CNAME .
 nossl.basco.com IN CNAME .
 nostalgicknot.com IN CNAME .
 nostalgicneed.com IN CNAME .
+notcardboard.com IN CNAME .
 notconscious.com IN CNAME .
 nothingmethod.com IN CNAME .
 notice.hoopladigital.com IN CNAME .
@@ -25793,6 +25799,7 @@ q.nasdaq.com IN CNAME .
 qnbskk.oqvestir.com.br IN CNAME .
 qnlbs2m0uoto.www.videoath.com IN CNAME .
 qnqdpy.edreams.net IN CNAME .
+qntm.pro IN CNAME .
 qnuzwe.nomanwalksalone.com IN CNAME .
 qnwkbv.bestsecret.nl IN CNAME .
 qnzczf.idc-otsuka.jp IN CNAME .
@@ -26553,6 +26560,7 @@ rtek-link.shares.social IN CNAME .
 rt.flix360.com IN CNAME .
 rtg-adroute.focas.jp IN CNAME .
 rtgvwr.com IN CNAME .
+rtmscl.com IN CNAME .
 rtm-tracking.zozo.jp IN CNAME .
 rtmugo.deindeal.ch IN CNAME .
 rt.newswire.ca IN CNAME .
@@ -32837,6 +32845,7 @@ s.stcatharinesstandard.ca IN CNAME .
 sst.colemanfurniture.com IN CNAME .
 sst.cooperativa.cl IN CNAME .
 s.stgeorgeafc.com.au IN CNAME .
+sstm.sport2000.fr IN CNAME .
 sst.shopware.com IN CNAME .
 sst.vrijopnaam.nl IN CNAME .
 ssuork.sixt.at IN CNAME .
@@ -33390,6 +33399,7 @@ stats.igassmann.me IN CNAME .
 stats.igor4stir.com IN CNAME .
 stats.incoming.co IN CNAME .
 stats.increasinglyfunctional.com IN CNAME .
+stats.indianpornempire.com IN CNAME .
 stats.indyhall.org IN CNAME .
 stats.inergizedigitalmedia.com IN CNAME .
 stats.infoboard.de IN CNAME .
@@ -34638,6 +34648,7 @@ tags.stepstone.com IN CNAME .
 tag.statshop.fr IN CNAME .
 tagtracking.vibescm.com IN CNAME .
 tag.triboomedia.it IN CNAME .
+tag.unifyintent.com IN CNAME .
 tag.weezmo.com IN CNAME .
 t.airasia.com IN CNAME .
 takigx.tourneau.com IN CNAME .
@@ -35136,6 +35147,7 @@ telemetry.canva.com IN CNAME .
 telemetry.chrobinson.com IN CNAME .
 telemetry.commonspirit.org IN CNAME .
 telemetry.dematic.com IN CNAME .
+telemetry.dzen.ru IN CNAME .
 telemetry-eastus.trafficmanager.inmobi.com IN CNAME .
 telemetry.firez.one IN CNAME .
 telemetry.goodlifefitness.com IN CNAME .
@@ -38631,6 +38643,7 @@ t.spot.im IN CNAME .
 t-s.revealvirology.com IN CNAME .
 t-s.rheumatoidarthritis.com IN CNAME .
 t-s.rituxan.com IN CNAME .
+tss.sport2000.fr IN CNAME .
 t-s.strokeawareness.com IN CNAME .
 t.staging-mail.tabcorp.com.au IN CNAME .
 t-s.tamiflu.com IN CNAME .
@@ -39100,6 +39113,7 @@ us.pdc.micloud.xiaomi.net.iberostar.com IN CNAME .
 us.ricoh-usa.com IN CNAME .
 usr.interactiveone.com IN CNAME .
 usrkrz.zdravcity.ru IN CNAME .
+usrpubtrk.com IN CNAME .
 ussco-dev.actonservice.com IN CNAME .
 ussolutions.equifax.com IN CNAME .
 ustat.info IN CNAME .
@@ -41763,6 +41777,7 @@ znlgke.jiobit.com IN CNAME .
 znmtka.kikocosmetics.com IN CNAME .
 znq9.destinia.mx IN CNAME .
 znrttr.jaypore.com IN CNAME .
+zodalt.com IN CNAME .
 zodhqv.peterson.fr IN CNAME .
 zodxgk.lecoqsportif.com IN CNAME .
 zombieslayer-alternate.kano.link IN CNAME .
@@ -41871,10 +41886,12 @@ aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
+aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
+aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 aax-fe-rtb.amazon-adsystem.com IN CNAME .
 aax-fe-sin-rtb-adx.amazon-adsystem.com IN CNAME .
@@ -42085,6 +42102,7 @@ endpoint.prod.us-west-2.forester.a2z.com IN CNAME .
 eu-central-1-1.telemetry.insights.video.a2z.com IN CNAME .
 eu-central-1-2.telemetry.insights.video.a2z.com IN CNAME .
 eu-central-1-3.telemetry.insights.video.a2z.com IN CNAME .
+eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 eu-north-1-1.telemetry.insights.video.a2z.com IN CNAME .
 eu-north-1-2.telemetry.insights.video.a2z.com IN CNAME .
 eu-north-1-3.telemetry.insights.video.a2z.com IN CNAME .
@@ -43323,6 +43341,7 @@ dhfs-th.oppomobile.com IN CNAME .
 dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
 h4g3z1-native.oppo-realme.web.app IN CNAME .
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net IN CNAME .
 frontier.byteoversea.com IN CNAME .
 gplog-sg.byteoversea.com IN CNAME .
 gplog-va.byteoversea.com IN CNAME .
@@ -43363,6 +43382,7 @@ xlog.byteoversea.com IN CNAME .
 xlog-o.byteoversea.com IN CNAME .
 xlog-va.byteoversea.com IN CNAME .
 xlog-va-useast2a.byteoversea.com IN CNAME .
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
@@ -43445,6 +43465,7 @@ location.us.tiktok.com IN CNAME .
 mcs.us.tiktok.com IN CNAME .
 mcs-ttp2.us.tiktok.com IN CNAME .
 mssdk.us.tiktok.com IN CNAME .
+p16-tiktok-ads-sg.tiktokcdn.com IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 ad.tiktokv.com IN CNAME .
 ad.tiktokv.us IN CNAME .
@@ -43518,6 +43539,7 @@ log19-applog-useast1a.tiktokv.com IN CNAME .
 log19-applog-useast2a.tiktokv.com IN CNAME .
 log19-normal.tiktokv.com IN CNAME .
 log19-normal-alisg.tiktokv.com IN CNAME .
+log19-normal-no1a.tiktokv.eu IN CNAME .
 log19-normal-useast1a.tiktokv.com IN CNAME .
 log19-normal-useast2a.tiktokv.com IN CNAME .
 log22-applog-useast1a.tiktokv.com IN CNAME .
@@ -45126,6 +45148,8 @@ ve.ad.lgsmartad.com IN CNAME .
 vn.ad.lgsmartad.com IN CNAME .
 za.ad.lgsmartad.com IN CNAME .
 us.lgsmartad.com IN CNAME .
+aic.ads.lgtvcommon.com IN CNAME .
+eic.ads.lgtvcommon.com IN CNAME .
 cdpbeacon.lgtvcommon.com IN CNAME .
 aic.cdpbeacon.lgtvcommon.com IN CNAME .
 eic.cdpbeacon.lgtvcommon.com IN CNAME .
@@ -45487,6 +45511,7 @@ nirvana.bingads.microsoft.com IN CNAME .
 preview-services.bingads.microsoft.com IN CNAME .
 reportingapi.bingads.microsoft.com IN CNAME .
 sandbox.bingads.microsoft.com IN CNAME .
+adinsight.api.sandbox.bingads.microsoft.com IN CNAME .
 bulk.api.sandbox.bingads.microsoft.com IN CNAME .
 campaign.api.sandbox.bingads.microsoft.com IN CNAME .
 clientcenter.api.sandbox.bingads.microsoft.com IN CNAME .
@@ -45581,8 +45606,6 @@ api.edgeoffer.microsoft.com IN CNAME .
 adsdisplay.glbdns2.microsoft.com IN CNAME .
 aisefs.adsdisplay.glbdns2.microsoft.com IN CNAME .
 bingads.glbdns2.microsoft.com IN CNAME .
-beta.bingads.glbdns2.microsoft.com IN CNAME .
-internal.beta.bingads.glbdns2.microsoft.com IN CNAME .
 si.bingads.glbdns2.microsoft.com IN CNAME .
 ieonline.microsoft.com IN CNAME .
 location.microsoft.com IN CNAME .
@@ -45751,6 +45774,11 @@ logging.diagnostics.office.com IN CNAME .
 msa.diagnostics.office.com IN CNAME .
 api.msa.diagnostics.office.com IN CNAME .
 supportexperience.diagnostics.office.com IN CNAME .
+diagnostics-eudb.office.com IN CNAME .
+api.diagnostics-eudb.office.com IN CNAME .
+entitlement.diagnostics-eudb.office.com IN CNAME .
+incidents.diagnostics-eudb.office.com IN CNAME .
+logging.diagnostics-eudb.office.com IN CNAME .
 measure.office.com IN CNAME .
 measure.office.net IN CNAME .
 fp.measure.office.com IN CNAME .
@@ -46024,6 +46052,7 @@ api.browser.intl.miui.com IN CNAME .
 hot.browser.intl.miui.com IN CNAME .
 r.browser.intl.miui.com IN CNAME .
 api.brs.intl.miui.com IN CNAME .
+api.calendar.intl.miui.com IN CNAME .
 abroad.api.comm.intl.miui.com IN CNAME .
 api.competition.intl.miui.com IN CNAME .
 api.content.intl.miui.com IN CNAME .
