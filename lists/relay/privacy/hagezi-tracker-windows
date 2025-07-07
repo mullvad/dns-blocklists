@@ -645,7 +645,6 @@ agps-location-livenet.trafficmanager.net
 analytics.trafficmanager.net
 hub.analytics.trafficmanager.net
 geo.hub.analytics.trafficmanager.net
-analytics-listener.trafficmanager.net
 atm-settingsfe-prod-geo2.trafficmanager.net
 beacons.trafficmanager.net
 bf-analytics-tracker-tm.trafficmanager.net
@@ -729,6 +728,7 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.wac.trafficmanager.net
 word-telemetry.wac.trafficmanager.net
 win-global-asimov-leafs-events-data.trafficmanager.net
+wttwebsiteprodapi-liveevents.trafficmanager.net
 dc.services.visualstudio.com
 h4g3z1-native.winoffice.web.app
 activity.windows.com
