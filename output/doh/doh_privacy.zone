@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1751874536    ; serial
+                                        1752477461    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5198,6 +5198,7 @@ analytics.greenmountainenergy.com IN CNAME .
 analytics.groupe-seb.com IN CNAME .
 analytics.growthphysics.com IN CNAME .
 analytics.gtechgroup.it IN CNAME .
+analytics.gtflixtv.com IN CNAME .
 analytics.gvim.mobi IN CNAME .
 analytics-gw.games.wanmei.com IN CNAME .
 analytics.hambleden-capital.com IN CNAME .
@@ -19064,6 +19065,7 @@ logs-api.shoprunner.com IN CNAME .
 logsbin.dantri.com.vn IN CNAME .
 logs.chatboost-cv.algoage.co.jp IN CNAME .
 logsdk.kwai-pro.com IN CNAME .
+logs.dynamicauth.com IN CNAME .
 log.seekda.com IN CNAME .
 logservice1.hicloud.com IN CNAME .
 logservice.hicloud.com IN CNAME .
@@ -19088,6 +19090,7 @@ log.ttbc-hcm.gov.vn IN CNAME .
 log-upload-os.hoyolab.com IN CNAME .
 log-upload-os.hoyoverse.com IN CNAME .
 log.webnovel.com IN CNAME .
+log.willie.nl IN CNAME .
 log.worldsoft-cms.info IN CNAME .
 logx-experimentation.iherb.com IN CNAME .
 logx.optimizely.com IN CNAME .
@@ -23966,6 +23969,7 @@ observe.metarouter.io IN CNAME .
 observe-nexus.pointandplace.com IN CNAME .
 observer.ip-label.net IN CNAME .
 obseu.netgreencolumn.com IN CNAME .
+obs.jollyoutdoorjogger.com IN CNAME .
 obs.system1onesource.com IN CNAME .
 obtfhl.bellemaison.jp IN CNAME .
 oca.microsoft.com IN CNAME .
@@ -24946,6 +24950,7 @@ pine.nervecentral.com IN CNAME .
 pingback.giphy.com IN CNAME .
 pingback.issuu.com IN CNAME .
 ping.dozuki.com IN CNAME .
+ping.fastsimon.com IN CNAME .
 ping.hashnode.com IN CNAME .
 ping.hungama.com IN CNAME .
 pingjs.qq.com IN CNAME .
@@ -24960,6 +24965,7 @@ pint-dev-branch.airship.com IN CNAME .
 pionmj.companyshop24.de IN CNAME .
 pipe-collect.ebu.io IN CNAME .
 pipedream.wistia.com IN CNAME .
+pipeline.nachtkastje.nl IN CNAME .
 pipelinepub.actonservice.com IN CNAME .
 piper.amocrm.ru IN CNAME .
 pippio.com IN CNAME .
@@ -26486,6 +26492,7 @@ rockpebbles.com IN CNAME .
 rockstarwriter.com IN CNAME .
 roedwy.imidapeptide.com IN CNAME .
 ro-go.experian.com IN CNAME .
+roibest-report-sdk.qiliangjia.com IN CNAME .
 roinjg.mkluzkoviny.cz IN CNAME .
 roiscs.actonservice.com IN CNAME .
 rollbar.actonservice.com IN CNAME .
@@ -28373,6 +28380,7 @@ share.yugengamers.com IN CNAME .
 sharing.kptncook.com IN CNAME .
 sharkskids.com IN CNAME .
 sh.b.inhaabit.com IN CNAME .
+shdid.me IN CNAME .
 s.hdsupplysolutions.com IN CNAME .
 sheeta.nrj-play.fr IN CNAME .
 sheideal.com IN CNAME .
@@ -33895,6 +33903,7 @@ stats.vdsnow.ru IN CNAME .
 stats.vican.me IN CNAME .
 stats.vidbinge.com IN CNAME .
 stats.viddler.com IN CNAME .
+stats.videasy.net IN CNAME .
 stats.vidyome.com IN CNAME .
 stats.visions.ch IN CNAME .
 stats.vk-portal.net IN CNAME .
@@ -41918,6 +41927,7 @@ aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
+aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-wt.us-west.ono.axp.amazon-adsystem.com IN CNAME .
 aax-fe-rtb.amazon-adsystem.com IN CNAME .
 aax-fe-sin-rtb-adx.amazon-adsystem.com IN CNAME .
@@ -43473,7 +43483,6 @@ location.us.tiktok.com IN CNAME .
 mcs.us.tiktok.com IN CNAME .
 mcs-ttp2.us.tiktok.com IN CNAME .
 mssdk.us.tiktok.com IN CNAME .
-p16-tiktok-ads-sg.tiktokcdn.com IN CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 ad.tiktokv.com IN CNAME .
 ad.tiktokv.us IN CNAME .
@@ -44032,6 +44041,8 @@ ckbjtnu46.alphonso.tv IN CNAME .
 clockskew.alphonso.tv IN CNAME .
 config-overlay-ads.alphonso.tv IN CNAME .
 config-overlay-ads-staging.alphonso.tv IN CNAME .
+crgyirwbq42.alphonso.tv IN CNAME .
+crmjqv9.alphonso.tv IN CNAME .
 crpsh8.alphonso.tv IN CNAME .
 cssmps40.alphonso.tv IN CNAME .
 csxnc89.alphonso.tv IN CNAME .
