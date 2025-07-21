@@ -40,6 +40,7 @@ aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
@@ -560,7 +561,13 @@ vfw.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfws.amazon-adsystem.com
+video-ads.a2z.com
 video-player.aps.amazon-adsystem.com
+vq-eu-west-1.amazon-adsystem.com
+vq-fe-us-west-2.amazon-adsystem.com
+vq-test-us-east-1.amazon-adsystem.com
+vq-us-east-1.amazon-adsystem.com
+vq-us-west-2.amazon-adsystem.com
 web.ads.aps.amazon-adsystem.com
 web.ap-southeast.aps.axp.amazon-adsystem.com
 web.eu-west.aps.axp.amazon-adsystem.com
