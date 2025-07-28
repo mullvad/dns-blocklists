@@ -290,10 +290,8 @@ album-sg01a.ocloud.heytapmobi.com
 i-cn01a.ocloud.heytapmobi.com
 i-sg01a.ocloud.heytapmobi.com
 omes-sec.heytapmobi.com
-push.heytapmobi.com
 dcintl.push.heytapmobi.com
 device-ups.push.heytapmobi.com
-httpdns.push.heytapmobi.com
 id.push.heytapmobi.com
 userprofile.push.heytapmobi.com
 api-id.theme.heytapmobi.com
@@ -378,9 +376,6 @@ obus-sg.dc.heytapmobile.com
 dc-stat-in.heytapmobile.com
 dragate-in-dc.heytapmobile.com
 api-id.game.heytapmobile.com
-httpdns-euex-push.heytapmobile.com
-httpdns-ocloud.heytapmobile.com
-httpdns-push.heytapmobile.com
 mdp-usertrace-in.heytapmobile.com
 mdp-usertrace-sg.heytapmobile.com
 obus-dc-eu.heytapmobile.com
