@@ -38,8 +38,12 @@ aax-eu-ott.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
+aax-eu-west.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
@@ -58,6 +62,7 @@ aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02.us-west.3px.axp.amazon-adsystem.com
+aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 aax-events-mobile.eu-west.aps.axp.amazon-adsystem.com
 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com
 aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com

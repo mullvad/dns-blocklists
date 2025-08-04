@@ -5,6 +5,7 @@ upload2.fp.measure.office.com.akamaized.net
 in.applicationinsights.azure.com.albertk12.org
 ukwest-0.in.applicationinsights.azure.com.albertk12.org
 in.appcenter.ms
+ingest.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
 js1.cdn.applicationinsights.io
@@ -267,6 +268,7 @@ sandbox.ads.microsoft.com
 api.sandbox.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
+support.ads.microsoft.com
 tip.ads.microsoft.com
 api.tip.ads.microsoft.com
 ucm.ads.microsoft.com
@@ -303,6 +305,7 @@ server7.pipe.aria.microsoft.com
 server8.pipe.aria.microsoft.com
 tb.pipe.aria.microsoft.com
 us.pipe.aria.microsoft.com
+collector.azure.microsoft.cloud
 collector.azure.microsoft.scloud
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com

@@ -4845,6 +4845,7 @@ allergy.thermofisher.com
 alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
+alloutdubstep.com
 allreach.actonservice.com
 allrisks.actonservice.com
 a.lls.org
@@ -5246,6 +5247,7 @@ analytics.littlekingdesigns.com
 analytics.liveact.cri-mw.jp
 analytics.livesense.marketing
 analytics.livestream.com
+analytics.loadweb.com
 analytics.logsss.com
 analytics.lunaweb.cloud
 analytics.lunge.de
@@ -5574,6 +5576,7 @@ analytics.yola.net
 analytics.yollamedia.com
 analytics.yomedia.vn
 analytics.yugen.to
+analytics.yyggames.com
 analytics.zagg.com
 analytics.zevvle.com
 analytics.ziftsolutions.com
@@ -7410,6 +7413,7 @@ bi.concordesolutions.com
 bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
+bidpapers.com
 bidswitch.net
 bienvenido.americanindustriesgroup.com
 bigcustomernetwork.actonservice.com
@@ -7946,6 +7950,7 @@ budibu.saksfifthavenue.com
 buf.lemonde.fr
 bugdsm.buffalo-boots.com
 bugjyl.jkattire.co.uk
+bugpizza.com
 bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
@@ -8282,6 +8287,7 @@ cdn1.skrill.com
 cdn7.baunetz.de
 cdn.arcstudiopro.com
 cdn-channels-pixel.ex.co
+cdn-eu.usefathom.com
 cdnhst.xyz
 cdnlogs.org
 cdn.net.dz.jumia.com
@@ -9825,6 +9831,7 @@ d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
+d1tqsoh7s4xjz9.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
@@ -27439,6 +27446,7 @@ scrippscookingchannel.cookingchanneltv.com
 scrippsfoodnetnew.foodnetwork.com
 scrippshgtvnew.hgtv.com
 script.ac
+scripts.dadata.com.br
 scripts.psyma.com
 scrollservice.com
 scrubswim.com
@@ -35851,6 +35859,7 @@ t.ohiobobcats.com
 t.okcciviccenter.com
 t.okstate.com
 t.olemisssports.com
+tomatobarrel.com
 tommys.openapp.link
 tongji.mafengwo.cn
 tongji-res.meizu.com
@@ -35872,6 +35881,7 @@ top-fwz1.mail.ru
 top.skyzone.ro
 topspin.npo.nl
 top-staging.mail.ru
+t.optiwizehealth.com
 top.wn.com
 to.quit.guru
 t.oralia.fr
@@ -38844,7 +38854,6 @@ tytpdz.climamarket.it
 tyumen.net.anwalt.de
 tyvuwf.lameteoagricole.net
 tzgurwizule3.app.cardahealth.com
-tzm.px-cloud.net
 tzovkp.aboutyou.at
 tzwaw.pw
 u0crsrah75fy.camberlion.com
@@ -39089,6 +39098,7 @@ uqckxr.chilli.se
 uqd.io
 uqhpej.wiberrentacar.com
 urbanairship.com
+urbanlaurel.com
 ur.b.inhaabit.com
 urehgr.halekulani.com
 ureoaw.netthandelen.no
@@ -39724,6 +39734,7 @@ video.bzfd.it
 videocdnmetrika.com
 videoevents.outbrain.com
 video.funnelbox.com
+video-intel.pixels.ai
 videoplayerhub.com
 videos.adp.ca
 videos.personneltoday.com
@@ -41940,8 +41951,12 @@ aax-eu-ott.amazon-adsystem.com
 aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
+aax-eu-west.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
+aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
@@ -41960,6 +41975,7 @@ aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 aax-events-cell02.us-west.3px.axp.amazon-adsystem.com
+aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 aax-events-mobile.eu-west.aps.axp.amazon-adsystem.com
 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com
 aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com
@@ -43501,6 +43517,7 @@ analytics-test.tiktok.com
 analytics-useast2a.tiktok.com
 analytics-v6.tiktok.com
 business-api.tiktok.com
+p0-common-image-private-useastred.eu.tiktok.com
 ads.in.tiktok.com
 location.tiktok.com
 location-i18n.tiktok.com
@@ -44093,8 +44110,10 @@ cyijq72.alphonso.tv
 dar-pix-prod-lb.alphonso.tv
 dkpae73.alphonso.tv
 dmkfppbdav49.alphonso.tv
+dqfui3.alphonso.tv
 dqzljjhryn04.alphonso.tv
 dtsif22.alphonso.tv
+dtyjiik06.alphonso.tv
 dueypce56.alphonso.tv
 dufqih18.alphonso.tv
 dzhsiasru67.alphonso.tv
@@ -44401,6 +44420,7 @@ krishnaw355.alphonso.tv
 krishnaw356.alphonso.tv
 krishnaw357.alphonso.tv
 krishnaw358.alphonso.tv
+krishnaw359.alphonso.tv
 krishnaw360.alphonso.tv
 krishnaw361.alphonso.tv
 krishnaw362.alphonso.tv
@@ -44453,6 +44473,7 @@ krishnaw427.alphonso.tv
 krishnaw428.alphonso.tv
 krishnaw429.alphonso.tv
 krishnaw430.alphonso.tv
+krishnaw431.alphonso.tv
 krishnaw432.alphonso.tv
 krishnaw434.alphonso.tv
 krishnaw435.alphonso.tv
@@ -44461,6 +44482,7 @@ krishnaw437.alphonso.tv
 krishnaw438.alphonso.tv
 krishnaw439.alphonso.tv
 krishnaw441.alphonso.tv
+krishnaw443.alphonso.tv
 krishnaw445.alphonso.tv
 krishnaw446.alphonso.tv
 krishnaw447.alphonso.tv
@@ -44493,6 +44515,7 @@ krishnaw475.alphonso.tv
 krishnaw476.alphonso.tv
 krishnaw477.alphonso.tv
 krishnaw478.alphonso.tv
+krishnaw479.alphonso.tv
 krishnaw481.alphonso.tv
 krishnaw482.alphonso.tv
 krishnaw484.alphonso.tv
@@ -45146,6 +45169,7 @@ ycqniap3.alphonso.tv
 ycveqoogp09.alphonso.tv
 ygebzkorfi7.alphonso.tv
 ygkibjr6.alphonso.tv
+yojpcn16.alphonso.tv
 yrdpnjajw79.alphonso.tv
 yubyryonu18.alphonso.tv
 yumhcpugj62.alphonso.tv
@@ -45157,6 +45181,7 @@ zhalit66.alphonso.tv
 zmepmwhey7.alphonso.tv
 zpvvb87.alphonso.tv
 zqsyp37.alphonso.tv
+zsrznel7.alphonso.tv
 zumqanh0.alphonso.tv
 zycigxwpgv8.alphonso.tv
 us-ad-lgsmartad-com.aws-prd.net
@@ -45253,6 +45278,7 @@ upload2.fp.measure.office.com.akamaized.net
 in.applicationinsights.azure.com.albertk12.org
 ukwest-0.in.applicationinsights.azure.com.albertk12.org
 in.appcenter.ms
+ingest.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
 js1.cdn.applicationinsights.io
@@ -45515,6 +45541,7 @@ sandbox.ads.microsoft.com
 api.sandbox.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
+support.ads.microsoft.com
 tip.ads.microsoft.com
 api.tip.ads.microsoft.com
 ucm.ads.microsoft.com
@@ -45551,6 +45578,7 @@ server7.pipe.aria.microsoft.com
 server8.pipe.aria.microsoft.com
 tb.pipe.aria.microsoft.com
 us.pipe.aria.microsoft.com
+collector.azure.microsoft.cloud
 collector.azure.microsoft.scloud
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com
