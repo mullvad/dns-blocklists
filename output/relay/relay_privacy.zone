@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1754312215    ; serial
+                                        1754900830    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7517,6 +7517,7 @@ blisscalendar.com IN CNAME .
 blissfulcrescendo.com IN CNAME .
 blissfullagoon.com IN CNAME .
 blitz-analytics-batch-server.blitz.gg IN CNAME .
+blitzcampaigns.com IN CNAME .
 blmjbp.casamundo.pl IN CNAME .
 blockchain.actonservice.com IN CNAME .
 blockdial.com IN CNAME .
@@ -8843,6 +8844,7 @@ collector.github.com IN CNAME .
 collector.hippodromeonline.com IN CNAME .
 collector.mazeberry.com IN CNAME .
 collector.megaxh.com IN CNAME .
+collector.net-logger.com IN CNAME .
 collector.pi.spectrum.net IN CNAME .
 collector-px0py5pczn.octopart.com IN CNAME .
 collector.quillbot.com IN CNAME .
@@ -12618,6 +12620,7 @@ ermiph.petermanningnyc.com IN CNAME .
 eroar.lionsclubs.org IN CNAME .
 erp.qwic.nl IN CNAME .
 err.ifengcloud.ifeng.com IN CNAME .
+error-analytics-production.shopifysvc.com IN CNAME .
 error-analytics-sessions-production.shopifysvc.com IN CNAME .
 error-collector.ted.com IN CNAME .
 errorreports.couponcabin.com IN CNAME .
@@ -13701,7 +13704,6 @@ g993dvyzae.branch.salesfloor.net IN CNAME .
 gaafbi.fashiondays.hu IN CNAME .
 ga-beacon.appspot.com IN CNAME .
 gaccwr.dutramaquinas.com.br IN CNAME .
-ga.finam.ru IN CNAME .
 ga.groc.press IN CNAME .
 gagysn.floward.com IN CNAME .
 gahhfg.bobo.com.br IN CNAME .
@@ -13759,6 +13761,7 @@ gdqlno.weisshaus.de IN CNAME .
 gdsngr.chainreactioncycles.com IN CNAME .
 gdt.qq.com IN CNAME .
 gea-exchange-03.net.jumia.ug IN CNAME .
+gearbubbles.com IN CNAME .
 gear.echovisuals.com IN CNAME .
 gecfnc.foresight.jp IN CNAME .
 gedozw.autoscout24.cz IN CNAME .
@@ -14971,6 +14974,7 @@ hello.staticstuff.net IN CNAME .
 hello.stbpost.be IN CNAME .
 hello.steadyapp.com IN CNAME .
 hello.trailblazers.com IN CNAME .
+hellounbox.com IN CNAME .
 hello.wellocution.com IN CNAME .
 helpcollar.com IN CNAME .
 helpdesk.thinkhdi.com IN CNAME .
@@ -25614,6 +25618,7 @@ psilikaki.openapp.link IN CNAME .
 p.skimresources.com IN CNAME .
 psmastersendgrid.branch.rocks IN CNAME .
 ps.pmu.fr IN CNAME .
+p.spotidownloader.com IN CNAME .
 pspqlm.rndsystems.com IN CNAME .
 psqsjg.coach.com IN CNAME .
 psssaraki.openapp.link IN CNAME .
@@ -28601,6 +28606,7 @@ skullmagnets.com IN CNAME .
 skxbbj.clasic.jp IN CNAME .
 skylightdata.com IN CNAME .
 slackb.com IN CNAME .
+slackpod.com IN CNAME .
 slashnext.actonservice.com IN CNAME .
 s.latam.cemex.com IN CNAME .
 slaunch.shopcanopy.com IN CNAME .
@@ -35222,6 +35228,7 @@ telemetry.moveworks.com IN CNAME .
 telemetry.navispherecarrier.com IN CNAME .
 telemetry.owenscorning.com IN CNAME .
 telemetry.phenixrts.com IN CNAME .
+telemetry.proton.me IN CNAME .
 telemetry.reembed.com IN CNAME .
 telemetry.ruthschris.com IN CNAME .
 telemetry.sdk.inmobi.com IN CNAME .
@@ -35468,6 +35475,7 @@ thecea.actonservice.com IN CNAME .
 thefishstops.com IN CNAME .
 thefontzone.com IN CNAME .
 thejavalane.com IN CNAME .
+themangotea.com IN CNAME .
 theme.echovisuals.com IN CNAME .
 themepicker.com IN CNAME .
 thepowerstones.com IN CNAME .
@@ -36098,6 +36106,7 @@ track.emerse.com IN CNAME .
 track.emeza.ch IN CNAME .
 track.emeza.com IN CNAME .
 tracker-00.qvb.qcloud.com IN CNAME .
+tracker.3dissue.com IN CNAME .
 tracker.520call.me IN CNAME .
 tracker-aa.pafbetscore.lv IN CNAME .
 tracker-aa.paf.es IN CNAME .
@@ -41963,7 +41972,6 @@ aax-eu-ott.amazon-adsystem.com IN CNAME .
 aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 aax-eu-rtb.amazon-adsystem.com IN CNAME .
 aax-eu-test1.amazon-adsystem.com IN CNAME .
-aax-eu-west.amazon-adsystem.com IN CNAME .
 aax-eu.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
@@ -41987,6 +41995,7 @@ aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02.us-west.3px.axp.amazon-adsystem.com IN CNAME .
+aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-mobile.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com IN CNAME .
@@ -42453,7 +42462,6 @@ us-eas.prod.service.minerva.devices.a2z.com IN CNAME .
 us-east-1-1.telemetry.insights.video.a2z.com IN CNAME .
 us-east-1-2.telemetry.insights.video.a2z.com IN CNAME .
 us-east-1-3.telemetry.insights.video.a2z.com IN CNAME .
-us-east-1.beta.paa-reporting-advertising.amazon IN CNAME .
 us-east-1.paa-reporting-advertising.amazon IN CNAME .
 us-east-1.prod.service.minerva.devices.a2z.com IN CNAME .
 us-east-2-1.telemetry.insights.video.a2z.com IN CNAME .
@@ -44582,6 +44590,7 @@ nbacc1.alphonso.tv IN CNAME .
 nhundu5.alphonso.tv IN CNAME .
 nmjvt6.alphonso.tv IN CNAME .
 ntkfbsqfxy2.alphonso.tv IN CNAME .
+ntmonou0.alphonso.tv IN CNAME .
 nxlfrrqk07.alphonso.tv IN CNAME .
 nzbglro8.alphonso.tv IN CNAME .
 oabvftvdl78.alphonso.tv IN CNAME .
@@ -44614,6 +44623,7 @@ prov-geo-aws.alphonso.tv IN CNAME .
 prov-lb.alphonso.tv IN CNAME .
 prov-lg.alphonso.tv IN CNAME .
 qarawx1.alphonso.tv IN CNAME .
+qcduuw89.alphonso.tv IN CNAME .
 qdlmwrluk95.alphonso.tv IN CNAME .
 qhaciv57.alphonso.tv IN CNAME .
 qinvc14.alphonso.tv IN CNAME .
@@ -44945,6 +44955,7 @@ tkacr599.alphonso.tv IN CNAME .
 tkacr600.alphonso.tv IN CNAME .
 tkacr601.alphonso.tv IN CNAME .
 tkacr602.alphonso.tv IN CNAME .
+tkacr604.alphonso.tv IN CNAME .
 tkacr606.alphonso.tv IN CNAME .
 tkacr607.alphonso.tv IN CNAME .
 tkacr608.alphonso.tv IN CNAME .
@@ -46053,19 +46064,74 @@ exo.nelsdf.measure.office.net IN CNAME .
 m365cdn.nelsdf.measure.office.net IN CNAME .
 powerpointonline.nelsdf.measure.office.net IN CNAME .
 sdwan.measure.office.com IN CNAME .
-wan.measure.office.com IN CNAME .
+acs-events.trafficmanager.net IN CNAME .
+dev.acs-events.trafficmanager.net IN CNAME .
+ads.trafficmanager.net IN CNAME .
+copilot.ads.trafficmanager.net IN CNAME .
+dricopilot.copilot.ads.trafficmanager.net IN CNAME .
+copilot-si.ads.trafficmanager.net IN CNAME .
+dricopilot-si.copilot-si.ads.trafficmanager.net IN CNAME .
+grafana.ads.trafficmanager.net IN CNAME .
+bcp-ldc1.grafana.ads.trafficmanager.net IN CNAME .
+bcp-ldc2.grafana.ads.trafficmanager.net IN CNAME .
+bcp-wus-ldc1.grafana.ads.trafficmanager.net IN CNAME .
+bcp-wus-ldc2.grafana.ads.trafficmanager.net IN CNAME .
+prod-cus-ldc1.grafana.ads.trafficmanager.net IN CNAME .
+prod-cus-ldc2.grafana.ads.trafficmanager.net IN CNAME .
+prod-ldc1.grafana.ads.trafficmanager.net IN CNAME .
+prod-ldc2.grafana.ads.trafficmanager.net IN CNAME .
+si-ldc1.grafana.ads.trafficmanager.net IN CNAME .
+si-ldc2.grafana.ads.trafficmanager.net IN CNAME .
+si-mock.grafana.ads.trafficmanager.net IN CNAME .
+tip-ldc3.grafana.ads.trafficmanager.net IN CNAME .
+ingress.ads.trafficmanager.net IN CNAME .
+bcp-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+bcp-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-cus-prod-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-cus-prod-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-eus-si-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-eus-si-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-wus-bcp-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+ccmt-aks-wus-bcp-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-cus-prod-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-cus-prod-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-cus-tip-ldc3.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-eus-si-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-eus-si-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-wus-bcp-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+cmmt-aks-wus-bcp-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+prod-cus-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+prod-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+prod-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+sa-aks-si-eastus2.ingress.ads.trafficmanager.net IN CNAME .
+sa-aks-si-ncus.ingress.ads.trafficmanager.net IN CNAME .
+si-ldc1.ingress.ads.trafficmanager.net IN CNAME .
+si-ldc2.ingress.ads.trafficmanager.net IN CNAME .
+si-mock.ingress.ads.trafficmanager.net IN CNAME .
+tip-ldc3.ingress.ads.trafficmanager.net IN CNAME .
+ads-act.trafficmanager.net IN CNAME .
+api.ads-act.trafficmanager.net IN CNAME .
+ads-act-test.trafficmanager.net IN CNAME .
+api.ads-act-test.trafficmanager.net IN CNAME .
 ads-msn-com-profile.trafficmanager.net IN CNAME .
+adsdemandcatalog.trafficmanager.net IN CNAME .
+adsdemandcatalogapi.trafficmanager.net IN CNAME .
 adsdk.trafficmanager.net IN CNAME .
+adsl.trafficmanager.net IN CNAME .
 agps-location-livenet.trafficmanager.net IN CNAME .
 analytics.trafficmanager.net IN CNAME .
 hub.analytics.trafficmanager.net IN CNAME .
 geo.hub.analytics.trafficmanager.net IN CNAME .
 analytics-listener.trafficmanager.net IN CNAME .
 atm-settingsfe-prod-geo2.trafficmanager.net IN CNAME .
+avdab-p-corniche-events-relay.trafficmanager.net IN CNAME .
+avdab-s-corniche-events-relay.trafficmanager.net IN CNAME .
+avdab-t-corniche-events-relay.trafficmanager.net IN CNAME .
 beacons.trafficmanager.net IN CNAME .
 bf-analytics-tracker-tm.trafficmanager.net IN CNAME .
 bingads.trafficmanager.net IN CNAME .
 azure.bingads.trafficmanager.net IN CNAME .
+resources.azure.bingads.trafficmanager.net IN CNAME .
 bingadsresources.trafficmanager.net IN CNAME .
 collection-location-livenet.trafficmanager.net IN CNAME .
 collector-main.trafficmanager.net IN CNAME .
@@ -46105,7 +46171,10 @@ v20-asimov-win.vortex.data.trafficmanager.net IN CNAME .
 dsp-ad-cache-tm.trafficmanager.net IN CNAME .
 adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
 telemetry.eastus.trafficmanager.net IN CNAME .
+eudfmeventsapiprod.trafficmanager.net IN CNAME .
 eventservice.trafficmanager.net IN CNAME .
+fraudeventsvc-ppe.trafficmanager.net IN CNAME .
+atm.fraudeventsvc-ppe.trafficmanager.net IN CNAME .
 fsad.trafficmanager.net IN CNAME .
 ghochv3eng.trafficmanager.net IN CNAME .
 glance-analytics.trafficmanager.net IN CNAME .
@@ -46118,6 +46187,7 @@ legacywatson.trafficmanager.net IN CNAME .
 o365diagtelemetry.trafficmanager.net IN CNAME .
 office-events-data.trafficmanager.net IN CNAME .
 oms-analytics.trafficmanager.net IN CNAME .
+partnerfraudevents.trafficmanager.net IN CNAME .
 pixel-sync.trafficmanager.net IN CNAME .
 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net IN CNAME .
 sconsentit9.trafficmanager.net IN CNAME .
@@ -46132,6 +46202,7 @@ telemetry-lcp.trafficmanager.net IN CNAME .
 tenmax-ads.trafficmanager.net IN CNAME .
 tm-analytics-pr.trafficmanager.net IN CNAME .
 tm-enrollment-telemetry-datacore.trafficmanager.net IN CNAME .
+traf-fraudevents-int.trafficmanager.net IN CNAME .
 us-mesh-events-data-leafs.trafficmanager.net IN CNAME .
 vstelemetry.trafficmanager.net IN CNAME .
 euc-excel-telemetry.wac.trafficmanager.net IN CNAME .
@@ -46559,8 +46630,6 @@ tj1.staging.mibi.xiaomi.com IN CNAME .
 us.api.micloud.xiaomi.net IN CNAME .
 findapi.micloud.xiaomi.net IN CNAME .
 api.g.micloud.xiaomi.net IN CNAME .
-galleryapi.micloud.xiaomi.net IN CNAME .
-g.galleryapi.micloud.xiaomi.net IN CNAME .
 statusapi.micloud.xiaomi.net IN CNAME .
 us.statusapi.micloud.xiaomi.net IN CNAME .
 tv.app.migc.xiaomi.com IN CNAME .

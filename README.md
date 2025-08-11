@@ -206,7 +206,7 @@ The output files located in `output/relay/` are what are imported onto our VPN s
   - Start a DisposibleVM (dispVM) and `qvm-copy` this repository to it
   - Ensure the script in `scripts/generate_social_blocklists.sh` has been run: `cd scripts/ && ./generate_social_blocklists.sh` in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
   - Ensure you have added any 'custom' extra lists or websites to block
-  - Run the playbook to generate the lists (do not run with -D since the diffs are very large):
+  - Run the playbook to generate the lists:
     - `ansible-playbook -i inventory/ playbook.yml`
     - `ansible-playbook -i inventory/ playbook.yml --tags=readme` can be used to generate the README on its own
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/<group>.txt?raw=true`
