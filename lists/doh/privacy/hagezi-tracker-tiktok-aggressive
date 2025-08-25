@@ -286,16 +286,6 @@ mssdk-sg.tiktokv.com
 mssdk-va.tiktokv.com
 mssdk-va-useast2a.tiktokv.com
 mssdk16-normal.tiktokv.com
-mssdk16-normal-alisg.tiktokv.com
-mssdk16-normal-ie.tiktokv.eu
-mssdk16-normal-no1a.tiktokv.eu
-mssdk16-normal-useast1a.tiktokv.com
-mssdk16-normal-useast2a.tiktokv.com
-mssdk16-normal-useast5.tiktokv.us
-mssdk16-normal-useast8.tiktokv.us
-mssdk16-normal-useastred.tiktokv.eu
-mssdk16-normal-zr-alisg.tiktokv.com
-mssdk16-normal-zr-useast1a.tiktokv.com
 mssdk19-normal.tiktokv.com
 mssdk19-normal-alisg.tiktokv.com
 mssdk19-normal-useast1a.tiktokv.com
@@ -388,7 +378,6 @@ mon.us.tiktokv.com
 mon16-normal-useast8.us.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
 mssdk.us.tiktokv.com
-mssdk16-normal-useast8.us.tiktokv.com
 mssdk16-platform-useast5.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-ttp2.us.tiktokv.com

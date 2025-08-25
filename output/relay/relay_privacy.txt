@@ -4538,6 +4538,8 @@ adspsp.com
 adstats.tencentmusic.com
 ads.tikpage.com
 adstk.io
+ads-tracking.beop.io
+ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
 ad.takasu.co.jp
 adtarget.barcainnovationhub.com
@@ -5103,6 +5105,7 @@ analytics.competitoor.com
 analytics.conad.it
 analytics.concorsicartoonito.it
 analytics-consent-manager-v2-prod.azureedge.net
+analytics.consumerrights.wiki
 analytics.contentexchange.me
 analytics.contents.by-fw.jp
 analytics.convertlanguage.com
@@ -6651,6 +6654,7 @@ ap.shouta.co
 apssdc.epoise.com
 apssdctest.epoise.com
 aptare.actonservice.com
+aptoide-mmp.aptoide.com
 a.publicmobile.ca
 apwip.actonservice.com
 apwip-dev.actonservice.com
@@ -7192,6 +7196,7 @@ b.aecf.org
 baffae.alcott.eu
 bagbeam.com
 bagbgo.unitednude.eu
+bagsurprise.com
 bahamashello.com
 bahrpo.dint.co.kr
 bahyei.himaraya.co.jp
@@ -9253,7 +9258,6 @@ content.rightsourcemarketing.com
 content.sffirecu.org
 contents.pwc.com
 content.stage.mini.pix.style
-contents-tracking.beop.io
 content.tab.com.au
 content.tacticalma.com
 content.tatatelebusiness.com
@@ -10402,6 +10406,7 @@ data.smartmkt.future.smart.com
 data.sm.princess.com
 data.smspromo.consumercellular.com
 data.socio.realmadrid.net
+datasphere-sbsvc.sharethis.com
 data.sportdeutschland.tv
 data-ssl.pnet.co.za
 data-ssl.stepstone.at
@@ -13187,6 +13192,7 @@ fhrpqp.futfanatics.com.br
 fiawmk.empik.com
 fiber.zayo.com
 fiduciaryfirst.actonservice.com
+fieldconfig.com
 fight.offtherecord.com
 fiimox.lebenskraftpur.de
 filament-stats.herokuapp.com
@@ -14860,6 +14866,7 @@ hbaazk.bukalapak.com
 hbahrd.yogibo.jp
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
+hb.collectiveaudience.co
 hbfpvm.comolib.com
 hbiq.net
 hbo5.concours-pass.com
@@ -17163,6 +17170,7 @@ jailbulb.com
 ja-jp-a8.etudehouse.com
 ja-jp.siemensplmevents.com
 jambwe.transsibinfo.com
+jamexport.com
 jams.wiki
 janzoz.1001pneus.fr
 jaomlf.giftmall.co.jp
@@ -27353,6 +27361,7 @@ sc.nick.tv
 sc-nossl.speakeasy.net
 scnt.rambler.ru
 scode.randomhouse.com
+s.collectiveaudience.co
 s.columbiathreadneedle.ch
 s.columbiathreadneedle.co.uk
 s.columbiathreadneedle.hk
@@ -28431,6 +28440,7 @@ silentwrench.com
 siliconslow.com
 sillyscrew.com
 s.imagica.ai
+simetra.tracking.ringieraxelspringer.tech
 simg.bwin.be
 simg.bwin.com
 simg.bwin.es
@@ -33856,6 +33866,7 @@ stats.toiletmap.org.uk
 stats.topofblogs.com
 stats.tou.tv
 stats.tradingacademy.com
+stats.traffective.cloud
 stats.training.fit
 stats.travelfodder.com
 stats.trenntoi.de
@@ -34464,6 +34475,7 @@ sweetslope.com
 s.wellandtribune.ca
 swellstocking.com
 s.wheels.ca
+swiftintro.com
 swim2000.actonservice.com
 swimfreely.com
 swingslip.com
@@ -34614,6 +34626,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tag.cribnotes.jp
 tag.digops.sincro.io
+tag.eisa.mercari.com
 tag.elevaate.io
 tag.flagship.io
 tagger.opecloud.com
@@ -35391,6 +35404,7 @@ t.govandals.com
 t.gowyo.com
 t.goxavier.com
 t.gozips.com
+t.greenbids.ai
 t.griztix.umt.edu
 tgsdiw.dedoles.de
 t.gseagles.com
@@ -40516,6 +40530,7 @@ wsnrfb.modlily.com
 ws-pro-pull.kwai.net.iberostar.com
 wssgmstats.vibbo.com
 wsstats.coches.net
+wstats.ageverif.com
 wstats.e-wok.tv
 wstats.gameblog.fr
 wstats.slashed.cloud
@@ -41914,6 +41929,7 @@ aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
+aax-events-cell01-cf.fe.us-west.ono.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com
@@ -42180,6 +42196,7 @@ event.mshopbugsnag.irm.amazon.dev
 events.app-performance.music.amazon.dev
 events.prod.bugs.firebat.prime-video.amazon.dev
 fe.ono.axp.amazon-adsystem.com
+fe.us-west.ono.axp.amazon-adsystem.com
 federatedanalytics.amazon.com
 firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
@@ -42316,7 +42333,6 @@ rum.us-west-1.amazonaws.com
 rum.us-west-2.amazonaws.com
 s-fe.amazon-adsystem.com
 s.amazon-adsystem.com
-s2.paa-reporting-advertising.amazon
 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -42399,7 +42415,6 @@ us-eas.prod.service.minerva.devices.a2z.com
 us-east-1-1.telemetry.insights.video.a2z.com
 us-east-1-2.telemetry.insights.video.a2z.com
 us-east-1-3.telemetry.insights.video.a2z.com
-us-east-1.paa-reporting-advertising.amazon
 us-east-1.prod.service.minerva.devices.a2z.com
 us-east-2-1.telemetry.insights.video.a2z.com
 us-east-2-2.telemetry.insights.video.a2z.com
@@ -43658,16 +43673,6 @@ mssdk-sg.tiktokv.com
 mssdk-va.tiktokv.com
 mssdk-va-useast2a.tiktokv.com
 mssdk16-normal.tiktokv.com
-mssdk16-normal-alisg.tiktokv.com
-mssdk16-normal-ie.tiktokv.eu
-mssdk16-normal-no1a.tiktokv.eu
-mssdk16-normal-useast1a.tiktokv.com
-mssdk16-normal-useast2a.tiktokv.com
-mssdk16-normal-useast5.tiktokv.us
-mssdk16-normal-useast8.tiktokv.us
-mssdk16-normal-useastred.tiktokv.eu
-mssdk16-normal-zr-alisg.tiktokv.com
-mssdk16-normal-zr-useast1a.tiktokv.com
 mssdk19-normal.tiktokv.com
 mssdk19-normal-alisg.tiktokv.com
 mssdk19-normal-useast1a.tiktokv.com
@@ -43760,7 +43765,6 @@ mon.us.tiktokv.com
 mon16-normal-useast8.us.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
 mssdk.us.tiktokv.com
-mssdk16-normal-useast8.us.tiktokv.com
 mssdk16-platform-useast5.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-ttp2.us.tiktokv.com
@@ -44062,6 +44066,7 @@ crpsh8.alphonso.tv
 cssmps40.alphonso.tv
 csxnc89.alphonso.tv
 cxlqmxzemg54.alphonso.tv
+cxrgeeto04.alphonso.tv
 cyijq72.alphonso.tv
 dar-pix-prod-lb.alphonso.tv
 dkpae73.alphonso.tv
@@ -44235,10 +44240,12 @@ eyndphse57.alphonso.tv
 fjzlz5.alphonso.tv
 fkflly0.alphonso.tv
 fltqq84.alphonso.tv
+fwvrvdv95.alphonso.tv
 ganltsl61.alphonso.tv
 gbasccnma3.alphonso.tv
 gdafrjemy1.alphonso.tv
 gepafpa94.alphonso.tv
+gixtvwwny43.alphonso.tv
 goefescqwv2.alphonso.tv
 gotqxdmd87.alphonso.tv
 gqttihib0.alphonso.tv
@@ -44259,6 +44266,7 @@ iqzjhctm4.alphonso.tv
 irmchav36.alphonso.tv
 iwwwvsed59.alphonso.tv
 iytopqvcp0.alphonso.tv
+jcntvzwcu59.alphonso.tv
 jflpf9.alphonso.tv
 jfrqba0.alphonso.tv
 jgqioypx31.alphonso.tv
@@ -44389,6 +44397,7 @@ krishnaw368.alphonso.tv
 krishnaw369.alphonso.tv
 krishnaw370.alphonso.tv
 krishnaw371.alphonso.tv
+krishnaw373.alphonso.tv
 krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
 krishnaw376.alphonso.tv
@@ -44403,6 +44412,9 @@ krishnaw386.alphonso.tv
 krishnaw387.alphonso.tv
 krishnaw390.alphonso.tv
 krishnaw391.alphonso.tv
+krishnaw392.alphonso.tv
+krishnaw393.alphonso.tv
+krishnaw395.alphonso.tv
 krishnaw396.alphonso.tv
 krishnaw397.alphonso.tv
 krishnaw398.alphonso.tv
@@ -44894,7 +44906,9 @@ tkacr599.alphonso.tv
 tkacr600.alphonso.tv
 tkacr601.alphonso.tv
 tkacr602.alphonso.tv
+tkacr603.alphonso.tv
 tkacr604.alphonso.tv
+tkacr605.alphonso.tv
 tkacr606.alphonso.tv
 tkacr607.alphonso.tv
 tkacr608.alphonso.tv
@@ -45434,6 +45448,7 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
@@ -45608,6 +45623,7 @@ eu-ic3.events.data.microsoft.com
 eu-mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
 eu-r-mobile.events.data.microsoft.com
+eu-r-teams.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
@@ -45654,10 +45670,6 @@ watson.events.data.microsoft.com
 watsonc.events.data.microsoft.com
 events-sandbox.data.microsoft.com
 mobile.events-sandbox.data.microsoft.com
-settings.data.microsoft.com
-settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
-settings-win-ppe.data.microsoft.com
 vortex.data.microsoft.com
 eu.vortex.data.microsoft.com
 vortex-sandbox.data.microsoft.com
@@ -46062,7 +46074,6 @@ analytics.trafficmanager.net
 hub.analytics.trafficmanager.net
 geo.hub.analytics.trafficmanager.net
 analytics-listener.trafficmanager.net
-atm-settingsfe-prod-geo2.trafficmanager.net
 avdab-p-corniche-events-relay.trafficmanager.net
 avdab-s-corniche-events-relay.trafficmanager.net
 avdab-t-corniche-events-relay.trafficmanager.net
@@ -46131,9 +46142,6 @@ pixel-sync.trafficmanager.net
 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
-settingsfd-geo.trafficmanager.net
-settingsfd-ppe.trafficmanager.net
-settingsfd-sandbox.trafficmanager.net
 ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
@@ -46538,7 +46546,6 @@ ccc.sys.intl.xiaomi.com
 h5-ru.video.intl.xiaomi.com
 ru.video.intl.xiaomi.com
 secure.report.iss.xiaomi.com
-fe02.lg.xiaomi.com
 a.market.xiaomi.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
@@ -46631,7 +46638,6 @@ redirect.pandora.xiaomi.com
 rtmpott.pandora.xiaomi.com
 bsp.sasdc.pandora.xiaomi.com
 shop.pandora.xiaomi.com
-smarthome.pandora.xiaomi.com
 stat.pandora.xiaomi.com
 bgp.tv.pandora.xiaomi.com
 mob.tv.pandora.xiaomi.com

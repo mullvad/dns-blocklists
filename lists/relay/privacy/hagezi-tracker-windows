@@ -199,6 +199,7 @@ pgteu3-powerpoint-telemetry-vip.officeapps.live.com
 pgteu3-word-telemetry-vip.officeapps.live.com
 pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
+pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
@@ -373,6 +374,7 @@ eu-ic3.events.data.microsoft.com
 eu-mobile.events.data.microsoft.com
 eu-office.events.data.microsoft.com
 eu-r-mobile.events.data.microsoft.com
+eu-r-teams.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 eu-v10.events.data.microsoft.com
 eu-v10c.events.data.microsoft.com
@@ -419,10 +421,6 @@ watson.events.data.microsoft.com
 watsonc.events.data.microsoft.com
 events-sandbox.data.microsoft.com
 mobile.events-sandbox.data.microsoft.com
-settings.data.microsoft.com
-settings-sandbox.data.microsoft.com
-settings-win.data.microsoft.com
-settings-win-ppe.data.microsoft.com
 vortex.data.microsoft.com
 eu.vortex.data.microsoft.com
 vortex-sandbox.data.microsoft.com
@@ -827,7 +825,6 @@ analytics.trafficmanager.net
 hub.analytics.trafficmanager.net
 geo.hub.analytics.trafficmanager.net
 analytics-listener.trafficmanager.net
-atm-settingsfe-prod-geo2.trafficmanager.net
 avdab-p-corniche-events-relay.trafficmanager.net
 avdab-s-corniche-events-relay.trafficmanager.net
 avdab-t-corniche-events-relay.trafficmanager.net
@@ -896,9 +893,6 @@ pixel-sync.trafficmanager.net
 rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net
 sconsentit9.trafficmanager.net
 self-events-data.trafficmanager.net
-settingsfd-geo.trafficmanager.net
-settingsfd-ppe.trafficmanager.net
-settingsfd-sandbox.trafficmanager.net
 ssp-prod-eastus-nonmutt.trafficmanager.net
 stats-partner.trafficmanager.net
 teams-events-data.trafficmanager.net
