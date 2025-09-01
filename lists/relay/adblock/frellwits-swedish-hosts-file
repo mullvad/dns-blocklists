@@ -52,7 +52,6 @@
  ads.leovegas.com
  ads.mainloop.net
  ads.motorvarlden.se
- ads.mrgreen.com
  ads.nordreportern.se
  ads.playpilot.com
  ads.pubmatic.com
@@ -437,6 +436,7 @@
  embi-media.com
  emea.hhkld.com
  emea.viadata.store
+ eniro-cdn.relevant-digital.com
  etc-cdn-staging.ams3.digitaloceanspaces.com
  eum.instana.io
  europe-west1-bonnier-big-data.cloudfunctions.net
@@ -632,6 +632,7 @@
  mtv.hb.omtrdc.net
  munchkin.marketo.net
  my.hellobar.com
+ my.rtmark.net
  n.dyntrk.com
  native.sharethrough.com
  network.ad.nu
@@ -687,7 +688,6 @@
  prd-collector-platform.ex.co
  premium.analys.cloud
  prg.smartadserver.com
- privalytic.com
  protagcdn.com
  proxyas.com
  pubads.g.doubleclick.net
@@ -1004,7 +1004,6 @@
  tracking.illvet.se
  tracking.inboxads.com
  tracking.jp.se
- tracking.kalmarposten.se
  tracking.klt.nu
  tracking.kpwebben.se
  tracking.kristianstadsbladet.se
