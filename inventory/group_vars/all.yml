@@ -15,9 +15,13 @@ dns_blocklists_lists:
     type: adblock
     url: https://v.firebog.net/hosts/AdguardDNS.txt
 
-  - name: hagezi-gambling
+  - name: hagezi-gambling-onlydomains
     type: gambling
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
+  
+  - name: hagezi-gambling
+    type: gambling
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
   
   - name: firebog-easylist-privacy
     url: https://v.firebog.net/hosts/Easyprivacy.txt
