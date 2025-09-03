@@ -4973,6 +4973,7 @@ analyse.hinemos.info
 analysis.aws.locondo.jp
 analysis.fi
 analysis.prod.joyfru.jiji.com
+analysis.sooplive.co.kr
 analys.live
 analytic20.detik.com
 analytic.alabama.aaa.com
@@ -5140,6 +5141,7 @@ analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.dvidshub.net
 analytics.edgekey.net
+analytics.egdata.app
 analytics.egernsund.com
 analytics.egernsund.de
 analytics.eggoffer.com
@@ -5423,6 +5425,7 @@ analytics.shop.hisense.com
 analytics.shopncaasports.com
 analytics.shorte.st
 analytics.shorthand.com
+analytics.shutterstock.com
 analytics.sideprojectsoftware.com
 analytics.silktide.com
 analytics.simplii.com
@@ -5532,6 +5535,7 @@ analytics.viture.dev
 analytics.vixcloud.co
 analytics.vortexscans.com
 analytics.warnertv.fr
+analytics.wask.co
 analytics.wavebox.io
 analytics.wayland.app
 analytics-wcms.joins.net
@@ -6328,6 +6332,7 @@ app.online.microfocus.com
 app.onyxcharge.com
 app.onyx.fit
 app.openfolio.com
+app.optibase.io
 app.optus.com.au
 app.osubeavers.com
 app.ouicsport.fr
@@ -8819,6 +8824,7 @@ collect.iteam-dress.com
 collect.klove.com
 collect.meilleurtaux.com
 collector-1.ex.co
+collector1.sooplive.co.kr
 collector2c.zhihuishu.com
 collector5.zipy.ai
 collector-api.99designs.com
@@ -9838,6 +9844,7 @@ d1tbj6eaenapdy.cloudfront.net
 d1tqsoh7s4xjz9.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
+d1yz9u4jf6oqub.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d1z9vm58yath60.cloudfront.net
 d20kffh39acpue.cloudfront.net
@@ -14988,6 +14995,7 @@ highfalutinbox.com
 highfalutinhoney.com
 highlights-schadenmanager.schwacke.de
 highlights-schwackenet.schwacke.de
+hightouch-events.com
 highway.cablecar.sph.com.sg
 hi.hellobar.com
 hi.hipcamp.com
@@ -16287,7 +16295,6 @@ info.gcgfinancial.aleragroup.com
 info.genesishealth.com
 info.genialklick.ch
 info.geonetric.com
-info.girlswhoinvest.org
 info.gkg.net
 info.glenviewterrace.com
 info.global-demand02.nec.com
@@ -23356,6 +23363,7 @@ mtest.fontself.com
 m-test.papertrail.io
 mtg.macpaw.com
 mtkure.gazin.com.br
+mtm.bondagevalley.cc
 m.topschooljobs.org
 m.topya.com
 mtoxtg.tezenis.com
@@ -28525,6 +28533,7 @@ siteintercept.allegiancetech.com
 site.johnlewis-insurance.com
 sitel.actonservice.com
 site.newzstand.com
+siteperformancetest.net
 sites.campaignmgr.cisco.com
 sites.groo.co.il
 sites.siemens.com
@@ -36166,6 +36175,7 @@ track.f1store.formula1.com
 track.ferrari.com
 track.ferraridealers.com
 track.financialfairness.org.uk
+track.fusionmedia.io
 track.gleeph.net
 track.go.shokubai.co.jp
 track.healthcare-distribution.com
@@ -43442,6 +43452,7 @@ tnc-sg.capcutapi.com
 tnc-va.capcutapi.com
 tnc-va-us-looki.capcutapi.com
 tnc16-normal-us-ttp.capcutapi.us
+sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
 applog.snssdk.com
@@ -43548,6 +43559,7 @@ ad-sg.tiktokv.com
 ad-ttp2.tiktokv.eu
 ad-ttp2.tiktokv.us
 ad-va.tiktokv.com
+adinstantpage16-normal-useastred.tiktokv.eu
 frontier.tiktokv.com
 frontier.tiktokv.us
 live-video-log16-normal-alisg.tiktokv.com
@@ -43841,6 +43853,7 @@ ads-ttp2.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
+analytics16-normal-useastred.tiktokw.eu
 location.tiktokw.us
 mcs.tiktokw.us
 mcs-ie.tiktokw.eu
@@ -46331,7 +46344,6 @@ oss.migc.g.mi.com
 migcreport.g.mi.com
 mis.g.mi.com
 in.tv.global.mi.com
-hd.mi.com
 a.hl.mi.com
 idm.iot.mi.com
 api.jr.mi.com

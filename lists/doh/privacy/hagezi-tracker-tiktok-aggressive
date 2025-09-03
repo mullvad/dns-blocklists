@@ -43,6 +43,7 @@ tnc-sg.capcutapi.com
 tnc-va.capcutapi.com
 tnc-va-us-looki.capcutapi.com
 tnc16-normal-us-ttp.capcutapi.us
+sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
 applog.snssdk.com
@@ -149,6 +150,7 @@ ad-sg.tiktokv.com
 ad-ttp2.tiktokv.eu
 ad-ttp2.tiktokv.us
 ad-va.tiktokv.com
+adinstantpage16-normal-useastred.tiktokv.eu
 frontier.tiktokv.com
 frontier.tiktokv.us
 live-video-log16-normal-alisg.tiktokv.com
@@ -442,6 +444,7 @@ ads-ttp2.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
+analytics16-normal-useastred.tiktokw.eu
 location.tiktokw.us
 mcs.tiktokw.us
 mcs-ie.tiktokw.eu

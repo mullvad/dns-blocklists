@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1756713416    ; serial
+                                        1756885141    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4985,6 +4985,7 @@ analyse.hinemos.info IN CNAME .
 analysis.aws.locondo.jp IN CNAME .
 analysis.fi IN CNAME .
 analysis.prod.joyfru.jiji.com IN CNAME .
+analysis.sooplive.co.kr IN CNAME .
 analys.live IN CNAME .
 analytic20.detik.com IN CNAME .
 analytic.alabama.aaa.com IN CNAME .
@@ -5152,6 +5153,7 @@ analytics.disneyinternational.com IN CNAME .
 analytics.disneyplus.com IN CNAME .
 analytics.dvidshub.net IN CNAME .
 analytics.edgekey.net IN CNAME .
+analytics.egdata.app IN CNAME .
 analytics.egernsund.com IN CNAME .
 analytics.egernsund.de IN CNAME .
 analytics.eggoffer.com IN CNAME .
@@ -5435,6 +5437,7 @@ analytics.shop.hisense.com IN CNAME .
 analytics.shopncaasports.com IN CNAME .
 analytics.shorte.st IN CNAME .
 analytics.shorthand.com IN CNAME .
+analytics.shutterstock.com IN CNAME .
 analytics.sideprojectsoftware.com IN CNAME .
 analytics.silktide.com IN CNAME .
 analytics.simplii.com IN CNAME .
@@ -5544,6 +5547,7 @@ analytics.viture.dev IN CNAME .
 analytics.vixcloud.co IN CNAME .
 analytics.vortexscans.com IN CNAME .
 analytics.warnertv.fr IN CNAME .
+analytics.wask.co IN CNAME .
 analytics.wavebox.io IN CNAME .
 analytics.wayland.app IN CNAME .
 analytics-wcms.joins.net IN CNAME .
@@ -6340,6 +6344,7 @@ app.online.microfocus.com IN CNAME .
 app.onyxcharge.com IN CNAME .
 app.onyx.fit IN CNAME .
 app.openfolio.com IN CNAME .
+app.optibase.io IN CNAME .
 app.optus.com.au IN CNAME .
 app.osubeavers.com IN CNAME .
 app.ouicsport.fr IN CNAME .
@@ -8831,6 +8836,7 @@ collect.iteam-dress.com IN CNAME .
 collect.klove.com IN CNAME .
 collect.meilleurtaux.com IN CNAME .
 collector-1.ex.co IN CNAME .
+collector1.sooplive.co.kr IN CNAME .
 collector2c.zhihuishu.com IN CNAME .
 collector5.zipy.ai IN CNAME .
 collector-api.99designs.com IN CNAME .
@@ -9850,6 +9856,7 @@ d1tbj6eaenapdy.cloudfront.net IN CNAME .
 d1tqsoh7s4xjz9.cloudfront.net IN CNAME .
 d1vg5xiq7qffdj.cloudfront.net IN CNAME .
 d1xfq2052q7thw.cloudfront.net IN CNAME .
+d1yz9u4jf6oqub.cloudfront.net IN CNAME .
 d1z3r0i09bwium.cloudfront.net IN CNAME .
 d1z9vm58yath60.cloudfront.net IN CNAME .
 d20kffh39acpue.cloudfront.net IN CNAME .
@@ -15000,6 +15007,7 @@ highfalutinbox.com IN CNAME .
 highfalutinhoney.com IN CNAME .
 highlights-schadenmanager.schwacke.de IN CNAME .
 highlights-schwackenet.schwacke.de IN CNAME .
+hightouch-events.com IN CNAME .
 highway.cablecar.sph.com.sg IN CNAME .
 hi.hellobar.com IN CNAME .
 hi.hipcamp.com IN CNAME .
@@ -16299,7 +16307,6 @@ info.gcgfinancial.aleragroup.com IN CNAME .
 info.genesishealth.com IN CNAME .
 info.genialklick.ch IN CNAME .
 info.geonetric.com IN CNAME .
-info.girlswhoinvest.org IN CNAME .
 info.gkg.net IN CNAME .
 info.glenviewterrace.com IN CNAME .
 info.global-demand02.nec.com IN CNAME .
@@ -23368,6 +23375,7 @@ mtest.fontself.com IN CNAME .
 m-test.papertrail.io IN CNAME .
 mtg.macpaw.com IN CNAME .
 mtkure.gazin.com.br IN CNAME .
+mtm.bondagevalley.cc IN CNAME .
 m.topschooljobs.org IN CNAME .
 m.topya.com IN CNAME .
 mtoxtg.tezenis.com IN CNAME .
@@ -28537,6 +28545,7 @@ siteintercept.allegiancetech.com IN CNAME .
 site.johnlewis-insurance.com IN CNAME .
 sitel.actonservice.com IN CNAME .
 site.newzstand.com IN CNAME .
+siteperformancetest.net IN CNAME .
 sites.campaignmgr.cisco.com IN CNAME .
 sites.groo.co.il IN CNAME .
 sites.siemens.com IN CNAME .
@@ -36178,6 +36187,7 @@ track.f1store.formula1.com IN CNAME .
 track.ferrari.com IN CNAME .
 track.ferraridealers.com IN CNAME .
 track.financialfairness.org.uk IN CNAME .
+track.fusionmedia.io IN CNAME .
 track.gleeph.net IN CNAME .
 track.go.shokubai.co.jp IN CNAME .
 track.healthcare-distribution.com IN CNAME .
@@ -43454,6 +43464,7 @@ tnc-sg.capcutapi.com IN CNAME .
 tnc-va.capcutapi.com IN CNAME .
 tnc-va-us-looki.capcutapi.com IN CNAME .
 tnc16-normal-us-ttp.capcutapi.us IN CNAME .
+sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
 applog.snssdk.com IN CNAME .
@@ -43560,6 +43571,7 @@ ad-sg.tiktokv.com IN CNAME .
 ad-ttp2.tiktokv.eu IN CNAME .
 ad-ttp2.tiktokv.us IN CNAME .
 ad-va.tiktokv.com IN CNAME .
+adinstantpage16-normal-useastred.tiktokv.eu IN CNAME .
 frontier.tiktokv.com IN CNAME .
 frontier.tiktokv.us IN CNAME .
 live-video-log16-normal-alisg.tiktokv.com IN CNAME .
@@ -43853,6 +43865,7 @@ ads-ttp2.tiktokw.eu IN CNAME .
 analytics-ie.tiktokw.eu IN CNAME .
 analytics-ipv6.tiktokw.us IN CNAME .
 analytics-ttp2.tiktokw.eu IN CNAME .
+analytics16-normal-useastred.tiktokw.eu IN CNAME .
 location.tiktokw.us IN CNAME .
 mcs.tiktokw.us IN CNAME .
 mcs-ie.tiktokw.eu IN CNAME .
@@ -46343,7 +46356,6 @@ oss.migc.g.mi.com IN CNAME .
 migcreport.g.mi.com IN CNAME .
 mis.g.mi.com IN CNAME .
 in.tv.global.mi.com IN CNAME .
-hd.mi.com IN CNAME .
 a.hl.mi.com IN CNAME .
 idm.iot.mi.com IN CNAME .
 api.jr.mi.com IN CNAME .
