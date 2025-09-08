@@ -41951,7 +41951,6 @@ aax-eu-rtb.amazon-adsystem.com
 aax-eu-test1.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
-aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com
@@ -43516,7 +43515,6 @@ analytics-test.tiktok.com
 analytics-useast2a.tiktok.com
 analytics-v6.tiktok.com
 business-api.tiktok.com
-p0-common-image-private-useastred.eu.tiktok.com
 ads.in.tiktok.com
 location.tiktok.com
 location-i18n.tiktok.com
@@ -43633,6 +43631,7 @@ log32-normal-alisg.tiktokv.com
 log32-normal-no1a.tiktokv.eu
 log32-normal-useast1a.tiktokv.com
 log32-normal-useast2a.tiktokv.com
+log32-normal-zr.tiktokv.com
 log53-normal-c-useast1a.tiktokv.com
 log58-normal.tiktokv.com
 log58-normal-alisg.tiktokv.com
@@ -43683,12 +43682,14 @@ mon16-tmp-normal-useast1a.tiktokv.com
 mon19-normal.tiktokv.com
 mon19-normal-alisg.tiktokv.com
 mon19-normal-useast1a.tiktokv.com
+mon19-normal-zr-alisg.tiktokv.com
 mon22-normal.tiktokv.com
 mon22-normal-alisg.tiktokv.com
 mon22-normal-useast1a.tiktokv.com
 mon31-normal.tiktokv.com
 mon31-normal-alisg.tiktokv.com
 mon31-normal-useast1a.tiktokv.com
+mon31-normal-zr-useast1a.tiktokv.com
 mon32-normal.tiktokv.com
 mon32-normal-alisg.tiktokv.com
 mon32-normal-useast1a.tiktokv.com
@@ -43713,6 +43714,7 @@ mssdk22-normal.tiktokv.com
 mssdk22-normal-alisg.tiktokv.com
 mssdk22-normal-useast1a.tiktokv.com
 mssdk22-normal-useast2a.tiktokv.com
+mssdk22-normal-zr.tiktokv.com
 mssdk22-normal-zr-alisg.tiktokv.com
 mssdk22-normal-zr-useast1a.tiktokv.com
 mssdk23-normal-zr-alisg.tiktokv.com
@@ -43765,6 +43767,7 @@ rtlog19-normal.tiktokv.com
 rtlog19-normal-alisg.tiktokv.com
 rtlog19-normal-useast1a.tiktokv.com
 rtlog19-normal-useast2a.tiktokv.com
+rtlog19-normal-zr-useast1a.tiktokv.com
 rtlog22-applog-useast1a.tiktokv.com
 rtlog22-applog-useast2a.tiktokv.com
 rtlog22-normal.tiktokv.com
@@ -43775,6 +43778,8 @@ rtlog31-normal.tiktokv.com
 rtlog31-normal-alisg.tiktokv.com
 rtlog31-normal-useast1a.tiktokv.com
 rtlog31-normal-useast2a.tiktokv.com
+rtlog32-normal-alisg.tiktokv.com
+rtlog32-normal-zr.tiktokv.com
 rtlog58-normal.tiktokv.com
 rtlog58-normal-alisg.tiktokv.com
 rtlog58-normal-useast1a.tiktokv.com
@@ -43942,6 +43947,7 @@ eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
+eu-p.vivoglobal.com
 eu-pnrt-stsdk.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
 eu-st-sl.vivoglobal.com
@@ -44503,6 +44509,7 @@ krishnaw415.alphonso.tv
 krishnaw416.alphonso.tv
 krishnaw417.alphonso.tv
 krishnaw420.alphonso.tv
+krishnaw421.alphonso.tv
 krishnaw422.alphonso.tv
 krishnaw423.alphonso.tv
 krishnaw424.alphonso.tv
@@ -44582,6 +44589,7 @@ krishnaw501.alphonso.tv
 krishnaw502.alphonso.tv
 krishnaw503.alphonso.tv
 krishnaw504.alphonso.tv
+kvzvlu2.alphonso.tv
 lbrgfl89.alphonso.tv
 lcrrqcz39.alphonso.tv
 lditca63.alphonso.tv
@@ -44640,6 +44648,7 @@ pmmqf78.alphonso.tv
 pokopxf2.alphonso.tv
 posfae2.alphonso.tv
 ppbqfpyuxx48.alphonso.tv
+ppgxlbopn70.alphonso.tv
 pqemtl2.alphonso.tv
 prov.alphonso.tv
 prov-geo.alphonso.tv
@@ -45207,6 +45216,7 @@ xasztu66.alphonso.tv
 xbccbblkf4.alphonso.tv
 xdfaerg8.alphonso.tv
 xelyxrpty3.alphonso.tv
+xfbqsdk8.alphonso.tv
 xivbr6.alphonso.tv
 xjvqataocw04.alphonso.tv
 xksxqur0.alphonso.tv
@@ -45604,7 +45614,6 @@ dmc.ads-int.microsoft.com
 beta.dmc.ads-int.microsoft.com
 ui.ads-int.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
 beta.adsstatic.microsoft.com
 adsstatic-int.microsoft.com
 advertising.microsoft.com
@@ -45805,8 +45814,6 @@ statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 gateway.bingviz.microsoftapp.net
 msads.net
-ads1.msads.net
-ads2.msads.net
 www.msads.net
 az667904.vo.msecnd.net
 a-ring.msedge.net
@@ -45872,8 +45879,6 @@ g00.msn.com
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 c.gr.msn.com
 h.msn.com
-h1.msn.com
-h2.msn.com
 h6.msn.com
 c.hk.msn.com
 c.id.msn.com
@@ -46157,7 +46162,6 @@ bf-analytics-tracker-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
 resources.azure.bingads.trafficmanager.net
-bingadsresources.trafficmanager.net
 collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
@@ -46555,7 +46559,6 @@ cnc.data.game.xiaomi.com
 notice.game.xiaomi.com
 n.notice.game.xiaomi.com
 static.game.xiaomi.com
-voip.game.xiaomi.com
 wl.voip.game.xiaomi.com
 wap.game.xiaomi.com
 idmb.app.chat.global.xiaomi.net
@@ -46706,7 +46709,6 @@ bsp.misc.pandora.xiaomi.com
 mishop.pandora.xiaomi.com
 pull.mitv.pandora.xiaomi.com
 mob.pandora.xiaomi.com
-monitor.pandora.xiaomi.com
 netcheck.pandora.xiaomi.com
 ottl7-l2.pandora.xiaomi.com
 media.pre.pandora.xiaomi.com

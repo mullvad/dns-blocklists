@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1756885141    ; serial
+                                        1757318751    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -41963,7 +41963,6 @@ aax-eu-rtb.amazon-adsystem.com IN CNAME .
 aax-eu-test1.amazon-adsystem.com IN CNAME .
 aax-eu.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
-aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
@@ -43528,7 +43527,6 @@ analytics-test.tiktok.com IN CNAME .
 analytics-useast2a.tiktok.com IN CNAME .
 analytics-v6.tiktok.com IN CNAME .
 business-api.tiktok.com IN CNAME .
-p0-common-image-private-useastred.eu.tiktok.com IN CNAME .
 ads.in.tiktok.com IN CNAME .
 location.tiktok.com IN CNAME .
 location-i18n.tiktok.com IN CNAME .
@@ -43645,6 +43643,7 @@ log32-normal-alisg.tiktokv.com IN CNAME .
 log32-normal-no1a.tiktokv.eu IN CNAME .
 log32-normal-useast1a.tiktokv.com IN CNAME .
 log32-normal-useast2a.tiktokv.com IN CNAME .
+log32-normal-zr.tiktokv.com IN CNAME .
 log53-normal-c-useast1a.tiktokv.com IN CNAME .
 log58-normal.tiktokv.com IN CNAME .
 log58-normal-alisg.tiktokv.com IN CNAME .
@@ -43695,12 +43694,14 @@ mon16-tmp-normal-useast1a.tiktokv.com IN CNAME .
 mon19-normal.tiktokv.com IN CNAME .
 mon19-normal-alisg.tiktokv.com IN CNAME .
 mon19-normal-useast1a.tiktokv.com IN CNAME .
+mon19-normal-zr-alisg.tiktokv.com IN CNAME .
 mon22-normal.tiktokv.com IN CNAME .
 mon22-normal-alisg.tiktokv.com IN CNAME .
 mon22-normal-useast1a.tiktokv.com IN CNAME .
 mon31-normal.tiktokv.com IN CNAME .
 mon31-normal-alisg.tiktokv.com IN CNAME .
 mon31-normal-useast1a.tiktokv.com IN CNAME .
+mon31-normal-zr-useast1a.tiktokv.com IN CNAME .
 mon32-normal.tiktokv.com IN CNAME .
 mon32-normal-alisg.tiktokv.com IN CNAME .
 mon32-normal-useast1a.tiktokv.com IN CNAME .
@@ -43725,6 +43726,7 @@ mssdk22-normal.tiktokv.com IN CNAME .
 mssdk22-normal-alisg.tiktokv.com IN CNAME .
 mssdk22-normal-useast1a.tiktokv.com IN CNAME .
 mssdk22-normal-useast2a.tiktokv.com IN CNAME .
+mssdk22-normal-zr.tiktokv.com IN CNAME .
 mssdk22-normal-zr-alisg.tiktokv.com IN CNAME .
 mssdk22-normal-zr-useast1a.tiktokv.com IN CNAME .
 mssdk23-normal-zr-alisg.tiktokv.com IN CNAME .
@@ -43777,6 +43779,7 @@ rtlog19-normal.tiktokv.com IN CNAME .
 rtlog19-normal-alisg.tiktokv.com IN CNAME .
 rtlog19-normal-useast1a.tiktokv.com IN CNAME .
 rtlog19-normal-useast2a.tiktokv.com IN CNAME .
+rtlog19-normal-zr-useast1a.tiktokv.com IN CNAME .
 rtlog22-applog-useast1a.tiktokv.com IN CNAME .
 rtlog22-applog-useast2a.tiktokv.com IN CNAME .
 rtlog22-normal.tiktokv.com IN CNAME .
@@ -43787,6 +43790,8 @@ rtlog31-normal.tiktokv.com IN CNAME .
 rtlog31-normal-alisg.tiktokv.com IN CNAME .
 rtlog31-normal-useast1a.tiktokv.com IN CNAME .
 rtlog31-normal-useast2a.tiktokv.com IN CNAME .
+rtlog32-normal-alisg.tiktokv.com IN CNAME .
+rtlog32-normal-zr.tiktokv.com IN CNAME .
 rtlog58-normal.tiktokv.com IN CNAME .
 rtlog58-normal-alisg.tiktokv.com IN CNAME .
 rtlog58-normal-useast1a.tiktokv.com IN CNAME .
@@ -43954,6 +43959,7 @@ eu-domaincfg.vivoglobal.com IN CNAME .
 eu-errup.vivoglobal.com IN CNAME .
 eu-onrt-stsdk.vivoglobal.com IN CNAME .
 eu-ort-stsdk.vivoglobal.com IN CNAME .
+eu-p.vivoglobal.com IN CNAME .
 eu-pnrt-stsdk.vivoglobal.com IN CNAME .
 eu-romsp-unifyconfig.vivoglobal.com IN CNAME .
 eu-st-sl.vivoglobal.com IN CNAME .
@@ -44515,6 +44521,7 @@ krishnaw415.alphonso.tv IN CNAME .
 krishnaw416.alphonso.tv IN CNAME .
 krishnaw417.alphonso.tv IN CNAME .
 krishnaw420.alphonso.tv IN CNAME .
+krishnaw421.alphonso.tv IN CNAME .
 krishnaw422.alphonso.tv IN CNAME .
 krishnaw423.alphonso.tv IN CNAME .
 krishnaw424.alphonso.tv IN CNAME .
@@ -44594,6 +44601,7 @@ krishnaw501.alphonso.tv IN CNAME .
 krishnaw502.alphonso.tv IN CNAME .
 krishnaw503.alphonso.tv IN CNAME .
 krishnaw504.alphonso.tv IN CNAME .
+kvzvlu2.alphonso.tv IN CNAME .
 lbrgfl89.alphonso.tv IN CNAME .
 lcrrqcz39.alphonso.tv IN CNAME .
 lditca63.alphonso.tv IN CNAME .
@@ -44652,6 +44660,7 @@ pmmqf78.alphonso.tv IN CNAME .
 pokopxf2.alphonso.tv IN CNAME .
 posfae2.alphonso.tv IN CNAME .
 ppbqfpyuxx48.alphonso.tv IN CNAME .
+ppgxlbopn70.alphonso.tv IN CNAME .
 pqemtl2.alphonso.tv IN CNAME .
 prov.alphonso.tv IN CNAME .
 prov-geo.alphonso.tv IN CNAME .
@@ -45219,6 +45228,7 @@ xasztu66.alphonso.tv IN CNAME .
 xbccbblkf4.alphonso.tv IN CNAME .
 xdfaerg8.alphonso.tv IN CNAME .
 xelyxrpty3.alphonso.tv IN CNAME .
+xfbqsdk8.alphonso.tv IN CNAME .
 xivbr6.alphonso.tv IN CNAME .
 xjvqataocw04.alphonso.tv IN CNAME .
 xksxqur0.alphonso.tv IN CNAME .
@@ -45616,7 +45626,6 @@ dmc.ads-int.microsoft.com IN CNAME .
 beta.dmc.ads-int.microsoft.com IN CNAME .
 ui.ads-int.microsoft.com IN CNAME .
 adsdk.microsoft.com IN CNAME .
-adsstatic.microsoft.com IN CNAME .
 beta.adsstatic.microsoft.com IN CNAME .
 adsstatic-int.microsoft.com IN CNAME .
 advertising.microsoft.com IN CNAME .
@@ -45817,8 +45826,6 @@ statsfe1.ws.microsoft.com IN CNAME .
 statsfe2.ws.microsoft.com IN CNAME .
 gateway.bingviz.microsoftapp.net IN CNAME .
 msads.net IN CNAME .
-ads1.msads.net IN CNAME .
-ads2.msads.net IN CNAME .
 www.msads.net IN CNAME .
 az667904.vo.msecnd.net IN CNAME .
 a-ring.msedge.net IN CNAME .
@@ -45884,8 +45891,6 @@ g00.msn.com IN CNAME .
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com IN CNAME .
 c.gr.msn.com IN CNAME .
 h.msn.com IN CNAME .
-h1.msn.com IN CNAME .
-h2.msn.com IN CNAME .
 h6.msn.com IN CNAME .
 c.hk.msn.com IN CNAME .
 c.id.msn.com IN CNAME .
@@ -46169,7 +46174,6 @@ bf-analytics-tracker-tm.trafficmanager.net IN CNAME .
 bingads.trafficmanager.net IN CNAME .
 azure.bingads.trafficmanager.net IN CNAME .
 resources.azure.bingads.trafficmanager.net IN CNAME .
-bingadsresources.trafficmanager.net IN CNAME .
 collection-location-livenet.trafficmanager.net IN CNAME .
 collector-main.trafficmanager.net IN CNAME .
 tracker.flightview.com.trafficmanager.net IN CNAME .
@@ -46567,7 +46571,6 @@ cnc.data.game.xiaomi.com IN CNAME .
 notice.game.xiaomi.com IN CNAME .
 n.notice.game.xiaomi.com IN CNAME .
 static.game.xiaomi.com IN CNAME .
-voip.game.xiaomi.com IN CNAME .
 wl.voip.game.xiaomi.com IN CNAME .
 wap.game.xiaomi.com IN CNAME .
 idmb.app.chat.global.xiaomi.net IN CNAME .
@@ -46718,7 +46721,6 @@ bsp.misc.pandora.xiaomi.com IN CNAME .
 mishop.pandora.xiaomi.com IN CNAME .
 pull.mitv.pandora.xiaomi.com IN CNAME .
 mob.pandora.xiaomi.com IN CNAME .
-monitor.pandora.xiaomi.com IN CNAME .
 netcheck.pandora.xiaomi.com IN CNAME .
 ottl7-l2.pandora.xiaomi.com IN CNAME .
 media.pre.pandora.xiaomi.com IN CNAME .

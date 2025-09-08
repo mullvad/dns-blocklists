@@ -281,7 +281,6 @@ dmc.ads-int.microsoft.com
 beta.dmc.ads-int.microsoft.com
 ui.ads-int.microsoft.com
 adsdk.microsoft.com
-adsstatic.microsoft.com
 beta.adsstatic.microsoft.com
 adsstatic-int.microsoft.com
 advertising.microsoft.com
@@ -482,8 +481,6 @@ statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 gateway.bingviz.microsoftapp.net
 msads.net
-ads1.msads.net
-ads2.msads.net
 www.msads.net
 az667904.vo.msecnd.net
 a-ring.msedge.net
@@ -549,8 +546,6 @@ g00.msn.com
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 c.gr.msn.com
 h.msn.com
-h1.msn.com
-h2.msn.com
 h6.msn.com
 c.hk.msn.com
 c.id.msn.com
@@ -834,7 +829,6 @@ bf-analytics-tracker-tm.trafficmanager.net
 bingads.trafficmanager.net
 azure.bingads.trafficmanager.net
 resources.azure.bingads.trafficmanager.net
-bingadsresources.trafficmanager.net
 collection-location-livenet.trafficmanager.net
 collector-main.trafficmanager.net
 tracker.flightview.com.trafficmanager.net
