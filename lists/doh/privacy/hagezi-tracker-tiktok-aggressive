@@ -88,6 +88,7 @@ ads-crm.tiktok.com
 ads-frontier.tiktok.com
 ads-imapi.tiktok.com
 ads-measurement.tiktok.com
+ads-ru.tiktok.com
 ads-service.tiktok.com
 12691274.ads-service.tiktok.com
 em7903.ads-service.tiktok.com
@@ -100,12 +101,16 @@ analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
 analytics-exp-i18n.tiktok.com
+analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
 analytics-i18n.tiktok.com
+analytics-ru.tiktok.com
 analytics-sg.tiktok.com
 analytics-test.tiktok.com
 analytics-useast2a.tiktok.com
 analytics-v6.tiktok.com
+analytics16-normal.tiktok.com
+analytics16-normal-alisg.tiktok.com
 business-api.tiktok.com
 ads.in.tiktok.com
 location.tiktok.com
