@@ -55,6 +55,9 @@ aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
@@ -80,6 +83,7 @@ aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-us-cpm.amazon-adsystem.amazon.com
+aax-us-east-1-ott.amazon-adsystem.amazon.com
 aax-us-east-dtb-mobile.amazon-adsystem.com
 aax-us-east-dtb.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
@@ -356,7 +360,6 @@ global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
 h4g3z1-native.amazon.web.app
-iad.mobile.bid-na.ads.aps.amazon-adsystem.com
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 insights.video.a2z.com
