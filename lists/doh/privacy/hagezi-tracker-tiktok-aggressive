@@ -43,6 +43,7 @@ tnc-sg.capcutapi.com
 tnc-va.capcutapi.com
 tnc-va-us-looki.capcutapi.com
 tnc16-normal-us-ttp.capcutapi.us
+mon-boot.tiktokv.com.edgekey.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
@@ -248,6 +249,7 @@ mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
 mon.tiktokv.eu
+mon-boot.tiktokv.com
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
