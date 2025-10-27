@@ -86,6 +86,7 @@ ads.tiktok.tv
 url2696.ads.tiktok.com
 ads-api.tiktok.com
 ads-frontier.tiktok.com
+ads-service.tiktok.com
 ads-sg.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
@@ -143,6 +144,7 @@ location-v6-ttp2.tiktokv.eu
 location-v6-ttp2.tiktokv.us
 location-v6-va.tiktokv.com
 location-va.tiktokv.com
+locationv16-normal-useastred.tiktokv.eu
 log.tiktokv.com
 log.tiktokv.us
 log-i18n.tiktokv.com
@@ -295,6 +297,7 @@ rtc-logger.tiktokv.us
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger-va.tiktokv.com
+rtc-logger16-normal-useastred.tiktokv.eu
 rtlog.tiktokv.com
 rtlog-i18n.tiktokv.com
 rtlog-phx.tiktokv.com
@@ -346,6 +349,7 @@ rtlog58-normal-useast1a.tiktokv.com
 rtlog58-normal-useast2a.tiktokv.com
 rtlog58-normal-ycru.tiktokv.com
 tnc-boot.tiktokv.com
+tnc0-normal-alisg.tiktokv.com
 tnc0-normal-my.tiktokv.com
 tnc0-normal-sg1.tiktokv.com
 tnc0-normal-useast1a.tiktokv.com
@@ -369,6 +373,7 @@ tnc19-normal-ie.tiktokv.eu
 tnc19-normal-no1a.tiktokv.eu
 tnc19-normal-useast5.tiktokv.us
 tnc19-normal-useast8.tiktokv.us
+tnc19-normal-useastred.tiktokv.eu
 tnc31-normal-zr-useast1a.tiktokv.com
 tnc31-platform-alisg.tiktokv.com
 tnc31-platform-useast1a.tiktokv.com

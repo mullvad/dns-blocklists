@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1760942949    ; serial
+                                        1761553687    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -14943,6 +14943,7 @@ hauhws.asgoodasnew.de IN CNAME .
 hauixd.halistores.com IN CNAME .
 hauzdj.quellogiusto.it IN CNAME .
 haxdym.min-breeder.com IN CNAME .
+haystack.wavve.com IN CNAME .
 hazawl.veke.fi IN CNAME .
 hazmatworkshop.com IN CNAME .
 hbaazk.bukalapak.com IN CNAME .
@@ -21509,6 +21510,7 @@ mercadeo.promerica.fi.cr IN CNAME .
 merchant-app.th3rdwave.coffee IN CNAME .
 merchant.libertycarz.com IN CNAME .
 merchant-mail.neosurf.com IN CNAME .
+mercuryace.com IN CNAME .
 meremark.com IN CNAME .
 merequartz.com IN CNAME .
 merryopal.com IN CNAME .
@@ -23853,6 +23855,7 @@ nnhxjd.zielonalazienka.pl IN CNAME .
 nnivvr.zimmo.be IN CNAME .
 nnkeoi.timarco.com IN CNAME .
 nnkkxb.nuts.com IN CNAME .
+nnmtools.comthird-party IN CNAME .
 nnobek.waschbaer.de IN CNAME .
 nnofmj.studiof.com.co IN CNAME .
 nnqyed.laredoute.be IN CNAME .
@@ -42088,6 +42091,7 @@ aax-eu-test1.amazon-adsystem.com IN CNAME .
 aax-eu.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
+aax-events-cell01-cf.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
@@ -42282,6 +42286,7 @@ cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
+cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42667,6 +42672,7 @@ securemetrics.v.aaplimg.com IN CNAME .
 securemvt.v.aaplimg.com IN CNAME .
 smoot-feedback.v.aaplimg.com IN CNAME .
 supportmetrics.v.aaplimg.com IN CNAME .
+xp.v.aaplimg.com IN CNAME .
 ab.apple.com.akadns.net IN CNAME .
 cstat-lb.apple.com.akadns.net IN CNAME .
 diagassets-lb.apple.com.akadns.net IN CNAME .
@@ -42680,6 +42686,7 @@ iad-apple.com.akadns.net IN CNAME .
 skadnetwork.iad-apple.com.akadns.net IN CNAME .
 partiality.itunes-apple.com.akadns.net IN CNAME .
 xp.itunes-apple.com.akadns.net IN CNAME .
+xp-cdn-lb.itunes-apple.com.akadns.net IN CNAME .
 searchads.lb-apple.com.akadns.net IN CNAME .
 advertising.apple.com IN CNAME .
 advp.apple.com IN CNAME .
@@ -43266,6 +43273,7 @@ browser-api-us.heytapmobile.com IN CNAME .
 browser-api-vn.heytapmobile.com IN CNAME .
 browser-api-za.heytapmobile.com IN CNAME .
 browser-sdk-fr.heytapmobile.com IN CNAME .
+browser-sdk-in.heytapmobile.com IN CNAME .
 browser-sdk-ru.heytapmobile.com IN CNAME .
 browserfiles.heytapmobile.com IN CNAME .
 api-gl.cdo.heytapmobile.com IN CNAME .
@@ -43433,6 +43441,7 @@ ads.tiktok.tv IN CNAME .
 url2696.ads.tiktok.com IN CNAME .
 ads-api.tiktok.com IN CNAME .
 ads-frontier.tiktok.com IN CNAME .
+ads-service.tiktok.com IN CNAME .
 ads-sg.tiktok.com IN CNAME .
 analytics.tiktok.com IN CNAME .
 analytics-attribution.tiktok.com IN CNAME .
@@ -43490,6 +43499,7 @@ location-v6-ttp2.tiktokv.eu IN CNAME .
 location-v6-ttp2.tiktokv.us IN CNAME .
 location-v6-va.tiktokv.com IN CNAME .
 location-va.tiktokv.com IN CNAME .
+locationv16-normal-useastred.tiktokv.eu IN CNAME .
 log.tiktokv.com IN CNAME .
 log.tiktokv.us IN CNAME .
 log-i18n.tiktokv.com IN CNAME .
@@ -43642,6 +43652,7 @@ rtc-logger.tiktokv.us IN CNAME .
 rtc-logger-i18n.tiktokv.com IN CNAME .
 rtc-logger-ie.tiktokv.eu IN CNAME .
 rtc-logger-va.tiktokv.com IN CNAME .
+rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 rtlog.tiktokv.com IN CNAME .
 rtlog-i18n.tiktokv.com IN CNAME .
 rtlog-phx.tiktokv.com IN CNAME .
@@ -43693,6 +43704,7 @@ rtlog58-normal-useast1a.tiktokv.com IN CNAME .
 rtlog58-normal-useast2a.tiktokv.com IN CNAME .
 rtlog58-normal-ycru.tiktokv.com IN CNAME .
 tnc-boot.tiktokv.com IN CNAME .
+tnc0-normal-alisg.tiktokv.com IN CNAME .
 tnc0-normal-my.tiktokv.com IN CNAME .
 tnc0-normal-sg1.tiktokv.com IN CNAME .
 tnc0-normal-useast1a.tiktokv.com IN CNAME .
@@ -43716,6 +43728,7 @@ tnc19-normal-ie.tiktokv.eu IN CNAME .
 tnc19-normal-no1a.tiktokv.eu IN CNAME .
 tnc19-normal-useast5.tiktokv.us IN CNAME .
 tnc19-normal-useast8.tiktokv.us IN CNAME .
+tnc19-normal-useastred.tiktokv.eu IN CNAME .
 tnc31-normal-zr-useast1a.tiktokv.com IN CNAME .
 tnc31-platform-alisg.tiktokv.com IN CNAME .
 tnc31-platform-useast1a.tiktokv.com IN CNAME .
@@ -43773,9 +43786,13 @@ h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 adxlog-adnet.vivo.com.cn IN CNAME .
 az.appstore.vivo.com.cn IN CNAME .
+appstore-trace-h5sdk.vivo.com.cn IN CNAME .
 dsplog-adnet.vivo.com.cn IN CNAME .
+trace-h5sdk.vivo.com.cn IN CNAME .
 tracking-adnet.vivo.com.cn IN CNAME .
 vhs.wwstat.com.ctdns.cn IN CNAME .
+trackercollect.ddxq.mobi IN CNAME .
+trackerfeed.ddxq.mobi IN CNAME .
 vhs.wwstat.com.eo.dnse0.com IN CNAME .
 asia-abeacdataonrt-stsdk.vivoglobal.com IN CNAME .
 asia-abeacdataort-stsdk.vivoglobal.com IN CNAME .
@@ -43824,6 +43841,7 @@ cname-in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 cname-sin01-stsdk09.vivoglobal.com IN CNAME .
 co-cota.vivoglobal.com IN CNAME .
 co-domaincfg.vivoglobal.com IN CNAME .
+co-err-up.vivoglobal.com IN CNAME .
 co-onrt-stsdk.vivoglobal.com IN CNAME .
 co-ort-stsdk.vivoglobal.com IN CNAME .
 co-pnrt-stsdk.vivoglobal.com IN CNAME .
@@ -43835,7 +43853,10 @@ co-vcode-api.vivoglobal.com IN CNAME .
 co-vcode-od.vivoglobal.com IN CNAME .
 co-vcode-or.vivoglobal.com IN CNAME .
 de-gdpr-err-up.vivoglobal.com IN CNAME .
+de-gdpr-vcode-od.vivoglobal.com IN CNAME .
 err-up.vivoglobal.com IN CNAME .
+eu-album-api.vivoglobal.com IN CNAME .
+eu-cota.vivoglobal.com IN CNAME .
 eu-domaincfg.vivoglobal.com IN CNAME .
 eu-errup.vivoglobal.com IN CNAME .
 eu-onrt-stsdk.vivoglobal.com IN CNAME .
@@ -43844,6 +43865,7 @@ eu-p.vivoglobal.com IN CNAME .
 eu-pnrt-stsdk.vivoglobal.com IN CNAME .
 eu-romsp-unifyconfig.vivoglobal.com IN CNAME .
 eu-st-sl.vivoglobal.com IN CNAME .
+eu-stsdk.vivoglobal.com IN CNAME .
 eu-timesync.vivoglobal.com IN CNAME .
 eu-vcode-api.vivoglobal.com IN CNAME .
 eu-vcode-od.vivoglobal.com IN CNAME .
@@ -43895,6 +43917,7 @@ kz-st-exappupgrade.vivoglobal.com IN CNAME .
 kz-st-sl.vivoglobal.com IN CNAME .
 kz-st-sysupgrade.vivoglobal.com IN CNAME .
 kz-stsdk.vivoglobal.com IN CNAME .
+kz-timesync.vivoglobal.com IN CNAME .
 kz-vcode-api.vivoglobal.com IN CNAME .
 kz-vcode-od.vivoglobal.com IN CNAME .
 kz-vcode-or.vivoglobal.com IN CNAME .
@@ -44009,8 +44032,11 @@ cdn-aas-ssai.alphonso.tv IN CNAME .
 cekftfosrg84.alphonso.tv IN CNAME .
 ckbjtnu46.alphonso.tv IN CNAME .
 clockskew.alphonso.tv IN CNAME .
+cmsqd1.alphonso.tv IN CNAME .
 config-overlay-ads.alphonso.tv IN CNAME .
 config-overlay-ads-staging.alphonso.tv IN CNAME .
+crgyirwbq42.alphonso.tv IN CNAME .
+crmjqv9.alphonso.tv IN CNAME .
 crpsh8.alphonso.tv IN CNAME .
 cssmps40.alphonso.tv IN CNAME .
 csxnc89.alphonso.tv IN CNAME .
@@ -44019,10 +44045,13 @@ cyijq72.alphonso.tv IN CNAME .
 dar-pix-prod-lb.alphonso.tv IN CNAME .
 dkpae73.alphonso.tv IN CNAME .
 dmkfppbdav49.alphonso.tv IN CNAME .
+dqfui3.alphonso.tv IN CNAME .
 dqzljjhryn04.alphonso.tv IN CNAME .
 dtsif22.alphonso.tv IN CNAME .
+dtyjiik06.alphonso.tv IN CNAME .
 dueypce56.alphonso.tv IN CNAME .
 dufqih18.alphonso.tv IN CNAME .
+dzhsiasru67.alphonso.tv IN CNAME .
 dzqkrgamr75.alphonso.tv IN CNAME .
 ebgyjue7.alphonso.tv IN CNAME .
 ecbmtltfbu47.alphonso.tv IN CNAME .
@@ -44185,10 +44214,13 @@ eyndphse57.alphonso.tv IN CNAME .
 fjzlz5.alphonso.tv IN CNAME .
 fkflly0.alphonso.tv IN CNAME .
 fltqq84.alphonso.tv IN CNAME .
+frmrmyi2.alphonso.tv IN CNAME .
+fwvrvdv95.alphonso.tv IN CNAME .
 ganltsl61.alphonso.tv IN CNAME .
 gbasccnma3.alphonso.tv IN CNAME .
 gdafrjemy1.alphonso.tv IN CNAME .
 gepafpa94.alphonso.tv IN CNAME .
+gixtvwwny43.alphonso.tv IN CNAME .
 goefescqwv2.alphonso.tv IN CNAME .
 gotqxdmd87.alphonso.tv IN CNAME .
 gqttihib0.alphonso.tv IN CNAME .
@@ -44202,11 +44234,14 @@ hsfhfh95.alphonso.tv IN CNAME .
 hzcjehtc7.alphonso.tv IN CNAME .
 ibniwvetq1.alphonso.tv IN CNAME .
 icoxpv90.alphonso.tv IN CNAME .
+idkjv31.alphonso.tv IN CNAME .
 insights.alphonso.tv IN CNAME .
 ioaoyyl3.alphonso.tv IN CNAME .
 iqzjhctm4.alphonso.tv IN CNAME .
+irmchav36.alphonso.tv IN CNAME .
 iwwwvsed59.alphonso.tv IN CNAME .
 iytopqvcp0.alphonso.tv IN CNAME .
+jcntvzwcu59.alphonso.tv IN CNAME .
 jflpf9.alphonso.tv IN CNAME .
 jfrqba0.alphonso.tv IN CNAME .
 jgqioypx31.alphonso.tv IN CNAME .
@@ -44215,6 +44250,7 @@ jmbiescta34.alphonso.tv IN CNAME .
 jokeg7.alphonso.tv IN CNAME .
 jqqqiife69.alphonso.tv IN CNAME .
 jrtwcm90.alphonso.tv IN CNAME .
+jzzuvzq98.alphonso.tv IN CNAME .
 kfkggmwj1.alphonso.tv IN CNAME .
 kjvhhi2.alphonso.tv IN CNAME .
 klvgltwopc1.alphonso.tv IN CNAME .
@@ -44238,6 +44274,7 @@ krishnaw260.alphonso.tv IN CNAME .
 krishnaw261.alphonso.tv IN CNAME .
 krishnaw262.alphonso.tv IN CNAME .
 krishnaw263.alphonso.tv IN CNAME .
+krishnaw266.alphonso.tv IN CNAME .
 krishnaw268.alphonso.tv IN CNAME .
 krishnaw270.alphonso.tv IN CNAME .
 krishnaw271.alphonso.tv IN CNAME .
@@ -44319,10 +44356,12 @@ krishnaw350.alphonso.tv IN CNAME .
 krishnaw351.alphonso.tv IN CNAME .
 krishnaw352.alphonso.tv IN CNAME .
 krishnaw353.alphonso.tv IN CNAME .
+krishnaw354.alphonso.tv IN CNAME .
 krishnaw355.alphonso.tv IN CNAME .
 krishnaw356.alphonso.tv IN CNAME .
 krishnaw357.alphonso.tv IN CNAME .
 krishnaw358.alphonso.tv IN CNAME .
+krishnaw359.alphonso.tv IN CNAME .
 krishnaw360.alphonso.tv IN CNAME .
 krishnaw361.alphonso.tv IN CNAME .
 krishnaw362.alphonso.tv IN CNAME .
@@ -44335,8 +44374,10 @@ krishnaw368.alphonso.tv IN CNAME .
 krishnaw369.alphonso.tv IN CNAME .
 krishnaw370.alphonso.tv IN CNAME .
 krishnaw371.alphonso.tv IN CNAME .
+krishnaw373.alphonso.tv IN CNAME .
 krishnaw374.alphonso.tv IN CNAME .
 krishnaw375.alphonso.tv IN CNAME .
+krishnaw376.alphonso.tv IN CNAME .
 krishnaw380.alphonso.tv IN CNAME .
 krishnaw381.alphonso.tv IN CNAME .
 krishnaw382.alphonso.tv IN CNAME .
@@ -44347,6 +44388,9 @@ krishnaw386.alphonso.tv IN CNAME .
 krishnaw387.alphonso.tv IN CNAME .
 krishnaw390.alphonso.tv IN CNAME .
 krishnaw391.alphonso.tv IN CNAME .
+krishnaw392.alphonso.tv IN CNAME .
+krishnaw393.alphonso.tv IN CNAME .
+krishnaw394.alphonso.tv IN CNAME .
 krishnaw396.alphonso.tv IN CNAME .
 krishnaw397.alphonso.tv IN CNAME .
 krishnaw398.alphonso.tv IN CNAME .
@@ -44363,9 +44407,12 @@ krishnaw415.alphonso.tv IN CNAME .
 krishnaw416.alphonso.tv IN CNAME .
 krishnaw417.alphonso.tv IN CNAME .
 krishnaw420.alphonso.tv IN CNAME .
+krishnaw421.alphonso.tv IN CNAME .
 krishnaw422.alphonso.tv IN CNAME .
 krishnaw423.alphonso.tv IN CNAME .
 krishnaw424.alphonso.tv IN CNAME .
+krishnaw425.alphonso.tv IN CNAME .
+krishnaw426.alphonso.tv IN CNAME .
 krishnaw427.alphonso.tv IN CNAME .
 krishnaw428.alphonso.tv IN CNAME .
 krishnaw429.alphonso.tv IN CNAME .
@@ -44377,9 +44424,13 @@ krishnaw436.alphonso.tv IN CNAME .
 krishnaw437.alphonso.tv IN CNAME .
 krishnaw438.alphonso.tv IN CNAME .
 krishnaw439.alphonso.tv IN CNAME .
+krishnaw440.alphonso.tv IN CNAME .
 krishnaw441.alphonso.tv IN CNAME .
+krishnaw442.alphonso.tv IN CNAME .
+krishnaw443.alphonso.tv IN CNAME .
 krishnaw445.alphonso.tv IN CNAME .
 krishnaw446.alphonso.tv IN CNAME .
+krishnaw447.alphonso.tv IN CNAME .
 krishnaw448.alphonso.tv IN CNAME .
 krishnaw449.alphonso.tv IN CNAME .
 krishnaw450.alphonso.tv IN CNAME .
@@ -44409,6 +44460,8 @@ krishnaw475.alphonso.tv IN CNAME .
 krishnaw476.alphonso.tv IN CNAME .
 krishnaw477.alphonso.tv IN CNAME .
 krishnaw478.alphonso.tv IN CNAME .
+krishnaw479.alphonso.tv IN CNAME .
+krishnaw480.alphonso.tv IN CNAME .
 krishnaw481.alphonso.tv IN CNAME .
 krishnaw484.alphonso.tv IN CNAME .
 krishnaw485.alphonso.tv IN CNAME .
@@ -44431,11 +44484,13 @@ krishnaw501.alphonso.tv IN CNAME .
 krishnaw502.alphonso.tv IN CNAME .
 krishnaw503.alphonso.tv IN CNAME .
 krishnaw504.alphonso.tv IN CNAME .
+kvzvlu2.alphonso.tv IN CNAME .
 lbrgfl89.alphonso.tv IN CNAME .
 lcrrqcz39.alphonso.tv IN CNAME .
 lditca63.alphonso.tv IN CNAME .
 lglbfle6.alphonso.tv IN CNAME .
 lizmjtlnix16.alphonso.tv IN CNAME .
+ljjsajcuwf67.alphonso.tv IN CNAME .
 llohtzbd55.alphonso.tv IN CNAME .
 lmhnduqing0.alphonso.tv IN CNAME .
 lpexfk96.alphonso.tv IN CNAME .
@@ -44455,11 +44510,14 @@ mmfmkbhbvj6.alphonso.tv IN CNAME .
 mogrs74.alphonso.tv IN CNAME .
 mopezmv99.alphonso.tv IN CNAME .
 mpfml72.alphonso.tv IN CNAME .
+mrhcmybeao1.alphonso.tv IN CNAME .
 mwuvclbed2.alphonso.tv IN CNAME .
 naassttei6.alphonso.tv IN CNAME .
 nbacc1.alphonso.tv IN CNAME .
+nhundu5.alphonso.tv IN CNAME .
 nmjvt6.alphonso.tv IN CNAME .
 ntkfbsqfxy2.alphonso.tv IN CNAME .
+ntmonou0.alphonso.tv IN CNAME .
 nxlfrrqk07.alphonso.tv IN CNAME .
 nzbglro8.alphonso.tv IN CNAME .
 oabvftvdl78.alphonso.tv IN CNAME .
@@ -44470,6 +44528,7 @@ ojstejnuo72.alphonso.tv IN CNAME .
 okgbuy7.alphonso.tv IN CNAME .
 olktn60.alphonso.tv IN CNAME .
 omyzsk8.alphonso.tv IN CNAME .
+onvshoi4.alphonso.tv IN CNAME .
 ooefrrv5.alphonso.tv IN CNAME .
 optout.alphonso.tv IN CNAME .
 oqqqhfehq0.alphonso.tv IN CNAME .
@@ -44491,6 +44550,7 @@ prov-geo-aws.alphonso.tv IN CNAME .
 prov-lb.alphonso.tv IN CNAME .
 prov-lg.alphonso.tv IN CNAME .
 qarawx1.alphonso.tv IN CNAME .
+qcduuw89.alphonso.tv IN CNAME .
 qdlmwrluk95.alphonso.tv IN CNAME .
 qhaciv57.alphonso.tv IN CNAME .
 qinvc14.alphonso.tv IN CNAME .
@@ -44518,6 +44578,7 @@ sync.alphonso.tv IN CNAME .
 syxjwpfr3.alphonso.tv IN CNAME .
 tabdqklvfv8.alphonso.tv IN CNAME .
 tcootf8.alphonso.tv IN CNAME .
+tdljbxejny3.alphonso.tv IN CNAME .
 test-tn.alphonso.tv IN CNAME .
 tkacr300.alphonso.tv IN CNAME .
 tkacr301.alphonso.tv IN CNAME .
@@ -45004,6 +45065,7 @@ tkacr787.alphonso.tv IN CNAME .
 tkacr788.alphonso.tv IN CNAME .
 tkacr789.alphonso.tv IN CNAME .
 tkacr790.alphonso.tv IN CNAME .
+tkacr791.alphonso.tv IN CNAME .
 tn.alphonso.tv IN CNAME .
 toahevamup30.alphonso.tv IN CNAME .
 tsxhjd90.alphonso.tv IN CNAME .
@@ -45042,6 +45104,8 @@ wyxqbhzw97.alphonso.tv IN CNAME .
 xasztu66.alphonso.tv IN CNAME .
 xbccbblkf4.alphonso.tv IN CNAME .
 xdfaerg8.alphonso.tv IN CNAME .
+xelyxrpty3.alphonso.tv IN CNAME .
+xfbqsdk8.alphonso.tv IN CNAME .
 xivbr6.alphonso.tv IN CNAME .
 xksxqur0.alphonso.tv IN CNAME .
 xovsoot4.alphonso.tv IN CNAME .
@@ -45053,6 +45117,7 @@ ycqniap3.alphonso.tv IN CNAME .
 ycveqoogp09.alphonso.tv IN CNAME .
 ygebzkorfi7.alphonso.tv IN CNAME .
 ygkibjr6.alphonso.tv IN CNAME .
+yojpcn16.alphonso.tv IN CNAME .
 yrdpnjajw79.alphonso.tv IN CNAME .
 yubyryonu18.alphonso.tv IN CNAME .
 yumhcpugj62.alphonso.tv IN CNAME .
@@ -45063,6 +45128,7 @@ zeokb1.alphonso.tv IN CNAME .
 zmepmwhey7.alphonso.tv IN CNAME .
 zpvvb87.alphonso.tv IN CNAME .
 zqsyp37.alphonso.tv IN CNAME .
+zsrznel7.alphonso.tv IN CNAME .
 zumqanh0.alphonso.tv IN CNAME .
 zycigxwpgv8.alphonso.tv IN CNAME .
 us-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -45256,6 +45322,7 @@ westus2-global.in.applicationinsights.azure.com IN CNAME .
 westus3.in.applicationinsights.azure.com IN CNAME .
 westus3-1.in.applicationinsights.azure.com IN CNAME .
 live.applicationinsights.azure.com IN CNAME .
+www.live.applicationinsights.azure.com IN CNAME .
 inference-app-gateway.eastus2.cloudapp.azure.com IN CNAME .
 inference-app-gateway.koreacentral.cloudapp.azure.com IN CNAME .
 inference-app-gateway.northeurope.cloudapp.azure.com IN CNAME .
@@ -45716,8 +45783,42 @@ logging.diagnostics-eudb.office.com IN CNAME .
 measure.office.com IN CNAME .
 measure.office.net IN CNAME .
 fp.measure.office.com IN CNAME .
+000bb32ff48c4d67b1f4b0461e82559e.fp.measure.office.com IN CNAME .
+1255c5905921c14c32eb0708f6e063c8.fp.measure.office.com IN CNAME .
+12f499ce479b4bab966195ceacdcc69e.fp.measure.office.com IN CNAME .
+1734a5f5086441b7a267ebb0d3330c0f.fp.measure.office.com IN CNAME .
+38a2e0944d7f440288e4ab0ed92e5e63.fp.measure.office.com IN CNAME .
+3fb2c34e1bdd4cbfba4ad179079ea681.fp.measure.office.com IN CNAME .
+438f7ecf4ef64397a73af3480731097a.fp.measure.office.com IN CNAME .
+47ed4cc9bbe746bb8162a4dbc676ceb8.fp.measure.office.com IN CNAME .
+4e210ba81b9e4da68329db9bb53a4d59.fp.measure.office.com IN CNAME .
+531d1a18fa644a9e9b458b72153260ab.fp.measure.office.com IN CNAME .
+544c5404b91945289776697b16201f35.fp.measure.office.com IN CNAME .
+54daba90a06d40feaac78a04e75cff01.fp.measure.office.com IN CNAME .
+56c24269b83846eda94f668789a757b0.fp.measure.office.com IN CNAME .
+5ab8bd4fea704982859db3ab99fb8f9d.fp.measure.office.com IN CNAME .
 5d0edd5e7741c8a3af5375c999da40b7.fp.measure.office.com IN CNAME .
+653f696431a04d5ac8729b442606a534.fp.measure.office.com IN CNAME .
+6ea36fffa74847599e5a61ff106b62a3.fp.measure.office.com IN CNAME .
+8763e9088f06487f93fdf467044c001d.fp.measure.office.com IN CNAME .
+8ed86effbb12e77226d1a07501aae8c7.fp.measure.office.com IN CNAME .
+906362b1d149d5f131b27f71bb32fad8.fp.measure.office.com IN CNAME .
+93fd45f21adabda3bc4bdc5ccc86aeff.fp.measure.office.com IN CNAME .
+9bf9b89af15c562c86b349eca4f77af2.fp.measure.office.com IN CNAME .
+9ebbec43d8eb416f8f17d91104f899f7.fp.measure.office.com IN CNAME .
+b0439479f15743afb52af64075df86c8.fp.measure.office.com IN CNAME .
+c0cd4499d01c45e796c88a7e9396af20.fp.measure.office.com IN CNAME .
+c5f8516ef6de40c299e323b05615a638.fp.measure.office.com IN CNAME .
 config.fp.measure.office.com IN CNAME .
+d0ac2790e1ac4a6289b9a9829b278b55.fp.measure.office.com IN CNAME .
+d2b58627e223588c649b19b40474a009.fp.measure.office.com IN CNAME .
+de0574d6cba179c264d57ac004b4b361.fp.measure.office.com IN CNAME .
+e5d854e70da241fa8a3f92c8f87dd95e.fp.measure.office.com IN CNAME .
+e69699c6f73785c1136971eb62cf18a2.fp.measure.office.com IN CNAME .
+e8d23ce9ea81bf0a0f8bc2117b03fb9a.fp.measure.office.com IN CNAME .
+f43be430a84e46e2a9380e8c6f56d621.fp.measure.office.com IN CNAME .
+f46c52fb963cdf0d874b527cfa730af9.fp.measure.office.com IN CNAME .
+ff0d74cd2eed4ae9a694fda104858a66.fp.measure.office.com IN CNAME .
 graph-next.fp.measure.office.com IN CNAME .
 ns1.fp.measure.office.com IN CNAME .
 ns2.fp.measure.office.com IN CNAME .
@@ -45790,7 +45891,6 @@ dsp-ad-cache-tm.trafficmanager.net IN CNAME .
 adstore.response.gcp.eastus.trafficmanager.net IN CNAME .
 telemetry.eastus.trafficmanager.net IN CNAME .
 eventservice.trafficmanager.net IN CNAME .
-fsad.trafficmanager.net IN CNAME .
 ghochv3eng.trafficmanager.net IN CNAME .
 glance-analytics.trafficmanager.net IN CNAME .
 hk-tracker.trafficmanager.net IN CNAME .
@@ -45867,6 +45967,7 @@ production-jobactivity-analytics.servicebus.windows.net IN CNAME .
 rawtelemetry-east.servicebus.windows.net IN CNAME .
 rawtelemetry-west.servicebus.windows.net IN CNAME .
 ss-telemetry.servicebus.windows.net IN CNAME .
+swiftanalyticsprod.servicebus.windows.net IN CNAME .
 wayfinderanalytics.servicebus.windows.net IN CNAME .
 c.xbox.com IN CNAME .
 o.xbox.com IN CNAME .
@@ -46301,6 +46402,7 @@ tj1.stagingouter.pay.xiaomi.com IN CNAME .
 tj1.test.pay.xiaomi.com IN CNAME .
 preload.xiaomi.com IN CNAME .
 bugreport.pt.xiaomi.com IN CNAME .
+cdn-exp-sg-recommend.pt.xiaomi.com IN CNAME .
 tj1.staging.fintech.pt.xiaomi.com IN CNAME .
 tj1.staging.fund.pt.xiaomi.com IN CNAME .
 tj1.staging.ins.pt.xiaomi.com IN CNAME .
