@@ -113,6 +113,7 @@ in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
 in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
+in-prt-stsdk.vivoglobal.com
 in-third-appstore.vivoglobal.com
 in-timesync.vivoglobal.com
 in-vcode-api.vivoglobal.com
@@ -202,6 +203,7 @@ prt.stsdk.vivoglobal.com
 tr-album-api.vivoglobal.com
 tr-cota.vivoglobal.com
 tr-domaincfg.vivoglobal.com
+tr-err-up.vivoglobal.com
 tr-gdpr-vgc-datacenter.vivoglobal.com
 tr-onrt-stsdk.vivoglobal.com
 tr-ort-stsdk.vivoglobal.com

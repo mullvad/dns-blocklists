@@ -53,6 +53,7 @@ aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
@@ -230,6 +231,8 @@ cell5001.iad.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+cell7001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
+cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com
