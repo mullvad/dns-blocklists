@@ -43,7 +43,6 @@ d.g.mi.com
 video.kts.g.mi.com
 migc.g.mi.com
 account.migc.g.mi.com
-sgp.account.migc.g.mi.com
 app.migc.g.mi.com
 oss.migc.g.mi.com
 migcreport.g.mi.com
@@ -382,7 +381,6 @@ bss.pandora.xiaomi.com
 m.bss.pandora.xiaomi.com
 c3-bgp.pandora.xiaomi.com
 c3mini.pandora.xiaomi.com
-c4.pandora.xiaomi.com
 appstore.cdn.pandora.xiaomi.com
 gallery.cdn.pandora.xiaomi.com
 image.cdn.pandora.xiaomi.com
@@ -417,7 +415,6 @@ bsp.sasdc.pandora.xiaomi.com
 shop.pandora.xiaomi.com
 stat.pandora.xiaomi.com
 bgp.tv.pandora.xiaomi.com
-mob.tv.pandora.xiaomi.com
 tvboss.pandora.xiaomi.com
 tvepg.pandora.xiaomi.com
 upgrade.pandora.xiaomi.com
@@ -469,5 +466,4 @@ callback.xmpush.xiaomi.com
 emq.xmpush.xiaomi.com
 mina.xmpush.xiaomi.com
 sandbox.xmpush.xiaomi.com
-test-api.xmpush.xiaomi.com
 vip-api.xmpush.xiaomi.com
