@@ -247,6 +247,7 @@ cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8001.iad.stv.event-na.ads.aps.amazon-adsystem.com
+cell8001.iad.web.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
@@ -296,6 +297,7 @@ eu-west-3-3.telemetry.insights.video.a2z.com
 eu-west.3px.axp.amazon-adsystem.com
 eu-west.aps.axp.amazon-adsystem.com
 eu-west.ono.axp.amazon-adsystem.com
+event-eu.ads.aps.amazon-adsystem.com
 event-na.ads-beta.aps.amazon-adsystem.com
 event-na.ads-gamma.aps.amazon-adsystem.com
 event-na.ads.aps.amazon-adsystem.com
@@ -347,6 +349,7 @@ global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
 h4g3z1-native.amazon.web.app
+iad.web.bid-na.ads.aps.amazon-adsystem.com
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 insights.video.a2z.com
@@ -474,6 +477,7 @@ strategicpub.us-west.aps.axp.amazon-adsystem.com
 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 stv.bid-na.ads.aps.amazon-adsystem.com
+stv.event-eu.ads.aps.amazon-adsystem.com
 stv.event-na.ads-beta.aps.amazon-adsystem.com
 stv.event-na.ads-gamma.aps.amazon-adsystem.com
 stv.event-na.ads.aps.amazon-adsystem.com
@@ -568,6 +572,7 @@ vq-us-east-1.amazon-adsystem.com
 vq-us-west-2.amazon-adsystem.com
 web.ads.aps.amazon-adsystem.com
 web.ap-southeast.aps.axp.amazon-adsystem.com
+web.bid-na.ads.aps.amazon-adsystem.com
 web.eu-west.aps.axp.amazon-adsystem.com
 web.us-east.aps.axp.amazon-adsystem.com
 wetfs.global-1.telemetry.insights.video.a2z.com
