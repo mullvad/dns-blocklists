@@ -110,6 +110,8 @@ aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.com
 aax.ap-southeast.3px.axp.amazon-adsystem.com
 aax.us-east.3px.axp.amazon-adsystem.com
+aca.bugsnag.appstore.a2z.com
+aca.ftv.bugsnag.appstore.a2z.com
 ads-beta.aps.amazon-adsystem.com
 ads-gamma.aps.amazon-adsystem.com
 ads-setu-proxy-eu.amazon.com
@@ -210,6 +212,7 @@ bid-na.ads.aps.amazon-adsystem.com
 bugs.firebat.prime-video.amazon.dev
 bugsnag-event.monitor.core.app.alexa.a2z.com
 bugsnag-session.monitor.core.app.alexa.a2z.com
+bugsnag.appstore.a2z.com
 bugsnag.shopbop.amazon.dev
 c.amazon-adsystem.com
 c.aps.amazon-adsystem.com
@@ -308,6 +311,7 @@ events.prod.bugs.firebat.prime-video.amazon.dev
 fe.ono.axp.amazon-adsystem.com
 fe.us-west.ono.axp.amazon-adsystem.com
 federatedanalytics.amazon.com
+firetv.bugsnag.appstore.a2z.com
 fls-cn.amazon-adsystem.com
 fls-cn.amazon.cn
 fls-eu.amazon-adsystem.com
@@ -338,6 +342,7 @@ fls-na.amazon.com
 fls-na.amazon.com.br
 fls-na.amazon.com.mx
 forester.a2z.com
+ftv.bugsnag.appstore.a2z.com
 gamma-config.aps.amazon-adsystem.com
 gamma-toolbox.aps.amazon-adsystem.com
 gamma.useast.rtb.axp.amazon-adsystem.com
@@ -349,7 +354,6 @@ global-2.telemetry.insights.video.a2z.com
 global-3.telemetry.insights.video.a2z.com
 global.telemetry.insights.video.a2z.com
 h4g3z1-native.amazon.web.app
-iad.web.bid-na.ads.aps.amazon-adsystem.com
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
 insights.video.a2z.com
@@ -380,6 +384,7 @@ maws-aax-apse-rtb-adx.amazon-adsystem.com
 maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
+maws-aax-fe-sin.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
 maws-aax-us-east-test4.amazon-adsystem.com
@@ -395,6 +400,10 @@ mobile.us-west.aps.axp.amazon-adsystem.com
 mobileanalytics.us-east-1.amazonaws.com
 mshopbugsnag.irm.amazon.dev
 new-telemetry.insights.video.a2z.com
+notify.aca.bugsnag.appstore.a2z.com
+notify.aca.ftv.bugsnag.appstore.a2z.com
+notify.bugsnag.appstore.a2z.com
+notify.firetv.bugsnag.appstore.a2z.com
 ono.axp.amazon-adsystem.com
 origin-sq-tungsten-ts.amazon-adsystem.com
 ott.eu-west.aps.axp.amazon-adsystem.com
@@ -460,6 +469,7 @@ sa-east-1-3.telemetry.insights.video.a2z.com
 service.minerva.devices.a2z.com
 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 session.mshopbugsnag.irm.amazon.dev
+sessions.bugsnag.appstore.a2z.com
 sessions.prod.bugs.firebat.prime-video.amazon.dev
 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
@@ -474,6 +484,7 @@ st.amazon-adsystem.com
 strategicpub.eu-west.aps.axp.amazon-adsystem.com
 strategicpub.us-east.aps.axp.amazon-adsystem.com
 strategicpub.us-west.aps.axp.amazon-adsystem.com
+stv.bid-eu.ads.aps.amazon-adsystem.com
 stv.bid-na.ads-beta.aps.amazon-adsystem.com
 stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 stv.bid-na.ads.aps.amazon-adsystem.com
@@ -563,6 +574,9 @@ vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw.amazon-adsystem.com
+vfwm-us.amazon-adsystem.com
+vfwm.amazon-adsystem.com
+vfws.amazon-adsystem.com
 video-ads.a2z.com
 video-player.aps.amazon-adsystem.com
 vq-eu-west-1.amazon-adsystem.com
