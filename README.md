@@ -42,6 +42,10 @@ Please note that our Encrypted DNS service includes different hostnames for each
   - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
   - TLS: extended.dns.mullvad.net
   - HTTPS: https://extended.dns.mullvad.net/dns-query
+- Family:
+  - This includes Ad-blocking, Tracker, Malware, Adult content and Gambling blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: family.dns.mullvad.net
+  - HTTPS: https://family.dns.mullvad.net/dns-query
 - All:
   - This includes Ad-blocking, Tracker, Malware, Adult content, Gambling and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
   - TLS: all.dns.mullvad.net
