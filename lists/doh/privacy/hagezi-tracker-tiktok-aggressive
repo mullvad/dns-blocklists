@@ -121,6 +121,7 @@ ads-api.tiktok.com
 ads-frontier.tiktok.com
 ads-service.tiktok.com
 ads-sg.tiktok.com
+ads-useast2a.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
@@ -316,8 +317,6 @@ mssdk22-normal-useast2a.tiktokv.com
 mssdk22-normal-zr.tiktokv.com
 mssdk22-normal-zr-alisg.tiktokv.com
 mssdk22-normal-zr-useast1a.tiktokv.com
-mssdk23-normal-zr-alisg.tiktokv.com
-mssdk23-normal-zr-useast1a.tiktokv.com
 mssdk24-normal.tiktokv.com
 mssdk24-normal-alisg.tiktokv.com
 mssdk24-normal-useast1a.tiktokv.com
