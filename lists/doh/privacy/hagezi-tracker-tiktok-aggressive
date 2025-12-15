@@ -442,6 +442,7 @@ xlog-va.tiktokv.com
 xlog-va-useast2a.tiktokv.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
+xlog16-normal-no1a.tiktokv.eu
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 log-snssdk.tiktokv-us.com
@@ -450,6 +451,9 @@ ads-ttp2.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
+analytics16-normal-no1a.tiktokw.eu
+analytics16-normal-useast5.tiktokw.us
+analytics16-normal-useast8.tiktokw.us
 analytics16-normal-useastred.tiktokw.eu
 location.tiktokw.us
 mcs.tiktokw.us
