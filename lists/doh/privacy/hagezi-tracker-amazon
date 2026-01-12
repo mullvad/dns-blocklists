@@ -53,6 +53,7 @@ aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.aps.axp.amazon-adsystem.com
 aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com
@@ -430,7 +431,6 @@ ps-us.amazon-adsystem.com
 rcm-eu.amazon-adsystem.com
 rcm-eu.assoc-amazon.com
 rcm-fe.amazon-adsystem.com
-rcm-images.amazon.com
 rcm-it.amazon.it
 rcm-jp.amazon.co.jp
 rcm-na.amazon-adsystem.com

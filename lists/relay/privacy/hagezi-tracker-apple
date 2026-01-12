@@ -39,7 +39,9 @@ databeacon.apple.com
 datacollection.apple.com
 diagassets.apple.com
 diagnostics.apple.com
+dz1dt3wqswdezgx4j2ryem5iad.apple.com
 experiments.apple.com
+graffiti-tags.apple.com
 iad.apple.com
 iadcontent.apple.com
 iadmoo.apple.com
@@ -83,6 +85,7 @@ me.apple-dns.net
 probe.me.apple-dns.net
 applemediaservices.com
 cstat.cdn-apple.com
+securemetrics.apple.com.cn
 feedbackws.icloud.com.cn
 cdn-xp-ingest.edge.apple
 experiments.apple.com.edgekey.net
