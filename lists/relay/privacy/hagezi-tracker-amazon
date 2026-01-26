@@ -258,6 +258,7 @@ cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
 config.aps.amazon-adsystem.com
@@ -615,6 +616,7 @@ www.assoc-amazon.es
 www.assoc-amazon.fr
 www.assoc-amazon.it
 www.assoc-amazon.jp
+www.paa-reporting-advertising.amazon
 z-eu.amazon-adsystem.com
 z-fe.amazon-adsystem.com
 z-in.amazon-adsystem.com

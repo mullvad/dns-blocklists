@@ -89,6 +89,7 @@ mon-boot.tiktokv.com.edgekey.net
 mssdk-boot.tiktokv.com.edgekey.net
 mcs.us.tiktok.com.edgesuite.net
 mcs-ttp2.us.tiktok.com.edgesuite.net
+sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 mcs.us.tiktokv.com.edgesuite.net
 frontier.tiktokv-eu.com.edgesuite.net
@@ -181,6 +182,8 @@ mcs.us.tiktok.com
 mcs-ttp2.us.tiktok.com
 mssdk.us.tiktok.com
 mcs.tiktok-row.net
+sf16-ads-format-sign.tiktokcdn.com
+sf19-ads-format-sign.tiktokcdn.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 ad.tiktokv.com
 ad.tiktokv.us
@@ -488,6 +491,7 @@ frontier.tiktokv-eu.com
 log-snssdk.tiktokv-us.com
 ads-ie.tiktokw.eu
 ads-ttp2.tiktokw.eu
+ads16-normal-useastred.tiktokw.eu
 analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-ttp2.tiktokw.eu
