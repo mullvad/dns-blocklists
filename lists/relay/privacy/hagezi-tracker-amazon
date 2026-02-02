@@ -63,6 +63,7 @@ aax-events-cell02.us-west.3px.axp.amazon-adsystem.com
 aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com
 aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com
 aax-events-mobile.us-west.3px.axp.amazon-adsystem.com
+aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com
 aax-events-wt.ap-southeast.aps.axp.amazon-adsystem.com
 aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 aax-fe-rtb.amazon-adsystem.com
@@ -258,6 +259,7 @@ cell8002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.spp.event-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell8004.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell8004.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
