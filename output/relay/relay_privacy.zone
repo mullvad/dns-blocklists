@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1770021540    ; serial
+                                        1770214020    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4129,6 +4129,7 @@ accuride.actonservice.com IN CNAME .
 accutrain.actonservice.com IN CNAME .
 accuzip.actonservice.com IN CNAME .
 accwww9.53kf.com IN CNAME .
+acds-events.adobe.io IN CNAME .
 ac.dun.163.com IN CNAME .
 ac-ebis.otoraku.jp IN CNAME .
 ac-ebis-otrk.usen.com IN CNAME .
@@ -5341,6 +5342,7 @@ analytics.ml.homedepot.ca IN CNAME .
 analytics.mlstatic.com IN CNAME .
 analytics.mobile.yandex.net IN CNAME .
 analytics.mondotv.jp IN CNAME .
+analytics.morphe.software IN CNAME .
 analytics.mouthshut.com IN CNAME .
 analytics.moviepilot.de IN CNAME .
 analytics.multithread.studio IN CNAME .
@@ -5493,6 +5495,7 @@ analytics.sixt.jp IN CNAME .
 analytics.sixtmiddleeast.com IN CNAME .
 analytics.sixt.nl IN CNAME .
 analytics.skinit.com IN CNAME .
+analytics.skyscanner.net IN CNAME .
 analytics.slashdotmedia.com IN CNAME .
 analytics.sleeknote.com IN CNAME .
 analytics.smart.mercedes-benz.com IN CNAME .
@@ -5769,6 +5772,7 @@ api.apiok.net.iberostar.com IN CNAME .
 api.autopilothq.com IN CNAME .
 api.bunzlaucastle.com IN CNAME .
 a.pickme.lk IN CNAME .
+api.croct.io IN CNAME .
 api.digitalpiloten.org IN CNAME .
 api.elliehuxtable.com IN CNAME .
 api.fuck.education IN CNAME .
@@ -8388,6 +8392,7 @@ cdl.lvsafe.io IN CNAME .
 cdn1.skrill.com IN CNAME .
 cdn7.baunetz.de IN CNAME .
 cdn.9gtb.com IN CNAME .
+cdn-a.raptor.digital IN CNAME .
 cdn.arcstudiopro.com IN CNAME .
 cdn-channels-pixel.ex.co IN CNAME .
 cdn-eu.usefathom.com IN CNAME .
@@ -11408,6 +11413,7 @@ dollarthrill.com IN CNAME .
 dolphin.deliver.ifeng.com IN CNAME .
 dolrfm.fotoregistro.com.br IN CNAME .
 domainbntest.branchcustom.xyz IN CNAME .
+domaincolumn.com IN CNAME .
 domino.flycl.ps IN CNAME .
 domorewithless.adp.ca IN CNAME .
 domself.de IN CNAME .
@@ -13647,6 +13653,7 @@ fpc.sg2.com IN CNAME .
 fpc.singleplatform.com IN CNAME .
 fpc.trimarkusa.com IN CNAME .
 fpc.utexas.edu IN CNAME .
+fp-flame.vercel.app IN CNAME .
 fpghll.rossmann.hu IN CNAME .
 fpida.amphi.jp IN CNAME .
 fpida.bodybook.jp IN CNAME .
@@ -18259,6 +18266,7 @@ like.reply.de IN CNAME .
 likethedog.com IN CNAME .
 lilogy.actonservice.com IN CNAME .
 l.imax.com IN CNAME .
+limecodesign.com IN CNAME .
 limepeal.com IN CNAME .
 limone.iltrovatore.it IN CNAME .
 lincolnfinancialgroup.lfg.com IN CNAME .
@@ -19145,6 +19153,7 @@ live.alljobs.co.il IN CNAME .
 live.comunicaciones.jetstereo.com IN CNAME .
 livecounter.theyosh.nl IN CNAME .
 live.cxo.name IN CNAME .
+live.exchangesolutions.com IN CNAME .
 livelumber.com IN CNAME .
 livelylaugh.com IN CNAME .
 live.polycom.com IN CNAME .
@@ -21683,6 +21692,7 @@ melodothogy.meng2x.com IN CNAME .
 melodyglobe.com IN CNAME .
 meltmilk.com IN CNAME .
 member-app.rightwayhealthcare.com IN CNAME .
+membernook.com IN CNAME .
 members.atomcomplete.com IN CNAME .
 membership.mortonarb.org IN CNAME .
 memberships.clubcorp.com IN CNAME .
@@ -23542,6 +23552,7 @@ mortgage.inform.equifax.com IN CNAME .
 mortgage.leads360.com IN CNAME .
 mortgage.velocify.com IN CNAME .
 mosvnx.livup.com.br IN CNAME .
+motionarray.net IN CNAME .
 motionflowers.com IN CNAME .
 motion.kollmorgen.com IN CNAME .
 motionlessbelief.com IN CNAME .
@@ -23552,6 +23563,7 @@ motorsports.locktonaffinity.net IN CNAME .
 motu-teamblue.services IN CNAME .
 mountedbattery.com IN CNAME .
 mousebusters.odencat.com IN CNAME .
+movableobject.com IN CNAME .
 move.azets.com IN CNAME .
 move.azets.dk IN CNAME .
 move.azets.fi IN CNAME .
@@ -24735,6 +24747,7 @@ oph7o.montecarlosbm-corporate.com IN CNAME .
 ophan.theguardian.com IN CNAME .
 opim.pixmania.com IN CNAME .
 oply.hearstapps.com IN CNAME .
+op-mobile.opera.com IN CNAME .
 opo4.assuronline.com IN CNAME .
 opoffice.actonservice.com IN CNAME .
 opportunity.businessbroker.net IN CNAME .
@@ -24909,6 +24922,7 @@ ovrsso.gemo.fr IN CNAME .
 owa.carhartt.com IN CNAME .
 o.webmd.com IN CNAME .
 owen.prolitteris.ch IN CNAME .
+owlbees.com IN CNAME .
 owlreporter.com IN CNAME .
 owlsr.us IN CNAME .
 owlstwo.com IN CNAME .
@@ -25961,6 +25975,7 @@ ptw-i.actonservice.com IN CNAME .
 p.typekit.net IN CNAME .
 pubfs.com IN CNAME .
 pubimgs.com IN CNAME .
+public.9gtb.com IN CNAME .
 publications.nomination.fr IN CNAME .
 publicidad.davivienda.com.pa IN CNAME .
 publicschoolworks.actonservice.com IN CNAME .
@@ -26980,6 +26995,7 @@ rum.ingress.layer0.co IN CNAME .
 rum.layer0.co IN CNAME .
 rum.marquardmedia.hu IN CNAME .
 rum.mauve.eu IN CNAME .
+rum.optimizely.com IN CNAME .
 rum.perfops.net IN CNAME .
 rumsey.actonservice.com IN CNAME .
 rumstat.cdnvideo.ru IN CNAME .
@@ -35967,6 +35983,7 @@ tiredthroat.com IN CNAME .
 tireinside.com IN CNAME .
 tiresomethunder.com IN CNAME .
 t.irtyc.com IN CNAME .
+titanprod.narvar.com IN CNAME .
 titomacia.net.anwalt.de IN CNAME .
 t.itsehoitoapteekki.fi IN CNAME .
 tittendestages.net.anwalt.de IN CNAME .
@@ -36554,6 +36571,7 @@ tracker.gamemonkey.org IN CNAME .
 tracker.gleanview.com IN CNAME .
 tracker.grupanya.com IN CNAME .
 tracker.hdtvcloud.com IN CNAME .
+tracker.hollandandbarrett.com IN CNAME .
 tracker.icerocket.com IN CNAME .
 tracker.idocdn.com IN CNAME .
 tracker.iltrovatore.it IN CNAME .
@@ -36621,6 +36639,7 @@ track.healthcare-distribution.com IN CNAME .
 track.heritagebuildings.com IN CNAME .
 track.hg.healthgrades.com IN CNAME .
 track.hk01.com IN CNAME .
+trackhorizon.nnmtools.com IN CNAME .
 track.hubspot.com IN CNAME .
 track.hujiang.com IN CNAME .
 track.hydro.online IN CNAME .
@@ -40247,6 +40266,7 @@ visitorlando.actonsoftware.com IN CNAME .
 visitor-microservice.ext.p-a.im IN CNAME .
 visitor.novartisoncology.us IN CNAME .
 visitors.gigianddavid.com IN CNAME .
+visitor-speed.com IN CNAME .
 visitping.rossel.be IN CNAME .
 visit-prod-us.occa.ocs.oraclecloud.com IN CNAME .
 visit.sendheirloom.com IN CNAME .

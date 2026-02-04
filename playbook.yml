@@ -123,7 +123,7 @@
       loop_control:
         label: "{{ item.1.name }}"
 
-    - name: Replace comments with ' ' from all lines 
+    - name: Replace comments with ' ' from all lines
       ansible.builtin.replace:
         path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
         regexp: '#.*$'
@@ -192,7 +192,7 @@
         _dns_blocklists_exclude:
           - mullvad.net
           - angband.live # Reported via Mastodon as incorrect
-
+          - readly.com
 
 - name: Build zonefiles
   hosts: all
