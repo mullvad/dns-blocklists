@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1770628705    ; serial
+                                        1770816488    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -147,6 +147,7 @@ $TTL 3600
 6519114.mktg.almosafer.com IN CNAME .
 6519114.mktg.tajawal.com IN CNAME .
 6677648.reddoorz.com IN CNAME .
+66hao.cc IN CNAME .
 66jo.societegenerale.fr IN CNAME .
 671c.pandasuite.io IN CNAME .
 68-175.net.jumia.co.ke IN CNAME .
@@ -5181,6 +5182,7 @@ analytics.distributednews.com IN CNAME .
 analytics.dvidshub.net IN CNAME .
 analytics.dv.socure.io IN CNAME .
 analytics.edgekey.net IN CNAME .
+analytics.editorialedomani.it IN CNAME .
 analytics.egdata.app IN CNAME .
 analytics.egernsund.com IN CNAME .
 analytics.egernsund.de IN CNAME .
@@ -8506,6 +8508,7 @@ childlikeform.com IN CNAME .
 chingovernment.com IN CNAME .
 chipperisle.com IN CNAME .
 chivalrouscord.com IN CNAME .
+chloro.trip.com IN CNAME .
 c.holmesmind.com IN CNAME .
 choose.adelaide.edu.au IN CNAME .
 choose.nu.edu IN CNAME .
@@ -10413,6 +10416,7 @@ data.inst.socios.realmadrid.com IN CNAME .
 data.inswa.coca-cola.com IN CNAME .
 data.investing.questrade.com IN CNAME .
 data.janvanderstorm.de IN CNAME .
+data.jaytuckwell.com IN CNAME .
 data.jerkmate.com IN CNAME .
 data.jp-email.princess.com IN CNAME .
 data.jp-guest.princess.com IN CNAME .
@@ -13706,6 +13710,7 @@ franklin.edu.actonservice.com IN CNAME .
 franksfloral.com IN CNAME .
 frankwatching.actonservice.com IN CNAME .
 franoppnetwork.actonservice.com IN CNAME .
+fran.pro IN CNAME .
 franticroof.com IN CNAME .
 fraudandcyberawareness.safeguard.hsbc.com IN CNAME .
 fraysystems.com IN CNAME .
@@ -14306,6 +14311,7 @@ go2.ringcentral.com IN CNAME .
 go.4010.ru IN CNAME .
 go.4sq.com IN CNAME .
 go5.global.toshiba IN CNAME .
+go.absolventa.de IN CNAME .
 go.accredible.com IN CNAME .
 goaccredited.actonservice.com IN CNAME .
 go.accumaxglobal.com.au IN CNAME .
@@ -14343,6 +14349,7 @@ go.azets.fi IN CNAME .
 go.azets.no IN CNAME .
 go.azets.se IN CNAME .
 goazlf.mytoys.de IN CNAME .
+go.azubi.de IN CNAME .
 go.backtest.io IN CNAME .
 go.bandits.com IN CNAME .
 go.bayshoresystems.com IN CNAME .
@@ -17996,6 +18003,7 @@ ladxxr.sonovente.com IN CNAME .
 la.idgenterprise.com IN CNAME .
 lakerspreferences.gleague.nba.com IN CNAME .
 lakerspreferences.nba.com IN CNAME .
+lakesecure.com IN CNAME .
 lameletters.com IN CNAME .
 lammico.actonservice.com IN CNAME .
 lamplow.com IN CNAME .
@@ -23236,6 +23244,7 @@ metric.wilsonelectronics.com IN CNAME .
 metric.worldcat.org IN CNAME .
 metric.yardhouse.com IN CNAME .
 metrika.kontur.ru IN CNAME .
+metrik.freitag.de IN CNAME .
 metrix.511tactical.com IN CNAME .
 metrix.avon.uk.com IN CNAME .
 metrix.emagister.com IN CNAME .
@@ -25915,6 +25924,7 @@ promotionspr.actonservice.com IN CNAME .
 promotions.stationcasinos.com IN CNAME .
 promotions.thermofisher.com IN CNAME .
 promo.tops.co.th IN CNAME .
+prop.astonvillanews.co.uk IN CNAME .
 propay.actonservice.com IN CNAME .
 properties.insiterealestate.com IN CNAME .
 property.aon.com IN CNAME .
@@ -26329,6 +26339,7 @@ radiantlullaby.com IN CNAME .
 radiateprose.com IN CNAME .
 radiometer.actonservice.com IN CNAME .
 radio.moodybible.org IN CNAME .
+radiosfax.com IN CNAME .
 raf.postnl.be IN CNAME .
 raf.postnl.nl IN CNAME .
 raidmedics.com IN CNAME .
@@ -39202,6 +39213,7 @@ t.texastech.com IN CNAME .
 ttfpil.2dehands.be IN CNAME .
 t.thalesgroup.com IN CNAME .
 t.thefishercenter.com IN CNAME .
+t.themarketer.com IN CNAME .
 t.ticketatlantic.com IN CNAME .
 t.ticketleader.ca IN CNAME .
 t.ticketstaronline.com IN CNAME .
@@ -39273,6 +39285,7 @@ t.wayfair.de IN CNAME .
 tw.cx IN CNAME .
 twdhec.marioeletro.com IN CNAME .
 tweetdeck.net.anwalt.de IN CNAME .
+twelvedawn.com IN CNAME .
 tw-go.experian.com IN CNAME .
 t.whartoncenter.com IN CNAME .
 twistairclub.net.anwalt.de IN CNAME .
