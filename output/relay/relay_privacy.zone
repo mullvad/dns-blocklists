@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1771229715    ; serial
+                                        1771324396    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4074,6 +4074,7 @@ abncx.amv.fr IN CNAME .
 aboardamusement.com IN CNAME .
 aboardlevel.com IN CNAME .
 ab.oney.es IN CNAME .
+a.boredpanda.bio IN CNAME .
 abo.schibsted.no IN CNAME .
 ab.perfumesclub.com IN CNAME .
 abpwqf.lolaflora.com.mx IN CNAME .
@@ -9549,6 +9550,7 @@ count.upc.rakuten.co.jp IN CNAME .
 count.vidsrc.pro IN CNAME .
 count.xxxssk.com IN CNAME .
 count.yandeg.ru IN CNAME .
+couponrail.com IN CNAME .
 courageousbaby.com IN CNAME .
 covenant.psjhealth.org IN CNAME .
 coverlayer.com IN CNAME .
@@ -10083,6 +10085,7 @@ da.hornbach.ro IN CNAME .
 da.hornbach.se IN CNAME .
 da.hornbach.sk IN CNAME .
 daifez.thebay.com IN CNAME .
+dailydomino.com IN CNAME .
 dajdnm.splits59.com IN CNAME .
 dallas-content.cresa.com IN CNAME .
 damagedadvice.com IN CNAME .
@@ -17537,6 +17540,7 @@ jhzwle.ryuryumall.jp IN CNAME .
 jiciqm.antalyahomes.com IN CNAME .
 jifflenow.actonservice.com IN CNAME .
 jifjai.instamotion.com IN CNAME .
+jigsawlucky.com IN CNAME .
 jiktq0fr9hv6.meleton.ru IN CNAME .
 jill.fc.yahoo.com IN CNAME .
 jinair.nsc.jinair.com IN CNAME .
@@ -21601,6 +21605,7 @@ mdxhon.allhomes.com.au IN CNAME .
 meadowlullaby.com IN CNAME .
 meanwellaustralia.actonservice.com IN CNAME .
 measlymiddle.com IN CNAME .
+measureadv.com IN CNAME .
 measure.ameblo.jp IN CNAME .
 measure.refinery89.com IN CNAME .
 meat.midanmarketing.com IN CNAME .
@@ -24681,6 +24686,7 @@ onem.marketing.onemarketinguxp.com IN CNAME .
 onenet.gakujutsu.com IN CNAME .
 onesourcebackground.actonservice.com IN CNAME .
 one-source.tax.thomsonreuters.com IN CNAME .
+onespecify.com IN CNAME .
 onespot-tracking.herokuapp.com IN CNAME .
 one-workspace.matrix42.com IN CNAME .
 onghfx.revolve.com IN CNAME .
@@ -24802,6 +24808,7 @@ orangefr.mno.link IN CNAME .
 orangefr-test.mno.link IN CNAME .
 orbidder.otto.de IN CNAME .
 orbis.actonservice.com IN CNAME .
+orchidgenius.com IN CNAME .
 ordbng.extra.com.br IN CNAME .
 ordpmx.victorianplumbing.co.uk IN CNAME .
 oregonstate.actonservice.com IN CNAME .
@@ -28986,6 +28993,7 @@ skf.actonservice.com IN CNAME .
 ski1.skiset.com IN CNAME .
 skilledview.com IN CNAME .
 skillfuldrop.com IN CNAME .
+skillfullyfrugal.com IN CNAME .
 skillshouse.actonservice.com IN CNAME .
 skillsresults.com IN CNAME .
 skincheckwa-app.hotdoc.com.au IN CNAME .
@@ -40209,6 +40217,7 @@ vgo.vegaoopro.com IN CNAME .
 vgo.vegaoo.pt IN CNAME .
 vgrbvi.atncorp.com IN CNAME .
 vhans.siege-corp.com IN CNAME .
+vhit.io IN CNAME .
 vhmewg.edreams.fr IN CNAME .
 vhmjci.edreams.co.uk IN CNAME .
 vhpabx.herffjones.com IN CNAME .
