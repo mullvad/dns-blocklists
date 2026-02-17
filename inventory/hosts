@@ -1,9 +1,2 @@
 [all]
-dns-adblock-doh
-dns-adblock-relay
-
-[doh]
-dns-adblock-doh
-
-[relay]
-dns-adblock-relay
+localhost

@@ -3,250 +3,290 @@
 #   $ ansible-playbook -i inventory/ playbook.yml
 ---
 - name: Build DNS blocklist files
-  hosts: all
+  hosts: localhost
   connection: local
   gather_facts: false
   become: false
 
   tasks:
 
-    - name: Generate README
-      ansible.builtin.template:
-        src: templates/README.md.j2
-        dest: README.md
-      tags: readme
+    - block:
 
-    - name: Install dos2unix and bind-utils
-      ansible.builtin.dnf:
-        name:
-          - dos2unix
-          - bind-utils
-        state: present
-      become_user: root
-      become: true
-      run_once: true
+        - name: Ensure output files are cleared
+          ansible.builtin.file:
+            dest: output
+            state: "{{ item }}"
+          async: 10
+          poll: 0
+          loop:
+            - absent
+            - directory
 
-    - name: Ensure output files are cleared
-      ansible.builtin.file:
-        dest: output/{{ item.0 }}
-        state: "{{ item.1 }}"
-      loop: "{{ group_names | product(['absent', 'directory']) | list }}"
+        - name: Generate README
+          ansible.builtin.template:
+            src: templates/README.md.j2
+            dest: README.md
+          tags: readme
 
-    - name: Ensure files are present locally
-      ansible.builtin.file:
-        state: "{{ item.1 }}"
-        path: lists/{{ item.0 }}/{{ item.2.type }}
-      with_nested:
-        - "{{ group_names }}"
-        - ['absent', 'directory']
-        - "{{ dns_blocklists_lists }}"
-      loop_control:
-        label: "{{ item.0}}: {{ item.1 }}"
+        - name: Install dos2unix and bind-utils
+          ansible.builtin.dnf:
+            name:
+              - dos2unix
+              - bind-utils
+            state: present
+          become_user: root
+          become: true
+          async: 60
+          poll: 0
+          register: _dnf
+          changed_when: false
 
-    - name: Download latest lists
-      ansible.builtin.get_url:
-        url: "{{ item.1.url }}"
-        dest: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
-      register: _dns_blocklists_download_lists
-      retries: 5
-      delay: 10
-      until: _dns_blocklists_download_lists is succeeded
-      when:
-        - item.1.url is defined
-        - not item.1.content is defined
+        - name: Create directory to store lists whilst modifying
+          ansible.builtin.file:
+            state: directory
+            dest: temporary
 
-    - name: Create file with custom list content if defined
-      ansible.builtin.copy:
-        content: "{{ item.1.content }}"
-        dest: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
-      when:
-        - item.1.content is defined
-        - not item.1.url is defined
+        - name: Ensure lists directory is removed
+          ansible.builtin.file:
+            dest: lists
+            state: absent
 
-    - name: Run dos2unix on all lists
-      ansible.builtin.command:
-        cmd: dos2unix lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        # Rather than using ansible.builtin.file which takes a while,
+        # mkdir -p is much faster to create all-in-one.
+        - name: Ensure files are present locally
+          ansible.builtin.command:
+            cmd: mkdir -p {{dns_blocklists_lists | map(attribute='type') | unique | join(' ') }}
+          args:
+            chdir: temporary/
+          changed_when: false
 
-    - name: Replace localhost and IP addresses in files
-      ansible.builtin.replace:
-        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-        regexp: "{{ item.2 }}"
-        replace: ''
-      with_nested:
-        - "{{ group_names }}"
-        - "{{ dns_blocklists_lists }}"
-        - "{{ _dns_blocklists_replace_address }}"
-      vars:
-        # Often blocklists contain these IPs. We want to remove them from our lists
-        _dns_blocklists_replace_address:
-          - '([0]{1,3}\.){3}[0]{1,3} '  # Beware of the necessary trailing whitespace!
-          - 'localhost '                # It is there to not match records like 1.2.3.4.domain.tld
-          - "127.0.0.1"
-          - '::1'
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Download latest lists
+          ansible.builtin.get_url:
+            url: "{{ item.url }}"
+            dest: temporary/{{ item.type }}
+          loop: "{{ dns_blocklists_lists | selectattr('url', 'defined') }}"
+          loop_control:
+            label: "{{ item.url | default(item.type) }}"
+          register: _dns_blocklists_download_lists
+          retries: 30
+          delay: 1
+          until: _dns_blocklists_download_lists is succeeded
 
-    - name: Remove custom hosts localhost in files
-      ansible.builtin.lineinfile:
-        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-        regexp: ' localhost'
-        state: absent
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Create file with custom list content
+          ansible.builtin.copy:
+            content: "{{ item.content }}"
+            dest: temporary/{{ item.type }}/{{ item.name }}
+          loop: "{{ dns_blocklists_lists | selectattr('content', 'defined') }}"
+          loop_control:
+            label: "{{ item.name }}"
 
-    - name: Remove unused lines from files
-      ansible.builtin.lineinfile:
-        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-        regexp: '^{{ item.2 }}'
-        state: absent
-      with_nested:
-        - "{{ group_names }}"
-        - "{{ dns_blocklists_lists }}"
-        - "{{ _comments }}"
-      vars:
-        _comments:
-          - "#"
-          - ";"
-          - "$"
-          - "@"
-          - '\$TTL'
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Find all files to run dos2unix on
+          ansible.builtin.find:
+            paths: temporary/
+            file_type: file
+            recurse: true
+          register: _find_lists
 
-    - name: Replace comments with ' ' from all lines
-      ansible.builtin.replace:
-        path: lists/{{ item.0 }}/{{ item.1.type }}/{{ item.1.name }}
-        regexp: '#.*$'
-        replace: ''
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
+        - name: Check on DNF installation status
+          ansible.builtin.async_status:
+            jid: "{{ _dnf.ansible_job_id }}"
+          register: _dnf_async
+          until: _dnf_async is finished
+          retries: 10
+          delay: 1
+          become_user: root
+          become: true
 
-    - name: Combine files into output
-      ansible.builtin.assemble:
-        src: lists/{{ item.0 }}/{{ item.1.type }}
-        dest: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Run dos2unix on all lists
+          ansible.builtin.command:
+            cmd: dos2unix {{ _find_lists.files | map(attribute='path') | list | join(' ') }}
 
-    - name: Remove whitespace at start of lines
-      ansible.builtin.replace:
-        path: "output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt"
-        regexp: '^ '
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Replace localhost and IP addresses in files
+          ansible.builtin.replace:
+            path: "{{ item.0.path }}"
+            regexp: "{{ item.1 }}"
+            replace: ''
+          loop: "{{ _find_lists.files | ansible.builtin.product(_dns_blocklists_replace_address) }}"
+          loop_control:
+            label: "{{ item.0.path }}"
+          vars:
+            # Often blocklists contain these IPs. We want to remove them from our lists
+            _dns_blocklists_replace_address:
+              - '([0]{1,3}\.){3}[0]{1,3} '  # Beware of the necessary trailing whitespace!
+              - 'localhost '                # It is there to not match records like 1.2.3.4.domain.tld
+              - "127.0.0.1"
+              - '::1'
 
-    # Prevent out of zone errors caused by trailing periods
-    - name: Remove full stops at the end of lines
-      ansible.builtin.replace:
-        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
-        regexp: '{{ item.2 }}'
-      with_nested:
-        - "{{ group_names }}"
-        - "{{ dns_blocklists_lists }}"
-        - "{{ _eol }}"
-      vars:
-        _eol:
-          - 'CNAME .$'
-          - '\.$'
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Remove custom hosts localhost in files
+          ansible.builtin.lineinfile:
+            path: "{{ item.path }}"
+            regexp: ' localhost'
+            state: absent
+          loop: "{{ _find_lists.files }}"
+          loop_control:
+            label: "{{ item.path }}"
 
-    - name: Replace whitespace with new line
-      ansible.builtin.replace:
-        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
-        regexp: ' '
-        replace: '\n'
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Remove unused lines from files
+          ansible.builtin.lineinfile:
+            path: "{{ item.0.path }}"
+            regexp: '^{{ item.1 }}'
+            state: absent
+          loop: "{{ _find_lists.files | ansible.builtin.product(_comments) }}"
+          loop_control:
+            label: "{{ item.0.path }}"
+          vars:
+            _comments:
+              - "#"
+              - ";"
+              - "$"
+              - "@"
+              - '\$TTL'
 
-    - name: Remove empty lines
-      ansible.builtin.lineinfile:
-        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
-        regexp: '^\n'
-        state: absent
-      loop: "{{ group_names | product(dns_blocklists_lists) | list }}"
-      loop_control:
-        label: "{{ item.1.name }}"
+        - name: Replace comments with ' ' from all lines
+          ansible.builtin.replace:
+            path: "{{ item.path }}"
+            regexp: '#.*$'
+            replace: ''
+          loop: "{{ _find_lists.files }}"
+          loop_control:
+            label: "{{ item.path }}"
 
-    - name: Ensure excluded URLS are not included in any output file
-      ansible.builtin.lineinfile:
-        path: output/{{ item.0 }}/{{ item.0 }}_{{ item.1.type }}.txt
-        state: absent
-        regexp: "{{ item.2 }}"
-      loop: "{{ group_names | product(dns_blocklists_lists, _dns_blocklists_exclude) | list }}"
-      loop_control:
-        label: "{{ item.2 }}"
-      vars:
-        _dns_blocklists_exclude:
-          - mullvad.net
-          - angband.live # Reported via Mastodon as incorrect
-          - readly.com
+        - name: Combine files into output
+          ansible.builtin.assemble:
+            src: temporary/{{ item.type }}
+            dest: output/{{ item.type }}.txt
+          loop: "{{ dns_blocklists_lists }}"
+          loop_control:
+            label: cp temporary/{{ item.type }}* output/{{ item.type }}.txt
 
-- name: Build zonefiles
-  hosts: all
-  become: false
-  tags: zonefile
-  connection: local
-  gather_facts: true
-  run_once: true
+        - name: Remove whitespace at start of lines
+          ansible.builtin.replace:
+            path: output/{{ item.type }}.txt
+            regexp: '^ '
+          loop: "{{ dns_blocklists_lists }}"
+          loop_control:
+            label: output/{{ item.type }}.txt
 
-  tasks:
+        # Prevent out of zone errors caused by trailing full-stops
+        - name: Remove full stops at the end of lines
+          ansible.builtin.replace:
+            path: output/{{ item.0.type }}.txt
+            regexp: '{{ item.1 }}'
+          loop: "{{ dns_blocklists_lists | ansible.builtin.product(_eol) }}"
+          loop_control:
+            label: output/{{ item.0.type }}.txt
+          vars:
+            _eol:
+              - 'CNAME .$'
+              - '\.$'
 
-    - name: Find output files
-      ansible.builtin.find:
-        paths: ./output
-        recurse: true
-        use_regex: true
-        patterns: ".*.txt$"   # Find raw output files
-        excludes: ".*.zone$"  # Ignore existing zonefiles
-      register: _output_files
+        - name: Replace whitespace with new line
+          ansible.builtin.replace:
+            path: output/{{ item.type }}.txt
+            regexp: ' '
+            replace: '\n'
+          loop: "{{ dns_blocklists_lists }}"
+          loop_control:
+            label: output/{{ item.type }}.txt
 
-    - name: Read output files
-      ansible.builtin.slurp:
-        path: "{{ item }}"
-      register: _output_files_slurp
-      loop: "{{ _output_files.files | map(attribute='path') }}"
+        - name: Remove empty lines
+          ansible.builtin.lineinfile:
+            path: output/{{ item.type }}.txt
+            regexp: '^\n'
+            state: absent
+          loop: "{{ dns_blocklists_lists }}"
+          loop_control:
+            label: output/{{ item.type }}.txt
 
-    - name: Generate zone files
-      ansible.builtin.copy:
-        content: |
-          $TTL 3600
-          ;namn   ttl     adr-    entry-  origin
-          ;               klass   typ
-          ;------------------------------------------------------------------------------
-          @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                                  {{ now(fmt='%s') }}    ; serial
-                                                  86400         ; refresh
-                                                  7200          ; retry
-                                                  2592000       ; expire
-                                                  3600 )        ; ttl
-                                  IN      NS      localhost.
-          ;------------------------------------------------------------------------------
-          {% for domain in _file_content.split('\n') %}
-          {% if domain | length %}
-          {{ domain }} IN CNAME .
-          {% endif %}
-          {% endfor %}
-        dest: "{{ _output_path }}"
-        validate: named-checkzone _ %s
-      vars:
-        _filename_full: "{{ item.source.split('/')[-1] }}"          # relay_adblock.txt
-        _filename_short: "{{ _filename_full.split('.') | first }}"  # relay_adblock
-        _directory: "{{ item.source.split('/')[:-1] | join('/') }}" # output/relay
-        _output_path: "{{ _directory }}/{{ _filename_short }}.zone" # output/relay/relay_adblock.zone
-        _file_content: "{{ item.content | b64decode }}"
-      loop: "{{ _output_files_slurp.results }}"
-      loop_control:
-        label: "{{ _output_path }}"
+        - name: Ensure excluded URLS are not included in any output file
+          ansible.builtin.lineinfile:
+            path: output/{{ item.0.name }}.txt
+            state: absent
+            line: "{{ item.1 }}"
+          loop: "{{ dns_blocklists_exclude | subelements('entries') }}"
+          loop_control:
+            label: removing {{ item.1 }} from output/{{ item.0.name }}.txt
+
+        - name: Return files in output/
+          ansible.builtin.find:
+            paths: output
+            file_type: file
+          register: _find_output
+
+        - name: Create output/{relay,doh}
+          ansible.builtin.file:
+            state: directory
+            dest: output/{{ item }}
+          loop:
+            - relay
+            - doh
+
+        - name: Copy files found in output to relevant directory
+          ansible.builtin.copy:
+            src: "{{ item.0.path }}"
+            dest: output/{{ item.1 }}/{{ item.1 }}_{{ item.0.path | ansible.builtin.basename }}
+          loop: "{{ _find_output.files | ansible.builtin.product(['relay', 'doh']) }}"
+          loop_control:
+            label: cp {{ item.0.path }} output/{{ item.1 }}
+
+        - name: Clean-up leftover files
+          ansible.builtin.file:
+            state: absent
+            dest: "{{ item.path }}"
+          loop: "{{ _find_output.files }}"
+          loop_control:
+            label: rm -rf {{ item.path }}
+
+        - name: Find output files
+          ansible.builtin.find:
+            paths: ./output
+            recurse: true
+            use_regex: true
+            patterns: ".*.txt$"   # Find raw output files
+            excludes: ".*.zone$"  # Ignore existing zonefiles
+          register: _output_files
+
+        - name: Read output files
+          ansible.builtin.slurp:
+            path: "{{ item }}"
+          register: _output_files_slurp
+          loop: "{{ _output_files.files | map(attribute='path') }}"
+
+        - name: Generate zone files
+          ansible.builtin.copy:
+            content: |
+              $TTL 3600
+              ;namn   ttl     adr-    entry-  origin
+              ;               klass   typ
+              ;------------------------------------------------------------------------------
+              @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
+                                                      {{ now(fmt='%s') }}    ; serial
+                                                      86400         ; refresh
+                                                      7200          ; retry
+                                                      2592000       ; expire
+                                                      3600 )        ; ttl
+                                      IN      NS      localhost.
+              ;------------------------------------------------------------------------------
+              {% for domain in _file_content.split('\n') %}
+              {% if domain | length %}
+              {{ domain }} IN CNAME .
+              {% endif %}
+              {% endfor %}
+            dest: "{{ _output_path }}"
+            validate: named-checkzone _ %s
+          vars:
+            _filename_full:  "{{ item.source.split('/')[-1] }}"              # relay_adblock.txt
+            _filename_short: "{{ _filename_full.split('.') | first }}"       # relay_adblock
+            _directory:      "{{ item.source.split('/')[:-1] | join('/') }}" # output/relay
+            _output_path:    "{{ _directory }}/{{ _filename_short }}.zone"   # output/relay/relay_adblock.zone
+            _file_content:   "{{ item.content | b64decode }}"
+          loop: "{{ _output_files_slurp.results }}"
+          loop_control:
+            label: "{{ _output_path }}"
+
+      always:
+
+        - name: Remove temporary directory
+          ansible.builtin.file:
+            state: absent
+            dest: temporary

@@ -1,8 +1,25 @@
 ---
+dns_blocklists_exclude:
+  - name: adblock
+    entries:
+      - website.com
+
+  - name: adult
+    entries:
+      - f.com
+  
+  - name: gambling
+    entries: []
+
+  - name: privacy 
+    entries:
+      - joshua.com
+
+  - name: social
+    entries: []
+
 # List of block lists to import from URLs
 dns_blocklists_lists:
-  # The Basic list is a smaller, less comprehensive variant of the full list, which focussus mainly on Ads, (Mobile) App Ads
-  # https://oisd.nl/faq#basic
   - name: oisd-small
     type: adblock
     url: https://small.oisd.nl/rpz # Use the BIND list directly since we use BIND on our servers
