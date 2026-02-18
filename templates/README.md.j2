@@ -2,116 +2,15 @@
 
 This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
 
-This is imported to our VPN servers frequently.
+We aim to update these lists every Monday through Thursday. You can view the latest update by selecting the commits to this repository.
 
-We aim to update these lists on a weekly basis. You can view the latest update by selecting the commits to this repository.
-
-# Why is list "X" not included?
-
-If you find a block list is excluded it is because we have gone through these validation steps:
-- The blocklist is an amalgamation of other blocklists.
-- The blocklist is no longer maintained.
-- The blocklist blocks things we do not believe should be blocked (like our own domains).
-
-We periodically make exceptions to the included URLs for the following reasons:
-- The upstream lists are broken and include malformed URLs causing the generation to fail.
-- The upstream lists block our domains.
-
-# Using Encrypted DNS on Apple Devices
-
-For convenience we have Apple configuration profiles (.mobileconfig) signed for simpler "one-click installation", or MDM management.
-
-These are available here: https://github.com/mullvad/encrypted-dns-profiles
-
-# Differences between VPN servers and Encrypted DNS
-
-Please note that our Encrypted DNS service includes different hostnames for each option. We currently offer the following:
-- Vanilla:
-  - This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
-  - TLS: dns.mullvad.net
-  - HTTPS: https://dns.mullvad.net/dns-query
-- Ad-block:
-  - This includes Ad-blocking and Tracker blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: adblock.dns.mullvad.net
-  - HTTPS: https://adblock.dns.mullvad.net/dns-query
-- Base:
-  - This includes Ad-blocking, Tracker, and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: base.dns.mullvad.net
-  - HTTPS: https://base.dns.mullvad.net/dns-query  
-- Extended:
-  - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: extended.dns.mullvad.net
-  - HTTPS: https://extended.dns.mullvad.net/dns-query
-- Family:
-  - This includes Ad-blocking, Tracker, Malware, Adult content and Gambling blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: family.dns.mullvad.net
-  - HTTPS: https://family.dns.mullvad.net/dns-query
-- All:
-  - This includes Ad-blocking, Tracker, Malware, Adult content, Gambling and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: all.dns.mullvad.net
-  - HTTPS: https://all.dns.mullvad.net/dns-query
-
-Note that social media block lists are **not** available on our VPN server block lists, they are **only** available on the Encrypted DNS service.
-
-# Lists
-
-The following lists are what we import to our service. You can find these defined in `inventory/group_vars` for the server type you wish to view.
-
-- `doh`: Encrypted DNS servers
-- `relay`: VPN servers (relays)
-
-### Trackers
-
-We currently use these tracker blocklists with our service:
-{% for list in dns_blocklists_lists %}
-{% if "privacy" in list.type %}
-- {{ list.name }}: {{ list.url | default('custom file') }}
-{% endif %}
-{% endfor %}
-
-### Advertising
-
-We currently use these advertising blocklists with our service:
-{% for list in dns_blocklists_lists %}
-{% if "adblock" in list.type %}
-- {{ list.name }}: {{ list.url }}
-{% endif %}
-{% endfor %}
-
-### Adult content 
-
-We currently use this Adult content blocklist for our service:
-{% for list in dns_blocklists_lists %}
-{% if "adult" in list.type %}
-- {{ list.name }}: {{ list.url }}
-{% endif %}
-{% endfor %}
-
-### Gambling
-
-We currently use these gambling blocklists with our service:
-{% for list in dns_blocklists_lists %}
-{% if "gambling" in list.type %}
-- {{ list.name }}: {{ list.url }}
-{% endif %}
-{% endfor %}
-
-### Social media
-
-We generate our Social Media block lists from scripts located in `scripts/`
-
-You can find the generated file in `files/social`
-
-### Malware
-
-We currently use this malware content blocklist for our service:
-- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
-- hagezi-threat-intelligence-mini: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
-
+After updating the lists, it will take about an hour for all our servers to pick up the updated lists. For example: list updated at 07:00 will be avaialble latest 09:00 the same day.
 
 ## Pull requests / Issues / Updating block lists
 
-We prefer to not block individual custom URLs or add block lists without them being fully validated and verified first. Please consider pointing us toward a reputable block list prior to making a Github Issue. 
+We prefer to not block individual custom URLs or add block lists without them being fully validated and verified first.
+
+Please consider pointing us toward a reputable block list prior to making a Github Issue. 
 
 If we close your issue or reject your request, it is most likely down to us not having a way of verifying that the block list is trustworthy.
 
@@ -197,26 +96,133 @@ To block _everything_ enter: `100.64.0.63`
     100.64.0.62 - Social media, gambling blocking, adult content, malware blocking and tracker blocking
     100.64.0.63 - Social media, gambling blocking, adult content, malware blocking, ad blocking and tracker blocking ("Everything")
 
+# Lists
+
+The following lists are what we import to our service. You can find these defined in `inventory/group_vars` for the server type you wish to view.
+
+- `doh`: Encrypted DNS servers
+- `relay`: VPN servers (relays)
+
+### Trackers
+
+We currently use these tracker blocklists with our service:
+{% for list in dns_blocklists_lists %}
+{% if "privacy" in list.type %}
+- {{ list.name }}: {{ list.url | default('custom file') }}
+{% endif %}
+{% endfor %}
+
+### Advertising
+
+We currently use these advertising blocklists with our service:
+{% for list in dns_blocklists_lists %}
+{% if "adblock" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
+
+### Adult content 
+
+We currently use this Adult content blocklist for our service:
+{% for list in dns_blocklists_lists %}
+{% if "adult" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
+
+### Gambling
+
+We currently use these gambling blocklists with our service:
+{% for list in dns_blocklists_lists %}
+{% if "gambling" in list.type %}
+- {{ list.name }}: {{ list.url }}
+{% endif %}
+{% endfor %}
+
+### Social media
+
+We generate our Social Media block lists from scripts located in `scripts/`
+
+You can find the generated file in `files/social`
+
+### Malware
+
+We currently use this malware content blocklist for our service:
+- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
+- hagezi-threat-intelligence-mini: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
+
+# Why is list "X" not included?
+
+If you find a block list is excluded it is because we have gone through these validation steps:
+- The blocklist is an amalgamation of other blocklists.
+- The blocklist is no longer maintained.
+- The blocklist blocks things we do not believe should be blocked (like our own domains).
+
+We periodically make exceptions to the included URLs for the following reasons:
+- The upstream lists are broken and include malformed URLs causing the generation to fail.
+- The upstream lists block our domains.
+- You can view exceptions in `inventory/group_vars/all.yml` under the name of `dns_blocklists_exclude`,
+  these are split per-blocklist.
+
+# Using Encrypted DNS on Apple Devices
+
+For convenience we have Apple configuration profiles (.mobileconfig) signed for simpler "one-click installation", or MDM management.
+
+These are available here: https://github.com/mullvad/encrypted-dns-profiles
+
+# Differences between VPN servers and Encrypted DNS
+
+Our Encrypted DNS service includes different hostnames for each option. We currently offer the following:
+
+- Vanilla:
+  - This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
+  - TLS: dns.mullvad.net
+  - HTTPS: https://dns.mullvad.net/dns-query
+- Ad-block:
+  - This includes Ad-blocking and Tracker blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: adblock.dns.mullvad.net
+  - HTTPS: https://adblock.dns.mullvad.net/dns-query
+- Base:
+  - This includes Ad-blocking, Tracker, and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: base.dns.mullvad.net
+  - HTTPS: https://base.dns.mullvad.net/dns-query  
+- Extended:
+  - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: extended.dns.mullvad.net
+  - HTTPS: https://extended.dns.mullvad.net/dns-query
+- Family:
+  - This includes Ad-blocking, Tracker, Malware, Adult content and Gambling blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: family.dns.mullvad.net
+  - HTTPS: https://family.dns.mullvad.net/dns-query
+- All:
+  - This includes Ad-blocking, Tracker, Malware, Adult content, Gambling and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
+  - TLS: all.dns.mullvad.net
+  - HTTPS: https://all.dns.mullvad.net/dns-query
+
 # Building
 
 The following steps are useful only if you wish to build the lists yourself.
 
-The output files located in `output/relay/` are what are imported onto our VPN servers.
+The output files located in `output/relay/` are what are imported onto our VPN servers an hour after upload.
 
 ## Requirements
-- Ansible Core 2.14.x =<
+- Ansible Core 2.18.x =<
 - Qubes OS DispVM
 
 ## Step by step
 
-  - Ensure the values in `group_vars/<group>.yml` are up to date with any block lists
-  - Ensure the values in `scripts/generate_social_blocklists_urls` and `scripts/generate_social_blocklists_asn.py` are up to date (URLs and ASNs)
-  - Start a DisposibleVM (dispVM) and `qvm-copy` this repository to it
-  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run: `cd scripts/ && ./generate_social_blocklists.sh` in a Disposible VM (dispVM) with the output qvm-copied to files/social (`cp /tmp/social files/social`)
-  - Ensure you have added any 'custom' extra lists or websites to block
-  - Run the playbook to generate the lists:
+  - Ensure the values in `group_vars/<group>.yml` are up to date with any blocklists.
+  - Ensure the values in `scripts/generate_social_blocklists_urls` and `scripts/generate_social_blocklists_asn.py` are up to date (URLs and ASNs).
+  - Start a DisposibleVM (dispVM) and `qvm-copy` this repository to it.
+  - Ensure the script in `scripts/generate_social_blocklists.sh` has been run in a DispVM:
+    - `cd scripts/ && ./generate_social_blocklists.sh`
+    - `qvm-copy /tmp/social`
+    - `mv /home/user/QubesIncoming/disp123/social files/social`
+  - Ensure you have added any 'custom' extra lists or websites to block.
+  - Run the helper build script to generate the lists: `./build`
+  - Run the playbook to generate the lists (optional):
     - `ansible-playbook -i inventory/ playbook.yml`
-    - `ansible-playbook -i inventory/ playbook.yml --tags=readme` can be used to generate the README on its own
+    - `ansible-playbook -i inventory/ playbook.yml --tags=readme` can be used to generate the README on its own.
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/<group>.txt?raw=true`
   - Run test script: `cd scripts && ./check_zonedata.sh`
   - Sign the outputted relay files with your GPG code signing key, for example:
