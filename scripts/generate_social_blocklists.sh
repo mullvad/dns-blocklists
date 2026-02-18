@@ -8,14 +8,19 @@ sudo dnf -y install subfinder
 rm -rf /tmp/lists
 mkdir -p /tmp/lists
 
-subfinder -dL generate_social_blocklists_urls --silent | \
-    tee -a /tmp/lists/subfinder && \
-    cat /tmp/lists/subfinder | \
-    awk '{ print "0.0.0.0 " $1 }' > /tmp/lists/output
+# Run in background because it takes such little time
+python3 generate_social_blocklists_asn.py &
 
-grep -v -e '^#' -e '^$' generate_social_blocklists_urls | while read -r domain; do
+# Run 30 in parallel
+cat generate_social_blocklists_urls | grep . | grep -v '#' |\
+  xargs -P 30 -I {} subfinder --silent -d {} |\
+  tee -a /tmp/lists/subfinder
+
+cat /tmp/lists/subfinder | awk '{ print "0.0.0.0 " $1 }' > /tmp/lists/output
+
+grep -v -e '^#' -e '^$' generate_social_blocklists_urls |\
+  while read -r domain; do
     echo "0.0.0.0 $domain" >> /tmp/lists/output
 done
 
-python3 generate_social_blocklists_asn.py
 cat /tmp/lists/output /tmp/AS* > /tmp/social
