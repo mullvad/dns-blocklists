@@ -1,19 +1,31 @@
 ---
+# List of URLs per blocklist to remove,
+# URLs in these lists get removed if they are ever accidentally
+# included in upstream lists.
+#
+# Example:
+#
+# dns_blocklists_exclude:
+#   - name: adult
+#     entries:
+#       - last.fm
+#       - readly.com
+#       - other-non-adult-website.com
+#
+#   - name: ...
+#
 dns_blocklists_exclude:
   - name: adblock
-    entries:
-      - website.com
+    entries: []
 
   - name: adult
-    entries:
-      - f.com
+    entries: []
   
   - name: gambling
     entries: []
 
   - name: privacy 
-    entries:
-      - joshua.com
+    entries: []
 
   - name: social
     entries: []
@@ -31,6 +43,10 @@ dns_blocklists_lists:
   - name: AdguardDNS
     type: adblock
     url: https://v.firebog.net/hosts/AdguardDNS.txt
+
+  - name: oisd-nsfw
+    url: https://nsfw.oisd.nl/rpz
+    type: adult
 
   - name: hagezi-gambling-onlydomains
     type: gambling
@@ -83,10 +99,6 @@ dns_blocklists_lists:
   - name: mullvad-tracker-blocklist
     type: privacy
     content: "{{ lookup('ansible.builtin.file', 'files/tracker') }}"
-
-  - name: oisd-nsfw
-    url: https://nsfw.oisd.nl/rpz
-    type: adult
 
   - name: mullvad-social-blocklist
     type: social
