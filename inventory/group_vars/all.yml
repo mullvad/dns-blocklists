@@ -16,19 +16,24 @@
 #
 dns_blocklists_exclude:
   - name: adblock
-    entries: []
+    entries:
+      - mullvad.net
 
   - name: adult
-    entries: []
+    entries:
+      - mullvad.net
   
   - name: gambling
-    entries: []
+    entries:
+      - mullvad.net
 
   - name: privacy 
-    entries: []
+    entries:
+      - mullvad.net
 
   - name: social
-    entries: []
+    entries:
+      - mullvad.net
 
 # List of block lists to import from URLs
 dns_blocklists_lists:
