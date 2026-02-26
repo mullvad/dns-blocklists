@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1771996933    ; serial
+                                        1772083860    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5271,6 +5271,7 @@ analytics.ihg.com IN CNAME .
 analytics.ikyu.com IN CNAME .
 analytic.simplyhealth.co.uk IN CNAME .
 analytics.inquisitr.com IN CNAME .
+analytics-ipv6.tiktokw.us IN CNAME .
 analytics.iraiser.eu IN CNAME .
 analytics.ishopchangi.com IN CNAME .
 analytics.jazel.net IN CNAME .
