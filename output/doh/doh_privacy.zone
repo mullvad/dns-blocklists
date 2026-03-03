@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1772436475    ; serial
+                                        1772519433    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4673,6 +4673,7 @@ afdbwq.blivakker.no IN CNAME .
 af.eficads.com IN CNAME .
 afep.pivn.shop IN CNAME .
 affa8.hikkoshi-master.com IN CNAME .
+affectionknit.com IN CNAME .
 afficv.lettuce.co.jp IN CNAME .
 affilate.hh.ru IN CNAME .
 affiliate-api.raptive.com IN CNAME .
@@ -9134,6 +9135,7 @@ concretetom.com IN CNAME .
 condemnedcomb.com IN CNAME .
 conditionchange.com IN CNAME .
 conditioncrush.com IN CNAME .
+conduit.redfast.com IN CNAME .
 conference.all-energy.com.au IN CNAME .
 conference.flsmidth.com IN CNAME .
 conferences.cigna.com IN CNAME .
@@ -11443,6 +11445,7 @@ doomhedge.com IN CNAME .
 dopljl.noleggiosemplice.it IN CNAME .
 doppler-beacon.cbsivideo.com IN CNAME .
 doppler-client-events.cbsivideo.com IN CNAME .
+doppler-config.cbsivideo.com IN CNAME .
 doppler-reporting.cbsivideo.com IN CNAME .
 dotvox.actonservice.com IN CNAME .
 doubledefend.com IN CNAME .
@@ -19285,6 +19288,7 @@ local-shares.ri.la IN CNAME .
 locateskill.com IN CNAME .
 location.imsmetals.com IN CNAME .
 lockuplookup.com IN CNAME .
+locolava.com IN CNAME .
 lodicoandco.actonservice.com IN CNAME .
 lodlww.carcon.co.jp IN CNAME .
 lofo3l15c674.platform.replai.io IN CNAME .
@@ -19298,6 +19302,7 @@ log.aimtell.com IN CNAME .
 log.aliyuncs.com IN CNAME .
 logapi.alza.cz IN CNAME .
 log-api.cli.im IN CNAME .
+log.arkansasonline.com IN CNAME .
 logbak.hicloud.com IN CNAME .
 log.bitauto.com IN CNAME .
 log.china.cn IN CNAME .
@@ -24358,6 +24363,7 @@ o.catalyst.com.sa IN CNAME .
 occidente.ubmmexico.com IN CNAME .
 oceanair.actonservice.com IN CNAME .
 oceanautomotive.actonservice.com IN CNAME .
+oceancloudhosts.com IN CNAME .
 ochre-app.hotdoc.com.au IN CNAME .
 oci.dyn.com IN CNAME .
 ocmxbu.hanatour.com IN CNAME .
@@ -25848,6 +25854,7 @@ prhhqo.vintagevoyage.ru IN CNAME .
 priceypies.com IN CNAME .
 pricklydebt.com IN CNAME .
 pricklypollution.com IN CNAME .
+prideproms.com IN CNAME .
 primary-app.hotdoc.com.au IN CNAME .
 primary.hasegawa.jp IN CNAME .
 primavera.actonservice.com IN CNAME .
@@ -32683,6 +32690,7 @@ spotlessstamp.com IN CNAME .
 spottednoise.com IN CNAME .
 sp.pcid.ca IN CNAME .
 sp.pcoptimum.ca IN CNAME .
+sp.pluto.tv IN CNAME .
 spread.epoolers.com IN CNAME .
 springballet.com IN CNAME .
 springboard.aon.com IN CNAME .
@@ -36514,6 +36522,7 @@ tr4.mailperf.com IN CNAME .
 tr5.mailperf.com IN CNAME .
 tr5.mperf.com IN CNAME .
 tr6.mperf.com IN CNAME .
+tr6.snapchat.com IN CNAME .
 tr.aasi.espmp-agfr.net IN CNAME .
 tr.abo.cotemaison.fr IN CNAME .
 traccoon.intellectsoft.net IN CNAME .
@@ -40320,7 +40329,6 @@ virtualvincent.com IN CNAME .
 vision.cbre.com.au IN CNAME .
 vision.cbresi.com.au IN CNAME .
 visit.adelaide.edu.au IN CNAME .
-visit.asb.co.nz IN CNAME .
 visit.atea.fi IN CNAME .
 visit.campermate.com IN CNAME .
 visit.donateblood.com.au IN CNAME .
@@ -40447,6 +40455,7 @@ vt.mak.com IN CNAME .
 vtneexam.quantresear.ch IN CNAME .
 vtodss.livenation.com IN CNAME .
 v.topya.com IN CNAME .
+vtrk.dv.tech IN CNAME .
 vtrtl.de IN CNAME .
 vttics.world.co.jp IN CNAME .
 v-t.topya.com IN CNAME .
