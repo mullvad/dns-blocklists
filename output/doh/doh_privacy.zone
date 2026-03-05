@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1772606234    ; serial
+                                        1772694927    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4887,6 +4887,7 @@ allrisks.actonservice.com IN CNAME .
 a.lls.org IN CNAME .
 allstarfg.actonservice.com IN CNAME .
 allsunflowers.com IN CNAME .
+allthelogs.com IN CNAME .
 alltypo.com IN CNAME .
 alluringbucket.com IN CNAME .
 allvideometrika.com IN CNAME .
@@ -7297,6 +7298,7 @@ banstat.nadavi.net IN CNAME .
 bapages.carte-gr.total.fr IN CNAME .
 barbadoshello.com IN CNAME .
 barbarousbase.com IN CNAME .
+barbershirts.com IN CNAME .
 b.arenum.games IN CNAME .
 barium.cheezdev.com IN CNAME .
 barracuda.carte-gr.total.fr IN CNAME .
@@ -8320,6 +8322,7 @@ carpentercomparison.com IN CNAME .
 carpoolqueen.com IN CNAME .
 carreras.unisabana.edu.co IN CNAME .
 carryenjoy.com IN CNAME .
+carsarace.com IN CNAME .
 cars.autopia.com.au IN CNAME .
 cars.smartfleetaustralia.com.au IN CNAME .
 cars.smartleasing.com.au IN CNAME .
@@ -15200,6 +15203,7 @@ heavyplayground.com IN CNAME .
 hej.henriksommerfeld.se IN CNAME .
 hekhnn.turnkeyvr.com IN CNAME .
 helens.actonservice.com IN CNAME .
+helix.bitformations.ca IN CNAME .
 hello.bpost2.be IN CNAME .
 hello.bpost.be IN CNAME .
 hello.controlmap.io IN CNAME .
@@ -17664,7 +17668,6 @@ join.talker.network IN CNAME .
 join-test.pre-prod.spur.io IN CNAME .
 join-test.step.com IN CNAME .
 join.thekrishi.com IN CNAME .
-join.tlon.io IN CNAME .
 join.travelxp.com IN CNAME .
 joinus.holidayseniorliving.com IN CNAME .
 join.vibely.io IN CNAME .
@@ -19393,6 +19396,7 @@ logservice1.hicloud.com IN CNAME .
 logservice.hicloud.com IN CNAME .
 logs.hotstar.com IN CNAME .
 log.sina.cn IN CNAME .
+logs.kaya.delfi.ee IN CNAME .
 logs.mezmo.com IN CNAME .
 log.snapdeal.com IN CNAME .
 logs.naukri.com IN CNAME .
@@ -25893,6 +25897,7 @@ prod.ew.srp.navigacloud.com IN CNAME .
 prod.fennec.atp.fox IN CNAME .
 proditor.sparda.de IN CNAME .
 prod.nitrosniffer.ottogroup.io IN CNAME .
+prod.tahoe-analytics.publishers.advertising.a2z.com IN CNAME .
 prod.tracking.refinitiv.com IN CNAME .
 producecopy.com IN CNAME .
 producepickle.com IN CNAME .
@@ -32439,6 +32444,7 @@ somni.sundancecatalog.com IN CNAME .
 somni.suntrust.com IN CNAME .
 somni.superonline.net IN CNAME .
 somni.syf.com IN CNAME .
+somni.syfpayments.com IN CNAME .
 somni.synchronybank.com IN CNAME .
 somni.synchronybusiness.com IN CNAME .
 somni.synchronycareers.com IN CNAME .
@@ -40384,6 +40390,7 @@ v.minu.be IN CNAME .
 vmjdpk.repairclinic.com IN CNAME .
 vmsspl.tenamall.co.kr IN CNAME .
 vmsxzx.buienradar.nl IN CNAME .
+vm.target-video.com IN CNAME .
 vmwody.seibu-k.co.jp IN CNAME .
 v.myvoleo.com IN CNAME .
 vmzqqmlpwwmazjnio.com IN CNAME .
