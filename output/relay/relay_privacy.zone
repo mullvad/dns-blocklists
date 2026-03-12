@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1773207843    ; serial
+                                        1773294089    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5103,6 +5103,7 @@ analytics.boxlunch.com IN CNAME .
 analytics.brave.com IN CNAME .
 analytics.brickaward.com IN CNAME .
 analyticsbusiness.ing.ro IN CNAME .
+analytics.byecorps.com IN CNAME .
 analytics.canaltnt.es IN CNAME .
 analytics.capitalgroup.com IN CNAME .
 analytics.carambatv.ru IN CNAME .
@@ -7505,6 +7506,7 @@ bidgx.com IN CNAME .
 bidpapers.com IN CNAME .
 bidswitch.net IN CNAME .
 bienvenido.americanindustriesgroup.com IN CNAME .
+bi-events-collector.spot.im IN CNAME .
 bigcustomernetwork.actonservice.com IN CNAME .
 bigdata.clarin.com IN CNAME .
 bigfishapparel.com IN CNAME .
@@ -8214,6 +8216,7 @@ camagess.carte-gr.total.fr IN CNAME .
 ca.mattamyhomes.com IN CNAME .
 c.amazinglybrilliant.com.au IN CNAME .
 camel.headfarming.com IN CNAME .
+camelsfestival.com IN CNAME .
 camisado.actonservice.com IN CNAME .
 campagne.enecozakelijk.nl IN CNAME .
 campaign.amadeus.com IN CNAME .
@@ -8333,6 +8336,7 @@ c.arstechnica.com IN CNAME .
 carte.fleet-page.total.fr IN CNAME .
 cartelsalsa.com IN CNAME .
 cartkitten.com IN CNAME .
+cartlug.com IN CNAME .
 cartoon.hardalist.com IN CNAME .
 cartx.cloud IN CNAME .
 carvecakes.com IN CNAME .
@@ -25705,12 +25709,15 @@ p.marqueplace.com IN CNAME .
 pmazpg.legalzoom.com IN CNAME .
 pm.boostintegrated.com IN CNAME .
 pm.dailykos.com IN CNAME .
+p.mdb.tools IN CNAME .
 p.meilentrio.de IN CNAME .
 p.metrilo.com IN CNAME .
 pm.eu.viatrisconnect.com IN CNAME .
 pm.eu.viatrisconnect.de IN CNAME .
 pm.eu.viatrisconnect.it IN CNAME .
 pm.geniusmonkey.com IN CNAME .
+p.midbound.click IN CNAME .
+p.midbound.net IN CNAME .
 pmi.flowplayer.com IN CNAME .
 p.minds.com IN CNAME .
 pm.pmu.fr IN CNAME .
