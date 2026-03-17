@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1773640534    ; serial
+                                        1773728223    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9995,6 +9995,7 @@ d1get58iwmjrxx.cloudfront.net IN CNAME .
 d1gp8joe0evc8s.cloudfront.net IN CNAME .
 d1hyarjnwqrenh.cloudfront.net IN CNAME .
 d1k8sb4xbepqao.cloudfront.net IN CNAME .
+d1l6p2sc9645hc.cloudfront.net IN CNAME .
 d1m6l9dfulcyw7.cloudfront.net IN CNAME .
 d1n00d49gkbray.cloudfront.net IN CNAME .
 d1qnmu4nrib73p.cloudfront.net IN CNAME .
@@ -13559,6 +13560,7 @@ fnoqgg.roninwear.com IN CNAME .
 fn-pz.com IN CNAME .
 fnvma.milanuncios.com IN CNAME .
 foambench.com IN CNAME .
+focusfitwear.com IN CNAME .
 fog.pixual.co IN CNAME .
 fokbrd.impo.ch IN CNAME .
 folderplan.com IN CNAME .
@@ -17221,10 +17223,8 @@ internal-analytics.odoo.com IN CNAME .
 internalcomms.dbschenker.com IN CNAME .
 internalcomms.hubinternational.com IN CNAME .
 internalcondition.com IN CNAME .
-internal-e.posthog.com IN CNAME .
 internal.hcltech.com IN CNAME .
 internalsink.com IN CNAME .
-internal-t.posthog.com IN CNAME .
 international.edc.ca IN CNAME .
 internationalpayments.americanexpress.com IN CNAME .
 international.wandw.ac.nz IN CNAME .
@@ -23939,6 +23939,7 @@ neosllc.actonservice.com IN CNAME .
 neowiv.brumbrum.it IN CNAME .
 nerldv.ullapopken.pl IN CNAME .
 nervoussummer.com IN CNAME .
+nestbuyers.com IN CNAME .
 net1.netski.com IN CNAME .
 net.24-ads.com IN CNAME .
 net.brillen.de IN CNAME .
@@ -25286,6 +25287,7 @@ p.ejs.dev IN CNAME .
 pemskb.unitedcinemas.jp IN CNAME .
 peoplehr.actonservice.com IN CNAME .
 people.mbtionline.com IN CNAME .
+pepin.padlet.com IN CNAME .
 pepleb.ekosport.de IN CNAME .
 peqvwk.notino.at IN CNAME .
 perceivequarter.com IN CNAME .
@@ -27008,6 +27010,7 @@ rsaard.en-tea.com IN CNAME .
 rs.adpinfo.com IN CNAME .
 r.sax.sina.com.cn IN CNAME .
 rsc.lepoint.fr IN CNAME .
+r.sdiapi.net IN CNAME .
 rsinqg.homelux.hu IN CNAME .
 r.skimresources.com IN CNAME .
 rs.mail.ru IN CNAME .
@@ -35160,6 +35163,7 @@ tag.digops.sincro.io IN CNAME .
 tag.eisa.mercari.com IN CNAME .
 tag.elevaate.io IN CNAME .
 tag.flagship.io IN CNAME .
+tag.gendiscover.com IN CNAME .
 tagger.opecloud.com IN CNAME .
 tagger.ope.scmp.com IN CNAME .
 tag.getamigo.io IN CNAME .
