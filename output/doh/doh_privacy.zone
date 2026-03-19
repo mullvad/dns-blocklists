@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1773814590    ; serial
+                                        1773900793    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13139,6 +13139,7 @@ exampleshake.com IN CNAME .
 exbujk.glamood.com IN CNAME .
 exchange.carte-gr.total.fr IN CNAME .
 exchange.happ.social IN CNAME .
+excitingdates.com IN CNAME .
 excitingtub.com IN CNAME .
 exd4.destinia.com.au IN CNAME .
 exdmarketing.smu.edu.sg IN CNAME .
@@ -28864,6 +28865,7 @@ share.worldleaguelive.com IN CNAME .
 share.yabelink.com IN CNAME .
 share.yugengamers.com IN CNAME .
 sharing.kptncook.com IN CNAME .
+shatterloop.com IN CNAME .
 sh.b.inhaabit.com IN CNAME .
 shdid.me IN CNAME .
 s.hdsupplysolutions.com IN CNAME .
@@ -29008,6 +29010,7 @@ site.infosysbpm.com IN CNAME .
 siteintercept.allegiancetech.com IN CNAME .
 site.johnlewis-insurance.com IN CNAME .
 sitel.actonservice.com IN CNAME .
+sitemapwizard.com IN CNAME .
 site.newzstand.com IN CNAME .
 siteperformancetest.net IN CNAME .
 sites.campaignmgr.cisco.com IN CNAME .
@@ -36493,6 +36496,7 @@ t.pplcenter.com IN CNAME .
 tp.quelle.de IN CNAME .
 t.prageru.com IN CNAME .
 t.prod1.discover.binge.com.au IN CNAME .
+t.producthunt.com IN CNAME .
 tp.sheego.de IN CNAME .
 tp.sieh-an.at IN CNAME .
 tp.sieh-an.ch IN CNAME .
