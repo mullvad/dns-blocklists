@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1774247828    ; serial
+                                        1774334407    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7295,6 +7295,7 @@ bancopostapremia.bancoposta.it IN CNAME .
 bandborder.com IN CNAME .
 banks.adpinfo.com IN CNAME .
 bank.svb.com IN CNAME .
+banner.appsflyersdk.com IN CNAME .
 banstat.nadavi.net IN CNAME .
 bapages.carte-gr.total.fr IN CNAME .
 barbadoshello.com IN CNAME .
@@ -13475,6 +13476,7 @@ firstscreenshot.com IN CNAME .
 firurx.invia.hu IN CNAME .
 fishersfinds.com IN CNAME .
 fishing.daigostudio.com IN CNAME .
+fishingtoolsbox.com IN CNAME .
 fitmessage.com IN CNAME .
 fitnessmapper.com IN CNAME .
 fivesidedsquare.com IN CNAME .
@@ -13879,6 +13881,7 @@ fuzrxc.aboutyou.nl IN CNAME .
 fuzzyaudio.com IN CNAME .
 fuzzybasketball.com IN CNAME .
 fuzzyerror.com IN CNAME .
+fvalid.appsflyersdk.com IN CNAME .
 fvc.alcatel-lucent.com IN CNAME .
 fvuitt.alibabuy.com IN CNAME .
 fvvyjd.jtv.com IN CNAME .
@@ -17127,6 +17130,7 @@ inquisitiveice.com IN CNAME .
 inquisitiveinvention.com IN CNAME .
 ins.connatix.com IN CNAME .
 insectmacros.com IN CNAME .
+insidepsych.net IN CNAME .
 insight.aon.com IN CNAME .
 insight.autovistagroup.com IN CNAME .
 insight.boomer.com IN CNAME .
@@ -24103,6 +24107,7 @@ ninja.onap.io IN CNAME .
 nirdjz.revolveclothing.com.au IN CNAME .
 nisaapp.nexus-dt.com IN CNAME .
 nitrous-analytics.s3.amazonaws.com IN CNAME .
+nixie.starlightnet.work IN CNAME .
 njnlih.realitatea.net IN CNAME .
 njorya.aosom.de IN CNAME .
 njtwub.schneider.de IN CNAME .
@@ -24729,6 +24734,7 @@ onecrow.net IN CNAME .
 onedropocean.com IN CNAME .
 one.godigit.com IN CNAME .
 oneid.mmstat.com IN CNAME .
+onelinksmartscript.appsflyersdk.com IN CNAME .
 onelink.taptalk.io IN CNAME .
 onem.marketing.onemarketinguxp.com IN CNAME .
 onenet.gakujutsu.com IN CNAME .
@@ -24779,6 +24785,7 @@ oossod.potterybarn.ae IN CNAME .
 o.otrestaurant.com IN CNAME .
 opalquill.com IN CNAME .
 opbdps.bonprix.fi IN CNAME .
+op.dragonfru.it IN CNAME .
 open.ailo.app IN CNAME .
 open.anghami.com IN CNAME .
 open.bitcoinmagazine.app IN CNAME .
@@ -28922,6 +28929,7 @@ sicas.ikea.com IN CNAME .
 sicas.ikea.net IN CNAME .
 sicksmash.com IN CNAME .
 siderain.com IN CNAME .
+sidetrades.com IN CNAME .
 sid.nordstrom.com IN CNAME .
 sierrakermit.com IN CNAME .
 siewmi.uncommongoods.com IN CNAME .
@@ -35202,6 +35210,7 @@ tagservice.maximus.mobkoi.com IN CNAME .
 tags.esri.ca IN CNAME .
 tags.esri.com IN CNAME .
 tags.esri.rw IN CNAME .
+tags-event.woolworths.co.nz IN CNAME .
 tags.fullcontact.com IN CNAME .
 tags.globo.com IN CNAME .
 tags.hilabel.nl IN CNAME .
@@ -36298,6 +36307,7 @@ t.longbeachstate.com IN CNAME .
 tlsalw.platypusshoes.co.nz IN CNAME .
 tls.thelibrarystore.com IN CNAME .
 t.lsusports.net IN CNAME .
+t.ltiquery.com IN CNAME .
 tltkpu.jagran.com IN CNAME .
 tltpyy.saatchiart.com IN CNAME .
 tl.tradetracker.net IN CNAME .
@@ -36566,6 +36576,7 @@ trace.insead.edu IN CNAME .
 trace.qq.com IN CNAME .
 tracer.autoscout24.ch IN CNAME .
 trace.swaven.com IN CNAME .
+traces.youdo.com IN CNAME .
 track1.avplayer.com IN CNAME .
 track2.cliplister.com IN CNAME .
 track2.dulingo.com IN CNAME .
@@ -40551,6 +40562,7 @@ waaf1.alditalk.de IN CNAME .
 waaf1.hoferfotos.at IN CNAME .
 waaf.medion.com IN CNAME .
 wa.and.co.uk IN CNAME .
+wa.appsflyersdk.com IN CNAME .
 waatch.gva.be IN CNAME .
 waatch.hbvl.be IN CNAME .
 waatch.nieuwsblad.be IN CNAME .
@@ -40844,6 +40856,7 @@ webpixel.smartmeapp.com IN CNAME .
 webpushstat.api.engagelab.cc IN CNAME .
 web.redazione.milanofinanza.it IN CNAME .
 websdk.appsflyer.com IN CNAME .
+websdk.appsflyersdk.com IN CNAME .
 websdkmetrics.blackrock.com IN CNAME .
 web.sensilab.com IN CNAME .
 web.sensilab.cz IN CNAME .
