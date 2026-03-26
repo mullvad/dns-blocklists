@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1774417199    ; serial
+                                        1774504911    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5001,6 +5001,7 @@ ana.3751chat.com IN CNAME .
 ana.chat.shalove.net IN CNAME .
 anaconda.net.anwalt.de IN CNAME .
 ana.e-ticket.co.jp IN CNAME .
+anal.billingserv.com IN CNAME .
 anal.doubledouble.top IN CNAME .
 analitica.webrpp.com IN CNAME .
 analitik.bik.gov.tr IN CNAME .
@@ -5367,6 +5368,7 @@ analytics.navyfederal.org IN CNAME .
 analytics.ncaa.com IN CNAME .
 analytics.neoogilvy.uy IN CNAME .
 analytics.net.dz.jumia.com IN CNAME .
+analytics.netralex.com IN CNAME .
 analytics.netronline.dev IN CNAME .
 analytics.newscred.com IN CNAME .
 analytics.newsifier.nl IN CNAME .
@@ -8978,6 +8980,7 @@ collector.hippodromeonline.com IN CNAME .
 collector.mazeberry.com IN CNAME .
 collector.megaxh.com IN CNAME .
 collector.net-logger.com IN CNAME .
+collector-ovp.streamcloud.it IN CNAME .
 collector.pi.spectrum.net IN CNAME .
 collector.pmc.com IN CNAME .
 collector-px0py5pczn.octopart.com IN CNAME .
@@ -10772,6 +10775,7 @@ ddl.alma.iltalehti.fi IN CNAME .
 ddlbr.timesclub.co IN CNAME .
 ddlcvm.clas.style IN CNAME .
 dd.leboncoin.fr IN CNAME .
+ddm.frandroid.com IN CNAME .
 ddmfrg.modivo.bg IN CNAME .
 ddnahc.mesbagages.com IN CNAME .
 dd.nytimes.com IN CNAME .
@@ -13013,6 +13017,7 @@ events.chaordicsystems.com IN CNAME .
 events.character.ai IN CNAME .
 events.cigna.com IN CNAME .
 events.clips4sale.com IN CNAME .
+events.codainfra.com IN CNAME .
 events.coface.com IN CNAME .
 events.demoup.com IN CNAME .
 events.devcycle.com IN CNAME .
@@ -14006,6 +14011,7 @@ gdg.gardnerdenver.com IN CNAME .
 gdm1.toner.fr IN CNAME .
 gdmelqact.gartner.com IN CNAME .
 gdphhl.elite-auto.fr IN CNAME .
+gdpr.netralex.com IN CNAME .
 gdqlno.weisshaus.de IN CNAME .
 gdsngr.chainreactioncycles.com IN CNAME .
 gdt.qq.com IN CNAME .
@@ -18384,6 +18390,7 @@ link.bellu.gg IN CNAME .
 link.bemachine.app IN CNAME .
 link.bestest.io IN CNAME .
 link-beta.qonto.co IN CNAME .
+link.bhvr.com IN CNAME .
 link.bigroom.tv IN CNAME .
 link.bluecallapp.com IN CNAME .
 link.blueheart.io IN CNAME .
@@ -26093,6 +26100,7 @@ puppetcorp.com IN CNAME .
 puppiesart.com IN CNAME .
 puppytooth.com IN CNAME .
 pu.pretunique.fr IN CNAME .
+purebloom.net IN CNAME .
 purple-hit.com IN CNAME .
 purple.mongodb.com IN CNAME .
 purpletalk.actonservice.com IN CNAME .
@@ -27126,6 +27134,7 @@ rxqqaq.hollandandbarrett.com IN CNAME .
 rx-test.capsulecares.com IN CNAME .
 rxtolo.domiporta.pl IN CNAME .
 ry0.rythmefm.com IN CNAME .
+rybbit.sg-app.com IN CNAME .
 ryjknw.sonnenbrillen.com IN CNAME .
 rymhet.posudamart.ru IN CNAME .
 rystadenergy.actonservice.com IN CNAME .
@@ -32711,6 +32720,7 @@ spitefulriver.com IN CNAME .
 sp.jrklein.com IN CNAME .
 sp.justwatch.com IN CNAME .
 spjysa.only.com IN CNAME .
+splicebook.com IN CNAME .
 splitexpenses.oworld.fr IN CNAME .
 spmaeu.gumtree.com.au IN CNAME .
 spmyma.moscowfresh.ru IN CNAME .
@@ -34626,6 +34636,7 @@ stms.53.com IN CNAME .
 stms.newline53.com IN CNAME .
 st.newyorklife.com IN CNAME .
 st.newyorklifeinvestments.com IN CNAME .
+st.nic.ru IN CNAME .
 st-nlyss1.plala.or.jp IN CNAME .
 stnt.express-scripts.com IN CNAME .
 stnt.sky.at IN CNAME .
@@ -35242,6 +35253,7 @@ talk-test.stitch.cam IN CNAME .
 t.allmodern.com IN CNAME .
 talltouch.com IN CNAME .
 tally.bizanalyst.in IN CNAME .
+t.almayadeen.net IN CNAME .
 t.alumni.duke.edu IN CNAME .
 tamedbc.roska.fr IN CNAME .
 tamus.net.anwalt.de IN CNAME .
@@ -39772,6 +39784,7 @@ usrpubtrk.com IN CNAME .
 ussco-dev.actonservice.com IN CNAME .
 ussolutions.equifax.com IN CNAME .
 ustat.info IN CNAME .
+u.strike.bz IN CNAME .
 usw18-268-pdb.net.mydays.de IN CNAME .
 usyyzz.winparts.nl IN CNAME .
 usztct.gang.com.br IN CNAME .
@@ -56881,7 +56894,6 @@ global-ad-extranet-pri-azpn.alb.xiaomi.com IN CNAME .
 global-ad-intl-pri-alisgp.alb.xiaomi.com IN CNAME .
 awssgp0-files.fds.api.xiaomi.com IN CNAME .
 cdn.fds.api.xiaomi.com IN CNAME .
-cnbj1.fds.api.xiaomi.com IN CNAME .
 awsusor0-cdn.fds-ssl.api.xiaomi.com IN CNAME .
 cdn.fds-ssl.api.xiaomi.com IN CNAME .
 mibi.api.xiaomi.com IN CNAME .
