@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1774850108    ; serial
+                                        1774959785    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5803,6 +5803,7 @@ api.wipmania.com IN CNAME .
 apiwmda.58.com.cn IN CNAME .
 apllogistics.actonservice.com IN CNAME .
 aplobv.xexymix.com IN CNAME .
+aplus.alibaba.com IN CNAME .
 apm.tnet.nl IN CNAME .
 a.pork.org IN CNAME .
 a.pourquoidocteur.fr IN CNAME .
@@ -10553,6 +10554,7 @@ data.partner-offers.airmiles.ca IN CNAME .
 data.partner-updates.airmiles.ca IN CNAME .
 data.pharmacyservices.riteaid.com IN CNAME .
 data.phg.palladiumhotelgroup.com IN CNAME .
+datapickles.com IN CNAME .
 data.pisos.com IN CNAME .
 data.pnet.co.za IN CNAME .
 data.prewards.palladiumhotelgroup.com IN CNAME .
@@ -16299,6 +16301,7 @@ importantmeat.com IN CNAME .
 importedinsect.com IN CNAME .
 impossibleexpansion.com IN CNAME .
 imp.pvnsolutions.com IN CNAME .
+impression.appsflyer.com IN CNAME .
 impressions.svc.abillion.com IN CNAME .
 impression-tracker-service-5eimuebuhq-lz.a.run.app IN CNAME .
 impress.vcita.com IN CNAME .
@@ -24741,6 +24744,7 @@ onecrow.net IN CNAME .
 onedropocean.com IN CNAME .
 one.godigit.com IN CNAME .
 oneid.mmstat.com IN CNAME .
+onelinksmartscript.appsflyer.com IN CNAME .
 onelinksmartscript.appsflyersdk.com IN CNAME .
 onelink.taptalk.io IN CNAME .
 onem.marketing.onemarketinguxp.com IN CNAME .
@@ -27978,6 +27982,7 @@ sdcs.felissimo.co.jp IN CNAME .
 s.dc-tag.jp IN CNAME .
 sdjthl.tvguide.dk IN CNAME .
 sdk-analytics-web.cloud.itau.com.br IN CNAME .
+sdk.appsflyer.com IN CNAME .
 sdlmaf.bestsecret.at IN CNAME .
 sdome.underarmour.co.jp IN CNAME .
 sdpimt.lostgolfballs.com IN CNAME .
@@ -40698,6 +40703,7 @@ wealthcarecapital.actonservice.com IN CNAME .
 wealth.informabi.com IN CNAME .
 weare.ballymoregroup.com IN CNAME .
 weatherbytes.net IN CNAME .
+weatherpush.net IN CNAME .
 web1.51.la IN CNAME .
 web2.perkinelmer.com IN CNAME .
 web3.perkinelmer.com IN CNAME .
