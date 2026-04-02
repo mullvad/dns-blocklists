@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1775021047    ; serial
+                                        1775106809    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5001,7 +5001,7 @@ ana.3751chat.com IN CNAME .
 ana.chat.shalove.net IN CNAME .
 anaconda.net.anwalt.de IN CNAME .
 ana.e-ticket.co.jp IN CNAME .
-anal.billingserv.com IN CNAME .
+anal.baseserv.com IN CNAME .
 anal.doubledouble.top IN CNAME .
 analitica.webrpp.com IN CNAME .
 analitik.bik.gov.tr IN CNAME .
@@ -7407,6 +7407,7 @@ beacon.sojern.com IN CNAME .
 beacon.statful.com IN CNAME .
 beacon.walmart.com IN CNAME .
 beacon.watch.impress.co.jp IN CNAME .
+beacon.webpresence.work IN CNAME .
 beacon.wikia-services.com IN CNAME .
 beafdf.restaupro.com IN CNAME .
 beagle.prod.tda.link IN CNAME .
@@ -8993,7 +8994,6 @@ collector.taoxh.life IN CNAME .
 collector.theconversation.com IN CNAME .
 collector.t-idr.com IN CNAME .
 collector-videoplayer.5centscdn.net IN CNAME .
-collector.wawlabs.com IN CNAME .
 collector.xhaccess.com IN CNAME .
 collector.xhamster2.com IN CNAME .
 collector.xhamster3.com IN CNAME .
@@ -25239,6 +25239,7 @@ paynewest.actonservice.com IN CNAME .
 payqjd.subito.it IN CNAME .
 payroll.smartsalary.com.au IN CNAME .
 pay.truemoney.me IN CNAME .
+pbc.barrons.com IN CNAME .
 pbc.programbrokerage.com IN CNAME .
 pbecrm.aquanet.ru IN CNAME .
 pb.i.sogou.com IN CNAME .
@@ -26021,6 +26022,7 @@ propsynergy.com IN CNAME .
 prospex.actonservice.com IN CNAME .
 pro.stormwindstudios.com IN CNAME .
 protapes.actonservice.com IN CNAME .
+protechts.net IN CNAME .
 protectpool.com IN CNAME .
 protestcopy.com IN CNAME .
 protosell.actonservice.com IN CNAME .
@@ -35220,6 +35222,7 @@ tag.rmp.rakuten.com IN CNAME .
 tags.air1.com IN CNAME .
 tags.aljazeera.com IN CNAME .
 tags.aljazeera.net IN CNAME .
+tags.barrons.com IN CNAME .
 tags.catapultx.com IN CNAME .
 tags.cmp.tail.digital IN CNAME .
 tags.dxmdp.com IN CNAME .
@@ -40667,6 +40670,7 @@ wa.vodafone.de IN CNAME .
 wa.vodafone.pt IN CNAME .
 wavrlh.cedok.cz IN CNAME .
 wavzlt.michaelstars.com IN CNAME .
+wa.wawlabs.com IN CNAME .
 wa.wdr.de IN CNAME .
 wa.wdrmaus.de IN CNAME .
 wa.web.de IN CNAME .
@@ -41064,10 +41068,12 @@ widget.educationdynamics.com IN CNAME .
 widgethouse.com IN CNAME .
 widget-pixels.outbrain.com IN CNAME .
 wigkxx.jetcost.com IN CNAME .
+wikiquotations.com IN CNAME .
 wikiwhatwhere.com IN CNAME .
 wildcommittee.com IN CNAME .
 wildwoodavenue.com IN CNAME .
 w.ilfattoquotidiano.it IN CNAME .
+windbeetle.com IN CNAME .
 win.staticstuff.net IN CNAME .
 wirecomic.com IN CNAME .
 wiredforcoffee.com IN CNAME .
