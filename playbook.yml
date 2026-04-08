@@ -198,6 +198,15 @@
           loop_control:
             label: output/{{ item.type }}.txt
 
+        - name: Remove lines starting with a dot
+          ansible.builtin.lineinfile:
+            path: output/{{ item.type }}.txt
+            regexp: '^\.'
+            state: absent
+          loop: "{{ dns_blocklists_lists }}"
+          loop_control:
+            label: output/{{ item.type }}.txt
+
         - name: Ensure excluded URLS are not included in any output file
           ansible.builtin.lineinfile:
             path: output/{{ item.0.name }}.txt
