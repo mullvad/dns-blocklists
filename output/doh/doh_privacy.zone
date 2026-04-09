@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1775625351    ; serial
+                                        1775710485    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -15561,6 +15561,7 @@ hyeorg.gmarket.co.kr IN CNAME .
 hygiena.actonservice.com IN CNAME .
 hyibby.lampen24.be IN CNAME .
 hykaqn.dormideo.com IN CNAME .
+hypercarart.com IN CNAME .
 hyperdisk.actonservice.com IN CNAME .
 hyperlegend.com IN CNAME .
 hypnoticwound.com IN CNAME .
@@ -41095,6 +41096,7 @@ withsounds.com IN CNAME .
 withyou.shorr.com IN CNAME .
 wittypopcorn.com IN CNAME .
 wizardbuck.com IN CNAME .
+wizardstrategy.com IN CNAME .
 wiz.empowerhearing.com IN CNAME .
 wiz.sncf-connect.com IN CNAME .
 wjssvg.descentekorea.co.kr IN CNAME .
