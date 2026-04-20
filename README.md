@@ -48,6 +48,7 @@ We currently use these advertising blocklists with our service:
 - oisd-small: https://small.oisd.nl/rpz
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
+- hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
 
 ### Adult content 
 
