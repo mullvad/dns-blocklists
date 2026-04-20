@@ -49,6 +49,10 @@ dns_blocklists_lists:
     type: adblock
     url: https://v.firebog.net/hosts/AdguardDNS.txt
 
+  - name: hagezi-popupads-onlydomains
+    type: adblock
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
+
   - name: oisd-nsfw
     url: https://nsfw.oisd.nl/rpz
     type: adult
