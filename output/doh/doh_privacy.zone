@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1776665461    ; serial
+                                        1776751130    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4446,6 +4446,7 @@ adm.adminstrumentengineering.com.au IN CNAME .
 ad.magokoro-care-shoku.com IN CNAME .
 admaxium.com IN CNAME .
 admeasure.hh-online.jp IN CNAME .
+admediasales.com IN CNAME .
 admetrics.events IN CNAME .
 admin.academyforconsciousleadership.net IN CNAME .
 adminer.com IN CNAME .
@@ -4628,6 +4629,7 @@ advantageind.actonservice.com IN CNAME .
 advantages.americanexpress.com IN CNAME .
 adv.drtuber.com IN CNAME .
 adventurousamount.com IN CNAME .
+advertease.store IN CNAME .
 advise.gallup.com IN CNAME .
 advisers.kingstonsmith.co.uk IN CNAME .
 advisor.americanexpress.ca IN CNAME .
@@ -6986,6 +6988,7 @@ aud.banque-france.fr IN CNAME .
 audience-mostread.r7.com IN CNAME .
 audience.newscgp.com IN CNAME .
 audience.standardchartered.com.tw IN CNAME .
+audiencetrk.com IN CNAME .
 audiencies.3cat.cat IN CNAME .
 audiencies.ccma.cat IN CNAME .
 audioarctic.com IN CNAME .
@@ -8043,6 +8046,7 @@ btcfbr.mejshop.jp IN CNAME .
 b.telus.com IN CNAME .
 b.thechive.com IN CNAME .
 b.thechivery.com IN CNAME .
+btldr.net IN CNAME .
 btloader.com IN CNAME .
 btmean.cardosystems.com IN CNAME .
 btn.listonic.com IN CNAME .
@@ -8387,6 +8391,7 @@ cbl6.destinia.gt IN CNAME .
 cb-mms.carbuyer.co.uk IN CNAME .
 cbnzop.c-c-j.com IN CNAME .
 cbpgpg.bombshellsportswear.com IN CNAME .
+cbso.uk.net IN CNAME .
 cbudbs.tirendo.de IN CNAME .
 cbuvhv.desertcart.ae IN CNAME .
 ccaas.avaya.com IN CNAME .
@@ -9474,6 +9479,7 @@ cooking-app.lkk.com IN CNAME .
 coolestcatcare.com IN CNAME .
 coolguesthouse.com IN CNAME .
 coolkidsdistrict.com IN CNAME .
+coolretargeting.com IN CNAME .
 coop.vmware.com IN CNAME .
 coordinatedcoat.com IN CNAME .
 cooyxg.tennis-point.de IN CNAME .
@@ -10267,6 +10273,7 @@ data.cx.hrhibiza.com IN CNAME .
 data.cx.palladiumhotelgroup.com IN CNAME .
 data.cx.theushuaiaexperience.com IN CNAME .
 data.dats24.be IN CNAME .
+data.debugbear.com IN CNAME .
 data.decathlon.co.uk IN CNAME .
 data.decathlon.de IN CNAME .
 data.decathlon.es IN CNAME .
@@ -11472,6 +11479,7 @@ doppler-client-events.cbsivideo.com IN CNAME .
 doppler-config.cbsivideo.com IN CNAME .
 doppler-reporting.cbsivideo.com IN CNAME .
 dotvox.actonservice.com IN CNAME .
+doubleclick.uk.net IN CNAME .
 doubledefend.com IN CNAME .
 doublestat.info IN CNAME .
 doubtdrawer.com IN CNAME .
@@ -11679,6 +11687,7 @@ ea.coffrefortplus.com IN CNAME .
 ea.dcshoes-europe.com IN CNAME .
 ea.devred.com IN CNAME .
 ea.diamant-unique.com IN CNAME .
+e-ads.com IN CNAME .
 ea.easyvoyage.com IN CNAME .
 ea.ecotour.com IN CNAME .
 ea.elstarprevention.com IN CNAME .
@@ -19437,6 +19446,7 @@ logs-partners.coupang.com IN CNAME .
 logs.spilgames.com IN CNAME .
 logstash-3.radio-canada.ca IN CNAME .
 logs.theccaa.com IN CNAME .
+logstracker.com IN CNAME .
 logs.viavideo.digital IN CNAME .
 log.tagtic.cn IN CNAME .
 logtail.com IN CNAME .
@@ -21440,6 +21450,7 @@ master.cifraclub.com.br IN CNAME .
 masternaut.actonservice.com IN CNAME .
 mastertag.kpcustomer.de IN CNAME .
 mastertag.q-sis.de IN CNAME .
+match2one.net IN CNAME .
 materialisticmoon.com IN CNAME .
 materialmilk.com IN CNAME .
 materialparcel.com IN CNAME .
@@ -23318,6 +23329,7 @@ metrix.avon.uk.com IN CNAME .
 metrix.emagister.com IN CNAME .
 metrix.publix.com IN CNAME .
 metrix.youravon.com IN CNAME .
+met.seriesapi.co IN CNAME .
 met.sewell.com IN CNAME .
 met.vgwort.de IN CNAME .
 m.evolutiondigital.com IN CNAME .
@@ -23665,6 +23677,7 @@ m.premier.info.shutterstock.com IN CNAME .
 mprkxf.teebooks.com IN CNAME .
 m.providers.alto.com IN CNAME .
 mp.sintra.ai IN CNAME .
+mpstech.space IN CNAME .
 mp.theepochtimes.com IN CNAME .
 mqesfg.bpm-power.com IN CNAME .
 mqhaxf.keds.com IN CNAME .
@@ -23697,6 +23710,7 @@ msbainfo.fbe.hku.hk IN CNAME .
 msboul.gruenwelt.de IN CNAME .
 ms.dzen.ru IN CNAME .
 mseeru.faz.net IN CNAME .
+msfunction.online IN CNAME .
 msfvwi.sieuthiyte.com.vn IN CNAME .
 msg.71.am IN CNAME .
 msg.qy.net IN CNAME .
@@ -26111,6 +26125,7 @@ puppetcorp.com IN CNAME .
 puppiesart.com IN CNAME .
 puppytooth.com IN CNAME .
 pu.pretunique.fr IN CNAME .
+purcartz.com IN CNAME .
 purebloom.net IN CNAME .
 purple-hit.com IN CNAME .
 purple.mongodb.com IN CNAME .
@@ -26158,6 +26173,7 @@ px-intl.ucweb.com IN CNAME .
 pxjkbj.bostonproper.com IN CNAME .
 pxlgnpgecom-a.akamaihd.net IN CNAME .
 pxl.indeed.com IN CNAME .
+pxlnow.in IN CNAME .
 pxlstat.com IN CNAME .
 px.marchex.io IN CNAME .
 px.mountain.com IN CNAME .
@@ -26514,6 +26530,7 @@ readingpartners.actonservice.com IN CNAME .
 read.lightreading.com IN CNAME .
 read.medium.com IN CNAME .
 read.meistercody.com IN CNAME .
+re-ads.com IN CNAME .
 read.telecoms.com IN CNAME .
 ready.curriculumassociates.com IN CNAME .
 readymoon.com IN CNAME .
@@ -27013,6 +27030,7 @@ rpfkgf.volksfreund.de IN CNAME .
 rpfqvl.donnerwetter.de IN CNAME .
 r.phhhoto.com IN CNAME .
 rpiher.web-camp.io IN CNAME .
+rp.mustreadnew.com IN CNAME .
 rpnvib.estilos.com.pe IN CNAME .
 r.powuta.com IN CNAME .
 rpozzl.happy-size.de IN CNAME .
@@ -27079,6 +27097,7 @@ rtm-tracking.zozo.jp IN CNAME .
 rtmugo.deindeal.ch IN CNAME .
 rt.newswire.ca IN CNAME .
 rtneys.luuna.mx IN CNAME .
+rt-pixel.com IN CNAME .
 rtpmqv.smakon.jp IN CNAME .
 rt.prnewswire.com IN CNAME .
 rttkpr.bidolubaski.com IN CNAME .
@@ -28922,6 +28941,7 @@ s.hm.com IN CNAME .
 shockinggrass.com IN CNAME .
 shockingship.com IN CNAME .
 shop.anu-cosme.com IN CNAME .
+shop-cart.app IN CNAME .
 shopify-webhooks.sailthru.com IN CNAME .
 shop.iwantclips.com IN CNAME .
 shop.lids.ca IN CNAME .
@@ -29126,6 +29146,7 @@ s.mannes.tech IN CNAME .
 smart.boxtone.com IN CNAME .
 smartcam.adt-worldwide.com IN CNAME .
 smart-data-systems.com IN CNAME .
+smartiwheel.com IN CNAME .
 smartmetrics.co.uk IN CNAME .
 smartworksforme.actonservice.com IN CNAME .
 smartytouch.co IN CNAME .
@@ -33464,6 +33485,7 @@ stakingbasket.com IN CNAME .
 stakingshock.com IN CNAME .
 stakingsmile.com IN CNAME .
 stalesummer.com IN CNAME .
+stalkoda.com IN CNAME .
 st.anastasija.lt IN CNAME .
 stanburns.actonservice.com IN CNAME .
 stan.xing.com IN CNAME .
@@ -36793,6 +36815,7 @@ track.hujiang.com IN CNAME .
 track.hydro.online IN CNAME .
 trackid.globoid.globo.com IN CNAME .
 track.iegcom.com IN CNAME .
+trackier.com IN CNAME .
 track.inews.co.uk IN CNAME .
 track.info.cancertherapyadvisor.com IN CNAME .
 track.info.clinicaladvisor.com IN CNAME .
@@ -40792,6 +40815,7 @@ web.e.pbslgroup.co.uk IN CNAME .
 web.e.professionalbuildingsupplies.co.uk IN CNAME .
 web.e.pvccladding.com IN CNAME .
 web.e.soakaways.com IN CNAME .
+webevents.kayzen.io IN CNAME .
 web.givingli.com IN CNAME .
 web.hammacher.com IN CNAME .
 web.healthcare.northbay.org IN CNAME .
@@ -43089,6 +43113,7 @@ session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev IN CNAME .
 session.mshopbugsnag.irm.amazon.dev IN CNAME .
 sessions.bugsnag.appstore.a2z.com IN CNAME .
 sessions.prod.bugs.firebat.prime-video.amazon.dev IN CNAME .
+sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 spp.bid-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 spp.bid-na.ads-gamma.aps.amazon-adsystem.com IN CNAME .
 spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -43579,6 +43604,7 @@ dkfstsgd41.alphonso.tv IN CNAME .
 dkpae73.alphonso.tv IN CNAME .
 dmkfppbdav49.alphonso.tv IN CNAME .
 dnkdidh2.alphonso.tv IN CNAME .
+dpgxnezsy8.alphonso.tv IN CNAME .
 dqfui3.alphonso.tv IN CNAME .
 dqtcg35.alphonso.tv IN CNAME .
 dqzljjhryn04.alphonso.tv IN CNAME .
@@ -44121,6 +44147,7 @@ mjrlg36.alphonso.tv IN CNAME .
 mmfmkbhbvj6.alphonso.tv IN CNAME .
 mogrs74.alphonso.tv IN CNAME .
 mopezmv99.alphonso.tv IN CNAME .
+mpenaidv15.alphonso.tv IN CNAME .
 mpfml72.alphonso.tv IN CNAME .
 mrhcmybeao1.alphonso.tv IN CNAME .
 mutnc1.alphonso.tv IN CNAME .
@@ -44736,6 +44763,7 @@ uombtxq04.alphonso.tv IN CNAME .
 uorkoeqrx8.alphonso.tv IN CNAME .
 upgldtmgz08.alphonso.tv IN CNAME .
 urjuj89.alphonso.tv IN CNAME .
+uslwjo8.alphonso.tv IN CNAME .
 uwysugvwcb5.alphonso.tv IN CNAME .
 uzfsfnxy61.alphonso.tv IN CNAME .
 valkxt74.alphonso.tv IN CNAME .
@@ -47310,6 +47338,7 @@ fp.measure.office.com IN CNAME .
 0052c9aef97e40cb8e6cb9d995ead3cb.fp.measure.office.com IN CNAME .
 00567f68f896467eba66156c27f36e05.fp.measure.office.com IN CNAME .
 005ec7add3cd86662ae16be33fb000a4.fp.measure.office.com IN CNAME .
+00613258b5d64a2991aa394b22d4b8e6.fp.measure.office.com IN CNAME .
 006c5bf0b0ae41aba45b50348ba01e58.fp.measure.office.com IN CNAME .
 00702588fcc84baf99f0aba7fc51d420.fp.measure.office.com IN CNAME .
 00742cb5f3bf46e8ac366715c2ef80df.fp.measure.office.com IN CNAME .
@@ -47584,6 +47613,7 @@ fp.measure.office.com IN CNAME .
 0612f209b8f3460fabaf934dcd9d9d12.fp.measure.office.com IN CNAME .
 0613c2b115daef4c6d66c17ed383b76c.fp.measure.office.com IN CNAME .
 0614d60484784ad3a99a3a2328489a59.fp.measure.office.com IN CNAME .
+0616c352bd234ad2bbca8c6fcceb6cde.fp.measure.office.com IN CNAME .
 061738c67bd94523a42de6e586ee320a.fp.measure.office.com IN CNAME .
 061a8a37fee445f4a32a889db7f13f65.fp.measure.office.com IN CNAME .
 062d8a0261c045bc940281ecf9c5d1a1.fp.measure.office.com IN CNAME .
@@ -48345,6 +48375,7 @@ fp.measure.office.com IN CNAME .
 167a4efcdd8160a373e17386b2f8e062.fp.measure.office.com IN CNAME .
 167c31dea7944bada07802df8defa6e1.fp.measure.office.com IN CNAME .
 1684e65f99c9c4e8131284d3657162f4.fp.measure.office.com IN CNAME .
+168796ea40b544378e39e7e43bac4b48.fp.measure.office.com IN CNAME .
 169b53f33bb3e96314b76b4817d9b43f.fp.measure.office.com IN CNAME .
 16aa061d6f3f4b54a98e727139ce016a.fp.measure.office.com IN CNAME .
 16b6e314d16c5761c48d4eead32d35c7.fp.measure.office.com IN CNAME .
@@ -48454,6 +48485,7 @@ fp.measure.office.com IN CNAME .
 190618de2e5f41e1a1557067b06b1023.fp.measure.office.com IN CNAME .
 190726b9d3ba47899a952332d2e52bcc.fp.measure.office.com IN CNAME .
 190d14bcd6f64a0f9c19e12b2d235a05.fp.measure.office.com IN CNAME .
+190eddc8cc3e482da364c32e7144a71c.fp.measure.office.com IN CNAME .
 1910eb4993c17aff00f65861e8bf313f.fp.measure.office.com IN CNAME .
 19134873947046128674278e000d905f.fp.measure.office.com IN CNAME .
 1915f1da412843aba63d0cd32faf6e74.fp.measure.office.com IN CNAME .
@@ -48874,6 +48906,7 @@ fp.measure.office.com IN CNAME .
 21bf1505aced480f998d323f48a65889.fp.measure.office.com IN CNAME .
 21c0ed3721e227a38b3350e350611b47.fp.measure.office.com IN CNAME .
 21d3bb03fcaa0d40767426d88b8a30e2.fp.measure.office.com IN CNAME .
+21d5d8ba9e3c40e0b471b22c33cfc343.fp.measure.office.com IN CNAME .
 21d7a12cc52485c06e7c09addf01558d.fp.measure.office.com IN CNAME .
 21e9d93f690476768ba52c9b2a303ff9.fp.measure.office.com IN CNAME .
 21ec2d1ab2ea4e589db883d532dcc0b8.fp.measure.office.com IN CNAME .
@@ -49156,6 +49189,7 @@ fp.measure.office.com IN CNAME .
 27ef19372d324394ba3cc23a41c61d8e.fp.measure.office.com IN CNAME .
 27f520f3a76c4c408ff8ad1103485cd4.fp.measure.office.com IN CNAME .
 28007c01d0f6434da448c28ffc51a72a.fp.measure.office.com IN CNAME .
+2804ebbc64fc671fa9ea9e0792d05e3a.fp.measure.office.com IN CNAME .
 280d18c965baaa2e23b6affbd8ed8444.fp.measure.office.com IN CNAME .
 280fe483924f2eb3d4142787e9c005b1.fp.measure.office.com IN CNAME .
 281c0196a33349ef93cbd19772b9241e.fp.measure.office.com IN CNAME .
@@ -49837,6 +49871,7 @@ fp.measure.office.com IN CNAME .
 372df3c65a9247abbdffa1782e7ce1fb.fp.measure.office.com IN CNAME .
 372e10c0c982455fae0cbc5ecbcca6e2.fp.measure.office.com IN CNAME .
 37318ffb2641411fb603d42bd37d0779.fp.measure.office.com IN CNAME .
+3732956099e84c6aa38168cd0250ccc3.fp.measure.office.com IN CNAME .
 3736b734228f4004a0b6262d7df82755.fp.measure.office.com IN CNAME .
 373766210af44df7b8e99017b113f4db.fp.measure.office.com IN CNAME .
 373f6f78ceebc4d0498b2bbad978b06a.fp.measure.office.com IN CNAME .
@@ -50074,6 +50109,7 @@ fp.measure.office.com IN CNAME .
 3c0ceb13b19143b8b95fcd610a70f6fc.fp.measure.office.com IN CNAME .
 3c13fed1e0354152bcc1847cd0047545.fp.measure.office.com IN CNAME .
 3c16b240fc4a4588b28399490faa0b4e.fp.measure.office.com IN CNAME .
+3c186585f1be4896a4a99e8b56f01fdf.fp.measure.office.com IN CNAME .
 3c1a6761a44b492aa27da6070d23b39a.fp.measure.office.com IN CNAME .
 3c1e200703ee5d9b02bbd97873d20726.fp.measure.office.com IN CNAME .
 3c1f543dcf034414abf149e5afa09c5c.fp.measure.office.com IN CNAME .
@@ -50198,6 +50234,7 @@ fp.measure.office.com IN CNAME .
 3f05d06db4801318fd3ae757d8869ba5.fp.measure.office.com IN CNAME .
 3f0ac11da446c382c463f6b9290caadb.fp.measure.office.com IN CNAME .
 3f1b0fc4f35a860907353d8fc5984420.fp.measure.office.com IN CNAME .
+3f251b4b839b484a826d1fd9255e3e78.fp.measure.office.com IN CNAME .
 3f3012de6c2c467ba2582ee0104bc85d.fp.measure.office.com IN CNAME .
 3f30459f11c64f4c95a59cdf39b5c3e3.fp.measure.office.com IN CNAME .
 3f3df452d6694161a220460f9cc46d97.fp.measure.office.com IN CNAME .
@@ -51423,6 +51460,7 @@ fp.measure.office.com IN CNAME .
 5886d111ff1c434baa3e9b436bed47f0.fp.measure.office.com IN CNAME .
 588a4a2c364007ba333c9d971336482f.fp.measure.office.com IN CNAME .
 588b5a007d377015fe77ced38b880d72.fp.measure.office.com IN CNAME .
+588da2ae2b764326bda96ff10ab8f30f.fp.measure.office.com IN CNAME .
 588ef4542820453c89355e9cceb9b198.fp.measure.office.com IN CNAME .
 5897aadb54b74d63adc7811a34ebb649.fp.measure.office.com IN CNAME .
 589d3441b3b2489d91a58b3ac740b2b7.fp.measure.office.com IN CNAME .
@@ -51449,6 +51487,7 @@ fp.measure.office.com IN CNAME .
 5920549a366d47608439c7c4018b6a80.fp.measure.office.com IN CNAME .
 592118988d9c17a84588733a07118c6c.fp.measure.office.com IN CNAME .
 59286e57cc278b6fad65f93999b04d1f.fp.measure.office.com IN CNAME .
+592a49054e394845a746df49fb5f6d2a.fp.measure.office.com IN CNAME .
 592c5c280b2f4dd58a1b8b5f2f42fb2e.fp.measure.office.com IN CNAME .
 593358a077d841b8875589832fcb27ff.fp.measure.office.com IN CNAME .
 59353e35caa5693bd19d9bf50079bff4.fp.measure.office.com IN CNAME .
@@ -52087,6 +52126,7 @@ fp.measure.office.com IN CNAME .
 66b679b88c864804bf3d12cd85bad847.fp.measure.office.com IN CNAME .
 66b8083f0018cee4bb3a35407701c059.fp.measure.office.com IN CNAME .
 66b851fd159f4a0a85ba5004ee312230.fp.measure.office.com IN CNAME .
+66b8675b17a8444c8e61bacfe5e61e7f.fp.measure.office.com IN CNAME .
 66cb10167dd447f789e421a88ecd4311.fp.measure.office.com IN CNAME .
 66ceabf05054aeacedc965c8780d7702.fp.measure.office.com IN CNAME .
 66d1dd8b304aa2898803d27e763007da.fp.measure.office.com IN CNAME .
@@ -52095,6 +52135,7 @@ fp.measure.office.com IN CNAME .
 66e861d4132e485389b61cdbb42ca997.fp.measure.office.com IN CNAME .
 66ecbaadd43049ba86496cee481fc6ef.fp.measure.office.com IN CNAME .
 66efa6a4adea4cbc807d94020e44da9d.fp.measure.office.com IN CNAME .
+66efe30f1f42442cb55a170a095601a6.fp.measure.office.com IN CNAME .
 6706968ae72c74eca1ac1628a3c82cbb.fp.measure.office.com IN CNAME .
 6707c3b3ce334ea5937ff9c065817cee.fp.measure.office.com IN CNAME .
 670df8034fc74b618e200c1847427260.fp.measure.office.com IN CNAME .
@@ -52281,6 +52322,7 @@ fp.measure.office.com IN CNAME .
 6a92547d08b04c9f820fa12c7b5b6de4.fp.measure.office.com IN CNAME .
 6a925bbeb6e64660862dd179eb0531e6.fp.measure.office.com IN CNAME .
 6a9c88b0c2c54e639f65e2a370981ffa.fp.measure.office.com IN CNAME .
+6aa6a6a6729c5caebb226737a372c515.fp.measure.office.com IN CNAME .
 6aa8a14126d04131bb9a6d9566107dd7.fp.measure.office.com IN CNAME .
 6ab58d389c42061f071fda3073377382.fp.measure.office.com IN CNAME .
 6abada65207542c68768609198d7fd94.fp.measure.office.com IN CNAME .
@@ -52320,6 +52362,7 @@ fp.measure.office.com IN CNAME .
 6b555bf5afb0b1be1fb4ea93a79e3424.fp.measure.office.com IN CNAME .
 6b582a873634f8fa55804930bfe0948e.fp.measure.office.com IN CNAME .
 6b5c0c9cb54344b48a2aba3cc68165ca.fp.measure.office.com IN CNAME .
+6b5fcbfd1ac346b7a2a6beab4332b169.fp.measure.office.com IN CNAME .
 6b69294d442b8e8372d41970b6bc7326.fp.measure.office.com IN CNAME .
 6b6d44a101664e538718c448894933e8.fp.measure.office.com IN CNAME .
 6b6e3fd35ca9480387fe11234aabcd4b.fp.measure.office.com IN CNAME .
@@ -52764,6 +52807,7 @@ fp.measure.office.com IN CNAME .
 74b07aa7ce3c456aba0e8efd267877d8.fp.measure.office.com IN CNAME .
 74c8734327d903c9fc47881bec97bc59.fp.measure.office.com IN CNAME .
 74cb757f8112d4f52579908ed8219e51.fp.measure.office.com IN CNAME .
+74cea57b14a44d4cb1ef91a8ecf4d613.fp.measure.office.com IN CNAME .
 74d926a1a6904e25932f9ee26a1a74dc.fp.measure.office.com IN CNAME .
 74e29fb00f4827825cbc61dba8406633.fp.measure.office.com IN CNAME .
 74e38bae49d34e7ead39574c4d2e0a83.fp.measure.office.com IN CNAME .
@@ -52793,6 +52837,7 @@ fp.measure.office.com IN CNAME .
 7548090b87f073f5f9a81b9b74305b95.fp.measure.office.com IN CNAME .
 7550327853bc4ad389d6fdea317e7157.fp.measure.office.com IN CNAME .
 755e1f4695004e50ba789ca073b06712.fp.measure.office.com IN CNAME .
+756aa9c7254e4ebcb6b627f03fec9871.fp.measure.office.com IN CNAME .
 756ac283467546258efa4556c15e952d.fp.measure.office.com IN CNAME .
 75770f69ca1d463280f755669ef06316.fp.measure.office.com IN CNAME .
 7577f394694d2a1e41b2bda9a5efcd34.fp.measure.office.com IN CNAME .
@@ -52889,6 +52934,7 @@ fp.measure.office.com IN CNAME .
 77405355502f426b9a6e4228e750257c.fp.measure.office.com IN CNAME .
 7740aa77936ad105701613b66f50efab.fp.measure.office.com IN CNAME .
 77480f7343e74688b8ea48afa610d07b.fp.measure.office.com IN CNAME .
+774971b8576f4ecaa2704540533f78dd.fp.measure.office.com IN CNAME .
 775ba6c5ba0b6456db61e8399bac714d.fp.measure.office.com IN CNAME .
 775d9b87cb9bb2be2bab7618caad6abd.fp.measure.office.com IN CNAME .
 77615452a0fd4364fd1ebdc3fa5224cc.fp.measure.office.com IN CNAME .
@@ -53032,6 +53078,7 @@ fp.measure.office.com IN CNAME .
 7a122c1a89c941aea509a75f7ff5c99c.fp.measure.office.com IN CNAME .
 7a163572593e41838fe55e4c90ad5ce1.fp.measure.office.com IN CNAME .
 7a1d95e089f1481782109b3fcdc770a0.fp.measure.office.com IN CNAME .
+7a26a716d7034560b78036c0e03cd731.fp.measure.office.com IN CNAME .
 7a27ec80c7824fce98dacef1a51d0f16.fp.measure.office.com IN CNAME .
 7a2c5869a81547c396926464387c640c.fp.measure.office.com IN CNAME .
 7a31ed7755844f4fae993ee0c8e35140.fp.measure.office.com IN CNAME .
@@ -53165,6 +53212,7 @@ fp.measure.office.com IN CNAME .
 7cb57c558c40448ba679290e58879c89.fp.measure.office.com IN CNAME .
 7cb670db451edaf753b5ba6dfb3a3ee3.fp.measure.office.com IN CNAME .
 7cbc9d9026a20f671c2add74e41fed97.fp.measure.office.com IN CNAME .
+7cbd0d1767df42eebda1956cd4f129d8.fp.measure.office.com IN CNAME .
 7cbf32f4dabe447fa62b4188db18cd2c.fp.measure.office.com IN CNAME .
 7cbf33b08f15af1fa351ae15ee5c78c4.fp.measure.office.com IN CNAME .
 7cc479392daa43e2a9fc67604a6b68a0.fp.measure.office.com IN CNAME .
@@ -53206,6 +53254,7 @@ fp.measure.office.com IN CNAME .
 7d96b57150af12514f353933b768bfe6.fp.measure.office.com IN CNAME .
 7d9c0b3f00cb402788a2889ed9e2c809.fp.measure.office.com IN CNAME .
 7da15208d3e942cd1270284aca3314c6.fp.measure.office.com IN CNAME .
+7da455a9858725698726f3e0c6d48af7.fp.measure.office.com IN CNAME .
 7dadf5eb36914024980fcea53edbcc4f.fp.measure.office.com IN CNAME .
 7db0f8f0a6c5b864a43ac4dd4e967496.fp.measure.office.com IN CNAME .
 7db52b046c871b10bc28de91dfd590e3.fp.measure.office.com IN CNAME .
@@ -53491,6 +53540,7 @@ fp.measure.office.com IN CNAME .
 83a39590d39bdbe2bacbeffeeb1b1ec2.fp.measure.office.com IN CNAME .
 83a72be08948463785a6b91dbff60b06.fp.measure.office.com IN CNAME .
 83ac42adb33e96c693e902303bbe8bee.fp.measure.office.com IN CNAME .
+83b723e4cd9e4c88aed5e62b93be2afa.fp.measure.office.com IN CNAME .
 83bacf048e8f4691ba11c794d5885d26.fp.measure.office.com IN CNAME .
 83c16e2c86f44428bf067cbde7779e34.fp.measure.office.com IN CNAME .
 83c2af71c09647cf9df9d8fb02d5a6a1.fp.measure.office.com IN CNAME .
@@ -53560,6 +53610,7 @@ fp.measure.office.com IN CNAME .
 84e29b5095384a54841b1d19858f3f4b.fp.measure.office.com IN CNAME .
 84ecf4d6d9d00560d5db6935cdfe7051.fp.measure.office.com IN CNAME .
 84ed88020e1b400b8c90ca86cdcd84fc.fp.measure.office.com IN CNAME .
+84f4eb932241483c95b5e459a60b2f18.fp.measure.office.com IN CNAME .
 84f5a3513c6b49c2b5b6abaa8207e596.fp.measure.office.com IN CNAME .
 84f900f3d6904a54b2d28722f4f7285c.fp.measure.office.com IN CNAME .
 84fd3fc121e549609f2af3e9dd2f38de.fp.measure.office.com IN CNAME .
@@ -53875,6 +53926,7 @@ fp.measure.office.com IN CNAME .
 8b0339254bd94102a50ebdc3e51b6f74.fp.measure.office.com IN CNAME .
 8b041da30689491a8d2fccd17dd8e839.fp.measure.office.com IN CNAME .
 8b1340fe9fc05df7ad4717100460b46e.fp.measure.office.com IN CNAME .
+8b1d5a3ed48642339ef829aa4bd7bb03.fp.measure.office.com IN CNAME .
 8b259f79391c4f508fa636726b8bd1a7.fp.measure.office.com IN CNAME .
 8b2692d4049540f5862bb76cd8e3836d.fp.measure.office.com IN CNAME .
 8b376d10f3404674a4fc0c654a74117f.fp.measure.office.com IN CNAME .
@@ -53963,6 +54015,7 @@ fp.measure.office.com IN CNAME .
 8d0f4d15912349cdbe1bf1aa8ac30578.fp.measure.office.com IN CNAME .
 8d0ff50a4968401eb3ae98b8e96ca0aa.fp.measure.office.com IN CNAME .
 8d10958a8d78401b946248f296981fbf.fp.measure.office.com IN CNAME .
+8d1564c7834fd369dbca8ed20d9ddcdb.fp.measure.office.com IN CNAME .
 8d16d10bea3f4eada1aa96745f5a63a1.fp.measure.office.com IN CNAME .
 8d1b516017434aef921b1cdc356587ea.fp.measure.office.com IN CNAME .
 8d1ce7280ef1064439a353d568325ecf.fp.measure.office.com IN CNAME .
@@ -54345,6 +54398,7 @@ fp.measure.office.com IN CNAME .
 95b8bb9acd744ccaab59184212f2e88c.fp.measure.office.com IN CNAME .
 95bdaa14e703da574367151440eb33d6.fp.measure.office.com IN CNAME .
 95be639958ff4d939f48d19ea53bcd71.fp.measure.office.com IN CNAME .
+95bf716cd813420197d7cf44c012dd35.fp.measure.office.com IN CNAME .
 95c65a0fe27cb088317ac22882af8f32.fp.measure.office.com IN CNAME .
 95d0048106ca4e3ca4e9267fe672d519.fp.measure.office.com IN CNAME .
 95d7143a59cd4a5e8f1597f0d129ac69.fp.measure.office.com IN CNAME .
@@ -54702,6 +54756,7 @@ fp.measure.office.com IN CNAME .
 9cf8daebfd154c42b54e53bd58b7fd61.fp.measure.office.com IN CNAME .
 9d0101a6236a40f5a450eceae529698b.fp.measure.office.com IN CNAME .
 9d0263cfc3aa42b08c395611057bde84.fp.measure.office.com IN CNAME .
+9d12fce461c74647a73ec126cf0eadba.fp.measure.office.com IN CNAME .
 9d1d36e862481180ff79adaa8f25faa6.fp.measure.office.com IN CNAME .
 9d23e9937f0df97ca6efbf90b5a344df.fp.measure.office.com IN CNAME .
 9d2da935d2cb4bdcaec4a708463e1020.fp.measure.office.com IN CNAME .
@@ -55312,6 +55367,7 @@ a8e3c538e35441dea88a5115111e687f.fp.measure.office.com IN CNAME .
 a8e8a9b6d23b0a6027de09033c4de2fc.fp.measure.office.com IN CNAME .
 a8eeb6ec878a4d26bb171ce3c6c058b8.fp.measure.office.com IN CNAME .
 a8fa124e57b1469fbf60f66f0c7f3c77.fp.measure.office.com IN CNAME .
+a8fb98c3d7264eabb8e934a2e7526a37.fp.measure.office.com IN CNAME .
 a903338f3ee04a2c9d2be00fc9c58b3e.fp.measure.office.com IN CNAME .
 a904e3595d6540c8bc7c91288e1448c4.fp.measure.office.com IN CNAME .
 a9081b6d67101c4706c1805452a3fcd5.fp.measure.office.com IN CNAME .
@@ -56141,6 +56197,7 @@ bb5299c0c0d64429999140a8c585d2e4.fp.measure.office.com IN CNAME .
 bb5372662cd64eb2850b0154e1204414.fp.measure.office.com IN CNAME .
 bb5710debae15350ce65da9827f8c24b.fp.measure.office.com IN CNAME .
 bb58ef2372bf4939b7dea4b906b5a63e.fp.measure.office.com IN CNAME .
+bb5fc48f9bb84c8f85128b49e5e5a313.fp.measure.office.com IN CNAME .
 bb60f678ff4cab6db8e187e44bb8f681.fp.measure.office.com IN CNAME .
 bb62c1a819b3c23b671f38334d5aedee.fp.measure.office.com IN CNAME .
 bb68ce601bc46c1848deb3f2d1a2a657.fp.measure.office.com IN CNAME .
@@ -56292,6 +56349,7 @@ bef50ad251c74e30b0b254beb666e31c.fp.measure.office.com IN CNAME .
 bef5680e1b8043eaa802a54f29945803.fp.measure.office.com IN CNAME .
 bef6840988f64ac8a807a26669aa869b.fp.measure.office.com IN CNAME .
 befaf340c0734e828ee6b2e4156f6f28.fp.measure.office.com IN CNAME .
+beff8cb3a6344242a9e275295af8a433.fp.measure.office.com IN CNAME .
 bf204e77a48d307c1ec419dc0ab4bb46.fp.measure.office.com IN CNAME .
 bf209b21ea2e4572a48fdb89748ee8ec.fp.measure.office.com IN CNAME .
 bf20f80bd6e14d50ae03cea4f94a4690.fp.measure.office.com IN CNAME .
@@ -56725,6 +56783,7 @@ c86d2157ea20462e8d1f0f08a2b25997.fp.measure.office.com IN CNAME .
 c86db6b62dab487eb79aadb73392fb1c.fp.measure.office.com IN CNAME .
 c87e707c704944228d193fe925cc71c8.fp.measure.office.com IN CNAME .
 c880ae5a2809475eb71a52f3ce940115.fp.measure.office.com IN CNAME .
+c88152340f054683852bfb70727cb186.fp.measure.office.com IN CNAME .
 c883b29933944a4281978be64d71f7f4.fp.measure.office.com IN CNAME .
 c8856e805b3c4796a1e6bd28fd602b13.fp.measure.office.com IN CNAME .
 c8861461abc4dc9b0e33ab010b956c84.fp.measure.office.com IN CNAME .
@@ -56845,6 +56904,7 @@ cac72cf0e5984367ac49dcddebf6f471.fp.measure.office.com IN CNAME .
 cac9d516f0300a265a7f419ef322b219.fp.measure.office.com IN CNAME .
 cad5b05cb8b249a24036595972cc063a.fp.measure.office.com IN CNAME .
 cadbbde17a6743d28dfdd8f29beb71f7.fp.measure.office.com IN CNAME .
+cae91ebf4a44454eb51b750602817c21.fp.measure.office.com IN CNAME .
 caebc44551a14e7998563edc4b329557.fp.measure.office.com IN CNAME .
 cb06261a41df20320b2cb148a51cfa07.fp.measure.office.com IN CNAME .
 cb0787e78363461f95bb6ca88b18e3a1.fp.measure.office.com IN CNAME .
@@ -57231,6 +57291,7 @@ d374f2f7acaa4faea86917d121f44136.fp.measure.office.com IN CNAME .
 d377519ed54e4517813f4ff7ff245cd3.fp.measure.office.com IN CNAME .
 d37793274c34436ef31cd584c7785e98.fp.measure.office.com IN CNAME .
 d3857030cf244341b2c6044faa407e71.fp.measure.office.com IN CNAME .
+d38684381bba49219821ac09d72a7cbd.fp.measure.office.com IN CNAME .
 d389de0d86474303a8b0d7d7dd71f34d.fp.measure.office.com IN CNAME .
 d3995698ce5144edb0fb8f8394679f64.fp.measure.office.com IN CNAME .
 d3996084d65d406188c7c70ba90a927a.fp.measure.office.com IN CNAME .
@@ -57569,6 +57630,7 @@ db138796d50022756c26751a2700a84a.fp.measure.office.com IN CNAME .
 db1f8c4c316647969a19b07551aa78d8.fp.measure.office.com IN CNAME .
 db2dd4e8f71e62433dbed3e514e4bd26.fp.measure.office.com IN CNAME .
 db35ffcdb3ee4d019bd9c6eaca4690bb.fp.measure.office.com IN CNAME .
+db36113320e7462594a48f51b96865eb.fp.measure.office.com IN CNAME .
 db5648b1a2b367723307331907618e1f.fp.measure.office.com IN CNAME .
 db5bc939282d4025ac4d3e5e315b588b.fp.measure.office.com IN CNAME .
 db5bd7eddf06e02aa25015fa61dd49ac.fp.measure.office.com IN CNAME .
@@ -57844,6 +57906,7 @@ e0d80c4961e44e3ba852ffef45647eac.fp.measure.office.com IN CNAME .
 e0da95258b794dc78e17a4fdcf957b5f.fp.measure.office.com IN CNAME .
 e0db48da939944aabae9a5e08b1d3130.fp.measure.office.com IN CNAME .
 e0dbb91f3667406a95287b6604034982.fp.measure.office.com IN CNAME .
+e0e8fe045c5745b1bec19144419675df.fp.measure.office.com IN CNAME .
 e0ea3701613e45879d6cc49155a63eec.fp.measure.office.com IN CNAME .
 e0eba96c16204895ad4cb32c20782fd8.fp.measure.office.com IN CNAME .
 e0f442e39996ce2bd38f1d819fee938a.fp.measure.office.com IN CNAME .
@@ -57973,6 +58036,7 @@ e37c16b8af57d61655fc2879dc22f60f.fp.measure.office.com IN CNAME .
 e380a3c81c51e198a019a1cc83a61e02.fp.measure.office.com IN CNAME .
 e386568e78f9b198097c9d98a435253a.fp.measure.office.com IN CNAME .
 e38fe88143fb426ea2ef6b1d1a11d002.fp.measure.office.com IN CNAME .
+e397697d7212496397c94d92ee2c6ac4.fp.measure.office.com IN CNAME .
 e3a4accf0dade407a009d0b8e6872803.fp.measure.office.com IN CNAME .
 e3a56058e40c4aea85906f719aa4c6b6.fp.measure.office.com IN CNAME .
 e3a66df373c54c84a7bd9bfbbdeaf527.fp.measure.office.com IN CNAME .
@@ -58051,6 +58115,7 @@ e51c1d873112478387eab8cc4476f4b6.fp.measure.office.com IN CNAME .
 e51e7c61852832a007e67879eba6ffe9.fp.measure.office.com IN CNAME .
 e51e92d6d1e74109870ca4ea632edd8f.fp.measure.office.com IN CNAME .
 e51ea7609f5b69b906df6cc0ab2f11bd.fp.measure.office.com IN CNAME .
+e51f815ad5944d4383cb53311ca6a03f.fp.measure.office.com IN CNAME .
 e523eec8c51b4bcd8e5a526160ccf08e.fp.measure.office.com IN CNAME .
 e528ff85777c433e80636fbbbef79f32.fp.measure.office.com IN CNAME .
 e5299e2d69e8087a602188d3b7d20b5d.fp.measure.office.com IN CNAME .
@@ -58332,6 +58397,7 @@ eb4bc1f283fec882fbcf814f3d67c706.fp.measure.office.com IN CNAME .
 eb4c33688ee858f39ee7d0eaf0534ebc.fp.measure.office.com IN CNAME .
 eb65053f988b4e5f85d460e7b4e43048.fp.measure.office.com IN CNAME .
 eb6bf7eab6dc408f9c6fc2dd73af9caa.fp.measure.office.com IN CNAME .
+eb6c5cacd3a74b729a2e981394de1009.fp.measure.office.com IN CNAME .
 eb70e6ca3e8042349bd4131a2d6ed60c.fp.measure.office.com IN CNAME .
 eb73f6043b15cefa5b7642001fe821aa.fp.measure.office.com IN CNAME .
 eb74a1b8aabd49ff8b8fccbc5b288ea3.fp.measure.office.com IN CNAME .
@@ -58341,6 +58407,7 @@ eb87cd490a58ed4f077e28665faa12a5.fp.measure.office.com IN CNAME .
 eb89cc618dde4fdfbebedf04568371f8.fp.measure.office.com IN CNAME .
 eb8aad65579b95bbe9963e0ca0449215.fp.measure.office.com IN CNAME .
 eb8db300206363abb8affa71d112cfea.fp.measure.office.com IN CNAME .
+eb9214560d392ff5295f76b96dbe057c.fp.measure.office.com IN CNAME .
 eb94f87ec98540c3a3f528ae6e6f5e23.fp.measure.office.com IN CNAME .
 eba3656df0737f6ad911759a777c2311.fp.measure.office.com IN CNAME .
 eba41b6ef9dbb306eb25ae27fb1bca8b.fp.measure.office.com IN CNAME .
@@ -58490,6 +58557,7 @@ ee73454cf54d4a4da63fdfe5139ae517.fp.measure.office.com IN CNAME .
 ee7415dc2708466980a9f4a1fc15d7b7.fp.measure.office.com IN CNAME .
 ee7688724ace4a729709561cb4867dc1.fp.measure.office.com IN CNAME .
 ee7713f4890778d198cefc33cf35a688.fp.measure.office.com IN CNAME .
+ee787ab25dbb4eebb7a69a6592342d4c.fp.measure.office.com IN CNAME .
 ee7e981c55c74544b9004d56bf8bf458.fp.measure.office.com IN CNAME .
 ee8a80cce9b117c7f7f9a03fc40b21b0.fp.measure.office.com IN CNAME .
 ee8bb1684a9fed6c493c8ad1b574d814.fp.measure.office.com IN CNAME .
@@ -58733,6 +58801,7 @@ f382a606740dc6105b14deedcd19ad9c.fp.measure.office.com IN CNAME .
 f382d81d5d5e43bba1cd2c429c1a1233.fp.measure.office.com IN CNAME .
 f38d16fcac864a9395556f21d27e7a14.fp.measure.office.com IN CNAME .
 f391db959df03e8b237b9e7d06252f9e.fp.measure.office.com IN CNAME .
+f393a7aafdcf4fdabd78bf28f2221511.fp.measure.office.com IN CNAME .
 f39d49474a870f835ece80fcc9a68926.fp.measure.office.com IN CNAME .
 f39eed30dd62047ce977e38d4690e622.fp.measure.office.com IN CNAME .
 f3a00c306dda4ca6ab3131547fb780b9.fp.measure.office.com IN CNAME .
@@ -58745,6 +58814,7 @@ f3ca1874c76245cf8e4e5540b7c790a8.fp.measure.office.com IN CNAME .
 f3ca58c5fe8b408ebe3f08c03b6b51e1.fp.measure.office.com IN CNAME .
 f3cde38deb2b41e59ee4b88f95a2c4e2.fp.measure.office.com IN CNAME .
 f3d03b7dadd847109dbd74686519cf53.fp.measure.office.com IN CNAME .
+f3e606d9e67c41a7bafaa37f34aa3814.fp.measure.office.com IN CNAME .
 f3e78b15321a4833b3c00bf10f8a7f71.fp.measure.office.com IN CNAME .
 f3ebf6d0d53a4383e1b29f93b11fa11e.fp.measure.office.com IN CNAME .
 f3f1ea7f80bd4911a8c4ece39e805188.fp.measure.office.com IN CNAME .
@@ -58951,6 +59021,7 @@ f8302d5e51924b3c8ec8cf70b7a387f1.fp.measure.office.com IN CNAME .
 f836b02ec3f77794a9a257050e518e51.fp.measure.office.com IN CNAME .
 f837bf814fc04f39a55af720feac85f7.fp.measure.office.com IN CNAME .
 f83f33db5619f23862e44103bfcd1b2b.fp.measure.office.com IN CNAME .
+f844cc93c7fd471e962232601068b515.fp.measure.office.com IN CNAME .
 f8482fd6009635a2496052aa4d613cf1.fp.measure.office.com IN CNAME .
 f852604468664fd2a3dac042a5714c6b.fp.measure.office.com IN CNAME .
 f858604cfb2b4439ad35384324313397.fp.measure.office.com IN CNAME .
