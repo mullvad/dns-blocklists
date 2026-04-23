@@ -53,6 +53,10 @@ dns_blocklists_lists:
     type: adblock
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
 
+  - name: mullvad-ads-blocklist
+    type: adblock
+    content: "{{ lookup('ansible.builtin.file', 'files/adblock') }}"
+
   - name: oisd-nsfw
     url: https://nsfw.oisd.nl/rpz
     type: adult
