@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1780462784    ; serial
+                                        1780549916    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5078,6 +5078,7 @@ analytics.archive.org IN CNAME .
 analytics.argeton.com IN CNAME .
 analytics.arunraghavan.net IN CNAME .
 analytics.asml.com IN CNAME .
+analytics.atom.com IN CNAME .
 analytics.audioeye.com IN CNAME .
 analytics.audionow.de IN CNAME .
 analytics.autozone.com IN CNAME .
@@ -7571,6 +7572,7 @@ bizlink.dinifi.com IN CNAME .
 bizlog-gateway.myrealtrip.com IN CNAME .
 bizmkt.lguplus.com IN CNAME .
 biznews.oregon.gov IN CNAME .
+biztoolsbrief.com IN CNAME .
 bizz.cochraneco.com IN CNAME .
 bja2.destinia.cz IN CNAME .
 bjdqbl.nippn-kenko.net IN CNAME .
@@ -7694,6 +7696,7 @@ bnutnr.landandfarm.com IN CNAME .
 bn.voyage-prive.com IN CNAME .
 bnvsjg.hometogo.de IN CNAME .
 bnzkua.trussardi.com.br IN CNAME .
+boardbumpers.com IN CNAME .
 boatcodeapp.com IN CNAME .
 boatpaper.com IN CNAME .
 boatsbuilding.com IN CNAME .
@@ -8592,6 +8595,7 @@ ciszhp.gesundheitsfrage.net IN CNAME .
 ciszhp.motorradfrage.net IN CNAME .
 citizensclimate.actonservice.com IN CNAME .
 citizenship.quantresear.ch IN CNAME .
+citydeal.net IN CNAME .
 cityrobotflower.com IN CNAME .
 c.ixi.to IN CNAME .
 cizzvi.beldona.com IN CNAME .
@@ -8631,6 +8635,7 @@ cleanhaircut.com IN CNAME .
 cleanservices.actonservice.com IN CNAME .
 clearbitscripts.com IN CNAME .
 clearbrands.actonservice.com IN CNAME .
+clearclips.com IN CNAME .
 clear.wallapop.com IN CNAME .
 clerks.doccheck.com IN CNAME .
 clevertapsendgrid.branch.rocks IN CNAME .
@@ -13059,6 +13064,7 @@ events.golubcapital.com IN CNAME .
 events.icmi.com IN CNAME .
 events.il.fi IN CNAME .
 events.ingatlan.com IN CNAME .
+events-ingestion-helpcenter.services.gorgias.help IN CNAME .
 eventsink.api.redbee.live IN CNAME .
 events.interface.com IN CNAME .
 events.jotform.com IN CNAME .
@@ -13590,7 +13596,6 @@ fog.pixual.co IN CNAME .
 fokbrd.impo.ch IN CNAME .
 folderplan.com IN CNAME .
 followborder.com IN CNAME .
-fontserif.com IN CNAME .
 foodbrochure.advancedtech.com IN CNAME .
 foodczar.com IN CNAME .
 foodfunfestivals.com IN CNAME .
@@ -26487,6 +26492,7 @@ r-dev.urbansitter.net IN CNAME .
 rdfine.camelbrown.com IN CNAME .
 rdlrbm.studying.jp IN CNAME .
 rdvxxx.crushj.com IN CNAME .
+reachhumans.com IN CNAME .
 reach-id.orbit.tm-awx.com IN CNAME .
 reach.ironmountain.com IN CNAME .
 reach.terumo-bct.com IN CNAME .
