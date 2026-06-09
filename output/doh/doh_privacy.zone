@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1780893682    ; serial
+                                        1780982938    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13484,6 +13484,7 @@ financialservices.nada.org IN CNAME .
 financialservices.teranet.ca IN CNAME .
 find.api.micloud.xiaomi.net.iberostar.com IN CNAME .
 findthetruth.allergyai.com IN CNAME .
+findyourdelight.com IN CNAME .
 findyourinfluence.actonservice.com IN CNAME .
 fingerprinter-production.herokuapp.com IN CNAME .
 finley.fecinc.com IN CNAME .
@@ -28000,6 +28001,7 @@ seamarketny.actonservice.com IN CNAME .
 seamlesssalon.com IN CNAME .
 seao.business.samsung.com IN CNAME .
 search.anonymous.ads.brave.com IN CNAME .
+seaskypro.com IN CNAME .
 seatsmoke.com IN CNAME .
 sebotr.rizeclinic.com IN CNAME .
 seb.sharpmarketing.eu IN CNAME .
