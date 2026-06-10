@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1780982951    ; serial
+                                        1781068940    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43292,6 +43292,7 @@ prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
 prod-news-notification-events.v.aaplimg.com IN CNAME .
 securemetrics.v.aaplimg.com IN CNAME .
+securemetrics-cn.v.aaplimg.com IN CNAME .
 securemvt.v.aaplimg.com IN CNAME .
 smoot-feedback.v.aaplimg.com IN CNAME .
 supportmetrics.v.aaplimg.com IN CNAME .
@@ -43474,6 +43475,7 @@ metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn IN CNAME .
 metrics1-data-hicloud-com.gere.dbankedge.cn IN CNAME .
 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn IN CNAME .
 adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn IN CNAME .
+adx-dra-op-hicloud-com-dra.region.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn IN CNAME .
 events-dra-op-dbankcloud-com-dra.region.dbankedge.cn IN CNAME .
 grs-dbankcloud-com-dra.region.dbankedge.cn IN CNAME .
@@ -46311,12 +46313,16 @@ mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
 vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 adlog.vivo.com.cn IN CNAME .
+ads-marketing-vivofs.vivo.com.cn IN CNAME .
+adsdk.vivo.com.cn IN CNAME .
 adxlog-adnet.vivo.com.cn IN CNAME .
 az.appstore.vivo.com.cn IN CNAME .
 appstore-trace-h5sdk.vivo.com.cn IN CNAME .
 dsplog-adnet.vivo.com.cn IN CNAME .
+st-ads-jssdk.vivo.com.cn IN CNAME .
 trace-h5sdk.vivo.com.cn IN CNAME .
 tracking-adnet.vivo.com.cn IN CNAME .
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn IN CNAME .
 vhs.wwstat.com.ctdns.cn IN CNAME .
 trackercollect.ddxq.mobi IN CNAME .
 trackerfeed.ddxq.mobi IN CNAME .
@@ -46372,6 +46378,7 @@ cname-in-apport-stsdk.vivoglobal.com IN CNAME .
 cname-in-bom01-nginxpool03.vivoglobal.com IN CNAME .
 cname-in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 cname-sin01-stsdk09.vivoglobal.com IN CNAME .
+co-domaincfg.vivoglobal.com IN CNAME .
 co-pnrt-stsdk.vivoglobal.com IN CNAME .
 co-romsp-unifyconfig.vivoglobal.com IN CNAME .
 co-st-sl.vivoglobal.com IN CNAME .
@@ -46495,6 +46502,7 @@ sca-err-up.vivoglobal.com IN CNAME .
 sca-onrt-stsdk.vivoglobal.com IN CNAME .
 sca-ort-stsdk.vivoglobal.com IN CNAME .
 sca-p.vivoglobal.com IN CNAME .
+sca-pnrt-stsdk.vivoglobal.com IN CNAME .
 sca-romsp-unifyconfig.vivoglobal.com IN CNAME .
 sca-st-sl.vivoglobal.com IN CNAME .
 sca-stsdk.vivoglobal.com IN CNAME .

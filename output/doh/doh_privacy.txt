@@ -43280,6 +43280,7 @@ prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
 prod-news-notification-events.v.aaplimg.com
 securemetrics.v.aaplimg.com
+securemetrics-cn.v.aaplimg.com
 securemvt.v.aaplimg.com
 smoot-feedback.v.aaplimg.com
 supportmetrics.v.aaplimg.com
@@ -43462,6 +43463,7 @@ metrics1-drcn-dt-dbankcloud-cn.ge.dbankedge.cn
 metrics1-data-hicloud-com.gere.dbankedge.cn
 metrics1-drcn-dt-dbankcloud-cn.gere.dbankedge.cn
 adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
+adx-dra-op-hicloud-com-dra.region.dbankedge.cn
 events-dra-op-dbankcloud-cn-dra.region.dbankedge.cn
 events-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 grs-dbankcloud-com-dra.region.dbankedge.cn
@@ -46299,12 +46301,16 @@ mcs-ie2.tiktokw.eu.ttdns3.com
 h4g3z1-native.tiktok.extended.web.app
 vhs.wwstat.com.eo.unicomcdn.com.cn
 adlog.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn
+adsdk.vivo.com.cn
 adxlog-adnet.vivo.com.cn
 az.appstore.vivo.com.cn
 appstore-trace-h5sdk.vivo.com.cn
 dsplog-adnet.vivo.com.cn
+st-ads-jssdk.vivo.com.cn
 trace-h5sdk.vivo.com.cn
 tracking-adnet.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 vhs.wwstat.com.ctdns.cn
 trackercollect.ddxq.mobi
 trackerfeed.ddxq.mobi
@@ -46360,6 +46366,7 @@ cname-in-apport-stsdk.vivoglobal.com
 cname-in-bom01-nginxpool03.vivoglobal.com
 cname-in-ctdbonrt-stsdk.vivoglobal.com
 cname-sin01-stsdk09.vivoglobal.com
+co-domaincfg.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
@@ -46483,6 +46490,7 @@ sca-err-up.vivoglobal.com
 sca-onrt-stsdk.vivoglobal.com
 sca-ort-stsdk.vivoglobal.com
 sca-p.vivoglobal.com
+sca-pnrt-stsdk.vivoglobal.com
 sca-romsp-unifyconfig.vivoglobal.com
 sca-st-sl.vivoglobal.com
 sca-stsdk.vivoglobal.com
