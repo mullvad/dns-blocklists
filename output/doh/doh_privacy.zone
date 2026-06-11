@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1781068928    ; serial
+                                        1781158935    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -56,7 +56,6 @@ $TTL 3600
 1bliq.io IN CNAME .
 1bpmtrvkqkj.pettoonies.com IN CNAME .
 1bw7etm93lf.www.woodbrass.com IN CNAME .
-1cros.net IN CNAME .
 1ctc.sfr.fr IN CNAME .
 1e90.pandasuite.io IN CNAME .
 1eusy6.boxoffice.adventuretix.com IN CNAME .
@@ -118,7 +117,6 @@ $TTL 3600
 3skickasurf.tre.se IN CNAME .
 3wn3w3skxpym.round.t3.gg IN CNAME .
 40caidaylimpia.catzolab.net IN CNAME .
-4251.tech IN CNAME .
 4399stat.5054399.com IN CNAME .
 46rtpw.ru IN CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br IN CNAME .
@@ -900,7 +898,6 @@ a19997.actonservice.com IN CNAME .
 a1.api.bbc.com IN CNAME .
 a1.api.bbc.co.uk IN CNAME .
 a1at.mno.link IN CNAME .
-a1webstrategy.com IN CNAME .
 a20022.actonservice.com IN CNAME .
 a20204.actonservice.com IN CNAME .
 a20207.actonservice.com IN CNAME .
@@ -3889,7 +3886,6 @@ aaucna.casasbahia.com.br IN CNAME .
 a.audi.fr IN CNAME .
 a.audifrance.fr IN CNAME .
 aa.wowma.jp IN CNAME .
-aaxwall.com IN CNAME .
 aa.zdnet.com IN CNAME .
 aazfby.auto.de IN CNAME .
 aazmiw.reisenthel.com IN CNAME .
@@ -4905,7 +4901,6 @@ a.loi.nl IN CNAME .
 aloofmetal.com IN CNAME .
 aloofvest.com IN CNAME .
 alp1.drimki.fr IN CNAME .
-alpha1trk.com IN CNAME .
 alpha.go.levelbank.com IN CNAME .
 alphasimplex.actonservice.com IN CNAME .
 alpineactor.com IN CNAME .
@@ -8380,7 +8375,6 @@ catracking.cubiq.com IN CNAME .
 catracking.finning.com IN CNAME .
 catschickens.com IN CNAME .
 cats.d20.rs IN CNAME .
-catsunrunjam.com IN CNAME .
 cattell.loanzify.app IN CNAME .
 cattlecommittee.com IN CNAME .
 cauldronfest.com IN CNAME .
@@ -8811,6 +8805,7 @@ cloud-miner.eu IN CNAME .
 cloud.trapptechnology.com IN CNAME .
 cloud.webtrack.online IN CNAME .
 cloudwp.io IN CNAME .
+cloverkeys.com IN CNAME .
 cloverleaf.infor.com IN CNAME .
 clp-mms.cloudpro.co.uk IN CNAME .
 clrt.ai IN CNAME .
@@ -9729,6 +9724,7 @@ csp.secureserver.net IN CNAME .
 csp.yandex.net IN CNAME .
 csr11.net.asambeauty.com IN CNAME .
 csr.onet.pl IN CNAME .
+c-stat.eu IN CNAME .
 cstats.sankakucomplex.com IN CNAME .
 c.stext.id IN CNAME .
 cstm.baidu.com IN CNAME .
@@ -10553,7 +10549,6 @@ data.notifications.portal.cooperlighting.com IN CNAME .
 data.notifications.portal.signify.com IN CNAME .
 data.notifications.riolasvegas.com IN CNAME .
 data.nrk.no IN CNAME .
-dataofpages.com IN CNAME .
 data.okay.be IN CNAME .
 data.online.clubeextra.com.br IN CNAME .
 data.online.paodeacucar.com IN CNAME .
@@ -12522,7 +12517,6 @@ email-simple-sailthru.branch.rocks IN CNAME .
 emails.investigationdiscovery.com IN CNAME .
 email-smartech.branch.rocks IN CNAME .
 emails.motortrend.com IN CNAME .
-emailsnow.info IN CNAME .
 email.social.avasecurity.com IN CNAME .
 email.social.f5.com IN CNAME .
 email.social.qualtrics.com IN CNAME .
@@ -15435,6 +15429,7 @@ honorablehydrant.com IN CNAME .
 honorableland.com IN CNAME .
 hoojts.demmelhuber.net IN CNAME .
 hookconference.com IN CNAME .
+hoorayplay.com IN CNAME .
 hootsuite.branch.rocks IN CNAME .
 hop.dttd.app IN CNAME .
 hopeful.coh.org IN CNAME .
@@ -15588,7 +15583,6 @@ iaalxo.vans.ru IN CNAME .
 iabdly.hoselink.com.au IN CNAME .
 iabgvi.usadosbr.com IN CNAME .
 iabusprivacy.pmc.com IN CNAME .
-ia-dmp.com IN CNAME .
 ia.ekstrabladet.dk IN CNAME .
 i.airtel.in IN CNAME .
 i.americanblinds.com IN CNAME .
@@ -15724,6 +15718,7 @@ ilpostoplus.openapp.link IN CNAME .
 iltcaf.immobilienscout24.de IN CNAME .
 ilvqos.lyst.es IN CNAME .
 image.ard.de IN CNAME .
+imagebuffer.com IN CNAME .
 imagecutie.com IN CNAME .
 image.deginvest.de IN CNAME .
 image.go.aricent.com IN CNAME .
@@ -17497,7 +17492,6 @@ ja-jp-a8.etudehouse.com IN CNAME .
 ja-jp.siemensplmevents.com IN CNAME .
 jambwe.transsibinfo.com IN CNAME .
 jamexport.com IN CNAME .
-jams.wiki IN CNAME .
 janzoz.1001pneus.fr IN CNAME .
 jaomlf.giftmall.co.jp IN CNAME .
 japan.secureforms.partnermcafee.com IN CNAME .
@@ -23402,7 +23396,6 @@ minuteburst.com IN CNAME .
 m.ioicommunity.com.my IN CNAME .
 miqeuu.timberland.it IN CNAME .
 mirabelanalytics.com IN CNAME .
-mircheigeshoa.com IN CNAME .
 mirec.ubmmexico.com IN CNAME .
 m.irl.com IN CNAME .
 m.irlmail.org IN CNAME .
@@ -23619,7 +23612,6 @@ more.spglobal.com IN CNAME .
 morganfranklin.actonservice.com IN CNAME .
 m.origin.com.au IN CNAME .
 mormont.gamer-network.net IN CNAME .
-mors22.com IN CNAME .
 mortgage.equifax.com IN CNAME .
 mortgage.inform.equifax.com IN CNAME .
 mortgage.leads360.com IN CNAME .
@@ -26122,7 +26114,6 @@ purposepipe.com IN CNAME .
 pushd.netky.tech IN CNAME .
 pushmaster-cdn.xyz IN CNAME .
 pushspring.actonservice.com IN CNAME .
-pushvisit.xyz IN CNAME .
 putphc.zuhre.com.tr IN CNAME .
 puzzle.spiriteq.com IN CNAME .
 p.versacommerce.de IN CNAME .
@@ -26413,7 +26404,6 @@ r2r.utas.edu.au IN CNAME .
 r.3hentai.net IN CNAME .
 r42tag.com IN CNAME .
 r4nds.absorba.com IN CNAME .
-raac33.net IN CNAME .
 rabbitbreath.com IN CNAME .
 rabbit.donald.cat IN CNAME .
 rabbitrifle.com IN CNAME .
@@ -33553,7 +33543,6 @@ stat.interestfree.com.au IN CNAME .
 statistic2.reichelt.de IN CNAME .
 statistic.audima.co IN CNAME .
 statistic.jac-systeme.de IN CNAME .
-statisticplatform.com IN CNAME .
 statistic.qzone.qq.com IN CNAME .
 statistics.csob.cz IN CNAME .
 statistics.daktilo.com IN CNAME .
@@ -34002,6 +33991,7 @@ stats.jerickson.net IN CNAME .
 stats.jetzt-aktivieren.de IN CNAME .
 stats.jhsheridan.com IN CNAME .
 stats.jjude.com IN CNAME .
+stats.jkdesa.com IN CNAME .
 stats.joaopedro.dev IN CNAME .
 stats.jsbible.com IN CNAME .
 statsjs.klevu.com IN CNAME .
@@ -35893,7 +35883,6 @@ test.takedwn.ws IN CNAME .
 testtarget.jeep.com IN CNAME .
 test.thei.co IN CNAME .
 test.thomsonreuters.com IN CNAME .
-test.vast IN CNAME .
 test.zeus-wifi.jp IN CNAME .
 t.etraveli.com IN CNAME .
 te.universal.at IN CNAME .
@@ -37550,7 +37539,6 @@ tracks3.ferrari.com IN CNAME .
 tracks.arubamediamarketing.it IN CNAME .
 track.searchignite.com IN CNAME .
 track.searchiq.co IN CNAME .
-track-selectmedia.com IN CNAME .
 track.shop2market.com IN CNAME .
 track.shop.atleticodemadrid.com IN CNAME .
 trackside.redbull.racing IN CNAME .
@@ -37657,7 +37645,6 @@ training.hager.co.uk IN CNAME .
 training.indigobusiness.co.uk IN CNAME .
 training.thunderhead.com IN CNAME .
 traka8.crypto-mall.org IN CNAME .
-trakle01.online IN CNAME .
 tr.alex.espmp-agfr.net IN CNAME .
 tr.allianz-trade.com IN CNAME .
 tr.allopneus.com IN CNAME .
@@ -39524,6 +39511,7 @@ ucppeo.silux.hr IN CNAME .
 uct.service.usercentrics.eu IN CNAME .
 uc.xddi.ru IN CNAME .
 udblog.huya.com IN CNAME .
+ud.galaxus.ch IN CNAME .
 ud.galaxus.de IN CNAME .
 udgrbq.malwarebytes.com IN CNAME .
 udicje.perrys.co.uk IN CNAME .
@@ -45767,7 +45755,11 @@ dhfs-th.oppomobile.com IN CNAME .
 dhfs-vn.oppomobile.com IN CNAME .
 dhfsf.oppomobile.com IN CNAME .
 h4g3z1-native.oppo-realme.web.app IN CNAME .
+analytics.us.tiktok.com.bytedance.akadns.net IN CNAME .
 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net IN CNAME .
+analytics.tiktok.com.bytewlb.akadns.net IN CNAME .
+analytics.us.tiktok.com.bytewlb.akadns.net IN CNAME .
+analytics.us.tiktok.com-row.bytewlb.akadns.net IN CNAME .
 frontier23-normal-alisg.tiktokv.com.bpgslb.com IN CNAME .
 ads-sg.business-tiktok.com IN CNAME .
 ads-va.business-tiktok.com IN CNAME .
@@ -45857,6 +45849,12 @@ mon16-normal-no1a.tiktokv.eu.dvaitas.lt IN CNAME .
 mon16-normal-useastred.tiktokv.eu.dvaitas.lt IN CNAME .
 mcs-ie2.tiktokw.eu.dvaitas.lt IN CNAME .
 mcs16-normal-no1a.tiktokw.eu.dvaitas.lt IN CNAME .
+analytics.tiktok.com.edgekey.net IN CNAME .
+analytics-attribution-va.tiktok.com.edgekey.net IN CNAME .
+analytics-exp-i18n.tiktok.com.edgekey.net IN CNAME .
+analytics-exp-sg.tiktok.com.edgekey.net IN CNAME .
+analytics-i18n.tiktok.com.edgekey.net IN CNAME .
+analytics-sg.tiktok.com.edgekey.net IN CNAME .
 mcs-i18n.tiktok.com.edgekey.net IN CNAME .
 mcs-sg.tiktok.com.edgekey.net IN CNAME .
 mcs-va.tiktok.com.edgekey.net IN CNAME .
@@ -45867,6 +45865,13 @@ mcs-va.tiktokv.com.edgekey.net IN CNAME .
 mcs-va-useast2a.tiktokv.com.edgekey.net IN CNAME .
 mon-boot.tiktokv.com.edgekey.net IN CNAME .
 mssdk-boot.tiktokv.com.edgekey.net IN CNAME .
+analytics-exp-ru.tiktok.com.edgesuite.net IN CNAME .
+analytics-v6.tiktok.com.edgesuite.net IN CNAME .
+analytics16-normal.tiktok.com.edgesuite.net IN CNAME .
+analytics16-normal-alisg.tiktok.com.edgesuite.net IN CNAME .
+analytics.us.tiktok.com.edgesuite.net IN CNAME .
+analytics-exp.us.tiktok.com.edgesuite.net IN CNAME .
+analytics-ttp2.us.tiktok.com.edgesuite.net IN CNAME .
 mcs.us.tiktok.com.edgesuite.net IN CNAME .
 mcs-ttp2.us.tiktok.com.edgesuite.net IN CNAME .
 p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net IN CNAME .
@@ -45876,6 +45881,11 @@ mcs.us.tiktokv.com.edgesuite.net IN CNAME .
 frontier.tiktokv-eu.com.edgesuite.net IN CNAME .
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net IN CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net IN CNAME .
+analytics-exp-ttp2.tiktokw.eu.edgesuite.net IN CNAME .
+analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
+analytics-ttp2.tiktokw.eu.edgesuite.net IN CNAME .
+analytics16-normal-no1a.tiktokw.eu.edgesuite.net IN CNAME .
+analytics16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
 mcs-ie2.tiktokw.eu.edgesuite.net IN CNAME .
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net IN CNAME .
 mcs16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
@@ -45884,6 +45894,9 @@ frontier.tiktokv.us.edgesuite.net IN CNAME .
 frontier-ttp2.tiktokv.us.edgesuite.net IN CNAME .
 mcs.tiktokv.us.edgesuite.net IN CNAME .
 mcs-ttp2.tiktokv.us.edgesuite.net IN CNAME .
+analytics-ipv6.tiktokw.us.edgesuite.net IN CNAME .
+analytics16-normal-useast5.tiktokw.us.edgesuite.net IN CNAME .
+analytics16-normal-useast8.tiktokw.us.edgesuite.net IN CNAME .
 mcs.tiktokw.us.edgesuite.net IN CNAME .
 abtest-ch.snssdk.com IN CNAME .
 analytics.snssdk.com IN CNAME .
@@ -46303,11 +46316,17 @@ mcs16-normal-useastred.tiktokw.eu IN CNAME .
 mssdk.tiktokw.eu IN CNAME .
 mssdk.tiktokw.us IN CNAME .
 mssdk16-normal-useastred.tiktokw.eu IN CNAME .
+analytics.tiktok.com.ttdns2.com IN CNAME .
+analytics-exp-ru.tiktok.com.ttdns2.com IN CNAME .
+analytics-ru.tiktok.com.ttdns2.com IN CNAME .
+analytics-v6.tiktok.com.ttdns2.com IN CNAME .
 mcs-sg.tiktok.com.ttdns2.com IN CNAME .
 mcs-va.tiktok.com.ttdns2.com IN CNAME .
 mcs-va.tiktokv.com.ttdns2.com IN CNAME .
 mcs-va-useast2a.tiktokv.com.ttdns2.com IN CNAME .
 frontier.tiktokv-eu.com.ttdns3.com IN CNAME .
+analytics-ie.tiktokw.eu.ttdns3.com IN CNAME .
+analytics-ttp2.tiktokw.eu.ttdns3.com IN CNAME .
 mcs-ie.tiktokw.eu.ttdns3.com IN CNAME .
 mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
 h4g3z1-native.tiktok.extended.web.app IN CNAME .
@@ -47475,7 +47494,6 @@ fcanr.tracking.miui.com IN CNAME .
 mitv.tracking.miui.com IN CNAME .
 om.tracking.miui.com IN CNAME .
 router.tracking.miui.com IN CNAME .
-api.vip.miui.com IN CNAME .
 www.miui.net IN CNAME .
 intl.up.w.xk.miui.com IN CNAME .
 traffic-media.co IN CNAME .
