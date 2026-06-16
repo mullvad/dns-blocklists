@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1781511293    ; serial
+                                        1781587693    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -15634,6 +15634,7 @@ idianw.warmteservice.nl IN CNAME .
 idlecollect.com IN CNAME .
 idlqzb.puntoscolombia.com IN CNAME .
 idm.api.autohome.com.cn IN CNAME .
+id.nbcuni.com IN CNAME .
 idndlc.kango-oshigoto.jp IN CNAME .
 idqwqm.kkday.com IN CNAME .
 idrivelogistics.actonservice.com IN CNAME .
@@ -19197,7 +19198,6 @@ link.zulily.com IN CNAME .
 link.zurp.com IN CNAME .
 lio8.destinia.com.pa IN CNAME .
 liosix.mtvuutiset.fi IN CNAME .
-lipstat.com IN CNAME .
 liquid.agora.pl IN CNAME .
 li.rtl2.de IN CNAME .
 listen.trakks.com IN CNAME .
@@ -21427,6 +21427,7 @@ ma.smartplanes.se IN CNAME .
 mas.nth.ch IN CNAME .
 massivemark.com IN CNAME .
 master.cifraclub.com.br IN CNAME .
+masterenter.com IN CNAME .
 masternaut.actonservice.com IN CNAME .
 mastertag.kpcustomer.de IN CNAME .
 mastertag.q-sis.de IN CNAME .
@@ -24511,6 +24512,7 @@ omcshw.pharmasi.it IN CNAME .
 om.cyberrentals.com IN CNAME .
 om.dowjoneson.com IN CNAME .
 o.medallia.com IN CNAME .
+omegaroutes.com IN CNAME .
 om.escapehomes.com IN CNAME .
 om.etnetera.cz IN CNAME .
 ometrics.ameds.com IN CNAME .
@@ -25965,7 +25967,6 @@ profiling.plannja.com IN CNAME .
 profiling.ruukki.com IN CNAME .
 profit.edc.ca IN CNAME .
 profitrumour.com IN CNAME .
-proftrafficcounter.com IN CNAME .
 profusesupport.com IN CNAME .
 progmxs.com IN CNAME .
 programmes-skema.skema-bs.fr IN CNAME .
@@ -36939,8 +36940,6 @@ tracking.care.salinasvalleyhealth.com IN CNAME .
 tracking.carsales.com.au IN CNAME .
 tracking.cat898.com IN CNAME .
 tracking.cdiscount.com IN CNAME .
-tracking.cds.dmm.co.jp IN CNAME .
-tracking.cds.dmm.com IN CNAME .
 tracking.cello-square.com IN CNAME .
 tracking.cengage.com IN CNAME .
 tracking.cenomicenters.com IN CNAME .
