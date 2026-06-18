@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1781671376    ; serial
+                                        1781758669    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -17892,6 +17892,7 @@ kindlereunion.com IN CNAME .
 kinesis.us-east-1.analytics.edmentum.com IN CNAME .
 kingnews.burgerking.co.za IN CNAME .
 kingsandqueens.splowser.com IN CNAME .
+kingsealed.com IN CNAME .
 kiqwal.autoscout24.es IN CNAME .
 kiqwil.l-m.co.jp IN CNAME .
 kirsrn.runway-webstore.com IN CNAME .
@@ -25382,6 +25383,7 @@ pigeonsetc.com IN CNAME .
 pigmentpaper.com IN CNAME .
 pihxmq.98doci.com IN CNAME .
 pi.ispot.tv IN CNAME .
+p.imgur.gg IN CNAME .
 pimpoint.inriver.com IN CNAME .
 pinchsquirrel.com IN CNAME .
 pincourse.com IN CNAME .
@@ -25400,6 +25402,7 @@ pingo.staticmoly.me IN CNAME .
 ping.paidy.com IN CNAME .
 ping.resoluteoil.com IN CNAME .
 pings.conviva.com IN CNAME .
+pingsurvey.com IN CNAME .
 pings.vidpulse.com IN CNAME .
 pinptg.milleni.com.tr IN CNAME .
 pint-dev-branch.airship.com IN CNAME .
@@ -25536,6 +25539,7 @@ plan.devbyexample.com IN CNAME .
 planebasin.com IN CNAME .
 plans.ceteraretirement.com IN CNAME .
 plans.fundtherebuild.com IN CNAME .
+plantcourse.com IN CNAME .
 pla.pearlinsurance.com IN CNAME .
 plas.imfeld.dev IN CNAME .
 pl.astro-akatemia.fi IN CNAME .
@@ -25777,6 +25781,7 @@ poll.pollinatepolls.com IN CNAME .
 polypak.actonservice.com IN CNAME .
 ponos.zeronaught.com IN CNAME .
 ponyo.cheriefm.fr IN CNAME .
+poolcushions.com IN CNAME .
 pool.onjoyri.de IN CNAME .
 pool.onjoyride.com IN CNAME .
 pop3.carte-gr.total.fr IN CNAME .
@@ -25881,6 +25886,7 @@ prepaymint.net IN CNAME .
 presetrabbits.com IN CNAME .
 presscoder.com IN CNAME .
 prettybicycle.com IN CNAME .
+prettydemo.com IN CNAME .
 prettyeasycafe.com IN CNAME .
 prettylearning.com IN CNAME .
 preview.fi-institutional.com.au IN CNAME .
@@ -42601,27 +42607,18 @@ aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
-aax-events-cell01-cf.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
-aax-events-cell01-cf.fe.us-west.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com IN CNAME .
-aax-events-cell01-cf.us-east.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell01.us-east.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com IN CNAME .
-aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com IN CNAME .
 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com IN CNAME .
-aax-events-dedicated.eu-west.ono.axp.amazon-adsystem.com IN CNAME .
-aax-events-dedicated.us-east.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-pdns-wt.eu-west.3px.axp.amazon-adsystem.com IN CNAME .
-aax-events-pdns-wt.fe.us-west.ono.axp.amazon-adsystem.com IN CNAME .
-aax-events-pdns-wt.us-east.ono.axp.amazon-adsystem.com IN CNAME .
 aax-events-pdns-wt.us-west.3px.axp.amazon-adsystem.com IN CNAME .
-aax-events-wt.us-west.ono.axp.amazon-adsystem.com IN CNAME .
 aax-fe-rtb.amazon-adsystem.com IN CNAME .
 aax-fe-sin-rtb-adx.amazon-adsystem.com IN CNAME .
 aax-fe-sin-rtb.amazon-adsystem.com IN CNAME .
@@ -42762,7 +42759,6 @@ atue.amazon-adsystem.com IN CNAME .
 aviary.amazon.co.jp IN CNAME .
 aviary.amazon.com IN CNAME .
 aviary.amazon.de IN CNAME .
-axp.amazon-adsystem.com IN CNAME .
 banner-fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 banner-iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 banner-pdx.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42810,7 +42806,6 @@ cell7001.iad.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7001.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42820,7 +42815,6 @@ cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell7021.sin.mobile.bid-fe.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.mobile.event-na.ads.aps.amazon-adsystem.com IN CNAME .
-cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8001.iad.spp.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42846,6 +42840,7 @@ cell8006.pdx.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8007.iad.web.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
+cell8011.fra.pg.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8011.fra.web.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com IN CNAME .
 cell8012.fra.mobile.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
@@ -42885,7 +42880,6 @@ eu-central.3px.axp.amazon-adsystem.com IN CNAME .
 eu-north-1-1.telemetry.insights.video.a2z.com IN CNAME .
 eu-north-1-2.telemetry.insights.video.a2z.com IN CNAME .
 eu-north-1-3.telemetry.insights.video.a2z.com IN CNAME .
-eu-south.ono.axp.amazon-adsystem.com IN CNAME .
 eu-west-1-1.telemetry.insights.video.a2z.com IN CNAME .
 eu-west-1-2.telemetry.insights.video.a2z.com IN CNAME .
 eu-west-1-3.telemetry.insights.video.a2z.com IN CNAME .
@@ -42898,7 +42892,6 @@ eu-west-3-2.telemetry.insights.video.a2z.com IN CNAME .
 eu-west-3-3.telemetry.insights.video.a2z.com IN CNAME .
 eu-west.3px.axp.amazon-adsystem.com IN CNAME .
 eu-west.aps.axp.amazon-adsystem.com IN CNAME .
-eu-west.ono.axp.amazon-adsystem.com IN CNAME .
 event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 event-fe.ads.aps.amazon-adsystem.com IN CNAME .
 event-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
@@ -43019,7 +43012,6 @@ notify.aca.bugsnag.appstore.a2z.com IN CNAME .
 notify.aca.ftv.bugsnag.appstore.a2z.com IN CNAME .
 notify.bugsnag.appstore.a2z.com IN CNAME .
 notify.firetv.bugsnag.appstore.a2z.com IN CNAME .
-ono.axp.amazon-adsystem.com IN CNAME .
 origin-sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 ott.eu-west.aps.axp.amazon-adsystem.com IN CNAME .
 ott.us-east.aps.axp.amazon-adsystem.com IN CNAME .
@@ -43126,7 +43118,6 @@ strategicpub.us-west.aps.axp.amazon-adsystem.com IN CNAME .
 stv.bid-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 stv.bid-na.ads-gamma.aps.amazon-adsystem.com IN CNAME .
 stv.bid-na.ads.aps.amazon-adsystem.com IN CNAME .
-stv.event-eu.ads.aps.amazon-adsystem.com IN CNAME .
 stv.event-na.ads-beta.aps.amazon-adsystem.com IN CNAME .
 stv.event-na.ads-gamma.aps.amazon-adsystem.com IN CNAME .
 stv.event-na.ads.aps.amazon-adsystem.com IN CNAME .
@@ -43191,7 +43182,6 @@ us-west-2.prod.service.minerva.devices.a2z.com IN CNAME .
 us-west.3px.axp.amazon-adsystem.com IN CNAME .
 us-west.aps.axp.amazon-adsystem.com IN CNAME .
 us-west.live-events.ono.axp.amazon-adsystem.com IN CNAME .
-us-west.ono.axp.amazon-adsystem.com IN CNAME .
 us.prod.service.minerva.devices.a2z.com IN CNAME .
 useast.rtb.axp.amazon-adsystem.com IN CNAME .
 vaes-eu-preprod.amazon-adsystem.com IN CNAME .
