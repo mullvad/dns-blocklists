@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1782278497    ; serial
+                                        1782366157    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4972,7 +4972,6 @@ amplitude.chess.com IN CNAME .
 ampltd2.medal.tv IN CNAME .
 ampltd.medal.tv IN CNAME .
 ampltd.top.gg IN CNAME .
-ampscamp.net IN CNAME .
 am.siemensplmevents.com IN CNAME .
 ams.lelong.com.my IN CNAME .
 ams.oraclecloud.com IN CNAME .
@@ -8303,6 +8302,7 @@ candy.sees.com IN CNAME .
 cannonborough.com IN CNAME .
 cannonchange.com IN CNAME .
 canvasandsocks.com IN CNAME .
+canyonpizza.net IN CNAME .
 caowuq.babyliss-romania.ro IN CNAME .
 capi.connatix.com IN CNAME .
 capping.sirius.press IN CNAME .
@@ -8990,6 +8990,7 @@ collector.clareity.net IN CNAME .
 collector.dgnet.ltd.uk IN CNAME .
 collector-direct.xhamster.com IN CNAME .
 collector.ex.co IN CNAME .
+collector.feedzop.com IN CNAME .
 collector.fiverr.com IN CNAME .
 collector.getyourguide.com IN CNAME .
 collector.githubapp.com IN CNAME .
@@ -9003,12 +9004,14 @@ collector.pi.spectrum.net IN CNAME .
 collector.pmc.com IN CNAME .
 collector-px0py5pczn.octopart.com IN CNAME .
 collector.quillbot.com IN CNAME .
+collector.quizzop.com IN CNAME .
 collector.schibsted.io IN CNAME .
 collector.spankbang.party IN CNAME .
 collector.sspinc.io IN CNAME .
 collector.taoxh.life IN CNAME .
 collector.theconversation.com IN CNAME .
 collector.t-idr.com IN CNAME .
+collector.umogames.com IN CNAME .
 collector-videoplayer.5centscdn.net IN CNAME .
 collector.xhaccess.com IN CNAME .
 collector.xhamster2.com IN CNAME .
@@ -9515,6 +9518,7 @@ corporatemrguide.americanexpress.de IN CNAME .
 corporatepages.proximus.com IN CNAME .
 corporateplatino.americanexpress.it IN CNAME .
 corporate.wpcarey.com IN CNAME .
+correctedcode.com IN CNAME .
 cortellisconnections.thomsonreuters.com IN CNAME .
 cosme.caseepo.jp IN CNAME .
 cosmicsculptor.com IN CNAME .
@@ -10137,6 +10141,7 @@ dandyglow.com IN CNAME .
 da.netease.com IN CNAME .
 danielsmoving.actonservice.com IN CNAME .
 danv01ao0kdr2.cloudfront.net IN CNAME .
+dap.hindustantimes.com IN CNAME .
 dapperdiscussion.com IN CNAME .
 d-app.progressive.com IN CNAME .
 da.rabobank.nl IN CNAME .
