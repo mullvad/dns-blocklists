@@ -5056,11 +5056,13 @@ analytics.api.justeattakeaway.com
 analytics-api.klickly.com
 analyticsapi.qogita.com
 analytics-api.samsunghealthcn.com
+analytics-api-s.cloudinary.com
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
 analytics.asml.com
+analytics.atlas5.co
 analytics.atom.com
 analytics.audioeye.com
 analytics.audionow.de
@@ -5173,6 +5175,7 @@ analytics.disney.go.com
 analytics.disneyinternational.com
 analytics.disneyplus.com
 analytics.distributednews.com
+analytics.divulg.org
 analytics.dvidshub.net
 analytics.dv.socure.io
 analytics.edgekey.net
@@ -6834,7 +6837,6 @@ ask.antalis.pt
 ask.antalis.ro
 ask.antalis.se
 ask.antalis-verpackungen.at
-askdriver.com
 ask.wearelistening.co.nz
 as.metal-hammer.de
 a.smetrics.sovereign.com
@@ -10032,6 +10034,7 @@ d276.ourmidland.com
 d2cpw6kwpff7n5.cloudfront.net
 d2ezz24t9nm0vu.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
+d2gt2ux04o03l1.cloudfront.net
 d2i34c80a0ftze.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
@@ -10709,6 +10712,7 @@ dcinfos-cache.abtasty.com
 dc.kfz-steuercheck.de
 dckiwt.eataly.com
 dclnxirp001cou.net.jumia.co.tz
+dclsrv.com
 dc.luzygas.ahorraconrepsol.com
 dc.madridistas.com
 dcnkrd.baseballsavings.com
@@ -11579,6 +11583,7 @@ d-snapshotapp.progressive.com
 d.sondakika.com
 d.sourcepoint.capitalfm.com
 dsoxjxin5jji.controlconceptsusa.com
+dsp-track-global.zmaticoo.com
 dspx.tv
 dst05lp2.net.mydays.de
 d-staging.groc.press
@@ -14662,6 +14667,7 @@ golfersrow.com
 go.linksource.com
 go.list-it.ai
 go.llapac.com
+gollum.monotote.com
 go.locosonic.com
 go.loveshaw.com
 go.lukat.me
@@ -14731,7 +14737,6 @@ go.ovsoftware.nl
 go.palpita.net
 go.panda-click.com
 go.panda.sa
-go.pardot.com
 go.parents.mingle.com
 go.paze.com
 go.peak.net
@@ -15229,6 +15234,7 @@ hearthow.com
 heatmaps.lcisoft.it
 heavydetail.com
 heavyplayground.com
+heimdall.hearstapps.com
 hej.henriksommerfeld.se
 hekhnn.turnkeyvr.com
 helens.actonservice.com
@@ -15258,6 +15264,7 @@ helpflame.com
 helpingbits.com
 hemblx.vans.cl
 herbgreencolumn.com
+herbstarsbuilding.com
 herpes2.pa-ruit.jp
 hesconet.actonservice.com
 hesprh.sony.jp
@@ -18236,6 +18243,7 @@ l.e.domain.com.au
 leecompany.actonservice.com
 leftliquid.com
 legalhold.ediscovery.com
+legolas.monotote.com
 lekfso.hitohana.tokyo
 lem.nouvelobs.com
 lemonpackage.com
@@ -18266,6 +18274,7 @@ lezntf.heydudeshoesusa.com
 lfapbe.quiksilver.co.jp
 lfbowp.talisa.com
 lfercl.tcb-beauty.net
+l.ffx.io
 lfmhcb.sefamerve.com
 lfn.lfg.com
 l.football365.fr
@@ -19423,6 +19432,7 @@ logs.spilgames.com
 logstash-3.radio-canada.ca
 logs.theccaa.com
 logstracker.com
+log.strawpoll.com
 logs.viavideo.digital
 log.tagtic.cn
 logtail.com
@@ -24878,6 +24888,7 @@ originblocks.com
 origin-smetrics.go365.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
+orion.bendingspoons.com
 orionember.com
 orionmarketing.actonservice.com
 orlmarketing.nfp.com
@@ -24979,6 +24990,7 @@ outal.origo.hu
 outdoorsoil.com
 outdoor.theres.co
 outdoorthingy.com
+outerwords.com
 out.information.maileva.com
 outreach.allmy-data.com
 outreach.connectednation.org
@@ -26293,6 +26305,7 @@ qoairs.scholl-shoes.com
 qohlsl.drawer.fr
 qonwdq.helmexpress.com
 qouxkn.natuurhuisje.nl
+qovani.com
 qoygsv.born2be.pl
 qpc4.visilab.ch
 qpielh.kfhi.or.kr
@@ -35124,6 +35137,7 @@ synapse-da.actonservice.com
 synbiobeta.actonservice.com
 sync-a8.cocolocala.jp
 sync.adap.tv
+syncingbridge.com
 sync.rambler.ru
 sync.shinobi.jp
 synonymoussticks.com
@@ -35598,6 +35612,7 @@ t.birchlane.com
 tbjasp.cyrillus.de
 tbknig.ecc.jp
 t.blablacar.com
+tblcontent.com
 t.blog.livedoor.jp
 t.bluehens.com
 tbmgyz.centerparcs.de
@@ -35740,6 +35755,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.boxt.co.uk
+telemetry.bydata.com
 telemetry.canva.com
 telemetry.chrobinson.com
 telemetry.commonspirit.org
@@ -36352,6 +36368,7 @@ t.mktg.genesys.com
 tmlt.actonservice.com
 t.mmaeast.com
 tm-marketing.wolterskluwer.com
+t.mmganalytics.com
 tm.msgs.jp
 t.montecarlosbm.com
 tmpbr.getgifted.com
@@ -36741,6 +36758,7 @@ tracker-server.high-cdn.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.shopclues.com
+tracker-shr.ortb.net
 trackersimulator.org
 tracker.smartframe.io
 tracker.smartseminar.jp
@@ -38407,6 +38425,7 @@ trk.du-darfst.de
 trk.dvsystems.com
 trk.e.chooseumpquabank.com
 tr.kedf.espmp-nifr.net
+trk.edf.fr
 trk.elmlea.com
 trk.elmorietschle.com
 trk.elq.mcphersonoil.com
@@ -39255,6 +39274,7 @@ tryzens-analytics.com
 tr.zojh.espmp-aluk.net
 t-s.actemra.com
 t-s.activase.com
+tsa-f.webex.com
 t-s.allergicasthma.com
 ts-analysis.shoalter.com
 tsa.taxslayer.com
@@ -39668,7 +39688,6 @@ unknownidea.com
 un.kumparan.com
 unl1zvy2zuyn.franchiseplus.nl
 unleash.livepix.gg
-unloadyourself.com
 unm.emol.com
 unsubscribe.datadelivers.com
 unsubscribe.email.verizon.com
@@ -42810,6 +42829,7 @@ cell7002.pdx.mobile.event-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.spp.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.bid-na.ads.aps.amazon-adsystem.com
 cell7002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
+cell7002.pdx.web.bid-na.ads.aps.amazon-adsystem.com
 cell7011.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com
 cell7011.fra.mobile.event-eu.ads.aps.amazon-adsystem.com
 cell7011.fra.web.bid-eu.ads.aps.amazon-adsystem.com
@@ -43572,7 +43592,6 @@ bucyhq2.alphonso.tv
 budwoc80.alphonso.tv
 burmsde90.alphonso.tv
 bwezic7.alphonso.tv
-bxcpvyl4.alphonso.tv
 bzgjx81.alphonso.tv
 ccxspcacy49.alphonso.tv
 cdgzrfrcrk9.alphonso.tv
@@ -43606,7 +43625,6 @@ dzqkrgamr75.alphonso.tv
 ebgyjue7.alphonso.tv
 ecbmtltfbu47.alphonso.tv
 edqsadx4.alphonso.tv
-eekghd98.alphonso.tv
 egmfuqki23.alphonso.tv
 ennef96.alphonso.tv
 eoydhe10.alphonso.tv
@@ -43791,7 +43809,6 @@ hooftnl76.alphonso.tv
 hrnwnuobza7.alphonso.tv
 hsfhfh95.alphonso.tv
 hvqjcycemh5.alphonso.tv
-hzcecjl9.alphonso.tv
 hzcjehtc7.alphonso.tv
 ibniwvetq1.alphonso.tv
 icoxpv90.alphonso.tv
@@ -43808,7 +43825,6 @@ jflpf9.alphonso.tv
 jfrqba0.alphonso.tv
 jgqioypx31.alphonso.tv
 jiniqgj4.alphonso.tv
-jkxthjq85.alphonso.tv
 jmbiescta34.alphonso.tv
 jokeg7.alphonso.tv
 jqqqiife69.alphonso.tv
@@ -43940,7 +43956,6 @@ krishnaw374.alphonso.tv
 krishnaw375.alphonso.tv
 krishnaw377.alphonso.tv
 krishnaw378.alphonso.tv
-krishnaw379.alphonso.tv
 krishnaw380.alphonso.tv
 krishnaw381.alphonso.tv
 krishnaw382.alphonso.tv
@@ -43986,6 +44001,7 @@ krishnaw439.alphonso.tv
 krishnaw441.alphonso.tv
 krishnaw445.alphonso.tv
 krishnaw446.alphonso.tv
+krishnaw447.alphonso.tv
 krishnaw448.alphonso.tv
 krishnaw449.alphonso.tv
 krishnaw450.alphonso.tv
@@ -44073,7 +44089,6 @@ myjfricv2.alphonso.tv
 naassttei6.alphonso.tv
 nbacc1.alphonso.tv
 nmjvt6.alphonso.tv
-nqzwjhj7.alphonso.tv
 ntkfbsqfxy2.alphonso.tv
 ntmonou0.alphonso.tv
 nxlfrrqk07.alphonso.tv
@@ -44641,6 +44656,7 @@ tyftsjph74.alphonso.tv
 ubescyza51.alphonso.tv
 ugelxexv9.alphonso.tv
 ugiys71.alphonso.tv
+ujdcipvr0.alphonso.tv
 ujuyhix2.alphonso.tv
 ujzkkj8.alphonso.tv
 uk-ad-inserter.alphonso.tv
@@ -46518,6 +46534,7 @@ kz-stsdk.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 monitor-stsdk.vivoglobal.com
+mx-album-api.vivoglobal.com
 mx-cota.vivoglobal.com
 mx-domaincfg.vivoglobal.com
 mx-err-up.vivoglobal.com
@@ -46990,7 +47007,6 @@ uk-mobile.events.data.microsoft.com
 uk-v20.events.data.microsoft.com
 umwatson.events.data.microsoft.com
 umwatsonc.events.data.microsoft.com
-us-ic3.events.data.microsoft.com
 us-mesh.events.data.microsoft.com
 us-mobile.events.data.microsoft.com
 us-teams.events.data.microsoft.com
@@ -47063,9 +47079,6 @@ statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 gateway.bingviz.microsoftapp.net
 msads.net
-ads1.msads.net
-ads2.msads.net
-www.msads.net
 az667904.vo.msecnd.net
 a-ring.msedge.net
 a-ring-fallback.msedge.net
@@ -47129,8 +47142,6 @@ c.fr.msn.com
 g00.msn.com
 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 c.gr.msn.com
-h1.msn.com
-h2.msn.com
 h6.msn.com
 c.hk.msn.com
 c.id.msn.com
@@ -47411,6 +47422,8 @@ a.union.mi.com
 stat.youpin.mi.com
 resolver.gslb.mi-idc.com
 miui.net
+ad.miui.com
+reward.ad.miui.com
 app.miui.com
 api.bbs.miui.com
 browser.miui.com
