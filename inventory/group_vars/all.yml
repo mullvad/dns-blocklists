@@ -30,6 +30,7 @@ dns_blocklists_exclude:
   - name: privacy 
     entries:
       - mullvad.net
+      - go.pardot.com
 
   - name: social
     entries:
