@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1782881522    ; serial
+                                        1782967930    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8930,6 +8930,7 @@ cockpitdcbaima.carte-gr.total.fr IN CNAME .
 cod.bitrec.com IN CNAME .
 code.randomhouse.com IN CNAME .
 cofactordigital.actonservice.com IN CNAME .
+coffeefire.net IN CNAME .
 coffeesidehustle.com IN CNAME .
 coffeycomm.actonservice.com IN CNAME .
 cogstate.actonservice.com IN CNAME .
@@ -25833,6 +25834,7 @@ potatoinvention.com IN CNAME .
 powerfulblends.com IN CNAME .
 powerfulcopper.com IN CNAME .
 powerrobotflower.com IN CNAME .
+powertoolwiki.com IN CNAME .
 powerup.rsaworks.com IN CNAME .
 power.viggo.com IN CNAME .
 ppadv.actonservice.com IN CNAME .
@@ -32710,6 +32712,7 @@ sp.chip.de IN CNAME .
 spc.personalcreations.com IN CNAME .
 sp.data.funkedigital.de IN CNAME .
 sp.dpgmedia.net IN CNAME .
+spea.eko.com IN CNAME .
 specialevent.informaengage.com IN CNAME .
 specialscissors.com IN CNAME .
 sp.ecosia.org IN CNAME .
