@@ -52,7 +52,7 @@ dns_blocklists_lists:
 
   - name: hagezi-popupads-onlydomains
     type: adblock
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
 
   - name: mullvad-ads-blocklist
     type: adblock
@@ -62,10 +62,6 @@ dns_blocklists_lists:
     url: https://nsfw.oisd.nl/rpz
     type: adult
 
-  - name: hagezi-gambling-onlydomains
-    type: gambling
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
-  
   - name: hagezi-gambling
     type: gambling
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
@@ -75,39 +71,39 @@ dns_blocklists_lists:
     type: privacy
 
   - name: hagezi-tracker-amazon
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.amazon.txt
     type: privacy
 
   - name: hagezi-tracker-apple
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple.txt
     type: privacy
 
   - name: hagezi-tracker-huawei
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei.txt
     type: privacy
 
   - name: hagezi-tracker-windows
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice.txt
     type: privacy
 
   - name: hagezi-tracker-tiktok-aggressive
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended.txt
     type: privacy
   
   - name: hagezi-tracker-webos
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos.txt
     type: privacy
 
   - name: hagezi-tracker-vivo
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo.txt
     type: privacy
 
   - name: hagezi-tracker-oppo
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt
     type: privacy
 
   - name: hagezi-tracker-xiamomi
-    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
     type: privacy
   
   - name: mullvad-tracker-blocklist

@@ -31,15 +31,15 @@ The following lists are what we import to our service. You can find these define
 
 We currently use these tracker blocklists with our service:
 - firebog-easylist-privacy: https://v.firebog.net/hosts/Easyprivacy.txt
-- hagezi-tracker-amazon: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.amazon.txt
-- hagezi-tracker-apple: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt
-- hagezi-tracker-huawei: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.huawei.txt
-- hagezi-tracker-windows: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.winoffice.txt
-- hagezi-tracker-tiktok-aggressive: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
-- hagezi-tracker-webos: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.lgwebos.txt
-- hagezi-tracker-vivo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.vivo.txt
-- hagezi-tracker-oppo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.oppo-realme.txt
-- hagezi-tracker-xiamomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt
+- hagezi-tracker-amazon: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.amazon.txt
+- hagezi-tracker-apple: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple.txt
+- hagezi-tracker-huawei: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.huawei.txt
+- hagezi-tracker-windows: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice.txt
+- hagezi-tracker-tiktok-aggressive: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended.txt
+- hagezi-tracker-webos: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos.txt
+- hagezi-tracker-vivo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo.txt
+- hagezi-tracker-oppo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt
+- hagezi-tracker-xiamomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
 - mullvad-tracker-blocklist: custom file
 
 ### Advertising
@@ -48,7 +48,7 @@ We currently use these advertising blocklists with our service:
 - oisd-small: https://small.oisd.nl/rpz
 - frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 - AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
-- hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt
+- hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
 - mullvad-ads-blocklist: custom file
 
 ### Adult content 
@@ -59,7 +59,6 @@ We currently use this Adult content blocklist for our service:
 ### Gambling
 
 We currently use these gambling blocklists with our service:
-- hagezi-gambling-onlydomains: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
 - hagezi-gambling: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
 
 ### Social media
