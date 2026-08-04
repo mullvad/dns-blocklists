@@ -62,6 +62,10 @@ dns_blocklists_lists:
     url: https://nsfw.oisd.nl/rpz
     type: adult
 
+  - name: hagezi-gambling-onlydomains
+    type: gambling
+    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
+
   - name: hagezi-gambling
     type: gambling
     url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
