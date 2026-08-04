@@ -5680,6 +5680,7 @@ an.avast.com
 an.avast.ru
 ancientact.com
 an.constantcontact.com
+andfauna.net
 andlache.com
 android.txtsmarter.com
 a.nelo.mx
@@ -7319,6 +7320,7 @@ barium.cheezdev.com
 barkfactor.com
 barqueue.com
 barracuda.carte-gr.total.fr
+barrelcider.com
 baseboosters.com
 basilfish.com
 basketballbelieve.com
@@ -11295,6 +11297,7 @@ direct-events-collector.spot.im
 directions.mdanderson.org
 direfuldesk.com
 disagreeabledrop.com
+discjockeys.net
 discopond.com
 discover.10play.com.au
 discover2.secureforms.mcafee.com
@@ -12072,6 +12075,7 @@ e.gettyimages.co.nz
 e.gettyimages.in
 e.gettyimages.nl
 e.gettyimages.pt
+eggrecipe.com
 eghrbf.immowelt.at
 egoi.site
 egvemw.aboutyou.ee
@@ -43683,8 +43687,17 @@ adservice.google.com
 *.gui-server-sg.allawnos.com
 *.gui-server-us.allawnos.com
 *.icosa-service-eu.allawnos.com
+*.icosa-service-fr-01.allawnos.com
+*.icosa-service-fr-02.allawnos.com
+*.icosa-service-fr-03.allawnos.com
 *.icosa-service-in.allawnos.com
+*.icosa-service-in-01.allawnos.com
+*.icosa-service-in-02.allawnos.com
+*.icosa-service-in-03.allawnos.com
 *.icosa-service-sg.allawnos.com
+*.icosa-service-sg-01.allawnos.com
+*.icosa-service-sg-02.allawnos.com
+*.icosa-service-sg-03.allawnos.com
 *.icosa-service-us.allawnos.com
 *.icota-service-eu.allawnos.com
 *.icota-service-in.allawnos.com
@@ -43759,6 +43772,7 @@ adservice.google.com
 *.appconf-sgp.heytapdl.com
 *.conf-in-dc.heytapdl.com
 *.conf-sg-dc.heytapdl.com
+*.file-intl-push.heytapdl.com
 *.mdp-appconf-ae.heytapdl.com
 *.mdp-appconf-af.heytapdl.com
 *.mdp-appconf-apc.heytapdl.com
@@ -44062,10 +44076,15 @@ adservice.google.com
 *.cloudconf-app-za.heytapmobile.com
 *.conf-in-dc.heytapmobile.com
 *.dc.heytapmobile.com
+*.dc-dragate-sg.heytapmobile.com
 *.dc-stat-in.heytapmobile.com
 *.dragate-in-dc.heytapmobile.com
 *.mdp-usertrace-in.heytapmobile.com
 *.mdp-usertrace-sg.heytapmobile.com
+*.obus-conf-fr.heytapmobile.com
+*.obus-conf-in.heytapmobile.com
+*.obus-conf-sg.heytapmobile.com
+*.obus-conf-us.heytapmobile.com
 *.obus-dc-eu.heytapmobile.com
 *.obus-dc-ru.heytapmobile.com
 *.obus-dc-us.heytapmobile.com
@@ -44079,6 +44098,7 @@ adservice.google.com
 *.obus-dc20305-sg.heytapmobile.com
 *.obus-dctech-in.heytapmobile.com
 *.obus-dctech-sg.heytapmobile.com
+*.obus-dcyitai-sg.heytapmobile.com
 *.obus-jssdk-fr.heytapmobile.com
 *.obus-jssdk-in.heytapmobile.com
 *.obus-jssdk-sg.heytapmobile.com
@@ -44090,6 +44110,10 @@ adservice.google.com
 *.sms-ads-in.heytapmobile.com
 *.sms-ads-ru.heytapmobile.com
 *.stgdata-ads-fr.heytapmobile.com
+*.video-api-fr.heytapmobile.com
+*.video-api-gl.heytapmobile.com
+*.video-api-in.heytapmobile.com
+*.video-api-ru.heytapmobile.com
 *.dragate.dc.oppomobile.com
 *.dragate-br.dc.oppomobile.com
 *.dragate-sg.dc.oppomobile.com
@@ -44101,6 +44125,7 @@ adservice.google.com
 *.dhfs-th.oppomobile.com
 *.dhfs-vn.oppomobile.com
 *.dhfsf.oppomobile.com
+*.sea-log-rcv.vansound.com
 *.h4g3z1-native.oppo-realme.web.app
 *.finosfin.com
 *.hizonetech.com
@@ -44170,8 +44195,10 @@ adservice.google.com
 *.mon-boot.capcutapi.com
 *.mon-sg.capcutapi.com
 *.mon-v2-boot.capcutapi.com
+*.mon-va.capcutapi.com
 *.mon16-normal-sg.capcutapi.com
 *.mon16-normal-us-ttp.capcutapi.us
+*.mon16-normal-us-ttp2.capcutapi.us
 *.mon32-normal-sg.capcutapi.com
 *.mssdk.capcutapi.us
 *.mssdk-boot.capcutapi.com
@@ -44186,6 +44213,7 @@ adservice.google.com
 *.pc-mon-normal-sg.capcutapi.com
 *.pc-mon-v2-boot.capcutapi.com
 *.pc-mon16-normal-us-ttp.capcutapi.us
+*.pc-mon16-normal-us-ttp2.capcutapi.us
 *.tnc-boot.capcutapi.com
 *.tnc-sg.capcutapi.com
 *.tnc-v2-boot.capcutapi.com
@@ -44214,6 +44242,13 @@ adservice.google.com
 *.mcs-va-useast2a.tiktokv.com.edgekey.net
 *.mon-boot.tiktokv.com.edgekey.net
 *.mssdk-boot.tiktokv.com.edgekey.net
+*.mon-boot.capcutapi.com.edgesuite.net
+*.mon-sg.capcutapi.com.edgesuite.net
+*.mon-v2-boot.capcutapi.com.edgesuite.net
+*.mon16-normal-sg.capcutapi.com.edgesuite.net
+*.pc-mon-boot.capcutapi.com.edgesuite.net
+*.pc-mon-normal-sg.capcutapi.com.edgesuite.net
+*.pc-mon-v2-boot.capcutapi.com.edgesuite.net
 *.analytics.us.tiktok.com.edgesuite.net
 *.analytics-exp.us.tiktok.com.edgesuite.net
 *.analytics-ttp2.us.tiktok.com.edgesuite.net
@@ -44240,6 +44275,10 @@ adservice.google.com
 *.mcs-ie2.tiktokw.eu.edgesuite.net
 *.mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 *.mcs16-normal-useastred.tiktokw.eu.edgesuite.net
+*.mon.capcutapi.us.edgesuite.net
+*.mon16-normal-us-ttp.capcutapi.us.edgesuite.net
+*.mon16-normal-us-ttp2.capcutapi.us.edgesuite.net
+*.pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
 *.frontier.capcutw.us.edgesuite.net
 *.ad-instantpage.tiktokv.us.edgesuite.net
 *.ad-instantpage-ttp2.tiktokv.us.edgesuite.net
@@ -44671,6 +44710,13 @@ adservice.google.com
 *.mssdk.tiktokw.eu
 *.mssdk.tiktokw.us
 *.mssdk16-normal-useastred.tiktokw.eu
+*.mon-boot.capcutapi.com.ttdns2.com
+*.mon-sg.capcutapi.com.ttdns2.com
+*.mon-v2-boot.capcutapi.com.ttdns2.com
+*.mon-va.capcutapi.com.ttdns2.com
+*.pc-mon-boot.capcutapi.com.ttdns2.com
+*.pc-mon-normal-sg.capcutapi.com.ttdns2.com
+*.pc-mon-v2-boot.capcutapi.com.ttdns2.com
 *.analytics.tiktok.com.ttdns2.com
 *.analytics-exp-ru.tiktok.com.ttdns2.com
 *.analytics-ru.tiktok.com.ttdns2.com
@@ -44742,6 +44788,7 @@ adservice.google.com
 *.asia-vcode-or.vivoglobal.com
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
+*.br-cota.vivoglobal.com
 *.br-p.vivoglobal.com
 *.cn-zh-ort-stsdk.vivoglobal.com
 *.cn-zh-prt-stsdk.vivoglobal.com

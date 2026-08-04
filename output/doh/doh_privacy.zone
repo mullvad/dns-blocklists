@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785741859    ; serial
+                                        1785823095    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5692,6 +5692,7 @@ an.avast.com IN CNAME .
 an.avast.ru IN CNAME .
 ancientact.com IN CNAME .
 an.constantcontact.com IN CNAME .
+andfauna.net IN CNAME .
 andlache.com IN CNAME .
 android.txtsmarter.com IN CNAME .
 a.nelo.mx IN CNAME .
@@ -7331,6 +7332,7 @@ barium.cheezdev.com IN CNAME .
 barkfactor.com IN CNAME .
 barqueue.com IN CNAME .
 barracuda.carte-gr.total.fr IN CNAME .
+barrelcider.com IN CNAME .
 baseboosters.com IN CNAME .
 basilfish.com IN CNAME .
 basketballbelieve.com IN CNAME .
@@ -11307,6 +11309,7 @@ direct-events-collector.spot.im IN CNAME .
 directions.mdanderson.org IN CNAME .
 direfuldesk.com IN CNAME .
 disagreeabledrop.com IN CNAME .
+discjockeys.net IN CNAME .
 discopond.com IN CNAME .
 discover.10play.com.au IN CNAME .
 discover2.secureforms.mcafee.com IN CNAME .
@@ -12084,6 +12087,7 @@ e.gettyimages.co.nz IN CNAME .
 e.gettyimages.in IN CNAME .
 e.gettyimages.nl IN CNAME .
 e.gettyimages.pt IN CNAME .
+eggrecipe.com IN CNAME .
 eghrbf.immowelt.at IN CNAME .
 egoi.site IN CNAME .
 egvemw.aboutyou.ee IN CNAME .
@@ -43695,8 +43699,17 @@ adservice.google.com IN CNAME .
 *.gui-server-sg.allawnos.com IN CNAME .
 *.gui-server-us.allawnos.com IN CNAME .
 *.icosa-service-eu.allawnos.com IN CNAME .
+*.icosa-service-fr-01.allawnos.com IN CNAME .
+*.icosa-service-fr-02.allawnos.com IN CNAME .
+*.icosa-service-fr-03.allawnos.com IN CNAME .
 *.icosa-service-in.allawnos.com IN CNAME .
+*.icosa-service-in-01.allawnos.com IN CNAME .
+*.icosa-service-in-02.allawnos.com IN CNAME .
+*.icosa-service-in-03.allawnos.com IN CNAME .
 *.icosa-service-sg.allawnos.com IN CNAME .
+*.icosa-service-sg-01.allawnos.com IN CNAME .
+*.icosa-service-sg-02.allawnos.com IN CNAME .
+*.icosa-service-sg-03.allawnos.com IN CNAME .
 *.icosa-service-us.allawnos.com IN CNAME .
 *.icota-service-eu.allawnos.com IN CNAME .
 *.icota-service-in.allawnos.com IN CNAME .
@@ -43771,6 +43784,7 @@ adservice.google.com IN CNAME .
 *.appconf-sgp.heytapdl.com IN CNAME .
 *.conf-in-dc.heytapdl.com IN CNAME .
 *.conf-sg-dc.heytapdl.com IN CNAME .
+*.file-intl-push.heytapdl.com IN CNAME .
 *.mdp-appconf-ae.heytapdl.com IN CNAME .
 *.mdp-appconf-af.heytapdl.com IN CNAME .
 *.mdp-appconf-apc.heytapdl.com IN CNAME .
@@ -44074,10 +44088,15 @@ adservice.google.com IN CNAME .
 *.cloudconf-app-za.heytapmobile.com IN CNAME .
 *.conf-in-dc.heytapmobile.com IN CNAME .
 *.dc.heytapmobile.com IN CNAME .
+*.dc-dragate-sg.heytapmobile.com IN CNAME .
 *.dc-stat-in.heytapmobile.com IN CNAME .
 *.dragate-in-dc.heytapmobile.com IN CNAME .
 *.mdp-usertrace-in.heytapmobile.com IN CNAME .
 *.mdp-usertrace-sg.heytapmobile.com IN CNAME .
+*.obus-conf-fr.heytapmobile.com IN CNAME .
+*.obus-conf-in.heytapmobile.com IN CNAME .
+*.obus-conf-sg.heytapmobile.com IN CNAME .
+*.obus-conf-us.heytapmobile.com IN CNAME .
 *.obus-dc-eu.heytapmobile.com IN CNAME .
 *.obus-dc-ru.heytapmobile.com IN CNAME .
 *.obus-dc-us.heytapmobile.com IN CNAME .
@@ -44091,6 +44110,7 @@ adservice.google.com IN CNAME .
 *.obus-dc20305-sg.heytapmobile.com IN CNAME .
 *.obus-dctech-in.heytapmobile.com IN CNAME .
 *.obus-dctech-sg.heytapmobile.com IN CNAME .
+*.obus-dcyitai-sg.heytapmobile.com IN CNAME .
 *.obus-jssdk-fr.heytapmobile.com IN CNAME .
 *.obus-jssdk-in.heytapmobile.com IN CNAME .
 *.obus-jssdk-sg.heytapmobile.com IN CNAME .
@@ -44102,6 +44122,10 @@ adservice.google.com IN CNAME .
 *.sms-ads-in.heytapmobile.com IN CNAME .
 *.sms-ads-ru.heytapmobile.com IN CNAME .
 *.stgdata-ads-fr.heytapmobile.com IN CNAME .
+*.video-api-fr.heytapmobile.com IN CNAME .
+*.video-api-gl.heytapmobile.com IN CNAME .
+*.video-api-in.heytapmobile.com IN CNAME .
+*.video-api-ru.heytapmobile.com IN CNAME .
 *.dragate.dc.oppomobile.com IN CNAME .
 *.dragate-br.dc.oppomobile.com IN CNAME .
 *.dragate-sg.dc.oppomobile.com IN CNAME .
@@ -44113,6 +44137,7 @@ adservice.google.com IN CNAME .
 *.dhfs-th.oppomobile.com IN CNAME .
 *.dhfs-vn.oppomobile.com IN CNAME .
 *.dhfsf.oppomobile.com IN CNAME .
+*.sea-log-rcv.vansound.com IN CNAME .
 *.h4g3z1-native.oppo-realme.web.app IN CNAME .
 *.finosfin.com IN CNAME .
 *.hizonetech.com IN CNAME .
@@ -44182,8 +44207,10 @@ adservice.google.com IN CNAME .
 *.mon-boot.capcutapi.com IN CNAME .
 *.mon-sg.capcutapi.com IN CNAME .
 *.mon-v2-boot.capcutapi.com IN CNAME .
+*.mon-va.capcutapi.com IN CNAME .
 *.mon16-normal-sg.capcutapi.com IN CNAME .
 *.mon16-normal-us-ttp.capcutapi.us IN CNAME .
+*.mon16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.mon32-normal-sg.capcutapi.com IN CNAME .
 *.mssdk.capcutapi.us IN CNAME .
 *.mssdk-boot.capcutapi.com IN CNAME .
@@ -44198,6 +44225,7 @@ adservice.google.com IN CNAME .
 *.pc-mon-normal-sg.capcutapi.com IN CNAME .
 *.pc-mon-v2-boot.capcutapi.com IN CNAME .
 *.pc-mon16-normal-us-ttp.capcutapi.us IN CNAME .
+*.pc-mon16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.tnc-boot.capcutapi.com IN CNAME .
 *.tnc-sg.capcutapi.com IN CNAME .
 *.tnc-v2-boot.capcutapi.com IN CNAME .
@@ -44226,6 +44254,13 @@ adservice.google.com IN CNAME .
 *.mcs-va-useast2a.tiktokv.com.edgekey.net IN CNAME .
 *.mon-boot.tiktokv.com.edgekey.net IN CNAME .
 *.mssdk-boot.tiktokv.com.edgekey.net IN CNAME .
+*.mon-boot.capcutapi.com.edgesuite.net IN CNAME .
+*.mon-sg.capcutapi.com.edgesuite.net IN CNAME .
+*.mon-v2-boot.capcutapi.com.edgesuite.net IN CNAME .
+*.mon16-normal-sg.capcutapi.com.edgesuite.net IN CNAME .
+*.pc-mon-boot.capcutapi.com.edgesuite.net IN CNAME .
+*.pc-mon-normal-sg.capcutapi.com.edgesuite.net IN CNAME .
+*.pc-mon-v2-boot.capcutapi.com.edgesuite.net IN CNAME .
 *.analytics.us.tiktok.com.edgesuite.net IN CNAME .
 *.analytics-exp.us.tiktok.com.edgesuite.net IN CNAME .
 *.analytics-ttp2.us.tiktok.com.edgesuite.net IN CNAME .
@@ -44252,6 +44287,10 @@ adservice.google.com IN CNAME .
 *.mcs-ie2.tiktokw.eu.edgesuite.net IN CNAME .
 *.mcs16-normal-no1a.tiktokw.eu.edgesuite.net IN CNAME .
 *.mcs16-normal-useastred.tiktokw.eu.edgesuite.net IN CNAME .
+*.mon.capcutapi.us.edgesuite.net IN CNAME .
+*.mon16-normal-us-ttp.capcutapi.us.edgesuite.net IN CNAME .
+*.mon16-normal-us-ttp2.capcutapi.us.edgesuite.net IN CNAME .
+*.pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net IN CNAME .
 *.frontier.capcutw.us.edgesuite.net IN CNAME .
 *.ad-instantpage.tiktokv.us.edgesuite.net IN CNAME .
 *.ad-instantpage-ttp2.tiktokv.us.edgesuite.net IN CNAME .
@@ -44683,6 +44722,13 @@ adservice.google.com IN CNAME .
 *.mssdk.tiktokw.eu IN CNAME .
 *.mssdk.tiktokw.us IN CNAME .
 *.mssdk16-normal-useastred.tiktokw.eu IN CNAME .
+*.mon-boot.capcutapi.com.ttdns2.com IN CNAME .
+*.mon-sg.capcutapi.com.ttdns2.com IN CNAME .
+*.mon-v2-boot.capcutapi.com.ttdns2.com IN CNAME .
+*.mon-va.capcutapi.com.ttdns2.com IN CNAME .
+*.pc-mon-boot.capcutapi.com.ttdns2.com IN CNAME .
+*.pc-mon-normal-sg.capcutapi.com.ttdns2.com IN CNAME .
+*.pc-mon-v2-boot.capcutapi.com.ttdns2.com IN CNAME .
 *.analytics.tiktok.com.ttdns2.com IN CNAME .
 *.analytics-exp-ru.tiktok.com.ttdns2.com IN CNAME .
 *.analytics-ru.tiktok.com.ttdns2.com IN CNAME .
@@ -44754,6 +44800,7 @@ adservice.google.com IN CNAME .
 *.asia-vcode-or.vivoglobal.com IN CNAME .
 *.asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-vpushort-stsdk.vivoglobal.com IN CNAME .
+*.br-cota.vivoglobal.com IN CNAME .
 *.br-p.vivoglobal.com IN CNAME .
 *.cn-zh-ort-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-prt-stsdk.vivoglobal.com IN CNAME .

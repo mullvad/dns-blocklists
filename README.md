@@ -59,6 +59,7 @@ We currently use this Adult content blocklist for our service:
 ### Gambling
 
 We currently use these gambling blocklists with our service:
+- hagezi-gambling-onlydomains: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
 - hagezi-gambling: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
 
 ### Social media
