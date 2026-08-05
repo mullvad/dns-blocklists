@@ -106,7 +106,7 @@ dns_blocklists_lists:
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt
     type: privacy
 
-  - name: hagezi-tracker-xiamomi
+  - name: hagezi-tracker-xiaomi
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
     type: privacy
   
