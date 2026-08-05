@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785823095    ; serial
+                                        1785908415    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -42753,7 +42753,6 @@ adservice.google.com IN CNAME .
 *.aax-fe.amazon-adsystem.com IN CNAME .
 *.aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 *.aax-ott-c2s.amazon-adsystem.com IN CNAME .
-*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott-sdk.amazon-adsystem.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.com IN CNAME .
@@ -42781,7 +42780,6 @@ adservice.google.com IN CNAME .
 *.aax-us-west-ott-events.amazon-adsystem.com IN CNAME .
 *.aax-us-west-ott.amazon-adsystem.com IN CNAME .
 *.aax-us-west-rtb.amazon-adsystem.com IN CNAME .
-*.aax-us.amazon-adsystem.amazon.com IN CNAME .
 *.aax-us.amazon-adsystem.com IN CNAME .
 *.aax-vx-api-us-east-1.amazon-adsystem.com IN CNAME .
 *.aax-vx-api-us-west-2.amazon-adsystem.com IN CNAME .
@@ -44800,7 +44798,6 @@ adservice.google.com IN CNAME .
 *.asia-vcode-or.vivoglobal.com IN CNAME .
 *.asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-vpushort-stsdk.vivoglobal.com IN CNAME .
-*.br-cota.vivoglobal.com IN CNAME .
 *.br-p.vivoglobal.com IN CNAME .
 *.cn-zh-ort-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-prt-stsdk.vivoglobal.com IN CNAME .
@@ -44887,7 +44884,6 @@ adservice.google.com IN CNAME .
 *.kz-st-sl.vivoglobal.com IN CNAME .
 *.kz-st-sysupgrade.vivoglobal.com IN CNAME .
 *.kz-stsdk.vivoglobal.com IN CNAME .
-*.kz-vcode-api.vivoglobal.com IN CNAME .
 *.kz-vcode-od.vivoglobal.com IN CNAME .
 *.kz-vcode-or.vivoglobal.com IN CNAME .
 *.monitor-stsdk.vivoglobal.com IN CNAME .
@@ -45349,6 +45345,7 @@ adservice.google.com IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
+*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .

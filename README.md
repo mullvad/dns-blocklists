@@ -39,7 +39,7 @@ We currently use these tracker blocklists with our service:
 - hagezi-tracker-webos: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.lgwebos.txt
 - hagezi-tracker-vivo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo.txt
 - hagezi-tracker-oppo: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt
-- hagezi-tracker-xiamomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
+- hagezi-tracker-xiaomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
 - mullvad-tracker-blocklist: custom file
 
 ### Advertising
