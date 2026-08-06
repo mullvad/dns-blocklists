@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785908415    ; serial
+                                        1785994114    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5336,6 +5336,7 @@ analytics.martinandosa.com IN CNAME .
 analytics.massivwerthaus.at IN CNAME .
 analytics.matchbin.com IN CNAME .
 analytics.maxroll.gg IN CNAME .
+analytics.maxx53.com IN CNAME .
 analytics.mc500.info IN CNAME .
 analytics.media-proweb.de IN CNAME .
 analytics.meituan.net IN CNAME .
@@ -12342,6 +12343,7 @@ elq.xperthr.co.uk IN CNAME .
 elq.xperthr.nl IN CNAME .
 elr.sfr.fr IN CNAME .
 els298548211.medtronic.com IN CNAME .
+el.siglo.mx IN CNAME .
 eltlio.boribori.co.kr IN CNAME .
 elusivebreeze.com IN CNAME .
 elusivecascade.com IN CNAME .
@@ -12782,6 +12784,7 @@ engage.jboss.com IN CNAME .
 engage.jlclive.com IN CNAME .
 engage.krm22.com IN CNAME .
 engage.marketone.com IN CNAME .
+engagement.coremedia.cloud IN CNAME .
 engagement.feedly.com IN CNAME .
 engagemetrics.cisco.com IN CNAME .
 engage.mhainc.com IN CNAME .
@@ -13123,6 +13126,7 @@ events-ingestion-helpcenter.services.gorgias.help IN CNAME .
 eventsink.api.redbee.live IN CNAME .
 events.interface.com IN CNAME .
 events.jotform.com IN CNAME .
+events.julephosting.de IN CNAME .
 events.kangan.edu.au IN CNAME .
 events.limango.com IN CNAME .
 events-logs.doctolib.com IN CNAME .
@@ -13391,6 +13395,7 @@ fancycolorlist.net IN CNAME .
 fancydune.com IN CNAME .
 fangfeeling.com IN CNAME .
 fan.info.heat.com IN CNAME .
+fanless.net IN CNAME .
 faokwl.sklepogrodniczy.pl IN CNAME .
 faqtjp.redley.com.br IN CNAME .
 farahatco.actonservice.com IN CNAME .
@@ -13817,7 +13822,6 @@ fptls2.com IN CNAME .
 fptls3.com IN CNAME .
 fptls4.com IN CNAME .
 fptls.com IN CNAME .
-fpt.microsoft.com IN CNAME .
 fp-upload.dun.163.com IN CNAME .
 fpvrgm.blackforestdecor.com IN CNAME .
 fpxewa.ilmeteo.it IN CNAME .
@@ -15716,6 +15720,7 @@ idndlc.kango-oshigoto.jp IN CNAME .
 idqwqm.kkday.com IN CNAME .
 idrivelogistics.actonservice.com IN CNAME .
 ids.actonservice.com IN CNAME .
+idsmodules.com IN CNAME .
 idstatus.sky.com IN CNAME .
 iduk.barcodesgroup.com IN CNAME .
 id-ward.com IN CNAME .
@@ -21922,6 +21927,7 @@ metric.duluthtrading.com IN CNAME .
 metric.emerils.com IN CNAME .
 metric.fatcatalog.com IN CNAME .
 metric.foodbusinessnews.net IN CNAME .
+metricfresh.com IN CNAME .
 metric.fxdd.com IN CNAME .
 metric.genesis.es IN CNAME .
 metric.golfnow.com IN CNAME .
@@ -25274,6 +25280,7 @@ panoramicplane.com IN CNAME .
 pa.opqr.co IN CNAME .
 papamug.com IN CNAME .
 papemz.rcwilley.com IN CNAME .
+pa.pinpoll.com IN CNAME .
 papi.stylar.ai IN CNAME .
 pappagallu.onefootball.com IN CNAME .
 paqqlk.motatos.de IN CNAME .
@@ -25312,6 +25319,7 @@ partnersuccess.cisco.com IN CNAME .
 partnersuccessmetrics.cisco.com IN CNAME .
 partnerwith.us.streetbond.com IN CNAME .
 partplanes.com IN CNAME .
+partycharge.com IN CNAME .
 passivepolo.com IN CNAME .
 passwordbyte.com IN CNAME .
 pa-stats.encore.dev IN CNAME .
@@ -32389,6 +32397,7 @@ s.northumberlandnews.com IN CNAME .
 snowflake.qq.com IN CNAME .
 snowman.odencat.com IN CNAME .
 snowmentor.com IN CNAME .
+snowpeaksoftware.com IN CNAME .
 snowplowjs.darwin.cx IN CNAME .
 snprxx.wwfmarket.com IN CNAME .
 snptrk.com IN CNAME .
@@ -32434,6 +32443,7 @@ solidscape.actonservice.com IN CNAME .
 solidsub.com IN CNAME .
 solmax.actonservice.com IN CNAME .
 solosduetstrios.com IN CNAME .
+solsticeblack.com IN CNAME .
 solucionesreales.americanexpress.es IN CNAME .
 solution.agc-chemicals.com IN CNAME .
 solution.resonac.com IN CNAME .
@@ -32754,6 +32764,7 @@ sonar6-yyz1-1.xx.fbcdn.net.iberostar.com IN CNAME .
 s-onetag.com IN CNAME .
 soneticscorp.actonservice.com IN CNAME .
 songsterritory.com IN CNAME .
+sonicsessions.net IN CNAME .
 so.opentable.com IN CNAME .
 so.opentable.co.uk IN CNAME .
 soothingglade.com IN CNAME .
@@ -33989,6 +34000,7 @@ stats.evenchilada.com IN CNAME .
 stats.executebig.org IN CNAME .
 stats.exploratv.ca IN CNAME .
 stats.extendedstayamerica.com IN CNAME .
+stats.externulls.com IN CNAME .
 stats.extramilefloorcare.com IN CNAME .
 stats.eyehelp.co IN CNAME .
 stats.fabiofranchino.com IN CNAME .
@@ -35498,7 +35510,6 @@ targetemsecure.blob.core.windows.net IN CNAME .
 target.eon.de IN CNAME .
 target.ey.com IN CNAME .
 target.farnell.com IN CNAME .
-targetfax.com IN CNAME .
 target.fiatusa.com IN CNAME .
 target.firestonebpco.com IN CNAME .
 target.fleetcardsusa.com IN CNAME .
