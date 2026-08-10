@@ -11333,6 +11333,7 @@ discreetquarter.com
 dispatchunique.com
 displaymaxmerchandising.actonservice.com
 di.spreadmorelove.ch
+distantflame.com
 distiller.kano.link
 distillery.wistia.com
 distilltable.com
@@ -17969,6 +17970,7 @@ kiqwil.l-m.co.jp
 kirsrn.runway-webstore.com
 kistacity.viessmann.se
 kit22.com
+kitchenbasin.com
 kitchen.juicer.cc
 kitetuning.com
 k.itribe.in
@@ -25503,6 +25505,7 @@ pings.vidpulse.com
 pinptg.milleni.com.tr
 pint-dev-branch.airship.com
 pionmj.companyshop24.de
+pipadvance.com
 pi.pdfjs.express
 pipe-collect.ebu.io
 pipedream.wistia.com
@@ -34922,6 +34925,7 @@ subpixel.4players.de
 subscribe.adpinfo.com
 subscribe.dnv.com
 subscriber.franchiseinsights.com
+subscriberlists.com
 subscriber.smallbusinessstartup.com
 subscribe.verintsystemsinc.com
 subscribe.vistage.com
@@ -34955,6 +34959,7 @@ success.etgroup.ca
 success.getfluid.com
 success.intelligentdemand.com
 success.mapcom.com
+successmenu.com
 success.rhb.com
 success.vertigis.com
 success.vertigisstudio.com
@@ -36209,6 +36214,7 @@ tics.cortex.gg
 tics.seeker.gg
 tics.techdirt.com
 ticvui.alexandani.com
+tidaldrops.com
 tidy.intel.cn
 tidy.intel.co.jp
 tidy.intel.co.kr
@@ -42711,6 +42717,7 @@ sessions.bugsnag.com
 browser.sentry-cdn.com
 appmetrica.yandex.ru
 adservice.google.com
+googleanalytics.com
 *.3px.axp.amazon-adsystem.com
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
@@ -42923,7 +42930,6 @@ adservice.google.com
 *.maws-aax-eu-rtb-adx.amazon-adsystem.com
 *.maws-aax-eu-rtb.amazon-adsystem.com
 *.maws-aax-eu.amazon-adsystem.com
-*.maws-aax-fe-sin.amazon-adsystem.com
 *.maws-aax-fe.amazon-adsystem.com
 *.maws-aax-us-east-rtb-adx.amazon-adsystem.com
 *.maws-aax-us-east-rtb.amazon-adsystem.com
@@ -42981,6 +42987,7 @@ adservice.google.com
 *.sponsored-ads-eu.amazon.se
 *.sponsored-ads-fe.amazon-adsystem.com
 *.sponsored-ads-na.amazon-adsystem.com
+*.sponsored-ads.amazon.ae
 *.sponsored-ads.amazon.ca
 *.sponsored-ads.amazon.co.jp
 *.sponsored-ads.amazon.co.uk
@@ -42988,6 +42995,7 @@ adservice.google.com
 *.sponsored-ads.amazon.com.br
 *.sponsored-ads.amazon.com.mx
 *.sponsored-ads.amazon.com
+*.sponsored-ads.amazon.eg
 *.sponsored-ads.amazon.es
 *.sponsored-ads.amazon.fr
 *.sponsored-ads.amazon.in.alphionsee.in
@@ -45344,7 +45352,6 @@ adservice.google.com
 *.licensingtelemetry-prod.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
-*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net

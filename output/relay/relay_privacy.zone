@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1785994132    ; serial
+                                        1786343671    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -11345,6 +11345,7 @@ discreetquarter.com IN CNAME .
 dispatchunique.com IN CNAME .
 displaymaxmerchandising.actonservice.com IN CNAME .
 di.spreadmorelove.ch IN CNAME .
+distantflame.com IN CNAME .
 distiller.kano.link IN CNAME .
 distillery.wistia.com IN CNAME .
 distilltable.com IN CNAME .
@@ -17981,6 +17982,7 @@ kiqwil.l-m.co.jp IN CNAME .
 kirsrn.runway-webstore.com IN CNAME .
 kistacity.viessmann.se IN CNAME .
 kit22.com IN CNAME .
+kitchenbasin.com IN CNAME .
 kitchen.juicer.cc IN CNAME .
 kitetuning.com IN CNAME .
 k.itribe.in IN CNAME .
@@ -25515,6 +25517,7 @@ pings.vidpulse.com IN CNAME .
 pinptg.milleni.com.tr IN CNAME .
 pint-dev-branch.airship.com IN CNAME .
 pionmj.companyshop24.de IN CNAME .
+pipadvance.com IN CNAME .
 pi.pdfjs.express IN CNAME .
 pipe-collect.ebu.io IN CNAME .
 pipedream.wistia.com IN CNAME .
@@ -34934,6 +34937,7 @@ subpixel.4players.de IN CNAME .
 subscribe.adpinfo.com IN CNAME .
 subscribe.dnv.com IN CNAME .
 subscriber.franchiseinsights.com IN CNAME .
+subscriberlists.com IN CNAME .
 subscriber.smallbusinessstartup.com IN CNAME .
 subscribe.verintsystemsinc.com IN CNAME .
 subscribe.vistage.com IN CNAME .
@@ -34967,6 +34971,7 @@ success.etgroup.ca IN CNAME .
 success.getfluid.com IN CNAME .
 success.intelligentdemand.com IN CNAME .
 success.mapcom.com IN CNAME .
+successmenu.com IN CNAME .
 success.rhb.com IN CNAME .
 success.vertigis.com IN CNAME .
 success.vertigisstudio.com IN CNAME .
@@ -36221,6 +36226,7 @@ tics.cortex.gg IN CNAME .
 tics.seeker.gg IN CNAME .
 tics.techdirt.com IN CNAME .
 ticvui.alexandani.com IN CNAME .
+tidaldrops.com IN CNAME .
 tidy.intel.cn IN CNAME .
 tidy.intel.co.jp IN CNAME .
 tidy.intel.co.kr IN CNAME .
@@ -42723,6 +42729,7 @@ sessions.bugsnag.com IN CNAME .
 browser.sentry-cdn.com IN CNAME .
 appmetrica.yandex.ru IN CNAME .
 adservice.google.com IN CNAME .
+googleanalytics.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.uk IN CNAME .
@@ -42935,7 +42942,6 @@ adservice.google.com IN CNAME .
 *.maws-aax-eu-rtb-adx.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu-rtb.amazon-adsystem.com IN CNAME .
 *.maws-aax-eu.amazon-adsystem.com IN CNAME .
-*.maws-aax-fe-sin.amazon-adsystem.com IN CNAME .
 *.maws-aax-fe.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east-rtb-adx.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east-rtb.amazon-adsystem.com IN CNAME .
@@ -42993,6 +42999,7 @@ adservice.google.com IN CNAME .
 *.sponsored-ads-eu.amazon.se IN CNAME .
 *.sponsored-ads-fe.amazon-adsystem.com IN CNAME .
 *.sponsored-ads-na.amazon-adsystem.com IN CNAME .
+*.sponsored-ads.amazon.ae IN CNAME .
 *.sponsored-ads.amazon.ca IN CNAME .
 *.sponsored-ads.amazon.co.jp IN CNAME .
 *.sponsored-ads.amazon.co.uk IN CNAME .
@@ -43000,6 +43007,7 @@ adservice.google.com IN CNAME .
 *.sponsored-ads.amazon.com.br IN CNAME .
 *.sponsored-ads.amazon.com.mx IN CNAME .
 *.sponsored-ads.amazon.com IN CNAME .
+*.sponsored-ads.amazon.eg IN CNAME .
 *.sponsored-ads.amazon.es IN CNAME .
 *.sponsored-ads.amazon.fr IN CNAME .
 *.sponsored-ads.amazon.in.alphionsee.in IN CNAME .
@@ -45356,7 +45364,6 @@ adservice.google.com IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
-*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .

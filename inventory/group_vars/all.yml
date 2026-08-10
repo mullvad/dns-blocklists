@@ -64,11 +64,11 @@ dns_blocklists_lists:
 
   - name: hagezi-gambling-onlydomains
     type: gambling
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling-onlydomains.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling-onlydomains.txt
 
   - name: hagezi-gambling
     type: gambling
-    url: https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/gambling.txt
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling.txt
   
   - name: firebog-easylist-privacy
     url: https://v.firebog.net/hosts/Easyprivacy.txt
