@@ -10,3 +10,5 @@ adservice.google.com
 *.adservice.google.com
 googleanalytics.com
 *.googleanalytics.com
+google-analytics.com
+*.google-analytics.com
