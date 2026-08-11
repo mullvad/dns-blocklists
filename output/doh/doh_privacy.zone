@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1786343679    ; serial
+                                        1786457949    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -3904,6 +3904,7 @@ abgghj.moustakastoys.gr IN CNAME .
 a.bigtennetwork.com IN CNAME .
 abilityscale.com IN CNAME .
 abilitytoucan.com IN CNAME .
+abilityworkout.com IN CNAME .
 abjectattempt.com IN CNAME .
 abjkfy.muuu.com IN CNAME .
 abjtuq.exoticca.com IN CNAME .
@@ -4156,6 +4157,7 @@ a.cineflix.st IN CNAME .
 aciysf.destockage-fitness.com IN CNAME .
 ac.livelty.com IN CNAME .
 aclordi.actonservice.com IN CNAME .
+acollector.wb.ru IN CNAME .
 ac.prism-world.jp.net IN CNAME .
 acq-au.americanexpress.com IN CNAME .
 acq-hk.americanexpress.com IN CNAME .
@@ -4978,6 +4980,7 @@ amplitude.chess.com IN CNAME .
 ampltd2.medal.tv IN CNAME .
 ampltd.medal.tv IN CNAME .
 ampltd.top.gg IN CNAME .
+ampscamp.net IN CNAME .
 am.siemensplmevents.com IN CNAME .
 ams.lelong.com.my IN CNAME .
 ams.oraclecloud.com IN CNAME .
@@ -5739,6 +5742,7 @@ ans.worldbaseballclassic.com IN CNAME .
 ans.yesnetwork.com IN CNAME .
 antblz.mediaworld.it IN CNAME .
 an.theblaze.com IN CNAME .
+antibot.wildberries.ru IN CNAME .
 antico.openapp.link IN CNAME .
 antitracking.owncast.online IN CNAME .
 antonsystems.actonservice.com IN CNAME .
@@ -7085,6 +7089,7 @@ awaps.yandex.net IN CNAME .
 awaps.yandex.ru IN CNAME .
 awarealley.com IN CNAME .
 awbkht.verktygsproffsen.se IN CNAME .
+a.wb.ru IN CNAME .
 a.weareknitters.com IN CNAME .
 a.weareknitters.co.uk IN CNAME .
 a.weareknitters.de IN CNAME .
@@ -7482,6 +7487,7 @@ bestclimbers.net IN CNAME .
 bestill.help.no IN CNAME .
 bestinfo.bluetrustloans.com IN CNAME .
 bestshoesboot.com IN CNAME .
+bestsportsbra.com IN CNAME .
 besucher.nona.de IN CNAME .
 beta-link.liilix.com IN CNAME .
 betazebra.com IN CNAME .
@@ -11343,6 +11349,7 @@ discover.tenplay.com.au IN CNAME .
 discreetfield.com IN CNAME .
 discreetquarter.com IN CNAME .
 dispatchunique.com IN CNAME .
+dispeldesign.com IN CNAME .
 displaymaxmerchandising.actonservice.com IN CNAME .
 di.spreadmorelove.ch IN CNAME .
 distantflame.com IN CNAME .
@@ -11642,6 +11649,7 @@ d.stay-app.com IN CNAME .
 dsvmgu.snipes.it IN CNAME .
 ds.webprojectslab.com IN CNAME .
 dtag.breadfinancial.com IN CNAME .
+dtasrvr.com IN CNAME .
 dtestpromo.fiat.it IN CNAME .
 dtmssl.bobcat.com IN CNAME .
 dtnmyp.cocotorico.com IN CNAME .
@@ -12018,6 +12026,7 @@ edge.treehousetv.com IN CNAME .
 edge.truist.com IN CNAME .
 edge.truistmomentum.com IN CNAME .
 edge.truistsecurities.com IN CNAME .
+edge.venatusmedia.com IN CNAME .
 edge.wnetwork.com IN CNAME .
 ediemidnightzombies.com IN CNAME .
 ed.large.be IN CNAME .
@@ -15092,6 +15101,7 @@ grow.business.xerox.com IN CNAME .
 grow.national.biz IN CNAME .
 growth-channel.net IN CNAME .
 growthmodemarketing.actonservice.com IN CNAME .
+grow.urbandictionary.network IN CNAME .
 grumpydime.com IN CNAME .
 grumpydrawer.com IN CNAME .
 grxokm.kirstein.de IN CNAME .
@@ -15721,6 +15731,7 @@ idndlc.kango-oshigoto.jp IN CNAME .
 idqwqm.kkday.com IN CNAME .
 idrivelogistics.actonservice.com IN CNAME .
 ids.actonservice.com IN CNAME .
+idsequoia.ai IN CNAME .
 idsmodules.com IN CNAME .
 idstatus.sky.com IN CNAME .
 iduk.barcodesgroup.com IN CNAME .
@@ -25967,6 +25978,7 @@ pr.cision.fi IN CNAME .
 prd-collector-anon.ex.co IN CNAME .
 prd-collector-platform.ex.co IN CNAME .
 prealpha.go.levelbank.com IN CNAME .
+prebid.loopmertb.com IN CNAME .
 preciousplanes.com IN CNAME .
 precisear.com IN CNAME .
 predictplate.com IN CNAME .
@@ -26216,6 +26228,7 @@ pulsaredit.com IN CNAME .
 pulsatingmeadow.com IN CNAME .
 pulse.delta.com IN CNAME .
 pulse.ecmapps.com IN CNAME .
+pulse.genki.world IN CNAME .
 pulse.munsonhealthcare.org IN CNAME .
 pulse.shopflo.com IN CNAME .
 pumlmb.netcologne.de IN CNAME .
@@ -42725,11 +42738,19 @@ zz.bdstatic.com IN CNAME .
 zzqyxd.smartpozyczka.pl IN CNAME .
 zzsqqx.shopjapan.co.jp IN CNAME .
 analytics.google.com IN CNAME .
+*.analytics.google.com IN CNAME .
 sessions.bugsnag.com IN CNAME .
+*.sessions.bugsnag.com IN CNAME .
 browser.sentry-cdn.com IN CNAME .
+*.browser.sentry-cdn.com IN CNAME .
 appmetrica.yandex.ru IN CNAME .
+*.appmetrica.yandex.ru IN CNAME .
 adservice.google.com IN CNAME .
+*.adservice.google.com IN CNAME .
 googleanalytics.com IN CNAME .
+*.googleanalytics.com IN CNAME .
+google-analytics.com IN CNAME .
+*.google-analytics.com IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.uk IN CNAME .

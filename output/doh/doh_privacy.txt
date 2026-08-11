@@ -3892,6 +3892,7 @@ abgghj.moustakastoys.gr
 a.bigtennetwork.com
 abilityscale.com
 abilitytoucan.com
+abilityworkout.com
 abjectattempt.com
 abjkfy.muuu.com
 abjtuq.exoticca.com
@@ -4144,6 +4145,7 @@ a.cineflix.st
 aciysf.destockage-fitness.com
 ac.livelty.com
 aclordi.actonservice.com
+acollector.wb.ru
 ac.prism-world.jp.net
 acq-au.americanexpress.com
 acq-hk.americanexpress.com
@@ -4966,6 +4968,7 @@ amplitude.chess.com
 ampltd2.medal.tv
 ampltd.medal.tv
 ampltd.top.gg
+ampscamp.net
 am.siemensplmevents.com
 ams.lelong.com.my
 ams.oraclecloud.com
@@ -5727,6 +5730,7 @@ ans.worldbaseballclassic.com
 ans.yesnetwork.com
 antblz.mediaworld.it
 an.theblaze.com
+antibot.wildberries.ru
 antico.openapp.link
 antitracking.owncast.online
 antonsystems.actonservice.com
@@ -7073,6 +7077,7 @@ awaps.yandex.net
 awaps.yandex.ru
 awarealley.com
 awbkht.verktygsproffsen.se
+a.wb.ru
 a.weareknitters.com
 a.weareknitters.co.uk
 a.weareknitters.de
@@ -7470,6 +7475,7 @@ bestclimbers.net
 bestill.help.no
 bestinfo.bluetrustloans.com
 bestshoesboot.com
+bestsportsbra.com
 besucher.nona.de
 beta-link.liilix.com
 betazebra.com
@@ -11331,6 +11337,7 @@ discover.tenplay.com.au
 discreetfield.com
 discreetquarter.com
 dispatchunique.com
+dispeldesign.com
 displaymaxmerchandising.actonservice.com
 di.spreadmorelove.ch
 distantflame.com
@@ -11630,6 +11637,7 @@ d.stay-app.com
 dsvmgu.snipes.it
 ds.webprojectslab.com
 dtag.breadfinancial.com
+dtasrvr.com
 dtestpromo.fiat.it
 dtmssl.bobcat.com
 dtnmyp.cocotorico.com
@@ -12006,6 +12014,7 @@ edge.treehousetv.com
 edge.truist.com
 edge.truistmomentum.com
 edge.truistsecurities.com
+edge.venatusmedia.com
 edge.wnetwork.com
 ediemidnightzombies.com
 ed.large.be
@@ -15080,6 +15089,7 @@ grow.business.xerox.com
 grow.national.biz
 growth-channel.net
 growthmodemarketing.actonservice.com
+grow.urbandictionary.network
 grumpydime.com
 grumpydrawer.com
 grxokm.kirstein.de
@@ -15709,6 +15719,7 @@ idndlc.kango-oshigoto.jp
 idqwqm.kkday.com
 idrivelogistics.actonservice.com
 ids.actonservice.com
+idsequoia.ai
 idsmodules.com
 idstatus.sky.com
 iduk.barcodesgroup.com
@@ -25955,6 +25966,7 @@ pr.cision.fi
 prd-collector-anon.ex.co
 prd-collector-platform.ex.co
 prealpha.go.levelbank.com
+prebid.loopmertb.com
 preciousplanes.com
 precisear.com
 predictplate.com
@@ -26204,6 +26216,7 @@ pulsaredit.com
 pulsatingmeadow.com
 pulse.delta.com
 pulse.ecmapps.com
+pulse.genki.world
 pulse.munsonhealthcare.org
 pulse.shopflo.com
 pumlmb.netcologne.de
@@ -42713,11 +42726,19 @@ zz.bdstatic.com
 zzqyxd.smartpozyczka.pl
 zzsqqx.shopjapan.co.jp
 analytics.google.com
+*.analytics.google.com
 sessions.bugsnag.com
+*.sessions.bugsnag.com
 browser.sentry-cdn.com
+*.browser.sentry-cdn.com
 appmetrica.yandex.ru
+*.appmetrica.yandex.ru
 adservice.google.com
+*.adservice.google.com
 googleanalytics.com
+*.googleanalytics.com
+google-analytics.com
+*.google-analytics.com
 *.3px.axp.amazon-adsystem.com
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
