@@ -1,6 +1,12 @@
 analytics.google.com
+*.analytics.google.com
 sessions.bugsnag.com
+*.sessions.bugsnag.com
 browser.sentry-cdn.com
+*.browser.sentry-cdn.com
 appmetrica.yandex.ru
+*.appmetrica.yandex.ru
 adservice.google.com
+*.adservice.google.com
 googleanalytics.com
+*.googleanalytics.com
