@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1786509643    ; serial
+                                        1786596510    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -8407,6 +8407,7 @@ caterpillarsigns.coversandall.com IN CNAME .
 caterpillarsigns.coversandall.com.au IN CNAME .
 caterpillarsigns.coversandall.co.uk IN CNAME .
 caterpillarsigns.coversandall.eu IN CNAME .
+catfront.dianping.com IN CNAME .
 catlanguage.net IN CNAME .
 catracking.cubiq.com IN CNAME .
 catracking.finning.com IN CNAME .
@@ -10471,6 +10472,7 @@ data.gosquared.com IN CNAME .
 data.grandpalladium.palladiumhotelgroup.com IN CNAME .
 data.guest.princess.com IN CNAME .
 data.guide.photobucket.com IN CNAME .
+data.hailuo.ai IN CNAME .
 data.hardrock.palladiumhotelgroup.com IN CNAME .
 data.hello.consumercellular.com IN CNAME .
 data.hk-email.princess.com IN CNAME .
@@ -15337,6 +15339,7 @@ hello.ola.app IN CNAME .
 hello.ops.bpost.be IN CNAME .
 hello.postuler.bpost.be IN CNAME .
 hello.solliciteren.bpost.be IN CNAME .
+hellospur.com IN CNAME .
 hello.staticstuff.net IN CNAME .
 hello.stbpost.be IN CNAME .
 hello.steadyapp.com IN CNAME .
@@ -15611,6 +15614,7 @@ hu-business.vodafone.com IN CNAME .
 hudhno.jdsports.es IN CNAME .
 huechl.paige.com IN CNAME .
 hugupq.selency.fr IN CNAME .
+humbleroots.net IN CNAME .
 humdrumhobbies.com IN CNAME .
 humdrumtouch.com IN CNAME .
 humourspot.com IN CNAME .
@@ -17919,6 +17923,7 @@ kampanja.bhtelecom.ba IN CNAME .
 kampanjat.atea.fi IN CNAME .
 kampanjer.yxvisa.no IN CNAME .
 kape.dataplane.rudderstack.com IN CNAME .
+kartbarriersystem.com IN CNAME .
 kartik.devishetty.com IN CNAME .
 kartik.devishetty.net IN CNAME .
 kattoremontti.ruukki.com IN CNAME .
@@ -21529,6 +21534,7 @@ mas.hronboard.me IN CNAME .
 mas.marsh.com IN CNAME .
 ma.smartplanes.se IN CNAME .
 mas.nth.ch IN CNAME .
+masseurexpress.com IN CNAME .
 massivemark.com IN CNAME .
 master.cifraclub.com.br IN CNAME .
 masterenter.com IN CNAME .
@@ -24049,6 +24055,7 @@ nebulacrescent.com IN CNAME .
 nebulajubilee.com IN CNAME .
 nebulousgarden.com IN CNAME .
 nebulousquasar.com IN CNAME .
+nectarbytes.com IN CNAME .
 nedasco.actonservice.com IN CNAME .
 ned.themarketingscience.com IN CNAME .
 needleaf.com IN CNAME .
@@ -27224,6 +27231,7 @@ rudder-tracking.rudderstack.com IN CNAME .
 ru-go.experian.com IN CNAME .
 rugttt.robinson.com IN CNAME .
 ruhpbn.zhigaojixie.com IN CNAME .
+rum.aliyuncs.com IN CNAME .
 rum.api.intuit.com IN CNAME .
 rum.azioncdn.net IN CNAME .
 rum.azion.com IN CNAME .
@@ -27239,6 +27247,7 @@ rum.ingress.layer0.co IN CNAME .
 rum.layer0.co IN CNAME .
 rum.marquardmedia.hu IN CNAME .
 rum.mauve.eu IN CNAME .
+rum-openway.guance.com IN CNAME .
 rum.optimizely.com IN CNAME .
 rum.perfops.net IN CNAME .
 rumsey.actonservice.com IN CNAME .
@@ -32443,6 +32452,7 @@ soejzg.efe.com.pe IN CNAME .
 soelui.butosklep.pl IN CNAME .
 sofire.bdstatic.com IN CNAME .
 sofire.terabox.app IN CNAME .
+softscales.com IN CNAME .
 soggysponge.com IN CNAME .
 sohiuc.sheego.de IN CNAME .
 soilcontent.com IN CNAME .
@@ -32887,6 +32897,7 @@ spookysleet.com IN CNAME .
 spookystitch.com IN CNAME .
 spoonballoon.com IN CNAME .
 spoonsilk.com IN CNAME .
+sportsclubstat.com IN CNAME .
 sportsnearby.com IN CNAME .
 sportyforum.com IN CNAME .
 spotlersearchanalytics.com IN CNAME .
@@ -37112,6 +37123,7 @@ tracking.cairn.info IN CNAME .
 tracking.campaigns.drax.com IN CNAME .
 tracking.capitalbank.jo IN CNAME .
 tracking.capterra.com IN CNAME .
+tracking.carbonatixaudio.com IN CNAME .
 trackingcareers.accenture.com IN CNAME .
 tracking.care.essentiahealth.org IN CNAME .
 tracking.care.muschealth.org IN CNAME .
@@ -38195,6 +38207,7 @@ tr.dossier-assurance.maaf.fr IN CNAME .
 tr.drh-holding.lvmh.fr IN CNAME .
 treadbun.com IN CNAME .
 tr.easy-offertes.be IN CNAME .
+treatmentforgout.com IN CNAME .
 treatment.grammarly.com IN CNAME .
 treatoceans.com IN CNAME .
 trecker.aklamio.com IN CNAME .
@@ -39379,6 +39392,7 @@ trust.flexpay.io IN CNAME .
 trustid.actonservice.com IN CNAME .
 trustisimportant.fun IN CNAME .
 trust.mitutoyo.com IN CNAME .
+trustmodule.com IN CNAME .
 trust.titanhq.com IN CNAME .
 trust.zebra.com IN CNAME .
 tr.vernede.huilesdolive.fr IN CNAME .
