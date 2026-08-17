@@ -9844,7 +9844,6 @@ cups.republicoftea.com
 curated.fieldtest.cc
 curatedtea.com
 curbminers.com
-curbneon.com
 cure.trueface.org
 curiouschalk.com
 curious.cognyte.com
@@ -17200,6 +17199,7 @@ info.zoomintel.com
 info.zuidema.nl
 ingest.coincodex.com
 ingesteer.services-prod.nsvcs.net
+ingest.in.signoz.cloud
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 in-go.experian.com
@@ -26479,6 +26479,7 @@ quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
 quicksandear.com
+quicktattoo.com
 quicktrick.net
 quidel.actonservice.com
 quietknowledge.com
@@ -39594,6 +39595,7 @@ tw-go.experian.com
 t.whartoncenter.com
 twistairclub.net.anwalt.de
 twistloss.com
+twisty.net
 t.wiz.meilleurtaux.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
@@ -40449,6 +40451,7 @@ vdslnp.highkey.com
 vd-test.net.anwalt.de
 vdvdjf.remotepc.com
 vdzrjr.kenminkyosai.or.jp
+vectorshirt.com
 vedznh.cumhuriyet.com.tr
 velocitypartners.actonservice.com
 velvetquasar.com
@@ -40561,6 +40564,7 @@ views.sikerproducts.com
 views.wioks.com
 vikingclan.kano.link
 vilenexus.com
+violetdemise.com
 vip.agentteam.com.au
 vip.german.ni.com
 vip.gophersport.com
@@ -40646,6 +40650,7 @@ voiply.actonservice.com
 vois.vodafone.com
 volatileprofit.com
 volatilevessel.com
+volumesystem.com
 vonazon.actonservice.com
 v.oney.es
 vonvdn.garden.ne.jp
@@ -40776,6 +40781,7 @@ wa.childrensplace.com
 wa.dailymail.co.uk
 wa.devolksbank.nl
 wa.epson.com
+wafflemakers.net
 wafoub.graindemalice.fr
 wa.gifts.com
 wa.gmx.ch
@@ -41054,6 +41060,7 @@ web.novuna.co.uk
 web.novunapersonalfinance.co.uk
 web.online.monnalisa.com
 web.orionpharma.com
+webpagekit.com
 web-perf.booking.com
 webpixel.smartmeapp.com
 webpushstat.api.engagelab.cc
@@ -41198,6 +41205,7 @@ wepany.tripbeat.com
 wernerelectric.actonservice.com
 wesbgz.travel.co.jp
 westevents.presidio.com
+westsideglobe.com
 wevbgr.vidaxl.it
 wezbvq.heine-shop.nl
 wfmcgd.msccruzeiros.com.br
@@ -43029,6 +43037,7 @@ google-analytics.com
 *.sponsored-ads.amazon.com.au
 *.sponsored-ads.amazon.com.br
 *.sponsored-ads.amazon.com.mx
+*.sponsored-ads.amazon.com.tr
 *.sponsored-ads.amazon.com
 *.sponsored-ads.amazon.eg
 *.sponsored-ads.amazon.es
@@ -44493,6 +44502,12 @@ google-analytics.com
 *.log.tiktokv.com
 *.log.tiktokv.us
 *.log-boot.tiktokv.com
+*.log-dr.tiktokv.com
+*.log-dr16-normal-no1a.tiktokv.eu
+*.log-dr16-normal-useast1a.tiktokv.com
+*.log-dr16-normal-useast5.tiktokv.us
+*.log-dr16-normal-useast8.tiktokv.us
+*.log-dr16-normal-useastred.tiktokv.eu
 *.log-i18n.tiktokv.com
 *.log-phx.tiktokv.com
 *.log-ru.tiktokv.com
@@ -44949,6 +44964,8 @@ google-analytics.com
 *.pnrt-stsdk.vivoglobal.com
 *.prt-stsdk.vivoglobal.com
 *.ro-up.vivoglobal.com
+*.ru-album-api.vivoglobal.com
+*.ru-analyzer-appstore.vivoglobal.com
 *.ru-commonitor-stsdk.vivoglobal.com
 *.ru-comonrt-stsdk.vivoglobal.com
 *.ru-comort-stsdk.vivoglobal.com
@@ -45059,6 +45076,7 @@ google-analytics.com
 *.teams.nel.measure.office.net.cardano.com
 *.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
+*.westeurope-5.in.applicationinsights.azure.com.fiege.de
 *.collector.azure.eaglex.ic.gov
 *.auc-visio-telemetry.officeapps.live.com
 *.brc-visio-telemetry.officeapps.live.com
@@ -45339,7 +45357,6 @@ google-analytics.com
 *.irreverselookuptm.trafficmanager.net
 *.ism-telemetry.trafficmanager.net
 *.legacywatson.trafficmanager.net
-*.o365diagtelemetry.trafficmanager.net
 *.office-events-data.trafficmanager.net
 *.oms-analytics.trafficmanager.net
 *.pixel-sync.trafficmanager.net
@@ -45491,7 +45508,6 @@ google-analytics.com
 *.ip-info.ff.avast.sec.miui.com
 *.streamback.ff.avast.sec.miui.com
 *.cse.avlyun.sec.miui.com
-*.log-abroad.avlyun.sec.miui.com
 *.logupdate.avlyun.sec.miui.com
 *.update.avlyun.sec.miui.com
 *.auth.be.sec.miui.com

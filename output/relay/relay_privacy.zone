@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1786596510    ; serial
+                                        1786945866    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9856,7 +9856,6 @@ cups.republicoftea.com IN CNAME .
 curated.fieldtest.cc IN CNAME .
 curatedtea.com IN CNAME .
 curbminers.com IN CNAME .
-curbneon.com IN CNAME .
 cure.trueface.org IN CNAME .
 curiouschalk.com IN CNAME .
 curious.cognyte.com IN CNAME .
@@ -17212,6 +17211,7 @@ info.zoomintel.com IN CNAME .
 info.zuidema.nl IN CNAME .
 ingest.coincodex.com IN CNAME .
 ingesteer.services-prod.nsvcs.net IN CNAME .
+ingest.in.signoz.cloud IN CNAME .
 ingest.make.rvapps.io IN CNAME .
 ingest.make.rvohealth.com IN CNAME .
 in-go.experian.com IN CNAME .
@@ -26491,6 +26491,7 @@ quicklyedit.com IN CNAME .
 quick.openapp.link IN CNAME .
 quickpcfixer.click IN CNAME .
 quicksandear.com IN CNAME .
+quicktattoo.com IN CNAME .
 quicktrick.net IN CNAME .
 quidel.actonservice.com IN CNAME .
 quietknowledge.com IN CNAME .
@@ -39606,6 +39607,7 @@ tw-go.experian.com IN CNAME .
 t.whartoncenter.com IN CNAME .
 twistairclub.net.anwalt.de IN CNAME .
 twistloss.com IN CNAME .
+twisty.net IN CNAME .
 t.wiz.meilleurtaux.com IN CNAME .
 twiz.wizaly.co.uk IN CNAME .
 twiz.wizaly.fr IN CNAME .
@@ -40461,6 +40463,7 @@ vdslnp.highkey.com IN CNAME .
 vd-test.net.anwalt.de IN CNAME .
 vdvdjf.remotepc.com IN CNAME .
 vdzrjr.kenminkyosai.or.jp IN CNAME .
+vectorshirt.com IN CNAME .
 vedznh.cumhuriyet.com.tr IN CNAME .
 velocitypartners.actonservice.com IN CNAME .
 velvetquasar.com IN CNAME .
@@ -40573,6 +40576,7 @@ views.sikerproducts.com IN CNAME .
 views.wioks.com IN CNAME .
 vikingclan.kano.link IN CNAME .
 vilenexus.com IN CNAME .
+violetdemise.com IN CNAME .
 vip.agentteam.com.au IN CNAME .
 vip.german.ni.com IN CNAME .
 vip.gophersport.com IN CNAME .
@@ -40658,6 +40662,7 @@ voiply.actonservice.com IN CNAME .
 vois.vodafone.com IN CNAME .
 volatileprofit.com IN CNAME .
 volatilevessel.com IN CNAME .
+volumesystem.com IN CNAME .
 vonazon.actonservice.com IN CNAME .
 v.oney.es IN CNAME .
 vonvdn.garden.ne.jp IN CNAME .
@@ -40788,6 +40793,7 @@ wa.childrensplace.com IN CNAME .
 wa.dailymail.co.uk IN CNAME .
 wa.devolksbank.nl IN CNAME .
 wa.epson.com IN CNAME .
+wafflemakers.net IN CNAME .
 wafoub.graindemalice.fr IN CNAME .
 wa.gifts.com IN CNAME .
 wa.gmx.ch IN CNAME .
@@ -41066,6 +41072,7 @@ web.novuna.co.uk IN CNAME .
 web.novunapersonalfinance.co.uk IN CNAME .
 web.online.monnalisa.com IN CNAME .
 web.orionpharma.com IN CNAME .
+webpagekit.com IN CNAME .
 web-perf.booking.com IN CNAME .
 webpixel.smartmeapp.com IN CNAME .
 webpushstat.api.engagelab.cc IN CNAME .
@@ -41210,6 +41217,7 @@ wepany.tripbeat.com IN CNAME .
 wernerelectric.actonservice.com IN CNAME .
 wesbgz.travel.co.jp IN CNAME .
 westevents.presidio.com IN CNAME .
+westsideglobe.com IN CNAME .
 wevbgr.vidaxl.it IN CNAME .
 wezbvq.heine-shop.nl IN CNAME .
 wfmcgd.msccruzeiros.com.br IN CNAME .
@@ -43041,6 +43049,7 @@ google-analytics.com IN CNAME .
 *.sponsored-ads.amazon.com.au IN CNAME .
 *.sponsored-ads.amazon.com.br IN CNAME .
 *.sponsored-ads.amazon.com.mx IN CNAME .
+*.sponsored-ads.amazon.com.tr IN CNAME .
 *.sponsored-ads.amazon.com IN CNAME .
 *.sponsored-ads.amazon.eg IN CNAME .
 *.sponsored-ads.amazon.es IN CNAME .
@@ -44505,6 +44514,12 @@ google-analytics.com IN CNAME .
 *.log.tiktokv.com IN CNAME .
 *.log.tiktokv.us IN CNAME .
 *.log-boot.tiktokv.com IN CNAME .
+*.log-dr.tiktokv.com IN CNAME .
+*.log-dr16-normal-no1a.tiktokv.eu IN CNAME .
+*.log-dr16-normal-useast1a.tiktokv.com IN CNAME .
+*.log-dr16-normal-useast5.tiktokv.us IN CNAME .
+*.log-dr16-normal-useast8.tiktokv.us IN CNAME .
+*.log-dr16-normal-useastred.tiktokv.eu IN CNAME .
 *.log-i18n.tiktokv.com IN CNAME .
 *.log-phx.tiktokv.com IN CNAME .
 *.log-ru.tiktokv.com IN CNAME .
@@ -44961,6 +44976,8 @@ google-analytics.com IN CNAME .
 *.pnrt-stsdk.vivoglobal.com IN CNAME .
 *.prt-stsdk.vivoglobal.com IN CNAME .
 *.ro-up.vivoglobal.com IN CNAME .
+*.ru-album-api.vivoglobal.com IN CNAME .
+*.ru-analyzer-appstore.vivoglobal.com IN CNAME .
 *.ru-commonitor-stsdk.vivoglobal.com IN CNAME .
 *.ru-comonrt-stsdk.vivoglobal.com IN CNAME .
 *.ru-comort-stsdk.vivoglobal.com IN CNAME .
@@ -45071,6 +45088,7 @@ google-analytics.com IN CNAME .
 *.teams.nel.measure.office.net.cardano.com IN CNAME .
 *.insights.cloud.microsoft IN CNAME .
 *.measure.office.net.edgesuite.net IN CNAME .
+*.westeurope-5.in.applicationinsights.azure.com.fiege.de IN CNAME .
 *.collector.azure.eaglex.ic.gov IN CNAME .
 *.auc-visio-telemetry.officeapps.live.com IN CNAME .
 *.brc-visio-telemetry.officeapps.live.com IN CNAME .
@@ -45351,7 +45369,6 @@ google-analytics.com IN CNAME .
 *.irreverselookuptm.trafficmanager.net IN CNAME .
 *.ism-telemetry.trafficmanager.net IN CNAME .
 *.legacywatson.trafficmanager.net IN CNAME .
-*.o365diagtelemetry.trafficmanager.net IN CNAME .
 *.office-events-data.trafficmanager.net IN CNAME .
 *.oms-analytics.trafficmanager.net IN CNAME .
 *.pixel-sync.trafficmanager.net IN CNAME .
@@ -45503,7 +45520,6 @@ google-analytics.com IN CNAME .
 *.ip-info.ff.avast.sec.miui.com IN CNAME .
 *.streamback.ff.avast.sec.miui.com IN CNAME .
 *.cse.avlyun.sec.miui.com IN CNAME .
-*.log-abroad.avlyun.sec.miui.com IN CNAME .
 *.logupdate.avlyun.sec.miui.com IN CNAME .
 *.update.avlyun.sec.miui.com IN CNAME .
 *.auth.be.sec.miui.com IN CNAME .
