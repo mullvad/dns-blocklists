@@ -62,6 +62,10 @@ dns_blocklists_lists:
     url: https://nsfw.oisd.nl/rpz
     type: adult
 
+  - name: mullvad-adult-blocklist
+    type: adult
+    content: "{{ lookup('ansible.builtin.file', 'files/adult') }}"
+
   - name: hagezi-gambling-onlydomains
     type: gambling
     url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling-onlydomains.txt
