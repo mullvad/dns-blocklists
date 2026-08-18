@@ -55,6 +55,7 @@ We currently use these advertising blocklists with our service:
 
 We currently use this Adult content blocklist for our service:
 - oisd-nsfw: https://nsfw.oisd.nl/rpz
+- mullvad-adult-blocklist: custom file
 
 ### Gambling
 
