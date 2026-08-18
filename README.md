@@ -50,6 +50,7 @@ We currently use these advertising blocklists with our service:
 - AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
 - hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
 - mullvad-ads-blocklist: custom file
+- adguard-filters-mobile: https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
 
 ### Adult content 
 

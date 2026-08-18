@@ -141,12 +141,33 @@
               - "$"
               - "@"
               - '\$TTL'
+              - '!'
+              - '/'
+              - ':'
 
         - name: Replace comments with ' ' from all lines
           ansible.builtin.replace:
             path: "{{ item.path }}"
             regexp: '#.*$'
             replace: ''
+          loop: "{{ _find_lists.files }}"
+          loop_control:
+            label: "{{ item.path }}"
+
+        - name: Replace || and ^ with ''
+          ansible.builtin.replace:
+            path: "{{ item.path }}"
+            regexp: '(^\|\|)|(\$.*)|(\^.*)'
+            replace: ''
+          loop: "{{ _find_lists.files }}"
+          loop_control:
+            label: "{{ item.path }}"
+
+        - name: Remove lines with *. in the middle, and /.* at the end of a URL
+          ansible.builtin.lineinfile:
+            path: "{{ item.path }}"
+            regexp: '(.\*.*)|(\/.*)'
+            state: absent
           loop: "{{ _find_lists.files }}"
           loop_control:
             label: "{{ item.path }}"

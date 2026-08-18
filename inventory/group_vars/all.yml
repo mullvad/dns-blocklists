@@ -58,6 +58,10 @@ dns_blocklists_lists:
     type: adblock
     content: "{{ lookup('ansible.builtin.file', 'files/adblock') }}"
 
+  - name: adguard-filters-mobile
+    type: adblock
+    url: https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
+
   - name: oisd-nsfw
     url: https://nsfw.oisd.nl/rpz
     type: adult
