@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1787118266    ; serial
+                                        1787204218    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7322,6 +7322,7 @@ balloonbelieve.com IN CNAME .
 ballsbanana.com IN CNAME .
 b.allsecur.nl IN CNAME .
 ballymoregroup.actonservice.com IN CNAME .
+balsamicpixels.com IN CNAME .
 bambee.actonservice.com IN CNAME .
 bananabarrel.com IN CNAME .
 banana.le.com IN CNAME .
@@ -7456,6 +7457,7 @@ bears.daigostudio.com IN CNAME .
 beat.yourtv.jp IN CNAME .
 beaumont.actonservice.com IN CNAME .
 beautifulrope.com IN CNAME .
+beautylulu.com IN CNAME .
 bebpon.zetronix.com IN CNAME .
 becanium.com IN CNAME .
 becomemummy.com IN CNAME .
@@ -7557,6 +7559,7 @@ bigcustomernetwork.actonservice.com IN CNAME .
 bigdata.clarin.com IN CNAME .
 bigfishapparel.com IN CNAME .
 biggerbling.com IN CNAME .
+bighornbasin.net IN CNAME .
 bigwetbrush.com IN CNAME .
 bigworldfashion.com IN CNAME .
 b.iheart.southwest.com IN CNAME .
@@ -8979,6 +8982,7 @@ coatfood.com IN CNAME .
 cobaltoverture.com IN CNAME .
 cobweb.actonservice.com IN CNAME .
 cockpitdcbaima.carte-gr.total.fr IN CNAME .
+cocoacafes.com IN CNAME .
 cod.bitrec.com IN CNAME .
 coddledcats.com IN CNAME .
 code.randomhouse.com IN CNAME .
@@ -10205,6 +10209,7 @@ da.maif.fr IN CNAME .
 damdoor.com IN CNAME .
 dampdock.com IN CNAME .
 d.analyticsmania.com IN CNAME .
+dancingmarmot.com IN CNAME .
 dandydune.com IN CNAME .
 dandyglow.com IN CNAME .
 da.netease.com IN CNAME .
@@ -11845,6 +11850,7 @@ ea.reunica.com IN CNAME .
 earnbaht.com IN CNAME .
 ea.roxy.eu IN CNAME .
 earthlybuzz.com IN CNAME .
+earthsauce.com IN CNAME .
 earthups.com IN CNAME .
 earthyfarm.com IN CNAME .
 ea.sadyr.es IN CNAME .
@@ -13618,6 +13624,7 @@ fishersfinds.com IN CNAME .
 fishing.daigostudio.com IN CNAME .
 fishingtoolsbox.com IN CNAME .
 fishspies.com IN CNAME .
+fitgreatest.com IN CNAME .
 fitnessmapper.com IN CNAME .
 fitwithalpine.com IN CNAME .
 fivesidedsquare.com IN CNAME .
@@ -15361,6 +15368,7 @@ healthier.luminishealth.org IN CNAME .
 health.info.baptisthealth.com IN CNAME .
 health-metrics-api.setapp.com IN CNAME .
 healthroundprince.com IN CNAME .
+healthyclad.com IN CNAME .
 heap-api.com IN CNAME .
 heap.drop.com IN CNAME .
 hearob.klix.ba IN CNAME .
@@ -26580,7 +26588,6 @@ quickkoala.io IN CNAME .
 quicklyedit.com IN CNAME .
 quick.openapp.link IN CNAME .
 quickpcfixer.click IN CNAME .
-quicktattoo.com IN CNAME .
 quicktrick.net IN CNAME .
 quidel.actonservice.com IN CNAME .
 quietknowledge.com IN CNAME .
