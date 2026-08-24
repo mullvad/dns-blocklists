@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1787204010    ; serial
+                                        1787548224    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4154,6 +4154,7 @@ acidicstraw.com IN CNAME .
 acidpigs.com IN CNAME .
 a.cineflix.st IN CNAME .
 aciysf.destockage-fitness.com IN CNAME .
+acjs.aliyun.com IN CNAME .
 ac.livelty.com IN CNAME .
 aclordi.actonservice.com IN CNAME .
 acollector.wb.ru IN CNAME .
@@ -4674,6 +4675,7 @@ afcv.champ-shop.com IN CNAME .
 afdbwq.blivakker.no IN CNAME .
 af.eficads.com IN CNAME .
 afep.pivn.shop IN CNAME .
+afeteforfood.com IN CNAME .
 affa8.hikkoshi-master.com IN CNAME .
 affectionknit.com IN CNAME .
 afficv.lettuce.co.jp IN CNAME .
@@ -5333,6 +5335,7 @@ analytics.makro.be IN CNAME .
 analytics.makro.pt IN CNAME .
 analytics.mambaui.com IN CNAME .
 analytics.martinandosa.com IN CNAME .
+analytics.maskyoo.net IN CNAME .
 analytics.massivwerthaus.at IN CNAME .
 analytics.matchbin.com IN CNAME .
 analytics.maxroll.gg IN CNAME .
@@ -7332,6 +7335,7 @@ bandboxprints.com IN CNAME .
 banks.adpinfo.com IN CNAME .
 bank.svb.com IN CNAME .
 banner.appsflyersdk.com IN CNAME .
+bannerave.com IN CNAME .
 banstat.nadavi.net IN CNAME .
 bapages.carte-gr.total.fr IN CNAME .
 barbarousbase.com IN CNAME .
@@ -7452,6 +7456,7 @@ beam.mjhlifesciences.com IN CNAME .
 beam.telex.hu IN CNAME .
 beamvolcano.com IN CNAME .
 beancontrol.com IN CNAME .
+beandelight.com IN CNAME .
 beanworks.actonservice.com IN CNAME .
 bears.daigostudio.com IN CNAME .
 beat.yourtv.jp IN CNAME .
@@ -8139,6 +8144,7 @@ buoypinger-app.sapsailing.com IN CNAME .
 bup.bankofamerica.com IN CNAME .
 burgersalt.com IN CNAME .
 burnbubble.com IN CNAME .
+burningclock.com IN CNAME .
 burnswhite.actonservice.com IN CNAME .
 businessaffiliate.americanexpress.com IN CNAME .
 business-cards.americanexpress.com IN CNAME .
@@ -8371,6 +8377,7 @@ card.getgifted.com IN CNAME .
 cardinalretirement.actonservice.com IN CNAME .
 cardmethod.com IN CNAME .
 card.pingpro.com IN CNAME .
+cardproducer.com IN CNAME .
 careerconnect.epoise.com IN CNAME .
 careers.coniferhealth.com IN CNAME .
 care.excellence.kaweahhealth.org IN CNAME .
@@ -15669,6 +15676,7 @@ htqfxh.vuch.cz IN CNAME .
 htrace.wetvinfo.com IN CNAME .
 httr.redskins.com IN CNAME .
 huaxiang.eastmoney.com IN CNAME .
+hubcapcafe.net IN CNAME .
 hubert.branch.rocks IN CNAME .
 hub.firestonecompleteautocare.com IN CNAME .
 hub.hubfinancial.com IN CNAME .
@@ -17280,6 +17288,7 @@ ingesteer.services-prod.nsvcs.net IN CNAME .
 ingest.in.signoz.cloud IN CNAME .
 ingest.make.rvapps.io IN CNAME .
 ingest.make.rvohealth.com IN CNAME .
+ingest.promptwatch.com IN CNAME .
 in-go.experian.com IN CNAME .
 ingredients.firmenich.com IN CNAME .
 ingress.linktr.ee IN CNAME .
@@ -18371,6 +18380,7 @@ leadtracking.plumvoice.com IN CNAME .
 leafpilot.com IN CNAME .
 leak.welnes.online IN CNAME .
 leaplunchroom.com IN CNAME .
+leapquick.com IN CNAME .
 learn.aiu.edu.au IN CNAME .
 learn.altsourcesoftware.com IN CNAME .
 learn.amllp.com IN CNAME .
@@ -19639,6 +19649,7 @@ lord.actonservice.com IN CNAME .
 lordofthesuperfrogs.com IN CNAME .
 lorenzourban.com IN CNAME .
 losslace.com IN CNAME .
+lostwaxlab.com IN CNAME .
 lotte.myomee.com IN CNAME .
 loudlunch.com IN CNAME .
 loveeveryday.brighterkind.com IN CNAME .
@@ -24410,6 +24421,7 @@ nova.dice.net IN CNAME .
 nova-healthcare.actonservice.com IN CNAME .
 novarecoverycenter.actonservice.com IN CNAME .
 novaseekers.com IN CNAME .
+novazen.net IN CNAME .
 novedades.telecomfibercorp.com.ar IN CNAME .
 nowaymail.com IN CNAME .
 now.catersource.com IN CNAME .
@@ -24973,6 +24985,7 @@ online.hnoexpo.com IN CNAME .
 online.hsrexpo.com IN CNAME .
 onlineis.actonservice.com IN CNAME .
 online.jtiadvance.co.uk IN CNAME .
+onlinemediahelper.com IN CNAME .
 online-mt-com-455208869.p06.elqsandbox.com IN CNAME .
 online.rwdls.com IN CNAME .
 online.rwdstco.com IN CNAME .
@@ -25586,6 +25599,7 @@ phoneresult.com IN CNAME .
 phonetrack.hukumkaikka.in IN CNAME .
 photography.hursey.com IN CNAME .
 photohints.com IN CNAME .
+photosubscribe.com IN CNAME .
 phpmyadmin.toolmonger.net.jumia.co.tz IN CNAME .
 phpstat.cntcm.com.cn IN CNAME .
 phsmobile.actonservice.com IN CNAME .
@@ -25996,6 +26010,7 @@ poeticpackage.com IN CNAME .
 pointdigestion.com IN CNAME .
 pointlesspocket.com IN CNAME .
 pointlessprofit.com IN CNAME .
+pointsshare.com IN CNAME .
 poisedfuel.com IN CNAME .
 poisedpig.com IN CNAME .
 poisonoussnakes.com IN CNAME .
@@ -26659,6 +26674,7 @@ racemanager-app.sapsailing.com IN CNAME .
 rackforstorage.com IN CNAME .
 rac.ruutu.fi IN CNAME .
 radar.imgsmail.ru IN CNAME .
+radar.wizzo.media IN CNAME .
 radexports.com IN CNAME .
 radiantcanopy.com IN CNAME .
 radiateprose.com IN CNAME .
@@ -26681,7 +26697,6 @@ ralf.curvo.eu IN CNAME .
 rambunctiousflock.com IN CNAME .
 rampjs-cdn.system1.com IN CNAME .
 ramp.purch.com IN CNAME .
-randisphotos.com IN CNAME .
 randstad.epoise.com IN CNAME .
 randstadtest.epoise.com IN CNAME .
 rangecake.com IN CNAME .
@@ -43711,6 +43726,7 @@ google-analytics.com IN CNAME .
 *.eic-ngfts.lge.com IN CNAME .
 *.eic-qt2-ngfts.lge.com IN CNAME .
 *.kic-ngfts.lge.com IN CNAME .
+*.kic-qt2-ngfts.lge.com IN CNAME .
 *.qt2-ngfts.lge.com IN CNAME .
 *.ruc-ngfts.lge.com IN CNAME .
 *.ad.lgsmartad.com IN CNAME .
