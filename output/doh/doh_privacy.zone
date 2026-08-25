@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1787548224    ; serial
+                                        1787659990    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5251,6 +5251,7 @@ analytics.geekyminds.net IN CNAME .
 analytics.genial.ly IN CNAME .
 analytics.geoutletstore.com IN CNAME .
 analytics.gestore.com IN CNAME .
+analytics.getlimy.ai IN CNAME .
 analytics.getshogun.com IN CNAME .
 analytics.getsnworks.com IN CNAME .
 analytics.gewaterheater.com IN CNAME .
@@ -5597,6 +5598,7 @@ analytics.underarmour.com IN CNAME .
 analytics.unibuddy.co IN CNAME .
 analytics.unilogcorp.com IN CNAME .
 analytics.unive.nl IN CNAME .
+analytics.upress.io IN CNAME .
 analytics.uwindsor.ca IN CNAME .
 analytics.uxmetrics.com IN CNAME .
 analytics.valheimgamer.com IN CNAME .
@@ -7382,6 +7384,7 @@ bc34.wijnvoordeel.nl IN CNAME .
 bcanl.bca-autoveiling.nl IN CNAME .
 bcc-ltd.actonservice.com IN CNAME .
 bcdllh.esprit.co.uk IN CNAME .
+bcdn-16c9d93d.bankofscotland.co.uk IN CNAME .
 bcfgwi.skidxb.com IN CNAME .
 bcfhva.tradingpost.com.au IN CNAME .
 bch8.destinia.co IN CNAME .
@@ -7459,6 +7462,7 @@ beancontrol.com IN CNAME .
 beandelight.com IN CNAME .
 beanworks.actonservice.com IN CNAME .
 bears.daigostudio.com IN CNAME .
+beastbook.net IN CNAME .
 beat.yourtv.jp IN CNAME .
 beaumont.actonservice.com IN CNAME .
 beautifulrope.com IN CNAME .
@@ -8580,6 +8584,7 @@ charms.pugster.com IN CNAME .
 chartec.actonservice.com IN CNAME .
 chat.forddirectdealers.com IN CNAME .
 ch.credithypo.com IN CNAME .
+check2.bankofscotland.co.uk IN CNAME .
 check2.lloydsbank.co.uk IN CNAME .
 check3.tiaa.org IN CNAME .
 check.frbservices.org IN CNAME .
@@ -9861,6 +9866,7 @@ ctx.citiservi.es IN CNAME .
 ctyjsf.cellphones.com.vn IN CNAME .
 ctyojp.kibek.de IN CNAME .
 cubchannel.com IN CNAME .
+cubeface.com IN CNAME .
 cubeglobal.net IN CNAME .
 cubepins.com IN CNAME .
 cubicmandarin.com IN CNAME .
@@ -10088,6 +10094,7 @@ d1f0tbk1v3e25u.cloudfront.net IN CNAME .
 d1get58iwmjrxx.cloudfront.net IN CNAME .
 d1gp8joe0evc8s.cloudfront.net IN CNAME .
 d1hyarjnwqrenh.cloudfront.net IN CNAME .
+d1jbmblqtpfad4.cloudfront.net IN CNAME .
 d1k8sb4xbepqao.cloudfront.net IN CNAME .
 d1l6p2sc9645hc.cloudfront.net IN CNAME .
 d1m6l9dfulcyw7.cloudfront.net IN CNAME .
@@ -10954,6 +10961,7 @@ def.bayer04.de IN CNAME .
 defeatedbadge.com IN CNAME .
 defensevest.com IN CNAME .
 defygravity.convio.com IN CNAME .
+defyingbelief.com IN CNAME .
 de-go.experian.com IN CNAME .
 degreechariot.com IN CNAME .
 degree.insead.edu IN CNAME .
@@ -11164,6 +11172,7 @@ digital.opsbase.com IN CNAME .
 digital.setpointis.com IN CNAME .
 digitalworkplace.ricoh.fr IN CNAME .
 digithalo.com IN CNAME .
+digitizedcopy.com IN CNAME .
 dig.lianjia.com IN CNAME .
 dig.ultimedia.com IN CNAME .
 dii1.bitiba.be IN CNAME .
@@ -11558,6 +11567,7 @@ dogcollarfavourbluff.com IN CNAME .
 doh.cq0.co IN CNAME .
 dohmen.actonservice.com IN CNAME .
 dollardelta.com IN CNAME .
+dollarpuzzle.com IN CNAME .
 dollarthrill.com IN CNAME .
 dolphin.deliver.ifeng.com IN CNAME .
 dolphinsrule.com IN CNAME .
@@ -11659,6 +11669,7 @@ droidwiz.com IN CNAME .
 drollwharf.com IN CNAME .
 d.rp-online.de IN CNAME .
 drugtest.questdiagnostics.com IN CNAME .
+drumfills.com IN CNAME .
 druzja.canmart.co.kr IN CNAME .
 drvive.lamoda.ru IN CNAME .
 drydrum.com IN CNAME .
@@ -13481,6 +13492,7 @@ faucetfoot.com IN CNAME .
 faucons.viessmann.fr IN CNAME .
 faultycanvas.com IN CNAME .
 fauzxn.hairlavie.com IN CNAME .
+faxcoupons.com IN CNAME .
 fazphz.theiconic.com.au IN CNAME .
 fb.echovisuals.com IN CNAME .
 fbjpji.europcar.es IN CNAME .
@@ -14810,6 +14822,7 @@ go.lexuscompletesubscription.com IN CNAME .
 go.lezsingles.ignite.technology IN CNAME .
 golfcartlaws.com IN CNAME .
 golfersrow.com IN CNAME .
+golfinglounge.com IN CNAME .
 go.linksource.com IN CNAME .
 go.list-it.ai IN CNAME .
 go.llapac.com IN CNAME .
@@ -37925,6 +37938,7 @@ track.venatusmedia.com IN CNAME .
 track-visit.monday.com IN CNAME .
 track.vscash.com IN CNAME .
 trackv-test.esearchvision.com IN CNAME .
+track.wesell.co.il IN CNAME .
 track.workframe.com IN CNAME .
 track.workfusion.com IN CNAME .
 track.xmarketech.com IN CNAME .
@@ -39815,6 +39829,7 @@ u.20minutes.fr IN CNAME .
 u.20mn.it IN CNAME .
 u299.libelle-lekker.be IN CNAME .
 u46.pnc.com IN CNAME .
+u47.pnc.com IN CNAME .
 u652.myplainview.com IN CNAME .
 u927.sfgate.com IN CNAME .
 uaaooa.stansberryresearch.com IN CNAME .
@@ -40815,6 +40830,7 @@ vocfhq.ilgiardinodeilibri.it IN CNAME .
 voeux2020.wearemip.com IN CNAME .
 voicepins.com IN CNAME .
 voice.thewealthadvisor.com IN CNAME .
+voicewinds.com IN CNAME .
 voidgoo.com IN CNAME .
 voiply.actonservice.com IN CNAME .
 vois.vodafone.com IN CNAME .
