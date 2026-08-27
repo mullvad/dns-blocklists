@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1787720262    ; serial
+                                        1787806771    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6807,6 +6807,7 @@ arrlrk.edigital.hu IN CNAME .
 arsaqf.yukoyuko.net IN CNAME .
 art2wave.actonservice.com IN CNAME .
 art.b.inhaabit.com IN CNAME .
+artbranch.net IN CNAME .
 art.carte-gr.total.fr IN CNAME .
 artemis-cdn.ocdn.eu IN CNAME .
 articledemon.com IN CNAME .
@@ -7046,6 +7047,7 @@ australiarevival.com IN CNAME .
 auth.carte-gr.total.fr IN CNAME .
 authentic3d.actonservice.com IN CNAME .
 authsmtp.happ.social IN CNAME .
+autoappearancetraining.com IN CNAME .
 autoimmunity.thermo.com IN CNAME .
 autoimmunity.thermofisher.com IN CNAME .
 automate.gixxy.com IN CNAME .
@@ -7516,6 +7518,7 @@ b.ewd.io IN CNAME .
 bewilderedbattle.com IN CNAME .
 bewilderedblade.com IN CNAME .
 beyond.bluewolf.com IN CNAME .
+beyondgoodness.com IN CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au IN CNAME .
 bfeagv.chicwish.com IN CNAME .
 bfg.loanzify.app IN CNAME .
@@ -7676,6 +7679,7 @@ bloomsend.com IN CNAME .
 blsoof.wirwinzer.de IN CNAME .
 bl-test.curatedplanet.com IN CNAME .
 bluebusiness.actonservice.com IN CNAME .
+bluecollarmuse.com IN CNAME .
 bluecore-email.branch.rocks IN CNAME .
 blueeyedblow.com IN CNAME .
 blueinfo.marugroup.net IN CNAME .
@@ -14640,7 +14644,6 @@ go.cwtv.com IN CNAME .
 go.dallasstars.com IN CNAME .
 go.dateinasia.innovatedating.com IN CNAME .
 go.datingapp.mingle.com IN CNAME .
-goddesslamps.com IN CNAME .
 go.deltek.com IN CNAME .
 go.delve.com IN CNAME .
 go.devapp.sharekey.com IN CNAME .
@@ -18514,6 +18517,7 @@ librato-collector.genius.com IN CNAME .
 licensinginsights.ascap.com IN CNAME .
 liecso.e-himart.co.kr IN CNAME .
 lieudetravail.ricoh.fr IN CNAME .
+lifecoverdirect.com IN CNAME .
 lifescience.item24.de IN CNAME .
 lifestyle.edm.globalsources.com IN CNAME .
 lifestyle.tradeshow.globalsources.com IN CNAME .
@@ -21861,6 +21865,7 @@ mdws.yourcu.com IN CNAME .
 mdxhon.allhomes.com.au IN CNAME .
 meadowlullaby.com IN CNAME .
 meanwellaustralia.actonservice.com IN CNAME .
+meas.join-stories.com IN CNAME .
 measlymiddle.com IN CNAME .
 measureadv.com IN CNAME .
 measure.ameblo.jp IN CNAME .
@@ -21981,6 +21986,7 @@ memorizematch.com IN CNAME .
 memorizeneck.com IN CNAME .
 m.enerpac.com IN CNAME .
 mennoc.mezlan.com IN CNAME .
+mentalreef.com IN CNAME .
 menteechain.com IN CNAME .
 mentorsticks.com IN CNAME .
 meowcustom.com IN CNAME .
@@ -23618,6 +23624,7 @@ miscjewelry.com IN CNAME .
 miscreantmoon.com IN CNAME .
 missionrewards.com IN CNAME .
 missionrs.actonservice.com IN CNAME .
+missvent.com IN CNAME .
 mistervillas.com IN CNAME .
 mistyhorizon.com IN CNAME .
 mit3app.3.dk IN CNAME .
@@ -24229,6 +24236,7 @@ news.chiefexecutive.net IN CNAME .
 news.cmatcherlink.com IN CNAME .
 news.colormagazine.com IN CNAME .
 news.communications-rmngp.fr IN CNAME .
+newscompiler.com IN CNAME .
 news.cpbj.com IN CNAME .
 news.crmtechnologies.com IN CNAME .
 news.dailyreporter.com IN CNAME .
@@ -24530,6 +24538,7 @@ nukktn.dorko.hu IN CNAME .
 nullnorth.com IN CNAME .
 nullradar.com IN CNAME .
 numbers.monthlyphotos.com IN CNAME .
+numericblog.com IN CNAME .
 numerousnest.com IN CNAME .
 nums.upscale.app IN CNAME .
 nuquds.citizenwatch.com IN CNAME .
@@ -33099,6 +33108,7 @@ squishykiosk.com IN CNAME .
 sr59t7wbx5.claricelin.com IN CNAME .
 sra-px.cdn-fileserver.com IN CNAME .
 src.freshmarketer.in IN CNAME .
+src.fwusercontent.com IN CNAME .
 srd1-pdx.net.jumia.ci IN CNAME .
 srepdata.12newsnow.com IN CNAME .
 srepdata.13wmaz.com IN CNAME .
