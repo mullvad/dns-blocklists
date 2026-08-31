@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1787806752    ; serial
+                                        1788158160    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7602,6 +7602,7 @@ biologylog.com IN CNAME .
 biophysicsgroup.actonservice.com IN CNAME .
 bi.pst.tech IN CNAME .
 birthdaybelief.com IN CNAME .
+biscuitbox.net IN CNAME .
 bisko.mall.tv IN CNAME .
 bismetrics.experian.com IN CNAME .
 bison.actonservice.com IN CNAME .
@@ -13556,6 +13557,7 @@ feedme.use-beez.com IN CNAME .
 feedten.com IN CNAME .
 feelwarmth.com IN CNAME .
 feignedfaucet.com IN CNAME .
+felinesocial.com IN CNAME .
 femalecook.com IN CNAME .
 f-emc.ngsp.gov.vn IN CNAME .
 femetrics.grammarly.io IN CNAME .
@@ -14135,6 +14137,7 @@ galileotelemetry.tencent.com IN CNAME .
 gallerysouvlakeri.openapp.link IN CNAME .
 galop.leferacheval-saintcloud.com IN CNAME .
 gameplanfinancial.actonservice.com IN CNAME .
+gamerone.net IN CNAME .
 gammamaximum.com IN CNAME .
 ganon.yahoo.com IN CNAME .
 ga.nsimg.net IN CNAME .
@@ -14885,6 +14888,7 @@ go.noondate.com IN CNAME .
 go.northsidemedia.com IN CNAME .
 go.norway.innovatedating.com IN CNAME .
 go.nvp.com IN CNAME .
+goodandwild.com IN CNAME .
 goodfoodtours.com IN CNAME .
 google-analytics-cn.com IN CNAME .
 googleoptimize-cn.com IN CNAME .
@@ -17310,6 +17314,7 @@ ingredients.firmenich.com IN CNAME .
 ingress.linktr.ee IN CNAME .
 ingress.trendii.com IN CNAME .
 in.invitd.us IN CNAME .
+inkcoupon.com IN CNAME .
 inkubate.actonservice.com IN CNAME .
 in-mktg.vodafone.com IN CNAME .
 inmtuj.jobs.ie IN CNAME .
@@ -17950,6 +17955,7 @@ jubileo-ppb.carte-gr.total.fr IN CNAME .
 jufhxk.audienhearing.com IN CNAME .
 juicebard.com IN CNAME .
 juiceblocks.com IN CNAME .
+juicemovement.com IN CNAME .
 juicingoasis.com IN CNAME .
 jujtcq.amnibus.com IN CNAME .
 jumbochalk.com IN CNAME .
@@ -23592,6 +23598,7 @@ mightyspiders.com IN CNAME .
 mi.grubhub.com IN CNAME .
 mikelperaia.openapp.link IN CNAME .
 mill-all.actonservice.com IN CNAME .
+millhouses.com IN CNAME .
 millswell.com IN CNAME .
 mimakiusa.actonservice.com IN CNAME .
 mi.miliboo.be IN CNAME .
@@ -23625,6 +23632,7 @@ miscreantmoon.com IN CNAME .
 missionrewards.com IN CNAME .
 missionrs.actonservice.com IN CNAME .
 missvent.com IN CNAME .
+mistertees.net IN CNAME .
 mistervillas.com IN CNAME .
 mistyhorizon.com IN CNAME .
 mit3app.3.dk IN CNAME .
@@ -24177,6 +24185,7 @@ neighborlywatch.com IN CNAME .
 nekgtz.bluestoneperennials.com IN CNAME .
 neocounter.neoworx-blog-tools.net IN CNAME .
 neoncsr21.net.anwalt.de IN CNAME .
+neonsites.com IN CNAME .
 neosllc.actonservice.com IN CNAME .
 neowiv.brumbrum.it IN CNAME .
 nerldv.ullapopken.pl IN CNAME .
@@ -24341,6 +24350,7 @@ nikitas.openapp.link IN CNAME .
 nimblebird.co IN CNAME .
 nimbleplot.com IN CNAME .
 nimbleswan.io IN CNAME .
+nimbuswatersystem.com IN CNAME .
 ninja.akamaized.net IN CNAME .
 ninja.onap.io IN CNAME .
 ninjatravels.com IN CNAME .
@@ -25233,6 +25243,7 @@ outdoor.theres.co IN CNAME .
 outdoorthingy.com IN CNAME .
 outerwords.com IN CNAME .
 out.information.maileva.com IN CNAME .
+outletpeople.com IN CNAME .
 outreach.allmy-data.com IN CNAME .
 outreach.connectednation.org IN CNAME .
 outreach.crossref.org IN CNAME .
@@ -34826,6 +34837,7 @@ stats.xactware.com IN CNAME .
 stats.xn--antnio-dxa.pt IN CNAME .
 stats.yourfone.de IN CNAME .
 stats.zimri.net IN CNAME .
+stats.zoogletools.net IN CNAME .
 stats.zotabox.com IN CNAME .
 stat.taxlive.nl IN CNAME .
 statt-collect.herokuapp.com IN CNAME .
@@ -43261,6 +43273,7 @@ google-analytics.com IN CNAME .
 *.sponsored-ads.amazon.in.alphionsee.in IN CNAME .
 *.sponsored-ads.amazon.in IN CNAME .
 *.sponsored-ads.amazon.it IN CNAME .
+*.sponsored-ads.amazon.sa IN CNAME .
 *.sq-tungsten-ts-eu.amazon-adsystem.com IN CNAME .
 *.sq-tungsten-ts-fe.amazon-adsystem.com IN CNAME .
 *.sq-tungsten-ts.amazon-adsystem.com IN CNAME .
@@ -44679,6 +44692,7 @@ google-analytics.com IN CNAME .
 *.ad.tiktokv.com IN CNAME .
 *.ad.tiktokv.us IN CNAME .
 *.ad-format-sg.tiktokv.com IN CNAME .
+*.ad-format-ttp2.tiktokv.eu IN CNAME .
 *.ad-format16-normal-useastred.tiktokv.eu IN CNAME .
 *.ad-instantpage.tiktokv.us IN CNAME .
 *.ad-instantpage-ru.tiktokv.com IN CNAME .
