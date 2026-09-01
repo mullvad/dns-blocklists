@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1788158160    ; serial
+                                        1788239979    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5060,6 +5060,7 @@ analytics.adliners.de IN CNAME .
 analytics.adobe.io IN CNAME .
 analytics.adobe.ly IN CNAME .
 analytics.adultswim.co.uk IN CNAME .
+analytics.afirstsoft.cn IN CNAME .
 analytics.agenedia.com IN CNAME .
 analytics.agoda.com IN CNAME .
 analytics.ahrefs.dev IN CNAME .
@@ -7501,6 +7502,7 @@ be.slowmographer.co IN CNAME .
 bestboundary.com IN CNAME .
 bestbuy.actonservice.com IN CNAME .
 bestclimbers.net IN CNAME .
+bestcoffeemachine.net IN CNAME .
 bestill.help.no IN CNAME .
 bestinfo.bluetrustloans.com IN CNAME .
 bestshoesboot.com IN CNAME .
@@ -11678,6 +11680,7 @@ drumfills.com IN CNAME .
 druzja.canmart.co.kr IN CNAME .
 drvive.lamoda.ru IN CNAME .
 drydrum.com IN CNAME .
+dryerwasher.com IN CNAME .
 dryvit.actonservice.com IN CNAME .
 ds-aksb-a.akamaihd.net IN CNAME .
 d.santemagazine.fr IN CNAME .
@@ -13604,6 +13607,7 @@ fiimox.lebenskraftpur.de IN CNAME .
 filament-stats.herokuapp.com IN CNAME .
 filbrandtco.actonservice.com IN CNAME .
 filemobile.actonservice.com IN CNAME .
+fileshareengine.com IN CNAME .
 files.info.posteitaliane.it IN CNAME .
 files.urlinsgroup.com IN CNAME .
 fillthemap.com IN CNAME .
@@ -13632,6 +13636,7 @@ fipsta.ravensberger-matratzen.de IN CNAME .
 fipsta.urbanara.at IN CNAME .
 fipsta.urbanara.co.uk IN CNAME .
 fipsta.worldfitness.de IN CNAME .
+fireanalytics.firestream.to IN CNAME .
 firebaselogging.googleapis.com IN CNAME .
 firebaselogging-pa.googleapis.com IN CNAME .
 firecatfilms.com IN CNAME .
@@ -17965,6 +17970,7 @@ jumpto.use-beez.com IN CNAME .
 jun23.madeindesign.de IN CNAME .
 jupiterhealth-app.hotdoc.com.au IN CNAME .
 justconfig.com IN CNAME .
+justfordocs.com IN CNAME .
 justicejudo.com IN CNAME .
 justlagoon.com IN CNAME .
 justpickaname.com IN CNAME .
@@ -24633,6 +24639,7 @@ obseu.netgreencolumn.com IN CNAME .
 obs.greencolumnblog.com IN CNAME .
 obsidiangems.com IN CNAME .
 obs.jollyoutdoorjogger.com IN CNAME .
+obs.sd4823.spglobal.com IN CNAME .
 obs.system1onesource.com IN CNAME .
 obtfhl.bellemaison.jp IN CNAME .
 oca.microsoft.com IN CNAME .
@@ -25582,6 +25589,7 @@ performance-logger.minted.com IN CNAME .
 performanceplay.co.kr IN CNAME .
 performantcorp.actonservice.com IN CNAME .
 pergeroni.openapp.link IN CNAME .
+permagroove.com IN CNAME .
 permission.au.actonservice.com IN CNAME .
 permutive.app IN CNAME .
 perr.h-cdn.com IN CNAME .
@@ -25758,6 +25766,7 @@ pixels.zalify.com IN CNAME .
 pixel-tracker.com IN CNAME .
 pixeltrouble.com IN CNAME .
 pixel.tuko.co.ke IN CNAME .
+pixel.uppromote.com IN CNAME .
 pixelvariety.com IN CNAME .
 pixel.veritone-ce.com IN CNAME .
 pixel.videohub.tv IN CNAME .
@@ -25812,6 +25821,7 @@ planebasin.com IN CNAME .
 plans.ceteraretirement.com IN CNAME .
 plans.fundtherebuild.com IN CNAME .
 plantcourse.com IN CNAME .
+plantscafe.net IN CNAME .
 pla.pearlinsurance.com IN CNAME .
 plas.imfeld.dev IN CNAME .
 pl.astro-akatemia.fi IN CNAME .
@@ -43030,6 +43040,7 @@ google-analytics.com IN CNAME .
 *.aax-fe.amazon-adsystem.com IN CNAME .
 *.aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 *.aax-ott-c2s.amazon-adsystem.com IN CNAME .
+*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott-sdk.amazon-adsystem.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.com IN CNAME .
@@ -43098,6 +43109,8 @@ google-analytics.com IN CNAME .
 *.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com IN CNAME .
 *.alt1-3ps.amazon-adsystem.com IN CNAME .
 *.api.eu-west-1.aiv-delivery.net IN CNAME .
+*.api.metrics.eu-central-1.iris.apx.amazon.dev IN CNAME .
+*.api.metrics.us-west-2.iris.apx.amazon.dev IN CNAME .
 *.api.us-east-1.aiv-delivery.net IN CNAME .
 *.api.us-west-2.aiv-delivery.net IN CNAME .
 *.applab-sdk.amazon.com IN CNAME .
@@ -43207,7 +43220,10 @@ google-analytics.com IN CNAME .
 *.maws-aax-us-east-test4.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-east.amazon-adsystem.com IN CNAME .
 *.maws-aax-us-pdx-rtb.amazon-adsystem.com IN CNAME .
+*.metrics.eu-south-2.iris.apx.amazon.dev IN CNAME .
+*.metrics.eu-west-1.iris.apx.amazon.dev IN CNAME .
 *.metrics.media-amazon.com IN CNAME .
+*.metrics.us-east-1.iris.apx.amazon.dev IN CNAME .
 *.minerva.devices.a2z.com IN CNAME .
 *.mobileanalytics.us-east-1.amazonaws.com IN CNAME .
 *.mshopbugsnag.irm.amazon.dev IN CNAME .

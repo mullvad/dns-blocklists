@@ -5048,6 +5048,7 @@ analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
 analytics.adultswim.co.uk
+analytics.afirstsoft.cn
 analytics.agenedia.com
 analytics.agoda.com
 analytics.ahrefs.dev
@@ -7489,6 +7490,7 @@ be.slowmographer.co
 bestboundary.com
 bestbuy.actonservice.com
 bestclimbers.net
+bestcoffeemachine.net
 bestill.help.no
 bestinfo.bluetrustloans.com
 bestshoesboot.com
@@ -11666,6 +11668,7 @@ drumfills.com
 druzja.canmart.co.kr
 drvive.lamoda.ru
 drydrum.com
+dryerwasher.com
 dryvit.actonservice.com
 ds-aksb-a.akamaihd.net
 d.santemagazine.fr
@@ -13592,6 +13595,7 @@ fiimox.lebenskraftpur.de
 filament-stats.herokuapp.com
 filbrandtco.actonservice.com
 filemobile.actonservice.com
+fileshareengine.com
 files.info.posteitaliane.it
 files.urlinsgroup.com
 fillthemap.com
@@ -13620,6 +13624,7 @@ fipsta.ravensberger-matratzen.de
 fipsta.urbanara.at
 fipsta.urbanara.co.uk
 fipsta.worldfitness.de
+fireanalytics.firestream.to
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firecatfilms.com
@@ -17953,6 +17958,7 @@ jumpto.use-beez.com
 jun23.madeindesign.de
 jupiterhealth-app.hotdoc.com.au
 justconfig.com
+justfordocs.com
 justicejudo.com
 justlagoon.com
 justpickaname.com
@@ -24621,6 +24627,7 @@ obseu.netgreencolumn.com
 obs.greencolumnblog.com
 obsidiangems.com
 obs.jollyoutdoorjogger.com
+obs.sd4823.spglobal.com
 obs.system1onesource.com
 obtfhl.bellemaison.jp
 oca.microsoft.com
@@ -25570,6 +25577,7 @@ performance-logger.minted.com
 performanceplay.co.kr
 performantcorp.actonservice.com
 pergeroni.openapp.link
+permagroove.com
 permission.au.actonservice.com
 permutive.app
 perr.h-cdn.com
@@ -25746,6 +25754,7 @@ pixels.zalify.com
 pixel-tracker.com
 pixeltrouble.com
 pixel.tuko.co.ke
+pixel.uppromote.com
 pixelvariety.com
 pixel.veritone-ce.com
 pixel.videohub.tv
@@ -25800,6 +25809,7 @@ planebasin.com
 plans.ceteraretirement.com
 plans.fundtherebuild.com
 plantcourse.com
+plantscafe.net
 pla.pearlinsurance.com
 plas.imfeld.dev
 pl.astro-akatemia.fi
@@ -43018,6 +43028,7 @@ google-analytics.com
 *.aax-fe.amazon-adsystem.com
 *.aax-gamma-us-east.axp.amazon-adsystem.com
 *.aax-ott-c2s.amazon-adsystem.com
+*.aax-ott-sdk.amazon-adsystem.amazon.com
 *.aax-ott-sdk.amazon-adsystem.com
 *.aax-ott.amazon-adsystem.amazon.com
 *.aax-ott.amazon-adsystem.com
@@ -43086,6 +43097,8 @@ google-analytics.com
 *.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 *.alt1-3ps.amazon-adsystem.com
 *.api.eu-west-1.aiv-delivery.net
+*.api.metrics.eu-central-1.iris.apx.amazon.dev
+*.api.metrics.us-west-2.iris.apx.amazon.dev
 *.api.us-east-1.aiv-delivery.net
 *.api.us-west-2.aiv-delivery.net
 *.applab-sdk.amazon.com
@@ -43195,7 +43208,10 @@ google-analytics.com
 *.maws-aax-us-east-test4.amazon-adsystem.com
 *.maws-aax-us-east.amazon-adsystem.com
 *.maws-aax-us-pdx-rtb.amazon-adsystem.com
+*.metrics.eu-south-2.iris.apx.amazon.dev
+*.metrics.eu-west-1.iris.apx.amazon.dev
 *.metrics.media-amazon.com
+*.metrics.us-east-1.iris.apx.amazon.dev
 *.minerva.devices.a2z.com
 *.mobileanalytics.us-east-1.amazonaws.com
 *.mshopbugsnag.irm.amazon.dev
