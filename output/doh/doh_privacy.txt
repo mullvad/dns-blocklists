@@ -43387,6 +43387,7 @@ google-analytics.com
 *.partiality.itunes.apple.com
 *.msc-dct-prod.msc.apple.com
 *.fbs.smoot.apple.com
+*.ads.apple.com
 *.advertising.apple.com
 *.advp.apple.com
 *.analytics-events.apple.com
@@ -45442,7 +45443,6 @@ google-analytics.com
 *.rad.microsoft.com
 *.spynet2.microsoft.com
 *.spynetalt.microsoft.com
-*.tar.microsoft.com
 *.telecommandsvc.microsoft.com
 *.telemetry.microsoft.com
 *.telemetry.microsoft.us
@@ -45639,6 +45639,7 @@ google-analytics.com
 *.licensingtelemetry-prod.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
+*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net

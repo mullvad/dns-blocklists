@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1788239979    ; serial
+                                        1788337508    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43399,6 +43399,7 @@ google-analytics.com IN CNAME .
 *.partiality.itunes.apple.com IN CNAME .
 *.msc-dct-prod.msc.apple.com IN CNAME .
 *.fbs.smoot.apple.com IN CNAME .
+*.ads.apple.com IN CNAME .
 *.advertising.apple.com IN CNAME .
 *.advp.apple.com IN CNAME .
 *.analytics-events.apple.com IN CNAME .
@@ -45454,7 +45455,6 @@ google-analytics.com IN CNAME .
 *.rad.microsoft.com IN CNAME .
 *.spynet2.microsoft.com IN CNAME .
 *.spynetalt.microsoft.com IN CNAME .
-*.tar.microsoft.com IN CNAME .
 *.telecommandsvc.microsoft.com IN CNAME .
 *.telemetry.microsoft.com IN CNAME .
 *.telemetry.microsoft.us IN CNAME .
@@ -45651,6 +45651,7 @@ google-analytics.com IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
+*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .
