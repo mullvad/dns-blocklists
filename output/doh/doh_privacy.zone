@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1788337508    ; serial
+                                        1788414659    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9078,6 +9078,7 @@ collector.hippodromeonline.com IN CNAME .
 collector.mazeberry.com IN CNAME .
 collector.megaxh.com IN CNAME .
 collector.net-logger.com IN CNAME .
+collector.orf.at IN CNAME .
 collector-ovp.streamcloud.it IN CNAME .
 collector.pi.spectrum.net IN CNAME .
 collector.pmc.com IN CNAME .
@@ -17534,7 +17535,6 @@ ip2c.landscape.co.jp IN CNAME .
 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws IN CNAME .
 i.paypal.com IN CNAME .
 ipcfgw.pieces.com IN CNAME .
-ipcheck.blogsys.jp IN CNAME .
 ip.chipestimate.com IN CNAME .
 ip.cliphunter.com IN CNAME .
 ipdmlm.yoriso.com IN CNAME .
@@ -26081,6 +26081,7 @@ popmixradio.com IN CNAME .
 po.ponant.com IN CNAME .
 popplantation.com IN CNAME .
 popup-static.unisender.com IN CNAME .
+porksoda.com IN CNAME .
 poro.58.com IN CNAME .
 porpoise.azettl.net IN CNAME .
 porqhi.topictravel.nl IN CNAME .
@@ -26098,6 +26099,7 @@ post.carte-gr.total.fr IN CNAME .
 postgraduate2.smu.edu.sg IN CNAME .
 postgraduate.smu.edu.sg IN CNAME .
 potatoinvention.com IN CNAME .
+potentmagic.com IN CNAME .
 powerfulblends.com IN CNAME .
 powerfulcopper.com IN CNAME .
 powerrobotflower.com IN CNAME .
@@ -26224,6 +26226,7 @@ processor.asccommunications.com IN CNAME .
 processplantation.com IN CNAME .
 processserver.abclegal.com IN CNAME .
 processusmetier.ricoh.fr IN CNAME .
+procollecting.com IN CNAME .
 procroanalytics.com IN CNAME .
 procurement.cipscomms.org IN CNAME .
 prod-events.nykaa.com IN CNAME .
@@ -26384,6 +26387,7 @@ puffyloss.com IN CNAME .
 puffypaste.com IN CNAME .
 puffypull.com IN CNAME .
 puffypurpose.com IN CNAME .
+pugspress.com IN CNAME .
 puiwrs.misterspex.de IN CNAME .
 pulsar.ebay.com IN CNAME .
 pulsaredit.com IN CNAME .
@@ -26845,6 +26849,7 @@ receiptcent.com IN CNAME .
 receive.wmcdp.io IN CNAME .
 receptivereaction.com IN CNAME .
 recessrain.com IN CNAME .
+recipepile.net IN CNAME .
 recipepin.com IN CNAME .
 reconditeprison.com IN CNAME .
 reconditerespect.com IN CNAME .
@@ -26865,6 +26870,7 @@ redbricksoap.com IN CNAME .
 redclassic.actonservice.com IN CNAME .
 redditstream.arborapps.io IN CNAME .
 reddwarf.till-sanders.de IN CNAME .
+redexecs.com IN CNAME .
 redirect.cuballama.com IN CNAME .
 redirectdemoqpay.2c2p.com IN CNAME .
 redirect.indacar.io IN CNAME .
