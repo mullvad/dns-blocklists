@@ -1,7 +1,7 @@
 # dns-blocklists
 
 > [!WARNING]
-> Our public encrypted DNS servers will be shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+> Our public encrypted DNS servers will be shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
 > This means our .mobileconfig files will stop working and [that repository](https://github.com/mullvad/encrypted-dns-profiles) will soon be archived. 
 
 This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
