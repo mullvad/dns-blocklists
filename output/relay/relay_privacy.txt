@@ -9828,7 +9828,6 @@ csvtr.bmo.com
 csvtt.bmolife.com
 csvtu.bmolending.com
 csymrm.24mx.fr
-csyqts.tmon.co.kr
 cs.zg-api.com
 ct5m.citadium.com
 ct.beslist.nl
@@ -10786,7 +10785,6 @@ dbzpek.nike.com
 dc01p-net-sslvpn0-ra.net.jumia.com.gh
 dc2.credit-suisse.com
 dc8na2hxrj29i.cloudfront.net
-dc8xl0ndzn2cb.cloudfront.net
 dc.actonservice.com
 dc.audi.com
 dc.banggood.com
@@ -19559,7 +19557,6 @@ log.f-tra.com
 log-gateway.zoom.us
 log.genyt.net
 logger007.cam4.com
-logger.bzu.kr
 logger.kataweb.it
 logger.nerdwallet.com
 logger.omio.com
@@ -27266,7 +27263,6 @@ rmmskb.fnacspectacles.com
 r.morons.us
 rmp4.destinia.uy
 rmxhti.zpacks.com
-rnffgv.wemakeprice.com
 r.niwepa.com
 rnnstu.rentbeforeowning.com
 rnybul.gismeteo.lv
@@ -32654,6 +32650,7 @@ solar.sunpower.com
 solar.sunpowercorp.com
 soleblinds.com
 solicitud.pacifico.com.pe
+solidfiles.net
 solidscape.actonservice.com
 solidsub.com
 solmax.actonservice.com
@@ -33048,6 +33045,7 @@ sp.ecosia.org
 spec-sensors.actonservice.com
 spectacularstamp.com
 spectrum.gettyimages.com
+speedmethod.com
 speedtrap.shopdirect.com
 speedyfox.io
 speedyrhino.co
@@ -33875,6 +33873,7 @@ startrekk.flaconi.fr
 startrekk.flaconi.pl
 start.sharpclinical.com
 start.spark-thinking.com
+starwinmedia.com
 stas.outbrain.com
 stat.24liveplus.com
 stat-58home.58che.com
@@ -34936,6 +34935,7 @@ steadfastseat.com
 steadfastsound.com
 steadfastsystem.com
 stealsteel.com
+steelcasket.com
 steelmaiden.com
 steel.newmill.com
 steepsister.com
@@ -35190,6 +35190,7 @@ success.getfluid.com
 success.intelligentdemand.com
 success.mapcom.com
 successmenu.com
+successoutcome.com
 success.rhb.com
 success.vertigis.com
 success.vertigisstudio.com
@@ -35215,6 +35216,7 @@ summerobject.com
 summit.edm.globalsources.com
 suncanny.marvel.com
 suncanny.marvelhq.com
+sunflaggroup.com
 sunlightmetrics.b-cdn.net
 sunsetcampfires.com
 sunsetstatic.com
@@ -43011,6 +43013,8 @@ googleanalytics.com
 *.googleanalytics.com
 google-analytics.com
 *.google-analytics.com
+pangle.io
+*.pangle.io
 *.3px.axp.amazon-adsystem.com
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk

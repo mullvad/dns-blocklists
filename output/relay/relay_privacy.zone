@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1788758949    ; serial
+                                        1788847394    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -9840,7 +9840,6 @@ csvtr.bmo.com IN CNAME .
 csvtt.bmolife.com IN CNAME .
 csvtu.bmolending.com IN CNAME .
 csymrm.24mx.fr IN CNAME .
-csyqts.tmon.co.kr IN CNAME .
 cs.zg-api.com IN CNAME .
 ct5m.citadium.com IN CNAME .
 ct.beslist.nl IN CNAME .
@@ -10798,7 +10797,6 @@ dbzpek.nike.com IN CNAME .
 dc01p-net-sslvpn0-ra.net.jumia.com.gh IN CNAME .
 dc2.credit-suisse.com IN CNAME .
 dc8na2hxrj29i.cloudfront.net IN CNAME .
-dc8xl0ndzn2cb.cloudfront.net IN CNAME .
 dc.actonservice.com IN CNAME .
 dc.audi.com IN CNAME .
 dc.banggood.com IN CNAME .
@@ -19571,7 +19569,6 @@ log.f-tra.com IN CNAME .
 log-gateway.zoom.us IN CNAME .
 log.genyt.net IN CNAME .
 logger007.cam4.com IN CNAME .
-logger.bzu.kr IN CNAME .
 logger.kataweb.it IN CNAME .
 logger.nerdwallet.com IN CNAME .
 logger.omio.com IN CNAME .
@@ -27278,7 +27275,6 @@ rmmskb.fnacspectacles.com IN CNAME .
 r.morons.us IN CNAME .
 rmp4.destinia.uy IN CNAME .
 rmxhti.zpacks.com IN CNAME .
-rnffgv.wemakeprice.com IN CNAME .
 r.niwepa.com IN CNAME .
 rnnstu.rentbeforeowning.com IN CNAME .
 rnybul.gismeteo.lv IN CNAME .
@@ -32666,6 +32662,7 @@ solar.sunpower.com IN CNAME .
 solar.sunpowercorp.com IN CNAME .
 soleblinds.com IN CNAME .
 solicitud.pacifico.com.pe IN CNAME .
+solidfiles.net IN CNAME .
 solidscape.actonservice.com IN CNAME .
 solidsub.com IN CNAME .
 solmax.actonservice.com IN CNAME .
@@ -33060,6 +33057,7 @@ sp.ecosia.org IN CNAME .
 spec-sensors.actonservice.com IN CNAME .
 spectacularstamp.com IN CNAME .
 spectrum.gettyimages.com IN CNAME .
+speedmethod.com IN CNAME .
 speedtrap.shopdirect.com IN CNAME .
 speedyfox.io IN CNAME .
 speedyrhino.co IN CNAME .
@@ -33887,6 +33885,7 @@ startrekk.flaconi.fr IN CNAME .
 startrekk.flaconi.pl IN CNAME .
 start.sharpclinical.com IN CNAME .
 start.spark-thinking.com IN CNAME .
+starwinmedia.com IN CNAME .
 stas.outbrain.com IN CNAME .
 stat.24liveplus.com IN CNAME .
 stat-58home.58che.com IN CNAME .
@@ -34948,6 +34947,7 @@ steadfastseat.com IN CNAME .
 steadfastsound.com IN CNAME .
 steadfastsystem.com IN CNAME .
 stealsteel.com IN CNAME .
+steelcasket.com IN CNAME .
 steelmaiden.com IN CNAME .
 steel.newmill.com IN CNAME .
 steepsister.com IN CNAME .
@@ -35202,6 +35202,7 @@ success.getfluid.com IN CNAME .
 success.intelligentdemand.com IN CNAME .
 success.mapcom.com IN CNAME .
 successmenu.com IN CNAME .
+successoutcome.com IN CNAME .
 success.rhb.com IN CNAME .
 success.vertigis.com IN CNAME .
 success.vertigisstudio.com IN CNAME .
@@ -35227,6 +35228,7 @@ summerobject.com IN CNAME .
 summit.edm.globalsources.com IN CNAME .
 suncanny.marvel.com IN CNAME .
 suncanny.marvelhq.com IN CNAME .
+sunflaggroup.com IN CNAME .
 sunlightmetrics.b-cdn.net IN CNAME .
 sunsetcampfires.com IN CNAME .
 sunsetstatic.com IN CNAME .
@@ -43023,6 +43025,8 @@ googleanalytics.com IN CNAME .
 *.googleanalytics.com IN CNAME .
 google-analytics.com IN CNAME .
 *.google-analytics.com IN CNAME .
+pangle.io IN CNAME .
+*.pangle.io IN CNAME .
 *.3px.axp.amazon-adsystem.com IN CNAME .
 *.aan.amazon.co.jp IN CNAME .
 *.aan.amazon.co.uk IN CNAME .
