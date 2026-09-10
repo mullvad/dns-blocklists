@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1788847394    ; serial
+                                        1789014858    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -35230,6 +35230,7 @@ suncanny.marvel.com IN CNAME .
 suncanny.marvelhq.com IN CNAME .
 sunflaggroup.com IN CNAME .
 sunlightmetrics.b-cdn.net IN CNAME .
+sunnylettings.com IN CNAME .
 sunsetcampfires.com IN CNAME .
 sunsetstatic.com IN CNAME .
 sunshinegates.com IN CNAME .
@@ -35267,6 +35268,7 @@ survey-staging.mazda.com.au IN CNAME .
 survey.xo.com IN CNAME .
 s.useeffectbyexample.com IN CNAME .
 s.usenix.org IN CNAME .
+sushivolant.com IN CNAME .
 sustainability.ricoh.ch IN CNAME .
 sustainability.ricoh.co.za IN CNAME .
 sustainable.optum.com IN CNAME .
@@ -36080,10 +36082,12 @@ teamstatus.net IN CNAME .
 tearfulglass.com IN CNAME .
 te.baur.de IN CNAME .
 techadv.actonservice.com IN CNAME .
+techcatcher.com IN CNAME .
 techconverter.com IN CNAME .
 techdrivethru.com IN CNAME .
 tech.finalto.com IN CNAME .
 techgifts.tradeshow.globalsources.com IN CNAME .
+techmix.net IN CNAME .
 technical.kyzen.com IN CNAME .
 technology1.informaengage.com IN CNAME .
 technologyadvice.actonservice.com IN CNAME .
