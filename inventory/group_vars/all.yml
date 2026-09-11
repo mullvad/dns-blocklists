@@ -18,6 +18,8 @@ dns_blocklists_exclude:
   - name: adblock
     entries:
       - mullvad.net
+      - hyros.com
+      - app.hyros.com
 
   - name: adult
     entries:
