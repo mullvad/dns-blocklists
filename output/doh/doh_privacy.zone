@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1789362969    ; serial
+                                        1789453907    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5105,6 +5105,7 @@ analytics.belgacom.be IN CNAME .
 analytics.bestreviews.com IN CNAME .
 analytics.betterplaces.nl IN CNAME .
 analytics.bgr.com IN CNAME .
+analytics.bhaskarsaikia.in IN CNAME .
 analytics.bigfishgames.com IN CNAME .
 analytics.bitchute.com IN CNAME .
 analytics.bitrix.info IN CNAME .
@@ -7686,6 +7687,8 @@ bloomreach.co IN CNAME .
 bloomsend.com IN CNAME .
 blsoof.wirwinzer.de IN CNAME .
 bl-test.curatedplanet.com IN CNAME .
+bluebellbooks.com IN CNAME .
+bluebirdteam.com IN CNAME .
 bluebusiness.actonservice.com IN CNAME .
 bluecollarmuse.com IN CNAME .
 bluecore-email.branch.rocks IN CNAME .
@@ -8042,6 +8045,7 @@ broadborder.com IN CNAME .
 broadcastbed.com IN CNAME .
 broaddoor.com IN CNAME .
 broadstreet.ai IN CNAME .
+broflask.com IN CNAME .
 b.rohde-schwarz.com IN CNAME .
 bronxvanilla.openapp.link IN CNAME .
 brooklynway.openapp.link IN CNAME .
@@ -8263,6 +8267,7 @@ cache2.delvenetworks.com IN CNAME .
 ca.clubavantages.net IN CNAME .
 ca.connect.finning.com IN CNAME .
 ca.creditacceptance.com IN CNAME .
+cactus.jd.com IN CNAME .
 cactus.joybuy.com IN CNAME .
 caderonline.bu.edu IN CNAME .
 cadsuta.net IN CNAME .
@@ -9790,6 +9795,7 @@ cryo.socialblade.com IN CNAME .
 crypticgenius.com IN CNAME .
 crypto.egghead.link IN CNAME .
 crystalboulevard.com IN CNAME .
+crystaldewfarm.com IN CNAME .
 crzohw.intersport.gr IN CNAME .
 cs0010sbeda.theory-clinic.com IN CNAME .
 cs1470sbeda.schoolasp.com IN CNAME .
@@ -10919,6 +10925,7 @@ debonairtree.com IN CNAME .
 debug-inform.liilix.com IN CNAME .
 debug-r.rover.com IN CNAME .
 decidedrum.com IN CNAME .
+decimalnet.com IN CNAME .
 decisionhut.com IN CNAME .
 decisivebase.com IN CNAME .
 decisivedrawer.com IN CNAME .
@@ -13238,6 +13245,7 @@ event.spektare.com IN CNAME .
 events.pella.com IN CNAME .
 events.pickrr.com IN CNAME .
 events.plus.yandex.net IN CNAME .
+events.plutus.ninja IN CNAME .
 events.practo.com IN CNAME .
 events.prd.api.max.com IN CNAME .
 events.privy.com IN CNAME .
@@ -15455,6 +15463,7 @@ helpingbits.com IN CNAME .
 hemblx.vans.cl IN CNAME .
 herbgreencolumn.com IN CNAME .
 herbstarsbuilding.com IN CNAME .
+hermes.jd.com IN CNAME .
 herpes2.pa-ruit.jp IN CNAME .
 hesconet.actonservice.com IN CNAME .
 hesprh.sony.jp IN CNAME .
@@ -17331,6 +17340,7 @@ in.invitd.us IN CNAME .
 inkcoupon.com IN CNAME .
 inkubate.actonservice.com IN CNAME .
 in-mktg.vodafone.com IN CNAME .
+inmobicdn.net IN CNAME .
 inmtuj.jobs.ie IN CNAME .
 inmuzp.popsockets.com IN CNAME .
 innerskinresearch.com IN CNAME .
@@ -19589,6 +19599,7 @@ logging.pw.adn.cloud IN CNAME .
 log.go.com IN CNAME .
 log.gs3.goo.ne.jp IN CNAME .
 loggychops.paulsmith.site IN CNAME .
+log-h5.imdada.cn IN CNAME .
 log.hiiir.com IN CNAME .
 log.hypebeast.com IN CNAME .
 logicalminds.net IN CNAME .
@@ -22015,6 +22026,7 @@ merchant-app.th3rdwave.coffee IN CNAME .
 merchant.libertycarz.com IN CNAME .
 merchant-mail.neosurf.com IN CNAME .
 mercuryace.com IN CNAME .
+mercury.jd.com IN CNAME .
 meremark.com IN CNAME .
 merequartz.com IN CNAME .
 merryvault.com IN CNAME .
@@ -23748,6 +23760,7 @@ mlinks.fluz.app IN CNAME .
 mlinks.helloalfred.com IN CNAME .
 mlkblr.la-becanerie.com IN CNAME .
 mlkklg.suncamp.de IN CNAME .
+mllog.jd.com IN CNAME .
 mlmswk.janpara.co.jp IN CNAME .
 mlqzau.koffer.com IN CNAME .
 ml-sys.xyz IN CNAME .
@@ -35517,6 +35530,7 @@ synapse-da.actonservice.com IN CNAME .
 synbiobeta.actonservice.com IN CNAME .
 sync-a8.cocolocala.jp IN CNAME .
 sync.adap.tv IN CNAME .
+synccache.com IN CNAME .
 syncingbridge.com IN CNAME .
 sync.rambler.ru IN CNAME .
 sync.shinobi.jp IN CNAME .
@@ -37072,6 +37086,7 @@ track.docusign.jp IN CNAME .
 track.docusign.mx IN CNAME .
 track.docusign.nl IN CNAME .
 track.dunedinincomegrowth.co.uk IN CNAME .
+track.dws.com IN CNAME .
 track.dws.de IN CNAME .
 track.eadv.it IN CNAME .
 track-e.cypress.com IN CNAME .
@@ -40139,6 +40154,7 @@ upz1.destinia.lt IN CNAME .
 uqckxr.chilli.se IN CNAME .
 uqd.io IN CNAME .
 uqhpej.wiberrentacar.com IN CNAME .
+uranus.jd.com IN CNAME .
 urbanairship.com IN CNAME .
 urbanlaurel.com IN CNAME .
 urbanopus.net IN CNAME .
@@ -41557,6 +41573,7 @@ wl-analytics.tsp.li IN CNAME .
 wl.bl.frequentvalues.com.au IN CNAME .
 wlct-one.de IN CNAME .
 wlct-two.de IN CNAME .
+wl.jd.com IN CNAME .
 wlkojk.orange.ro IN CNAME .
 wlog.kuaishou.com IN CNAME .
 wlp3.aegon.es IN CNAME .
@@ -43722,6 +43739,7 @@ pangle.io IN CNAME .
 *.eg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eg-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.es-ad-lgsmartad-com.aws-prd.net IN CNAME .
+*.es-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.et-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eu7-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.fi-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -43867,8 +43885,6 @@ pangle.io IN CNAME .
 *.zm-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.zw-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.rdx2.lgtvsdp.com IN CNAME .
-*.ibs.nextlgsdp.com IN CNAME .
-*.ibsstat.nextlgsdp.com IN CNAME .
 *.rdx2.nextlgsdp.com IN CNAME .
 *.h4g3z1-native.lgwebos.web.app IN CNAME .
 *.alphonso.tv IN CNAME .
