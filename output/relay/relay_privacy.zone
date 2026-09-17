@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1789536241    ; serial
+                                        1789638764    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7354,6 +7354,7 @@ barkfactor.com IN CNAME .
 barqueue.com IN CNAME .
 barracuda.carte-gr.total.fr IN CNAME .
 barrelcider.com IN CNAME .
+bartcons.com IN CNAME .
 baseboosters.com IN CNAME .
 basketballbelieve.com IN CNAME .
 basket.mondo.link IN CNAME .
@@ -11678,6 +11679,7 @@ dramaticdirection.com IN CNAME .
 drau.viessmann.si IN CNAME .
 dreamsdome.com IN CNAME .
 drfdisvc.walmart.com IN CNAME .
+driedwheat.com IN CNAME .
 driftingchef.com IN CNAME .
 driftpizza.com IN CNAME .
 drive.carpoollogistics.com IN CNAME .
@@ -13446,6 +13448,7 @@ f928.pandasuite.io IN CNAME .
 f.a23.in IN CNAME .
 fa5.dn4.it IN CNAME .
 fabcharting.com IN CNAME .
+fabledglory.com IN CNAME .
 fabledsoul.com IN CNAME .
 fabryczna.viessmann.pl IN CNAME .
 fabulousbooking.com IN CNAME .
@@ -13516,6 +13519,7 @@ faucetfoot.com IN CNAME .
 faucons.viessmann.fr IN CNAME .
 faultycanvas.com IN CNAME .
 fauzxn.hairlavie.com IN CNAME .
+faxardent.net IN CNAME .
 faxcoupons.com IN CNAME .
 fazphz.theiconic.com.au IN CNAME .
 fb.echovisuals.com IN CNAME .
@@ -13658,7 +13662,9 @@ firebaselogging-pa.googleapis.com IN CNAME .
 firecatfilms.com IN CNAME .
 fire.solutions.jci.com IN CNAME .
 fireworkcamp.com IN CNAME .
+firmasset.com IN CNAME .
 firstendpoint.com IN CNAME .
+firsthoughtstudios.com IN CNAME .
 firstpac.actonservice.com IN CNAME .
 firstparty1.dentsplysirona.com IN CNAME .
 firstparty.alloyio.com IN CNAME .
@@ -17337,6 +17343,7 @@ ingredients.firmenich.com IN CNAME .
 ingress.linktr.ee IN CNAME .
 ingress.trendii.com IN CNAME .
 in.invitd.us IN CNAME .
+inkcarts.net IN CNAME .
 inkcoupon.com IN CNAME .
 inkubate.actonservice.com IN CNAME .
 in-mktg.vodafone.com IN CNAME .
@@ -17940,6 +17947,7 @@ jptgtr.astellas.jp IN CNAME .
 jptobh.network.com.tr IN CNAME .
 jpwfkn.besthotels.es IN CNAME .
 jpwfrl.mona.de IN CNAME .
+jqioregvpxgte.website IN CNAME .
 jqlzwb.bauhaus.fi IN CNAME .
 jqsouo.gourmetcaree.jp IN CNAME .
 jraasj.kobo.com IN CNAME .
@@ -18345,6 +18353,7 @@ laughcloth.com IN CNAME .
 launch.aella.app IN CNAME .
 launch-analytics-plugin.launchpotato.com IN CNAME .
 launchjack.com IN CNAME .
+launchkite.com IN CNAME .
 launch.meetsaturn.com IN CNAME .
 launch.vypr.it IN CNAME .
 laurel.macrovision.com IN CNAME .
@@ -18407,6 +18416,7 @@ ldnlyap.com IN CNAME .
 l.doctissimo.fr IN CNAME .
 ldorlv.seiban.co.jp IN CNAME .
 ldqtdd.peing.net IN CNAME .
+ldrws.com IN CNAME .
 l.du.coach IN CNAME .
 ldvalc.manzara.cz IN CNAME .
 ldv.midoplay.com IN CNAME .
@@ -19443,6 +19453,7 @@ lists.ccmbg.com IN CNAME .
 lit.connatix.com IN CNAME .
 literally-analytics.appspot.com IN CNAME .
 l.itribe.in IN CNAME .
+littlegeese.com IN CNAME .
 littlesun.net IN CNAME .
 live.alljobs.co.il IN CNAME .
 live.comunicaciones.jetstereo.com IN CNAME .
@@ -19701,6 +19712,7 @@ lotte.myomee.com IN CNAME .
 loudlunch.com IN CNAME .
 loveeveryday.brighterkind.com IN CNAME .
 lovelydrum.com IN CNAME .
+lovesbooks.com IN CNAME .
 loveseashore.com IN CNAME .
 love.vidora.su IN CNAME .
 lowercases.com IN CNAME .
@@ -26028,6 +26040,7 @@ pluggedlabs.com IN CNAME .
 plugs.jameco.com IN CNAME .
 plusavecmoins.adp.ca IN CNAME .
 pluto.smallpdf.com IN CNAME .
+pluxpdzouwubj.space IN CNAME .
 pl.venusafe.com IN CNAME .
 plv.geocomply.com IN CNAME .
 pl.volunteeringhb.org.nz IN CNAME .
@@ -26671,6 +26684,7 @@ quickkoala.io IN CNAME .
 quicklyedit.com IN CNAME .
 quick.openapp.link IN CNAME .
 quickpcfixer.click IN CNAME .
+quicktattoo.com IN CNAME .
 quicktrick.net IN CNAME .
 quidel.actonservice.com IN CNAME .
 quietknowledge.com IN CNAME .
@@ -36424,6 +36438,7 @@ thebestpaints.com IN CNAME .
 thebigvan.com IN CNAME .
 thebrainybulb.com IN CNAME .
 thecea.actonservice.com IN CNAME .
+thecodingpad.com IN CNAME .
 thecounter.net IN CNAME .
 thecrazychili.com IN CNAME .
 thefishstops.com IN CNAME .
@@ -40837,6 +40852,7 @@ views.wioks.com IN CNAME .
 vikingclan.kano.link IN CNAME .
 vilenexus.com IN CNAME .
 violetdemise.com IN CNAME .
+viowrel.com IN CNAME .
 vip.agentteam.com.au IN CNAME .
 vip.german.ni.com IN CNAME .
 vip.gophersport.com IN CNAME .
