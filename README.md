@@ -39,6 +39,7 @@ We currently use these advertising blocklists with our service:
 - hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
 - mullvad-ads-blocklist: custom file
 - adguard-filters-mobile: https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
+
 ### Trackers
 
 We currently use these tracker blocklists with our service:
@@ -58,6 +59,7 @@ We currently use these tracker blocklists with our service:
 
 We currently use these malware blocklists with our service:
 - mullvad-malware-blocklist: custom file
+- hazegzi-fake-sites: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/fake.txt
 - urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
 - hagezi-threat-intelligence-mini: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
 
