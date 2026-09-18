@@ -127,3 +127,7 @@ dns_blocklists_lists:
   - name: mullvad-social-blocklist
     type: social
     content: "{{ lookup('ansible.builtin.file', 'files/social') }}"
+
+  - name: mullvad-malware-blocklist
+    type: malware
+    content: "{{ lookup('ansible.builtin.file', 'files/malware') }}"

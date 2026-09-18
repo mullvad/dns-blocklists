@@ -31,6 +31,15 @@ The following lists are what we import to our service. You can find these define
 - `doh`: Encrypted DNS servers
 - `relay`: VPN servers (relays)
 
+### Advertising
+
+We currently use these advertising blocklists with our service:
+- oisd-small: https://small.oisd.nl/rpz
+- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
+- hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
+- mullvad-ads-blocklist: custom file
+- adguard-filters-mobile: https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
 ### Trackers
 
 We currently use these tracker blocklists with our service:
@@ -46,15 +55,10 @@ We currently use these tracker blocklists with our service:
 - hagezi-tracker-xiaomi: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt
 - mullvad-tracker-blocklist: custom file
 
-### Advertising
+### Malware
 
-We currently use these advertising blocklists with our service:
-- oisd-small: https://small.oisd.nl/rpz
-- frellwits-swedish-hosts-file: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
-- AdguardDNS: https://v.firebog.net/hosts/AdguardDNS.txt
-- hagezi-popupads-onlydomains: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt
-- mullvad-ads-blocklist: custom file
-- adguard-filters-mobile: https://adguardteam.github.io/AdguardFilters/MobileFilter/sections/adservers.txt
+We currently use these malware blocklists with our service:
+- mullvad-malware-blocklist: custom file
 
 ### Adult content 
 

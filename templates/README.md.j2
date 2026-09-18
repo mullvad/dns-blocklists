@@ -31,6 +31,14 @@ The following lists are what we import to our service. You can find these define
 - `doh`: Encrypted DNS servers
 - `relay`: VPN servers (relays)
 
+### Advertising
+
+We currently use these advertising blocklists with our service:
+{% for list in dns_blocklists_lists %}
+{% if "adblock" in list.type %}
+- {{ list.name }}: {{ list.url | default('custom file') }}
+{% endif %}
+{% endfor %}
 ### Trackers
 
 We currently use these tracker blocklists with our service:
@@ -40,11 +48,11 @@ We currently use these tracker blocklists with our service:
 {% endif %}
 {% endfor %}
 
-### Advertising
+### Malware
 
-We currently use these advertising blocklists with our service:
+We currently use these malware blocklists with our service:
 {% for list in dns_blocklists_lists %}
-{% if "adblock" in list.type %}
+{% if "malware" in list.type %}
 - {{ list.name }}: {{ list.url | default('custom file') }}
 {% endif %}
 {% endfor %}
