@@ -131,3 +131,7 @@ dns_blocklists_lists:
   - name: mullvad-malware-blocklist
     type: malware
     content: "{{ lookup('ansible.builtin.file', 'files/malware') }}"
+
+  - name: hazegzi-fake-sites
+    type: malware
+    url: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/fake.txt
