@@ -59,6 +59,8 @@ We currently use these tracker blocklists with our service:
 
 We currently use these malware blocklists with our service:
 - mullvad-malware-blocklist: custom file
+- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
+- hagezi-threat-intelligence-mini: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
 
 ### Adult content 
 
@@ -77,12 +79,6 @@ We currently use these gambling blocklists with our service:
 We generate our Social Media block lists from scripts located in `scripts/`
 
 You can find the generated file in `files/social`
-
-### Malware
-
-We currently use this malware content blocklist for our service:
-- urlhaus: https://urlhaus.abuse.ch/downloads/hostfile
-- hagezi-threat-intelligence-mini: https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/tif.mini.txt
 
 # Why is list "X" not included?
 
