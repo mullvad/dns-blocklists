@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1789638746    ; serial
+                                        1789971940    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -13674,6 +13674,7 @@ firstscreenshot.com IN CNAME .
 firurx.invia.hu IN CNAME .
 fishersfinds.com IN CNAME .
 fishing.daigostudio.com IN CNAME .
+fishingrodsgalore.com IN CNAME .
 fishingtoolsbox.com IN CNAME .
 fishspies.com IN CNAME .
 fitgreatest.com IN CNAME .
@@ -21945,6 +21946,7 @@ media.gotham.com IN CNAME .
 media.gstoneinc.com IN CNAME .
 media.ignitium.com IN CNAME .
 media.leahy-ifp.com IN CNAME .
+mediamaker.net IN CNAME .
 mediamathrdrt.com IN CNAME .
 mediametrics.mpsa.com IN CNAME .
 media.pirtek.co.uk IN CNAME .
@@ -22057,6 +22059,7 @@ met1.hp.com IN CNAME .
 met2.hp.com IN CNAME .
 metajaws.com IN CNAME .
 metallic.actonservice.com IN CNAME .
+metalsfactory.com IN CNAME .
 metapack.actonservice.com IN CNAME .
 metawelcome.com IN CNAME .
 metc.banfield.com IN CNAME .
@@ -23901,6 +23904,7 @@ motorsports.locktonaffinity.net IN CNAME .
 motu-teamblue.services IN CNAME .
 mountedbattery.com IN CNAME .
 mousebusters.odencat.com IN CNAME .
+mousescene.com IN CNAME .
 movableobject.com IN CNAME .
 move.azets.com IN CNAME .
 move.azets.dk IN CNAME .
@@ -24027,6 +24031,7 @@ mtyciy.solebox.com IN CNAME .
 mud4.destinia.com.eg IN CNAME .
 muddledaftermath.com IN CNAME .
 muddledmemory.com IN CNAME .
+muddlingthroughcode.com IN CNAME .
 mugapi.lazzarionline.com IN CNAME .
 muhttw.spotlightstores.com IN CNAME .
 mujjrh.stylenanda.com IN CNAME .
@@ -24219,6 +24224,7 @@ nedasco.actonservice.com IN CNAME .
 ned.themarketingscience.com IN CNAME .
 needleaf.com IN CNAME .
 needyneedle.com IN CNAME .
+neighborhoodbiketours.com IN CNAME .
 neighborlywatch.com IN CNAME .
 nekgtz.bluestoneperennials.com IN CNAME .
 neocounter.neoworx-blog-tools.net IN CNAME .
@@ -24342,6 +24348,7 @@ news.thedailyrecord.com IN CNAME .
 news.thedolancompany.com IN CNAME .
 newsuccesssecret.com IN CNAME .
 news.valawyersweekly.com IN CNAME .
+newsvehicles.com IN CNAME .
 news.verimatrix.com IN CNAME .
 newtest.wunderman-email.cjm.adobe.com IN CNAME .
 nex.163.com IN CNAME .
@@ -26911,6 +26918,7 @@ redirectdemoqpay.2c2p.com IN CNAME .
 redirect.indacar.io IN CNAME .
 redirect.kataklop.com IN CNAME .
 redlion.actonservice.com IN CNAME .
+redmillgroup.com IN CNAME .
 redthreadmarketing.actonservice.com IN CNAME .
 redvector.actonservice.com IN CNAME .
 redwingforbusiness.redwingsafety.com IN CNAME .
@@ -27050,6 +27058,7 @@ repdata.wzzm13.com IN CNAME .
 repdata.ydr.com IN CNAME .
 repdata.yorkdispatch.com IN CNAME .
 repeatsweater.com IN CNAME .
+repfineart.com IN CNAME .
 replaceroute.com IN CNAME .
 reply.osv.com IN CNAME .
 report.23video.com IN CNAME .
@@ -27222,6 +27231,7 @@ reuniondepadres.unisabana.edu.co IN CNAME .
 reverb.digitalviscosity.com IN CNAME .
 reversetickets.com IN CNAME .
 revgroup.actonservice.com IN CNAME .
+reviewacousticguitar.com IN CNAME .
 review.openapp.link IN CNAME .
 review.teradata.com IN CNAME .
 revivalvoice.com IN CNAME .
@@ -43352,6 +43362,7 @@ pangle.io IN CNAME .
 *.sponsored-ads.amazon.ca IN CNAME .
 *.sponsored-ads.amazon.co.jp IN CNAME .
 *.sponsored-ads.amazon.co.uk IN CNAME .
+*.sponsored-ads.amazon.co.za IN CNAME .
 *.sponsored-ads.amazon.com.au IN CNAME .
 *.sponsored-ads.amazon.com.br IN CNAME .
 *.sponsored-ads.amazon.com.mx IN CNAME .
@@ -43364,6 +43375,7 @@ pangle.io IN CNAME .
 *.sponsored-ads.amazon.in IN CNAME .
 *.sponsored-ads.amazon.it IN CNAME .
 *.sponsored-ads.amazon.sa IN CNAME .
+*.sponsored-ads.amazon.sg IN CNAME .
 *.sq-tungsten-ts-eu.amazon-adsystem.com IN CNAME .
 *.sq-tungsten-ts-fe.amazon-adsystem.com IN CNAME .
 *.sq-tungsten-ts.amazon-adsystem.com IN CNAME .
@@ -43755,7 +43767,6 @@ pangle.io IN CNAME .
 *.eg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eg-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.es-ad-lgsmartad-com.aws-prd.net IN CNAME .
-*.es-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.et-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eu7-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.fi-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -44158,6 +44169,7 @@ pangle.io IN CNAME .
 *.id.push.heytapmobi.com IN CNAME .
 *.userprofile.push.heytapmobi.com IN CNAME .
 *.api-id.theme.heytapmobi.com IN CNAME .
+*.adm-smc-cn.heytapmobi.com IN CNAME .
 *.ads.heytapmobi.com IN CNAME .
 *.dc-dragate-cn.heytapmobi.com IN CNAME .
 *.dcc-awareness-cn.heytapmobi.com IN CNAME .
@@ -44195,6 +44207,7 @@ pangle.io IN CNAME .
 *.api-gl.cdo.heytapmobile.com IN CNAME .
 *.api-id.cdo.heytapmobile.com IN CNAME .
 *.api-in.cdo.heytapmobile.com IN CNAME .
+*.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com IN CNAME .
 *.u-id.cpc.heytapmobile.com IN CNAME .
 *.api-id.game.heytapmobile.com IN CNAME .
 *.report-in.opay.heytapmobile.com IN CNAME .
@@ -44219,6 +44232,7 @@ pangle.io IN CNAME .
 *.adx-op-in.heytapmobile.com IN CNAME .
 *.adx-op-ru.heytapmobile.com IN CNAME .
 *.adx-op-sg.heytapmobile.com IN CNAME .
+*.adx-u-ru.heytapmobile.com IN CNAME .
 *.adx-u-sg.heytapmobile.com IN CNAME .
 *.adxu-bigo-sg.heytapmobile.com IN CNAME .
 *.bdapi-ads-sg.heytapmobile.com IN CNAME .
@@ -44482,7 +44496,6 @@ pangle.io IN CNAME .
 *.tnc-va-us-looki.capcutapi.com IN CNAME .
 *.tnc16-normal-us-ttp.capcutapi.us IN CNAME .
 *.frontier.capcutw.us IN CNAME .
-*.mssdk-ru.tiktokv.com.www.digmawifi.com IN CNAME .
 *.mon-i18n.tiktokv.com.dvaitas.lt IN CNAME .
 *.mon16-normal-no1a.tiktokv.eu.dvaitas.lt IN CNAME .
 *.mon16-normal-useastred.tiktokv.eu.dvaitas.lt IN CNAME .
@@ -44867,7 +44880,6 @@ pangle.io IN CNAME .
 *.rtc-logger.tiktokv.us IN CNAME .
 *.rtc-logger-i18n.tiktokv.com IN CNAME .
 *.rtc-logger-ie.tiktokv.eu IN CNAME .
-*.rtc-logger-ttp2.tiktokv.us IN CNAME .
 *.rtc-logger-va.tiktokv.com IN CNAME .
 *.rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 *.rtlog.tiktokv.com IN CNAME .
@@ -45138,6 +45150,7 @@ pangle.io IN CNAME .
 *.in-vpushort-stsdk.vivoglobal.com IN CNAME .
 *.kz-album-api.vivoglobal.com IN CNAME .
 *.kz-cname-sin01-bigdata.vivoglobal.com IN CNAME .
+*.kz-cota.vivoglobal.com IN CNAME .
 *.kz-err-up.vivoglobal.com IN CNAME .
 *.kz-monitor-stsdk.vivoglobal.com IN CNAME .
 *.kz-onrt-stsdk.vivoglobal.com IN CNAME .
@@ -45611,6 +45624,7 @@ pangle.io IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
+*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .
