@@ -25,6 +25,6 @@ The output files located in `output/relay/` are what are imported onto our VPN s
   - View the output (once pushed) at `https://raw.githubusercontent.com/mullvad/dns-blocklists/main/output/<group>.txt?raw=true`
   - Run test script: `cd scripts && ./check_zonedata.sh`
   - Sign the outputted relay files with your GPG code signing key, for example:
-    - `for list in adblock adult privacy gambling social; do gpg2 --detach-sign --armor output/relay/relay_${list}.txt > output/relay/relay_${list}.txt.gpg; done && for list in adblock adult privacy gambling social; do gpg2 --detach-sign --armor output/relay/relay_${list}.zone > output/relay/relay_${list}.gpg; done`
+    - `for list in adblock adult privacy gambling social malware; do gpg2 --detach-sign --armor output/relay/relay_${list}.txt > output/relay/relay_${list}.txt.gpg; done && for list in adblock adult privacy gambling social malware; do gpg2 --detach-sign --armor output/relay/relay_${list}.zone > output/relay/relay_${list}.gpg; done`
   - Verify the outputted GPG signed files, for example:
-    - `for list in adblock adult privacy gambling social; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.txt.gpg output/relay/relay_${list}.txt; done && for list in adblock adult privacy gambling social; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.gpg output/relay/relay_${list}.zone; done`
+    - `for list in adblock adult privacy gambling social malware; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.txt.gpg output/relay/relay_${list}.txt; done && for list in adblock adult privacy gambling social malware; do echo "Verify: ${list}" && gpg2 --verify output/relay/relay_${list}.gpg output/relay/relay_${list}.zone; done`
