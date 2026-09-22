@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1789971940    ; serial
+                                        1790059771    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5408,6 +5408,7 @@ analytics.onlinehomeretail.co.uk IN CNAME .
 analytics.onlyonlinemarketing.com IN CNAME .
 analytics.optilead.co.uk IN CNAME .
 analytics.orenshmu.com IN CNAME .
+analytics.org.coveo.com IN CNAME .
 analytics.ostr.io IN CNAME .
 analytics.ovh.com IN CNAME .
 analytics.oyorooms.com IN CNAME .
@@ -5836,6 +5837,7 @@ apllogistics.actonservice.com IN CNAME .
 aplobv.xexymix.com IN CNAME .
 aplus.alibaba.com IN CNAME .
 apm.qwant.com IN CNAME .
+apm-rum.inf.miui.com IN CNAME .
 apm.tnet.nl IN CNAME .
 a.pork.org IN CNAME .
 a.pourquoidocteur.fr IN CNAME .
@@ -6558,6 +6560,7 @@ apps.daxko-qa.com IN CNAME .
 apps.ding.jobs IN CNAME .
 app.seasonshare.com IN CNAME .
 apps.e-butler.com IN CNAME .
+appsecstudio.com IN CNAME .
 appsecurezomation.carte-gr.total.fr IN CNAME .
 app.segno.org IN CNAME .
 app.select.id IN CNAME .
@@ -7808,6 +7811,7 @@ boundlessbrake.com IN CNAME .
 boundlessveil.com IN CNAME .
 boutique.ricoh.fr IN CNAME .
 bowl.actonservice.com IN CNAME .
+bowlershut.com IN CNAME .
 boxandcover.com IN CNAME .
 box.bossdata.be IN CNAME .
 b.parade.com IN CNAME .
@@ -8768,6 +8772,7 @@ click.glamsquad.com IN CNAME .
 clickins.slixa.com IN CNAME .
 click.instacartemail.com IN CNAME .
 click.kataweb.it IN CNAME .
+click.lenovo.com IN CNAME .
 click.lmbcustomersupport.com IN CNAME .
 click.mail.carousell.com IN CNAME .
 click.mail.thecarousell.com IN CNAME .
@@ -9908,6 +9913,7 @@ cueohf.forumpro.fr IN CNAME .
 cueohf.forumsactifs.com IN CNAME .
 cueohf.hungarianforum.com IN CNAME .
 cufroa.aboutyou.be IN CNAME .
+cuisinevoyager.com IN CNAME .
 culliganwaterco.actonservice.com IN CNAME .
 culturedcamera.com IN CNAME .
 culturedfeather.com IN CNAME .
@@ -11544,6 +11550,7 @@ dmndfrcstng.com IN CNAME .
 d.m-net.de IN CNAME .
 dmpcdn.el-mundo.net IN CNAME .
 dmp.citynews.ovh IN CNAME .
+dmplog.qq.com IN CNAME .
 dmpmetrics.rcsmetrics.it IN CNAME .
 dmpxs.com IN CNAME .
 dmqykw.thirtymall.com IN CNAME .
@@ -18485,6 +18492,8 @@ leecompany.actonservice.com IN CNAME .
 leftliquid.com IN CNAME .
 legalhold.ediscovery.com IN CNAME .
 legolas.monotote.com IN CNAME .
+lego-tech.zhuanzhuan.com IN CNAME .
+lego.zhuanzhuan.com IN CNAME .
 lekfso.hitohana.tokyo IN CNAME .
 lem.nouvelobs.com IN CNAME .
 lemonpi.io IN CNAME .
@@ -19661,6 +19670,7 @@ logs.dynamicauth.com IN CNAME .
 log.seekda.com IN CNAME .
 logservice1.hicloud.com IN CNAME .
 logservice.hicloud.com IN CNAME .
+logs.game.qq.com IN CNAME .
 logs.hotstar.com IN CNAME .
 log.sina.cn IN CNAME .
 logs.kaya.delfi.ee IN CNAME .
@@ -20152,6 +20162,7 @@ managedaccounts.nvenergy.com IN CNAME .
 managedaccounts.pacificpower.net IN CNAME .
 managedaccounts.rockymountainpower.net IN CNAME .
 manamoment.com IN CNAME .
+manateemotors.com IN CNAME .
 mandant.net.anwalt.de IN CNAME .
 mandrillapp.zola.com IN CNAME .
 manufacturing.autodeskcommunications.com IN CNAME .
@@ -24232,6 +24243,7 @@ neoncsr21.net.anwalt.de IN CNAME .
 neonsites.com IN CNAME .
 neosllc.actonservice.com IN CNAME .
 neowiv.brumbrum.it IN CNAME .
+nerdworldcon.com IN CNAME .
 nerldv.ullapopken.pl IN CNAME .
 nervoussummer.com IN CNAME .
 nestbuyers.com IN CNAME .
@@ -24825,6 +24837,9 @@ omftdc.morijuku.com IN CNAME .
 omgcreative.actonservice.com IN CNAME .
 om.greatrentals.com IN CNAME .
 omgthink.com IN CNAME .
+omgup1.xiaojukeji.com IN CNAME .
+omgup.didiglobal.com IN CNAME .
+omgup.xiaojukeji.com IN CNAME .
 om.healthgrades.com IN CNAME .
 om.homeaway.ca IN CNAME .
 om.homeaway.co.in IN CNAME .
@@ -25784,6 +25799,7 @@ pixel.lilystyle.ai IN CNAME .
 pixel.locker2.com IN CNAME .
 pixel.marqo-ep.ai IN CNAME .
 pixel.mintigo.com IN CNAME .
+pixelmoonstudio.com IN CNAME .
 pixel.mtrcs.samba.tv IN CNAME .
 pixel.newscred.com IN CNAME .
 pixel.nine.com.au IN CNAME .
@@ -33092,6 +33108,7 @@ sp.data.funkedigital.de IN CNAME .
 sp.dpgmedia.net IN CNAME .
 spea.eko.com IN CNAME .
 specialevent.informaengage.com IN CNAME .
+specialreview.net IN CNAME .
 specialscissors.com IN CNAME .
 specialtypin.com IN CNAME .
 sp.ecosia.org IN CNAME .
@@ -35084,6 +35101,7 @@ stormwind.actonservice.com IN CNAME .
 stormyflower.com IN CNAME .
 s.toronto.com IN CNAME .
 s.toyotafinancial.com IN CNAME .
+stpc.vivo.com.cn IN CNAME .
 st.picshuffle.com IN CNAME .
 st.preciousamber.com IN CNAME .
 str1kee.com IN CNAME .
@@ -35161,6 +35179,7 @@ st.s-bahn-muenchen-magazin.de IN CNAME .
 stscs.ditzo.nl IN CNAME .
 sts.eccmp.com IN CNAME .
 sts.eliasjarzombek.com IN CNAME .
+st-sentinel.vivo.com.cn IN CNAME .
 sts.marketingsuite.jp IN CNAME .
 sts.papyrs.com IN CNAME .
 sts.tour-europe.org IN CNAME .
@@ -35283,6 +35302,7 @@ superficialspring.com IN CNAME .
 superficialsquare.com IN CNAME .
 superiorgroup.actonservice.com IN CNAME .
 superpointlesshamsters.com IN CNAME .
+superstarorganizer.com IN CNAME .
 superstats.observepoint.com IN CNAME .
 s.upoker.net IN CNAME .
 supplyreward.com IN CNAME .
@@ -35420,7 +35440,6 @@ swa.personalcreations.com IN CNAME .
 swa.postnl.nl IN CNAME .
 swa.regiobank.nl IN CNAME .
 swasc.homedepot.ca IN CNAME .
-swasc.homedepot.com IN CNAME .
 swasc.kaufland.bg IN CNAME .
 swasc.kaufland.com IN CNAME .
 swasc.kaufland.cz IN CNAME .
@@ -36661,6 +36680,7 @@ tk.cadeaux.com IN CNAME .
 t.kck.st IN CNAME .
 tk.conforama.fr IN CNAME .
 tk.dietbon.fr IN CNAME .
+tk.d.mi.com IN CNAME .
 tk.domitys.fr IN CNAME .
 tk.dossier.co IN CNAME .
 tkelq.genesys.com IN CNAME .
@@ -37155,6 +37175,7 @@ tracker.eft.com IN CNAME .
 tracker.ethicalcorp.com IN CNAME .
 tracker.euroweb.net IN CNAME .
 tracker.eyeforpharma.com IN CNAME .
+tracker.fengkongcloud.com IN CNAME .
 tracker.financialcontent.com IN CNAME .
 tracker.gamedock.io IN CNAME .
 tracker.gamemonkey.org IN CNAME .
@@ -37960,6 +37981,7 @@ track.kueez.com IN CNAME .
 track.kyoads.com IN CNAME .
 trackla.stackla.com IN CNAME .
 track.leady.cz IN CNAME .
+track.lenovo.com.cn IN CNAME .
 track.lesmills.com IN CNAME .
 track.list-finder.jp IN CNAME .
 track.livasoft.com.tr IN CNAME .
@@ -42566,6 +42588,7 @@ xmyvhu.soxo.pl IN CNAME .
 xnukcp.cpcompany.com IN CNAME .
 xp2023-pix.s3.amazonaws.com IN CNAME .
 xp.allianz.de IN CNAME .
+xp.atlassian.com IN CNAME .
 xpcpmr.gsm55.com IN CNAME .
 xps.huk24.de IN CNAME .
 xps.huk.de IN CNAME .
@@ -43482,6 +43505,7 @@ pangle.io IN CNAME .
 *.partiality.itunes-apple.com.akadns.net IN CNAME .
 *.searchads.lb-apple.com.akadns.net IN CNAME .
 *.iad-apple.com.akadns.net IN CNAME .
+*.aios-otel-collector.g.apple.com IN CNAME .
 *.partiality.itunes.apple.com IN CNAME .
 *.msc-dct-prod.msc.apple.com IN CNAME .
 *.fbs.smoot.apple.com IN CNAME .
