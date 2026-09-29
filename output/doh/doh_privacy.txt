@@ -4324,6 +4324,7 @@ adcontroll.com
 ad.daum.net
 addefend-platform.com
 addictedattention.com
+addmoves.com
 addressfriend.com
 adebis01.job-con.jp
 adebis02.juku.st
@@ -4934,6 +4935,7 @@ ama.quarks.de
 ama.wdr.de
 ama.wdrmaus.de
 a.maxxhotel.com
+amazinglea.com
 amazon-email.branch.rocks
 am.belambra.com
 am.belambra.co.uk
@@ -6807,7 +6809,9 @@ art2wave.actonservice.com
 art.b.inhaabit.com
 artbranch.net
 art.carte-gr.total.fr
+artcat.net
 artemis-cdn.ocdn.eu
+artfulsavage.com
 articledemon.com
 artisan.actonservice.com
 artistchristinacarmel.ericksonbuilt.com
@@ -7727,6 +7731,7 @@ bmnr.pw
 bmodjx.mgos.jp
 bmrg.reflected.net
 bmst.pw
+bmtrcs.com
 bmwebm.org
 b.mynewplace.com
 bmyudk.clarins.de
@@ -9950,6 +9955,7 @@ customize.titanfactorydirect.com
 custom.tonyle.co
 cutecalculator.com
 cutechin.com
+cutsmarter.net
 cv1.start-eo.jp
 cv1.stefany.co.jp
 cv.2jikaikun.com
@@ -12749,6 +12755,7 @@ encompassreport.elliemae.com
 encouragingthread.com
 encuestas.billeteramango.com
 endeavorbusinessmedia.actonservice.com
+endhairfall.com
 endlesstrust.com
 endljp.168chasa.bg
 endljp.abv.bg
@@ -24464,6 +24471,7 @@ noa.yahoo.com
 noblecables.com
 noblefellow.com
 nocaadobefpc.optus.com.au
+nodals.io
 nodenotify.com
 nodethisweek.com
 noflake-aggregator-http.narvar.com
@@ -43183,6 +43191,7 @@ pangle.io
 *.aax-fe.amazon-adsystem.com
 *.aax-gamma-us-east.axp.amazon-adsystem.com
 *.aax-ott-c2s.amazon-adsystem.com
+*.aax-ott-sdk.amazon-adsystem.amazon.com
 *.aax-ott-sdk.amazon-adsystem.com
 *.aax-ott.amazon-adsystem.amazon.com
 *.aax-ott.amazon-adsystem.com
@@ -43325,7 +43334,7 @@ pangle.io
 *.fls-na.amazon.com.mx
 *.fls-na.amazon.com
 *.forester.a2z.com
-*.h4g3z1-native.amazon.web.app
+*.h4g3z1-native-amazon.web.app
 *.identity.browserapps.amazon.de
 *.imdb.amazon-adsystem.com
 *.insights.video.a2z.com
@@ -43533,7 +43542,6 @@ pangle.io
 *.ab.apple.com.akadns.net
 *.diagassets-lb.apple.com.akadns.net
 *.diagnostics.apple.com.akadns.net
-*.iadcontent-lb.apple.com.akadns.net
 *.iadsdk.apple.com.akadns.net
 *.idiagnostics.apple.com.akadns.net
 *.iphonesubmissions.apple.com.akadns.net
@@ -43619,7 +43627,7 @@ pangle.io
 *.metrics.mzstatic.com
 *.marketing.services.apple
 *.beacon.shazam.com
-*.h4g3z1-native.apple.web.app
+*.h4g3z1-native-apple.web.app
 *.applemediaservices.com
 *.qwapi.com
 *.browsercfg-drcn.cloud.dbankcloud.cn
@@ -43756,7 +43764,7 @@ pangle.io
 *.nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 *.logserver.nzxcloud.cn
 *.logservice.vmall.com
-*.h4g3z1-native.huawei.web.app
+*.h4g3z1-native-huawei.web.app
 *.ae-ad-lgsmartad-com.aws-prd.net
 *.ae-rdx2-lgtvsdp-com.aws-prd.net
 *.af-ad-lgsmartad-com.aws-prd.net
@@ -43827,6 +43835,7 @@ pangle.io
 *.eg-ad-lgsmartad-com.aws-prd.net
 *.eg-info-lgsmartad-com.aws-prd.net
 *.es-ad-lgsmartad-com.aws-prd.net
+*.es-info-lgsmartad-com.aws-prd.net
 *.et-ad-lgsmartad-com.aws-prd.net
 *.eu7-info-lgsmartad-com.aws-prd.net
 *.fi-ad-lgsmartad-com.aws-prd.net
@@ -43982,7 +43991,7 @@ pangle.io
 *.wiseconfig.lgtvcommon.com
 *.rdx2.lgtvsdp.com
 *.rdx2.nextlgsdp.com
-*.h4g3z1-native.lgwebos.web.app
+*.h4g3z1-native-lgwebos.web.app
 *.alphonso.tv
 *.lgads.tv
 *.lgsmartad.com
@@ -44470,7 +44479,7 @@ pangle.io
 *.dhfs-vn.oppomobile.com
 *.dhfsf.oppomobile.com
 *.sea-log-rcv.vansound.com
-*.h4g3z1-native.oppo-realme.web.app
+*.h4g3z1-native-oppo-realme.web.app
 *.finosfin.com
 *.hizonetech.com
 *.analytics.us.tiktok.com.bytedance.akadns.net
@@ -45086,7 +45095,7 @@ pangle.io
 *.mcs-ie.tiktokw.eu.ttdns3.com
 *.mcs-ie2.tiktokw.eu.ttdns3.com
 *.ad-instantpage.tiktokv.us.ttdns4.com
-*.h4g3z1-native.tiktok.extended.web.app
+*.h4g3z1-native-tiktok-extended.web.app
 *.vhs.wwstat.com.eo.unicomcdn.com.cn
 *.az.appstore.vivo.com.cn
 *.adlog.vivo.com.cn
@@ -45142,6 +45151,7 @@ pangle.io
 *.asia-vcode-or.vivoglobal.com
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
+*.br-cota.vivoglobal.com
 *.br-p.vivoglobal.com
 *.cn-zh-ort-stsdk.vivoglobal.com
 *.cn-zh-prt-stsdk.vivoglobal.com
@@ -45325,7 +45335,7 @@ pangle.io
 *.zasc-vcode-api.vivoglobal.com
 *.zasc-vcode-od.vivoglobal.com
 *.zasc-vcode-or.vivoglobal.com
-*.h4g3z1-native.vivo.web.app
+*.h4g3z1-native-vivo.web.app
 *.vhs.wwstat.com
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -45450,7 +45460,6 @@ pangle.io
 *.sgtus1-excel-telemetry-vip.officeapps.live.com
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.sgtus1-word-telemetry-vip.officeapps.live.com
-*.telemetry.officeapps.live.com
 *.tgtus1-excel-telemetry-vip.officeapps.live.com
 *.tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 *.tgtus1-word-telemetry-vip.officeapps.live.com
@@ -45667,7 +45676,7 @@ pangle.io
 *.win-global-asimov-leafs-events-data.trafficmanager.net
 *.wttwebsiteprodapi-liveevents.trafficmanager.net
 *.dc.services.visualstudio.com
-*.h4g3z1-native.winoffice.web.app
+*.h4g3z1-native-winoffice.web.app
 *.ceuswatcab01.blob.core.windows.net
 *.ceuswatcab02.blob.core.windows.net
 *.eaus2watcab01.blob.core.windows.net
@@ -45698,7 +45707,6 @@ pangle.io
 *.licensingtelemetry-prod.servicebus.windows.net
 *.nexxtv-events.servicebus.windows.net
 *.ppm-licensingtelemetry.servicebus.windows.net
-*.prd-qlik-telemetry.servicebus.windows.net
 *.prod-eh-v1-analytics.servicebus.windows.net
 *.prod-eventhub-analytics.servicebus.windows.net
 *.production-jobactivity-analytics.servicebus.windows.net
@@ -45856,7 +45864,7 @@ pangle.io
 *.stat.miui.com
 *.testit.miui.com
 *.tracking.miui.com
-*.h4g3z1-native.xiaomi.web.app
+*.h4g3z1-native-xiaomi.web.app
 *.api.ads.xiaomi.com
 *.tracker.ai.xiaomi.com
 *.tracker-preview.ai.xiaomi.com

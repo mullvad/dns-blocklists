@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1790576942    ; serial
+                                        1790666479    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4336,6 +4336,7 @@ adcontroll.com IN CNAME .
 ad.daum.net IN CNAME .
 addefend-platform.com IN CNAME .
 addictedattention.com IN CNAME .
+addmoves.com IN CNAME .
 addressfriend.com IN CNAME .
 adebis01.job-con.jp IN CNAME .
 adebis02.juku.st IN CNAME .
@@ -4946,6 +4947,7 @@ ama.quarks.de IN CNAME .
 ama.wdr.de IN CNAME .
 ama.wdrmaus.de IN CNAME .
 a.maxxhotel.com IN CNAME .
+amazinglea.com IN CNAME .
 amazon-email.branch.rocks IN CNAME .
 am.belambra.com IN CNAME .
 am.belambra.co.uk IN CNAME .
@@ -6819,7 +6821,9 @@ art2wave.actonservice.com IN CNAME .
 art.b.inhaabit.com IN CNAME .
 artbranch.net IN CNAME .
 art.carte-gr.total.fr IN CNAME .
+artcat.net IN CNAME .
 artemis-cdn.ocdn.eu IN CNAME .
+artfulsavage.com IN CNAME .
 articledemon.com IN CNAME .
 artisan.actonservice.com IN CNAME .
 artistchristinacarmel.ericksonbuilt.com IN CNAME .
@@ -7739,6 +7743,7 @@ bmnr.pw IN CNAME .
 bmodjx.mgos.jp IN CNAME .
 bmrg.reflected.net IN CNAME .
 bmst.pw IN CNAME .
+bmtrcs.com IN CNAME .
 bmwebm.org IN CNAME .
 b.mynewplace.com IN CNAME .
 bmyudk.clarins.de IN CNAME .
@@ -9962,6 +9967,7 @@ customize.titanfactorydirect.com IN CNAME .
 custom.tonyle.co IN CNAME .
 cutecalculator.com IN CNAME .
 cutechin.com IN CNAME .
+cutsmarter.net IN CNAME .
 cv1.start-eo.jp IN CNAME .
 cv1.stefany.co.jp IN CNAME .
 cv.2jikaikun.com IN CNAME .
@@ -12761,6 +12767,7 @@ encompassreport.elliemae.com IN CNAME .
 encouragingthread.com IN CNAME .
 encuestas.billeteramango.com IN CNAME .
 endeavorbusinessmedia.actonservice.com IN CNAME .
+endhairfall.com IN CNAME .
 endlesstrust.com IN CNAME .
 endljp.168chasa.bg IN CNAME .
 endljp.abv.bg IN CNAME .
@@ -24476,6 +24483,7 @@ noa.yahoo.com IN CNAME .
 noblecables.com IN CNAME .
 noblefellow.com IN CNAME .
 nocaadobefpc.optus.com.au IN CNAME .
+nodals.io IN CNAME .
 nodenotify.com IN CNAME .
 nodethisweek.com IN CNAME .
 noflake-aggregator-http.narvar.com IN CNAME .
@@ -43195,6 +43203,7 @@ pangle.io IN CNAME .
 *.aax-fe.amazon-adsystem.com IN CNAME .
 *.aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 *.aax-ott-c2s.amazon-adsystem.com IN CNAME .
+*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott-sdk.amazon-adsystem.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.com IN CNAME .
@@ -43337,7 +43346,7 @@ pangle.io IN CNAME .
 *.fls-na.amazon.com.mx IN CNAME .
 *.fls-na.amazon.com IN CNAME .
 *.forester.a2z.com IN CNAME .
-*.h4g3z1-native.amazon.web.app IN CNAME .
+*.h4g3z1-native-amazon.web.app IN CNAME .
 *.identity.browserapps.amazon.de IN CNAME .
 *.imdb.amazon-adsystem.com IN CNAME .
 *.insights.video.a2z.com IN CNAME .
@@ -43545,7 +43554,6 @@ pangle.io IN CNAME .
 *.ab.apple.com.akadns.net IN CNAME .
 *.diagassets-lb.apple.com.akadns.net IN CNAME .
 *.diagnostics.apple.com.akadns.net IN CNAME .
-*.iadcontent-lb.apple.com.akadns.net IN CNAME .
 *.iadsdk.apple.com.akadns.net IN CNAME .
 *.idiagnostics.apple.com.akadns.net IN CNAME .
 *.iphonesubmissions.apple.com.akadns.net IN CNAME .
@@ -43631,7 +43639,7 @@ pangle.io IN CNAME .
 *.metrics.mzstatic.com IN CNAME .
 *.marketing.services.apple IN CNAME .
 *.beacon.shazam.com IN CNAME .
-*.h4g3z1-native.apple.web.app IN CNAME .
+*.h4g3z1-native-apple.web.app IN CNAME .
 *.applemediaservices.com IN CNAME .
 *.qwapi.com IN CNAME .
 *.browsercfg-drcn.cloud.dbankcloud.cn IN CNAME .
@@ -43768,7 +43776,7 @@ pangle.io IN CNAME .
 *.nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru IN CNAME .
 *.logserver.nzxcloud.cn IN CNAME .
 *.logservice.vmall.com IN CNAME .
-*.h4g3z1-native.huawei.web.app IN CNAME .
+*.h4g3z1-native-huawei.web.app IN CNAME .
 *.ae-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ae-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
 *.af-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -43839,6 +43847,7 @@ pangle.io IN CNAME .
 *.eg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eg-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.es-ad-lgsmartad-com.aws-prd.net IN CNAME .
+*.es-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.et-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eu7-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.fi-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -43994,7 +44003,7 @@ pangle.io IN CNAME .
 *.wiseconfig.lgtvcommon.com IN CNAME .
 *.rdx2.lgtvsdp.com IN CNAME .
 *.rdx2.nextlgsdp.com IN CNAME .
-*.h4g3z1-native.lgwebos.web.app IN CNAME .
+*.h4g3z1-native-lgwebos.web.app IN CNAME .
 *.alphonso.tv IN CNAME .
 *.lgads.tv IN CNAME .
 *.lgsmartad.com IN CNAME .
@@ -44482,7 +44491,7 @@ pangle.io IN CNAME .
 *.dhfs-vn.oppomobile.com IN CNAME .
 *.dhfsf.oppomobile.com IN CNAME .
 *.sea-log-rcv.vansound.com IN CNAME .
-*.h4g3z1-native.oppo-realme.web.app IN CNAME .
+*.h4g3z1-native-oppo-realme.web.app IN CNAME .
 *.finosfin.com IN CNAME .
 *.hizonetech.com IN CNAME .
 *.analytics.us.tiktok.com.bytedance.akadns.net IN CNAME .
@@ -45098,7 +45107,7 @@ pangle.io IN CNAME .
 *.mcs-ie.tiktokw.eu.ttdns3.com IN CNAME .
 *.mcs-ie2.tiktokw.eu.ttdns3.com IN CNAME .
 *.ad-instantpage.tiktokv.us.ttdns4.com IN CNAME .
-*.h4g3z1-native.tiktok.extended.web.app IN CNAME .
+*.h4g3z1-native-tiktok-extended.web.app IN CNAME .
 *.vhs.wwstat.com.eo.unicomcdn.com.cn IN CNAME .
 *.az.appstore.vivo.com.cn IN CNAME .
 *.adlog.vivo.com.cn IN CNAME .
@@ -45154,6 +45163,7 @@ pangle.io IN CNAME .
 *.asia-vcode-or.vivoglobal.com IN CNAME .
 *.asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-vpushort-stsdk.vivoglobal.com IN CNAME .
+*.br-cota.vivoglobal.com IN CNAME .
 *.br-p.vivoglobal.com IN CNAME .
 *.cn-zh-ort-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-prt-stsdk.vivoglobal.com IN CNAME .
@@ -45337,7 +45347,7 @@ pangle.io IN CNAME .
 *.zasc-vcode-api.vivoglobal.com IN CNAME .
 *.zasc-vcode-od.vivoglobal.com IN CNAME .
 *.zasc-vcode-or.vivoglobal.com IN CNAME .
-*.h4g3z1-native.vivo.web.app IN CNAME .
+*.h4g3z1-native-vivo.web.app IN CNAME .
 *.vhs.wwstat.com IN CNAME .
 *.c-bingapis-com.dual-a-0034.a-msedge.net IN CNAME .
 *.measure.office.com.akamaized.net IN CNAME .
@@ -45462,7 +45472,6 @@ pangle.io IN CNAME .
 *.sgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.sgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 *.sgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
-*.telemetry.officeapps.live.com IN CNAME .
 *.tgtus1-excel-telemetry-vip.officeapps.live.com IN CNAME .
 *.tgtus1-powerpoint-telemetry-vip.officeapps.live.com IN CNAME .
 *.tgtus1-word-telemetry-vip.officeapps.live.com IN CNAME .
@@ -45679,7 +45688,7 @@ pangle.io IN CNAME .
 *.win-global-asimov-leafs-events-data.trafficmanager.net IN CNAME .
 *.wttwebsiteprodapi-liveevents.trafficmanager.net IN CNAME .
 *.dc.services.visualstudio.com IN CNAME .
-*.h4g3z1-native.winoffice.web.app IN CNAME .
+*.h4g3z1-native-winoffice.web.app IN CNAME .
 *.ceuswatcab01.blob.core.windows.net IN CNAME .
 *.ceuswatcab02.blob.core.windows.net IN CNAME .
 *.eaus2watcab01.blob.core.windows.net IN CNAME .
@@ -45710,7 +45719,6 @@ pangle.io IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
-*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .
@@ -45868,7 +45876,7 @@ pangle.io IN CNAME .
 *.stat.miui.com IN CNAME .
 *.testit.miui.com IN CNAME .
 *.tracking.miui.com IN CNAME .
-*.h4g3z1-native.xiaomi.web.app IN CNAME .
+*.h4g3z1-native-xiaomi.web.app IN CNAME .
 *.api.ads.xiaomi.com IN CNAME .
 *.tracker.ai.xiaomi.com IN CNAME .
 *.tracker-preview.ai.xiaomi.com IN CNAME .
