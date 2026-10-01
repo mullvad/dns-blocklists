@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1790745119    ; serial
+                                        1790832903    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -6824,6 +6824,7 @@ art.carte-gr.total.fr IN CNAME .
 artcat.net IN CNAME .
 artemis-cdn.ocdn.eu IN CNAME .
 artfulsavage.com IN CNAME .
+arthustler.net IN CNAME .
 articledemon.com IN CNAME .
 artisan.actonservice.com IN CNAME .
 artistchristinacarmel.ericksonbuilt.com IN CNAME .
@@ -7152,6 +7153,7 @@ axjfkc.kobayashi.co.jp IN CNAME .
 axkcmb.mosigra.ru IN CNAME .
 axkwyf.edinos.pl IN CNAME .
 axnskz.power-stones.jp IN CNAME .
+axonsite.com IN CNAME .
 axoqjt.gommadiretto.it IN CNAME .
 axoqvl.daf-shoes.com IN CNAME .
 axp.8newsnow.com IN CNAME .
@@ -11768,6 +11770,7 @@ duprelogistics.actonservice.com IN CNAME .
 duqqrl.jefchaussures.com IN CNAME .
 durchsichtig.xyz IN CNAME .
 durst-group.actonservice.com IN CNAME .
+dusthorses.com IN CNAME .
 dustydime.com IN CNAME .
 dustyhammer.com IN CNAME .
 duu8lzqdm8tsz.cloudfront.net IN CNAME .
@@ -15803,6 +15806,7 @@ hyibby.lampen24.be IN CNAME .
 hykaqn.dormideo.com IN CNAME .
 hypercarart.com IN CNAME .
 hyperdisk.actonservice.com IN CNAME .
+hyperfrost.net IN CNAME .
 hyperlegend.com IN CNAME .
 hypnoticwound.com IN CNAME .
 hyrankhit.meldingcloud.com IN CNAME .
@@ -36506,6 +36510,7 @@ t.hawkeyesports.com IN CNAME .
 thebasiccompanies.actonservice.com IN CNAME .
 thebdx.actonservice.com IN CNAME .
 thebestpaints.com IN CNAME .
+thebicyclehut.com IN CNAME .
 thebigvan.com IN CNAME .
 thebrainybulb.com IN CNAME .
 thecea.actonservice.com IN CNAME .
@@ -44260,6 +44265,7 @@ pangle.io IN CNAME .
 *.api-id.theme.heytapmobi.com IN CNAME .
 *.adm-smc-cn.heytapmobi.com IN CNAME .
 *.ads.heytapmobi.com IN CNAME .
+*.apisnd.heytapmobi.com IN CNAME .
 *.dc-dragate-cn.heytapmobi.com IN CNAME .
 *.dcc-awareness-cn.heytapmobi.com IN CNAME .
 *.iot-earbuds-cn.heytapmobi.com IN CNAME .
