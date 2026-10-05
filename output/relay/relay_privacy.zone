@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1790832924    ; serial
+                                        1791179334    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5089,6 +5089,7 @@ analyticsapi.qogita.com IN CNAME .
 analytics-api.samsunghealthcn.com IN CNAME .
 analytics-api-s.cloudinary.com IN CNAME .
 analytics.apnewsregistry.com IN CNAME .
+analytics.app.funnelish.com IN CNAME .
 analytics.archive.org IN CNAME .
 analytics.argeton.com IN CNAME .
 analytics.arunraghavan.net IN CNAME .
@@ -8072,6 +8073,7 @@ brownmouse.net IN CNAME .
 browser.covatic.io IN CNAME .
 browserguides.net IN CNAME .
 browser.pipe.aria.microsoft.com IN CNAME .
+browsertdidticket.m.qq.com IN CNAME .
 browser-updater.yandex.net IN CNAME .
 brpayless.eccocar.com IN CNAME .
 br.potato1.influitive.com IN CNAME .
@@ -9802,6 +9804,7 @@ cr-relay.com IN CNAME .
 crrm.onjoyri.de IN CNAME .
 crs.actonservice.com IN CNAME .
 crta.and.co.uk IN CNAME .
+crta.dailymail.com IN CNAME .
 crta.dailymail.co.uk IN CNAME .
 crta.metro.co.uk IN CNAME .
 cruisetourist.com IN CNAME .
@@ -12141,6 +12144,7 @@ ednqjm.magnanni.com IN CNAME .
 ed.originalpress.com IN CNAME .
 edpsmart.edpcomunicacao.com.br IN CNAME .
 edriving.actonservice.com IN CNAME .
+edshowpigs.com IN CNAME .
 ed-sys.net IN CNAME .
 edtrainingcenter.actonservice.com IN CNAME .
 education.bendigotafe.edu.au IN CNAME .
@@ -13288,6 +13292,7 @@ events.ricoh.de IN CNAME .
 events.ricoh.ie IN CNAME .
 events.s4long.com IN CNAME .
 events.santander.co.uk IN CNAME .
+events.searchtap.net IN CNAME .
 events.shareably.net IN CNAME .
 events.shoplift.ai IN CNAME .
 events.sk.ht IN CNAME .
@@ -14203,6 +14208,7 @@ gastdn.wolfandbadger.com IN CNAME .
 gatan.actonservice.com IN CNAME .
 gateway.aimia.com IN CNAME .
 gateway.foresee.com IN CNAME .
+gatherer.m.qq.com IN CNAME .
 ga-tracker-dot-detmir-bonus.appspot.com IN CNAME .
 gaudyairplane.com IN CNAME .
 gawayez.e-postserv.com IN CNAME .
@@ -14518,6 +14524,7 @@ gkgygj.verivox.de IN CNAME .
 gkopqp.coccodrillo.eu IN CNAME .
 gk.sina.cn IN CNAME .
 gksqdt.reitmans.com IN CNAME .
+gkx.gokwik.co IN CNAME .
 gl5g98t0vfjb.panprices.com IN CNAME .
 gladysway.com IN CNAME .
 glamhawk.com IN CNAME .
@@ -19663,6 +19670,7 @@ log.mgtv.com IN CNAME .
 log.mix.sina.com.cn IN CNAME .
 log.mofa.go.kr IN CNAME .
 log.m.sm.cn IN CNAME .
+log.news.baidu.com IN CNAME .
 log.nordot.jp IN CNAME .
 log.olark.com IN CNAME .
 log.outbrain.com IN CNAME .
@@ -20206,6 +20214,7 @@ ma.pricegain.com IN CNAME .
 map.rockwellautomation.com IN CNAME .
 ma.prover.com IN CNAME .
 marblediscussion.com IN CNAME .
+marbleseeds.com IN CNAME .
 marceline.wantsext.me IN CNAME .
 march.landing.ni.com IN CNAME .
 marcomauto.globalfoundries.com IN CNAME .
@@ -26425,6 +26434,7 @@ prx6.destinia.ch IN CNAME .
 p.ryanhalliday.com IN CNAME .
 pr.yokohama-chokin.com IN CNAME .
 przucu.elkjop.no IN CNAME .
+p.sa7eer.com IN CNAME .
 psbiaf.converse.com IN CNAME .
 psfcnf.ochsnersport.ch IN CNAME .
 psilikaki.openapp.link IN CNAME .
@@ -26482,6 +26492,7 @@ pulse.delta.com IN CNAME .
 pulse.ecmapps.com IN CNAME .
 pulse.genki.world IN CNAME .
 pulse.munsonhealthcare.org IN CNAME .
+pulsepoint.ideal.house IN CNAME .
 pulse.shopflo.com IN CNAME .
 pumlmb.netcologne.de IN CNAME .
 pumpedpancake.com IN CNAME .
@@ -26921,6 +26932,7 @@ realogicinc.actonservice.com IN CNAME .
 realsolutions.americanexpress.fr IN CNAME .
 realsolutions.americanexpress.it IN CNAME .
 realsolutions.americanexpress.se IN CNAME .
+realtimeanalytics.yext.com IN CNAME .
 realtime.bbcl.cl IN CNAME .
 realtimely.io IN CNAME .
 realtime-profiling.datarize.ai IN CNAME .
@@ -36210,6 +36222,7 @@ t.ecomms.origin.com.au IN CNAME .
 te.creation-l.de IN CNAME .
 t.ecupirates.com IN CNAME .
 teczbq.amicashop.com IN CNAME .
+ted.dailymail.co.uk IN CNAME .
 tediousbear.com IN CNAME .
 tedioustooth.com IN CNAME .
 teefiksummin.visma.fi IN CNAME .
@@ -37160,6 +37173,7 @@ track.concur.com.au IN CNAME .
 track.concur.com.sg IN CNAME .
 track.connectwise.com IN CNAME .
 track.contently.com IN CNAME .
+track.convertfox.com IN CNAME .
 track.cordial.io IN CNAME .
 track.cornerstonebuildingbrands.com IN CNAME .
 track.craudia.com IN CNAME .
@@ -38156,6 +38170,7 @@ traffic.prod.cobaltgroup.com IN CNAME .
 traffic.shareaholic.com IN CNAME .
 traffic.taktikal.is IN CNAME .
 traffic.wdc.center IN CNAME .
+trafik.koopit.ist IN CNAME .
 tr.afpa.espmp-cufr.net IN CNAME .
 tr.ag2rlamondiale.fr IN CNAME .
 tr.agefiseminaires.com IN CNAME .
@@ -41503,6 +41518,7 @@ webstats.vodafone.com IN CNAME .
 webstats.volvoce.com IN CNAME .
 webstats.volvoit.com IN CNAME .
 webstat.vodafone.com IN CNAME .
+webstat.ws.126.net IN CNAME .
 web.tamaris.com IN CNAME .
 webt.aqipa.com IN CNAME .
 webtarget.astrogaming.com IN CNAME .
@@ -43208,7 +43224,6 @@ pangle.io IN CNAME .
 *.aax-fe.amazon-adsystem.com IN CNAME .
 *.aax-gamma-us-east.axp.amazon-adsystem.com IN CNAME .
 *.aax-ott-c2s.amazon-adsystem.com IN CNAME .
-*.aax-ott-sdk.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott-sdk.amazon-adsystem.com IN CNAME .
 *.aax-ott.amazon-adsystem.amazon.com IN CNAME .
 *.aax-ott.amazon-adsystem.com IN CNAME .
@@ -43295,8 +43310,6 @@ pangle.io IN CNAME .
 *.assoc-msdk-cn.amazon-adsystem.com IN CNAME .
 *.assoc-msdk-eu.amazon-adsystem.com IN CNAME .
 *.assoc-msdk-us.amazon-adsystem.com IN CNAME .
-*.at-beta.amazon-adsystem.com IN CNAME .
-*.at-gamma-us-east.amazon-adsystem.com IN CNAME .
 *.at-us-east.amazon-adsystem.com IN CNAME .
 *.atfe.amazon-adsystem.com IN CNAME .
 *.atue.amazon-adsystem.com IN CNAME .
@@ -43394,7 +43407,6 @@ pangle.io IN CNAME .
 *.metrics.us-east-1.iris.apx.amazon.dev IN CNAME .
 *.minerva.devices.a2z.com IN CNAME .
 *.mobileanalytics.us-east-1.amazonaws.com IN CNAME .
-*.mshopbugsnag.irm.amazon.dev IN CNAME .
 *.origin-s.amazon-adsystem.com IN CNAME .
 *.origin-sq-tungsten-ts.amazon-adsystem.com IN CNAME .
 *.paa-reporting-advertising.amazon IN CNAME .
@@ -43556,8 +43568,6 @@ pangle.io IN CNAME .
 *.smoot-feedback.v.aaplimg.com IN CNAME .
 *.supportmetrics.v.aaplimg.com IN CNAME .
 *.xp.v.aaplimg.com IN CNAME .
-*.ab.apple.com.akadns.net IN CNAME .
-*.diagassets-lb.apple.com.akadns.net IN CNAME .
 *.diagnostics.apple.com.akadns.net IN CNAME .
 *.iadsdk.apple.com.akadns.net IN CNAME .
 *.idiagnostics.apple.com.akadns.net IN CNAME .
@@ -43782,6 +43792,7 @@ pangle.io IN CNAME .
 *.logserver.nzxcloud.cn IN CNAME .
 *.logservice.vmall.com IN CNAME .
 *.h4g3z1-native-huawei.web.app IN CNAME .
+*.lgads.adsmeasurement.com IN CNAME .
 *.ae-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.ae-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
 *.af-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -43852,7 +43863,6 @@ pangle.io IN CNAME .
 *.eg-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eg-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.es-ad-lgsmartad-com.aws-prd.net IN CNAME .
-*.es-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.et-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.eu7-info-lgsmartad-com.aws-prd.net IN CNAME .
 *.fi-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -44550,6 +44560,7 @@ pangle.io IN CNAME .
 *.xlog-o.byteoversea.com IN CNAME .
 *.xlog-va.byteoversea.com IN CNAME .
 *.xlog-va-useast2a.byteoversea.com IN CNAME .
+*.frontier.us.capcut.com IN CNAME .
 *.log-boot.capcutapi.com IN CNAME .
 *.log-sg.capcutapi.com IN CNAME .
 *.log-v2-boot.capcutapi.com IN CNAME .
@@ -44578,6 +44589,7 @@ pangle.io IN CNAME .
 *.mssdk16-normal.capcutapi.com IN CNAME .
 *.mssdk16-normal-sg.capcutapi.com IN CNAME .
 *.mssdk16-normal-us-ttp.capcutapi.us IN CNAME .
+*.mssdk16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.mssdk32-normal.capcutapi.com IN CNAME .
 *.mssdk32-normal-sg.capcutapi.com IN CNAME .
 *.pc-mon-boot.capcutapi.com IN CNAME .
@@ -44591,7 +44603,9 @@ pangle.io IN CNAME .
 *.tnc-va.capcutapi.com IN CNAME .
 *.tnc-va-us-looki.capcutapi.com IN CNAME .
 *.tnc16-normal-us-ttp.capcutapi.us IN CNAME .
+*.tnc16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.frontier.capcutw.us IN CNAME .
+*.frontier-us-ttp2.capcutw.us IN CNAME .
 *.mon-i18n.tiktokv.com.dvaitas.lt IN CNAME .
 *.mon16-normal-no1a.tiktokv.eu.dvaitas.lt IN CNAME .
 *.mon16-normal-useastred.tiktokv.eu.dvaitas.lt IN CNAME .
@@ -44977,6 +44991,7 @@ pangle.io IN CNAME .
 *.rtc-logger.tiktokv.us IN CNAME .
 *.rtc-logger-i18n.tiktokv.com IN CNAME .
 *.rtc-logger-ie.tiktokv.eu IN CNAME .
+*.rtc-logger-ttp2.tiktokv.us IN CNAME .
 *.rtc-logger-va.tiktokv.com IN CNAME .
 *.rtc-logger16-normal-useastred.tiktokv.eu IN CNAME .
 *.rtlog.tiktokv.com IN CNAME .
@@ -45169,7 +45184,6 @@ pangle.io IN CNAME .
 *.asia-vcode-or.vivoglobal.com IN CNAME .
 *.asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-vpushort-stsdk.vivoglobal.com IN CNAME .
-*.br-cota.vivoglobal.com IN CNAME .
 *.br-p.vivoglobal.com IN CNAME .
 *.cn-zh-ort-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-prt-stsdk.vivoglobal.com IN CNAME .
@@ -45392,14 +45406,6 @@ pangle.io IN CNAME .
 *.g.bing.com IN CNAME .
 *.raka.bing.com IN CNAME .
 *.c.bingapis.com IN CNAME .
-*.excelonline.nel.measure.office.net.cardano.com IN CNAME .
-*.exo.nel.measure.office.net.cardano.com IN CNAME .
-*.identity.nel.measure.office.net.cardano.com IN CNAME .
-*.m365cdn.nel.measure.office.net.cardano.com IN CNAME .
-*.officehub.nel.measure.office.net.cardano.com IN CNAME .
-*.spo.nel.measure.office.net.cardano.com IN CNAME .
-*.teams.nel.measure.office.net.cardano.com IN CNAME .
-*.insights.cloud.microsoft IN CNAME .
 *.measure.office.net.edgesuite.net IN CNAME .
 *.westeurope-5.in.applicationinsights.azure.com.fiege.de IN CNAME .
 *.collector.azure.eaglex.ic.gov IN CNAME .
@@ -45495,6 +45501,7 @@ pangle.io IN CNAME .
 *.rad.live.com IN CNAME .
 *.ssw.live.com IN CNAME .
 *.watson.live.com IN CNAME .
+*.logs.appsource.microsoft.com IN CNAME .
 *.pipe.aria.microsoft.com IN CNAME .
 *.collector.azure.microsoft.cloud IN CNAME .
 *.track.notif.careersppe.microsoft.com IN CNAME .
@@ -45507,7 +45514,9 @@ pangle.io IN CNAME .
 *.api.edgeoffer.microsoft.com IN CNAME .
 *.redir.metaservices.microsoft.com IN CNAME .
 *.track.mp.microsoft.com IN CNAME .
+*.inputsuggestions.msdxcdn.microsoft.com IN CNAME .
 *.watson.officeint.microsoft.com IN CNAME .
+*.feedback.search.microsoft.com IN CNAME .
 *.telem-edge.smartscreen.microsoft.com IN CNAME .
 *.i1.services.social.microsoft.com IN CNAME .
 *.telemetry.urs.microsoft.com IN CNAME .
@@ -45526,9 +45535,11 @@ pangle.io IN CNAME .
 *.clarity.microsoft.com IN CNAME .
 *.ieonline.microsoft.com IN CNAME .
 *.location.microsoft.com IN CNAME .
+*.measure.microsoft.com IN CNAME .
 *.msadsscale.microsoft.com IN CNAME .
 *.oca.microsoft.com IN CNAME .
 *.rad.microsoft.com IN CNAME .
+*.romeccs.microsoft.com IN CNAME .
 *.spynet2.microsoft.com IN CNAME .
 *.spynetalt.microsoft.com IN CNAME .
 *.telecommandsvc.microsoft.com IN CNAME .

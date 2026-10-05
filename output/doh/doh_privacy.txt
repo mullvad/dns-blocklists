@@ -5077,6 +5077,7 @@ analyticsapi.qogita.com
 analytics-api.samsunghealthcn.com
 analytics-api-s.cloudinary.com
 analytics.apnewsregistry.com
+analytics.app.funnelish.com
 analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
@@ -8060,6 +8061,7 @@ brownmouse.net
 browser.covatic.io
 browserguides.net
 browser.pipe.aria.microsoft.com
+browsertdidticket.m.qq.com
 browser-updater.yandex.net
 brpayless.eccocar.com
 br.potato1.influitive.com
@@ -9790,6 +9792,7 @@ cr-relay.com
 crrm.onjoyri.de
 crs.actonservice.com
 crta.and.co.uk
+crta.dailymail.com
 crta.dailymail.co.uk
 crta.metro.co.uk
 cruisetourist.com
@@ -12129,6 +12132,7 @@ ednqjm.magnanni.com
 ed.originalpress.com
 edpsmart.edpcomunicacao.com.br
 edriving.actonservice.com
+edshowpigs.com
 ed-sys.net
 edtrainingcenter.actonservice.com
 education.bendigotafe.edu.au
@@ -13276,6 +13280,7 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events.santander.co.uk
+events.searchtap.net
 events.shareably.net
 events.shoplift.ai
 events.sk.ht
@@ -14191,6 +14196,7 @@ gastdn.wolfandbadger.com
 gatan.actonservice.com
 gateway.aimia.com
 gateway.foresee.com
+gatherer.m.qq.com
 ga-tracker-dot-detmir-bonus.appspot.com
 gaudyairplane.com
 gawayez.e-postserv.com
@@ -14506,6 +14512,7 @@ gkgygj.verivox.de
 gkopqp.coccodrillo.eu
 gk.sina.cn
 gksqdt.reitmans.com
+gkx.gokwik.co
 gl5g98t0vfjb.panprices.com
 gladysway.com
 glamhawk.com
@@ -19651,6 +19658,7 @@ log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
 log.m.sm.cn
+log.news.baidu.com
 log.nordot.jp
 log.olark.com
 log.outbrain.com
@@ -20194,6 +20202,7 @@ ma.pricegain.com
 map.rockwellautomation.com
 ma.prover.com
 marblediscussion.com
+marbleseeds.com
 marceline.wantsext.me
 march.landing.ni.com
 marcomauto.globalfoundries.com
@@ -26413,6 +26422,7 @@ prx6.destinia.ch
 p.ryanhalliday.com
 pr.yokohama-chokin.com
 przucu.elkjop.no
+p.sa7eer.com
 psbiaf.converse.com
 psfcnf.ochsnersport.ch
 psilikaki.openapp.link
@@ -26470,6 +26480,7 @@ pulse.delta.com
 pulse.ecmapps.com
 pulse.genki.world
 pulse.munsonhealthcare.org
+pulsepoint.ideal.house
 pulse.shopflo.com
 pumlmb.netcologne.de
 pumpedpancake.com
@@ -26909,6 +26920,7 @@ realogicinc.actonservice.com
 realsolutions.americanexpress.fr
 realsolutions.americanexpress.it
 realsolutions.americanexpress.se
+realtimeanalytics.yext.com
 realtime.bbcl.cl
 realtimely.io
 realtime-profiling.datarize.ai
@@ -36198,6 +36210,7 @@ t.ecomms.origin.com.au
 te.creation-l.de
 t.ecupirates.com
 teczbq.amicashop.com
+ted.dailymail.co.uk
 tediousbear.com
 tedioustooth.com
 teefiksummin.visma.fi
@@ -37148,6 +37161,7 @@ track.concur.com.au
 track.concur.com.sg
 track.connectwise.com
 track.contently.com
+track.convertfox.com
 track.cordial.io
 track.cornerstonebuildingbrands.com
 track.craudia.com
@@ -38144,6 +38158,7 @@ traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
 traffic.taktikal.is
 traffic.wdc.center
+trafik.koopit.ist
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
 tr.agefiseminaires.com
@@ -41491,6 +41506,7 @@ webstats.vodafone.com
 webstats.volvoce.com
 webstats.volvoit.com
 webstat.vodafone.com
+webstat.ws.126.net
 web.tamaris.com
 webt.aqipa.com
 webtarget.astrogaming.com
@@ -43196,7 +43212,6 @@ pangle.io
 *.aax-fe.amazon-adsystem.com
 *.aax-gamma-us-east.axp.amazon-adsystem.com
 *.aax-ott-c2s.amazon-adsystem.com
-*.aax-ott-sdk.amazon-adsystem.amazon.com
 *.aax-ott-sdk.amazon-adsystem.com
 *.aax-ott.amazon-adsystem.amazon.com
 *.aax-ott.amazon-adsystem.com
@@ -43283,8 +43298,6 @@ pangle.io
 *.assoc-msdk-cn.amazon-adsystem.com
 *.assoc-msdk-eu.amazon-adsystem.com
 *.assoc-msdk-us.amazon-adsystem.com
-*.at-beta.amazon-adsystem.com
-*.at-gamma-us-east.amazon-adsystem.com
 *.at-us-east.amazon-adsystem.com
 *.atfe.amazon-adsystem.com
 *.atue.amazon-adsystem.com
@@ -43382,7 +43395,6 @@ pangle.io
 *.metrics.us-east-1.iris.apx.amazon.dev
 *.minerva.devices.a2z.com
 *.mobileanalytics.us-east-1.amazonaws.com
-*.mshopbugsnag.irm.amazon.dev
 *.origin-s.amazon-adsystem.com
 *.origin-sq-tungsten-ts.amazon-adsystem.com
 *.paa-reporting-advertising.amazon
@@ -43544,8 +43556,6 @@ pangle.io
 *.smoot-feedback.v.aaplimg.com
 *.supportmetrics.v.aaplimg.com
 *.xp.v.aaplimg.com
-*.ab.apple.com.akadns.net
-*.diagassets-lb.apple.com.akadns.net
 *.diagnostics.apple.com.akadns.net
 *.iadsdk.apple.com.akadns.net
 *.idiagnostics.apple.com.akadns.net
@@ -43770,6 +43780,7 @@ pangle.io
 *.logserver.nzxcloud.cn
 *.logservice.vmall.com
 *.h4g3z1-native-huawei.web.app
+*.lgads.adsmeasurement.com
 *.ae-ad-lgsmartad-com.aws-prd.net
 *.ae-rdx2-lgtvsdp-com.aws-prd.net
 *.af-ad-lgsmartad-com.aws-prd.net
@@ -43840,7 +43851,6 @@ pangle.io
 *.eg-ad-lgsmartad-com.aws-prd.net
 *.eg-info-lgsmartad-com.aws-prd.net
 *.es-ad-lgsmartad-com.aws-prd.net
-*.es-info-lgsmartad-com.aws-prd.net
 *.et-ad-lgsmartad-com.aws-prd.net
 *.eu7-info-lgsmartad-com.aws-prd.net
 *.fi-ad-lgsmartad-com.aws-prd.net
@@ -44538,6 +44548,7 @@ pangle.io
 *.xlog-o.byteoversea.com
 *.xlog-va.byteoversea.com
 *.xlog-va-useast2a.byteoversea.com
+*.frontier.us.capcut.com
 *.log-boot.capcutapi.com
 *.log-sg.capcutapi.com
 *.log-v2-boot.capcutapi.com
@@ -44566,6 +44577,7 @@ pangle.io
 *.mssdk16-normal.capcutapi.com
 *.mssdk16-normal-sg.capcutapi.com
 *.mssdk16-normal-us-ttp.capcutapi.us
+*.mssdk16-normal-us-ttp2.capcutapi.us
 *.mssdk32-normal.capcutapi.com
 *.mssdk32-normal-sg.capcutapi.com
 *.pc-mon-boot.capcutapi.com
@@ -44579,7 +44591,9 @@ pangle.io
 *.tnc-va.capcutapi.com
 *.tnc-va-us-looki.capcutapi.com
 *.tnc16-normal-us-ttp.capcutapi.us
+*.tnc16-normal-us-ttp2.capcutapi.us
 *.frontier.capcutw.us
+*.frontier-us-ttp2.capcutw.us
 *.mon-i18n.tiktokv.com.dvaitas.lt
 *.mon16-normal-no1a.tiktokv.eu.dvaitas.lt
 *.mon16-normal-useastred.tiktokv.eu.dvaitas.lt
@@ -44965,6 +44979,7 @@ pangle.io
 *.rtc-logger.tiktokv.us
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
+*.rtc-logger-ttp2.tiktokv.us
 *.rtc-logger-va.tiktokv.com
 *.rtc-logger16-normal-useastred.tiktokv.eu
 *.rtlog.tiktokv.com
@@ -45157,7 +45172,6 @@ pangle.io
 *.asia-vcode-or.vivoglobal.com
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
-*.br-cota.vivoglobal.com
 *.br-p.vivoglobal.com
 *.cn-zh-ort-stsdk.vivoglobal.com
 *.cn-zh-prt-stsdk.vivoglobal.com
@@ -45380,14 +45394,6 @@ pangle.io
 *.g.bing.com
 *.raka.bing.com
 *.c.bingapis.com
-*.excelonline.nel.measure.office.net.cardano.com
-*.exo.nel.measure.office.net.cardano.com
-*.identity.nel.measure.office.net.cardano.com
-*.m365cdn.nel.measure.office.net.cardano.com
-*.officehub.nel.measure.office.net.cardano.com
-*.spo.nel.measure.office.net.cardano.com
-*.teams.nel.measure.office.net.cardano.com
-*.insights.cloud.microsoft
 *.measure.office.net.edgesuite.net
 *.westeurope-5.in.applicationinsights.azure.com.fiege.de
 *.collector.azure.eaglex.ic.gov
@@ -45483,6 +45489,7 @@ pangle.io
 *.rad.live.com
 *.ssw.live.com
 *.watson.live.com
+*.logs.appsource.microsoft.com
 *.pipe.aria.microsoft.com
 *.collector.azure.microsoft.cloud
 *.track.notif.careersppe.microsoft.com
@@ -45495,7 +45502,9 @@ pangle.io
 *.api.edgeoffer.microsoft.com
 *.redir.metaservices.microsoft.com
 *.track.mp.microsoft.com
+*.inputsuggestions.msdxcdn.microsoft.com
 *.watson.officeint.microsoft.com
+*.feedback.search.microsoft.com
 *.telem-edge.smartscreen.microsoft.com
 *.i1.services.social.microsoft.com
 *.telemetry.urs.microsoft.com
@@ -45514,9 +45523,11 @@ pangle.io
 *.clarity.microsoft.com
 *.ieonline.microsoft.com
 *.location.microsoft.com
+*.measure.microsoft.com
 *.msadsscale.microsoft.com
 *.oca.microsoft.com
 *.rad.microsoft.com
+*.romeccs.microsoft.com
 *.spynet2.microsoft.com
 *.spynetalt.microsoft.com
 *.telecommandsvc.microsoft.com
