@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1791179314    ; serial
+                                        1791260190    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4995,6 +4995,7 @@ am.siemensplmevents.com IN CNAME .
 ams.lelong.com.my IN CNAME .
 ams.oraclecloud.com IN CNAME .
 ams-pageview-public.s3.amazonaws.com IN CNAME .
+amspbs.com IN CNAME .
 amsunsolar.actonservice.com IN CNAME .
 a.mts.ru IN CNAME .
 amuckafternoon.com IN CNAME .
@@ -5048,6 +5049,7 @@ analytic.divee.ai IN CNAME .
 analytic.fishtrack.com IN CNAME .
 analytic.hawaii.aaa.com IN CNAME .
 analytic.hotelclub.com IN CNAME .
+analytic.is IN CNAME .
 analytic.newmexico.aaa.com IN CNAME .
 analytic.northernnewengland.aaa.com IN CNAME .
 analytic.rollout.io IN CNAME .
@@ -8231,6 +8233,7 @@ bwkpkx.projectxparis.com IN CNAME .
 bwmxdg.kimono-365.jp IN CNAME .
 bwntyd.neuve-a.net IN CNAME .
 b.workhere.com IN CNAME .
+bws.airwallex.com IN CNAME .
 bwspqc.bloomonline.jp IN CNAME .
 bwujxl.yoga-lava.com IN CNAME .
 bxbuvv.zeelool.com IN CNAME .
@@ -8541,6 +8544,7 @@ cdns.brsrvr.com IN CNAME .
 cdn.seonintelligence.com IN CNAME .
 cdn.sy-d.io IN CNAME .
 cdn.usefathom.com IN CNAME .
+cdn-vitals.com IN CNAME .
 cdnwidget.com IN CNAME .
 cdp.cifinancial.com IN CNAME .
 cdp.howtotrade.com IN CNAME .
@@ -11683,6 +11687,7 @@ dozententag.ni.com IN CNAME .
 dpckzt.mesrecettesfaciles.fr IN CNAME .
 dplp1.ibmnorthamerica.adobesandbox.com IN CNAME .
 dpm.demdex.net.iberostar.com IN CNAME .
+dppesulohfqre.cloudfront.net IN CNAME .
 dppublishinginc.actonservice.com IN CNAME .
 dp.shoprunner.com IN CNAME .
 dptgdj.usagi-online.com IN CNAME .
@@ -13755,6 +13760,7 @@ f-log-test.grammarly.io IN CNAME .
 floodedpixel.com IN CNAME .
 floodprincipal.com IN CNAME .
 floorforce.actonservice.com IN CNAME .
+floors.dev IN CNAME .
 flotech.actonservice.com IN CNAME .
 flourishingcollaboration.com IN CNAME .
 flourishingendeavor.com IN CNAME .
@@ -14047,6 +14053,7 @@ fse.net.anwalt.de IN CNAME .
 fsm.lapresse.ca IN CNAME .
 fsqwdj.live-tennis.eu IN CNAME .
 fsresidential.actonservice.com IN CNAME .
+fsrv.io IN CNAME .
 fst-ec.perimeterx.net IN CNAME .
 fsugco.rcn.nl IN CNAME .
 fsz1.francoisesaget.com IN CNAME .
@@ -28249,6 +28256,7 @@ schinnerer.actonservice.com IN CNAME .
 sc.hl.co.uk IN CNAME .
 sc.hm.com IN CNAME .
 scholarloop.com IN CNAME .
+scholarsark.com IN CNAME .
 sc.holtsmilitarybank.co.uk IN CNAME .
 schoolpaws.com IN CNAME .
 schwacke.autovistagroup.com IN CNAME .
@@ -35160,6 +35168,7 @@ s.toyotafinancial.com IN CNAME .
 stpc.vivo.com.cn IN CNAME .
 st.picshuffle.com IN CNAME .
 st.preciousamber.com IN CNAME .
+st.putler.com IN CNAME .
 str1kee.com IN CNAME .
 str2-bbyca-track.bestbuy.com IN CNAME .
 str2-fsca-track.bestbuy.com IN CNAME .
@@ -35811,6 +35820,7 @@ t.ao.consumerfinancereport.com IN CNAME .
 t.ao.walletjoy.com IN CNAME .
 tap.carling.com IN CNAME .
 tapi.kaufda.de IN CNAME .
+tapoutmusic.com IN CNAME .
 t.appsflyer.com IN CNAME .
 t.appstatesports.com IN CNAME .
 t.arcade.show IN CNAME .
@@ -36983,6 +36993,7 @@ top-fwz1.mail.ru IN CNAME .
 topicalcartel.com IN CNAME .
 topicjungle.com IN CNAME .
 toplaunch.net IN CNAME .
+topratedwaterfilter.com IN CNAME .
 topsecretapp.net IN CNAME .
 top.skyzone.ro IN CNAME .
 topspin.npo.nl IN CNAME .
