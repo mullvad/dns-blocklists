@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1791347076    ; serial
+                                        1791434575    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7670,6 +7670,7 @@ blackdagger.openapp.link IN CNAME .
 blackenterprise.black.news IN CNAME .
 blackjack.abzorbagames.com IN CNAME .
 blackmesh.actonservice.com IN CNAME .
+blackrednecks.com IN CNAME .
 blacktri-a.akamaihd.net IN CNAME .
 bladv.actonservice.com IN CNAME .
 blaltn.physicianschoice.com IN CNAME .
@@ -8447,6 +8448,7 @@ cars.smartleasing.com.au IN CNAME .
 c.arstechnica.com IN CNAME .
 carte.fleet-page.total.fr IN CNAME .
 cartelsalsa.com IN CNAME .
+cartersci.com IN CNAME .
 cartjoint.com IN CNAME .
 cartlug.com IN CNAME .
 cartoon.hardalist.com IN CNAME .
@@ -24096,6 +24098,7 @@ mupmos.levis.com.au IN CNAME .
 muqtti.motoin.de IN CNAME .
 mushroomgods.com IN CNAME .
 mushywaste.com IN CNAME .
+musicenforcer.com IN CNAME .
 musicflashcard.com IN CNAME .
 muteknife.com IN CNAME .
 mutemailbox.com IN CNAME .
@@ -34379,6 +34382,7 @@ stats.fishersci.com IN CNAME .
 stats.fishersci.de IN CNAME .
 stats.fishersci.it IN CNAME .
 stats.flightsphere.com IN CNAME .
+stats.flixcloud.cc IN CNAME .
 stats.flixhq.live IN CNAME .
 stats.florianfritz.net IN CNAME .
 stats.flowphantom.com IN CNAME .
@@ -41002,6 +41006,7 @@ visit.tenplay.com.au IN CNAME .
 visma.e-conomic.dk IN CNAME .
 vismaturva.visma.fi IN CNAME .
 visor.sberbank.ru IN CNAME .
+visualcommservices.com IN CNAME .
 visualscience.external.bbc.co.uk IN CNAME .
 vitalimages.actonservice.com IN CNAME .
 vitalmedia.actonservice.com IN CNAME .
