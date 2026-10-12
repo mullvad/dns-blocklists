@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1791434596    ; serial
+                                        1791807537    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5603,6 +5603,7 @@ analytics.traderlink.com IN CNAME .
 analytics.truckingauthority.com IN CNAME .
 analytics.trust.page IN CNAME .
 analytics.trutv.com IN CNAME .
+analytics.tsoftapps.com IN CNAME .
 analytics.tufos.com.br IN CNAME .
 analytics.turnertv.com IN CNAME .
 analytics.tver.jp IN CNAME .
@@ -6802,6 +6803,7 @@ a.replaytheseries.com IN CNAME .
 a-reporting.nytimes.com IN CNAME .
 argos.citruserve.com IN CNAME .
 argyleforum.actonservice.com IN CNAME .
+ariaclean.com IN CNAME .
 aria.inhaabit.com IN CNAME .
 ariane.abtasty.com IN CNAME .
 a.ria.ru IN CNAME .
@@ -7608,6 +7610,7 @@ bikesboard.com IN CNAME .
 bilahh.feuvert.fr IN CNAME .
 bilder11.markt.de IN CNAME .
 bilingualgeek.com IN CNAME .
+billionpet.com IN CNAME .
 billowybead.com IN CNAME .
 billowybelief.com IN CNAME .
 billtable.com IN CNAME .
@@ -7809,6 +7812,7 @@ booster.osnova.io IN CNAME .
 bopmkf.lolahome.es IN CNAME .
 boqufs.2nn.jp IN CNAME .
 boredcrown.com IN CNAME .
+borefee.com IN CNAME .
 boringberry.com IN CNAME .
 boringpirate.com IN CNAME .
 boss.openapp.link IN CNAME .
@@ -8699,6 +8703,7 @@ cis.schibsted.com IN CNAME .
 ciszhp.finanzfrage.net IN CNAME .
 ciszhp.gesundheitsfrage.net IN CNAME .
 ciszhp.motorradfrage.net IN CNAME .
+citizensactive.com IN CNAME .
 citizensclimate.actonservice.com IN CNAME .
 citizenship.quantresear.ch IN CNAME .
 citydeal.net IN CNAME .
@@ -8782,6 +8787,7 @@ click.emails.creditonebank.com IN CNAME .
 click.email.soundhound.com IN CNAME .
 click.em.soothe.com IN CNAME .
 click.e.progressive.com IN CNAME .
+clickersdigest.com IN CNAME .
 click.e.tdbank.com IN CNAME .
 click.execrank.com IN CNAME .
 click-ext.anxa.com IN CNAME .
@@ -8933,6 +8939,7 @@ cltr.irlmail.org IN CNAME .
 cltr.willhaben.at IN CNAME .
 cltxxq.cruises.united.com IN CNAME .
 clumsycar.com IN CNAME .
+clutchcourses.com IN CNAME .
 clyexf.decathlon.ie IN CNAME .
 cmass.massmedian.co.jp IN CNAME .
 cmc.americanexpress.co.uk IN CNAME .
@@ -12760,7 +12767,6 @@ emplicity.actonservice.com IN CNAME .
 emptyboats.com IN CNAME .
 emptyescort.com IN CNAME .
 emrdnt.sumaity.com IN CNAME .
-emrld.cc IN CNAME .
 ems-a8net-tracking.easy-myshop.jp IN CNAME .
 emsexam.quantresear.ch IN CNAME .
 em.stauffersafety.com IN CNAME .
@@ -14533,7 +14539,6 @@ gkgygj.verivox.de IN CNAME .
 gkopqp.coccodrillo.eu IN CNAME .
 gk.sina.cn IN CNAME .
 gksqdt.reitmans.com IN CNAME .
-gkx.gokwik.co IN CNAME .
 gl5g98t0vfjb.panprices.com IN CNAME .
 gladysway.com IN CNAME .
 glamhawk.com IN CNAME .
@@ -20099,6 +20104,7 @@ maeketing.net.gafas.es IN CNAME .
 m.aetv.com IN CNAME .
 mafiahairdresser.actonservice.com IN CNAME .
 maformationofficinale.actonservice.com IN CNAME .
+ma.gamersnexus.net IN CNAME .
 magento-recs-sdk.adobe.net IN CNAME .
 maggieeatstheangel.com IN CNAME .
 magicaljoin.com IN CNAME .
@@ -25811,6 +25817,7 @@ pittaking.openapp.link IN CNAME .
 pivotpointsecurity.actonservice.com IN CNAME .
 pix.airbusgroup.com IN CNAME .
 pix.eads.com IN CNAME .
+pixel2.realclever.com IN CNAME .
 pixel6.wp.pl IN CNAME .
 pixel-a.basis.net IN CNAME .
 pixel.ampry.com IN CNAME .
@@ -34554,6 +34561,7 @@ stats.locallabs.com IN CNAME .
 stats.localmetravel.com IN CNAME .
 stats.lord.io IN CNAME .
 stats.lotlinx.com IN CNAME .
+stats.lrb.co.uk IN CNAME .
 stats.lstfnd.de IN CNAME .
 stats.ltdhunt.com IN CNAME .
 stats.luieremmer.net IN CNAME .
@@ -34995,6 +35003,7 @@ stats.yourfone.de IN CNAME .
 stats.zimri.net IN CNAME .
 stats.zoogletools.net IN CNAME .
 stats.zotabox.com IN CNAME .
+stats.zruvix.com IN CNAME .
 stat.taxlive.nl IN CNAME .
 statt-collect.herokuapp.com IN CNAME .
 stat.testme.cloud IN CNAME .
@@ -37039,6 +37048,7 @@ tp.baur.de IN CNAME .
 t.pbr.com IN CNAME .
 tp.convertiser.com IN CNAME .
 tp.creation-l.de IN CNAME .
+tp-em.cc IN CNAME .
 t.pennathletics.com IN CNAME .
 t.perigold.com IN CNAME .
 t.perjeta.com IN CNAME .
@@ -44622,11 +44632,6 @@ pangle.io IN CNAME .
 *.tnc16-normal-us-ttp2.capcutapi.us IN CNAME .
 *.frontier.capcutw.us IN CNAME .
 *.frontier-us-ttp2.capcutw.us IN CNAME .
-*.mon-i18n.tiktokv.com.dvaitas.lt IN CNAME .
-*.mon16-normal-no1a.tiktokv.eu.dvaitas.lt IN CNAME .
-*.mon16-normal-useastred.tiktokv.eu.dvaitas.lt IN CNAME .
-*.mcs-ie2.tiktokw.eu.dvaitas.lt IN CNAME .
-*.mcs16-normal-no1a.tiktokw.eu.dvaitas.lt IN CNAME .
 *.analytics.tiktok.com.edgekey.net IN CNAME .
 *.analytics-attribution-va.tiktok.com.edgekey.net IN CNAME .
 *.analytics-exp-i18n.tiktok.com.edgekey.net IN CNAME .
@@ -44691,7 +44696,6 @@ pangle.io IN CNAME .
 *.analytics16-normal-useast5.tiktokw.us.edgesuite.net IN CNAME .
 *.analytics16-normal-useast8.tiktokw.us.edgesuite.net IN CNAME .
 *.mcs.tiktokw.us.edgesuite.net IN CNAME .
-*.mon16-normal-no1a.tiktokv.eu.numericable.fr IN CNAME .
 *.abtest-ch.snssdk.com IN CNAME .
 *.analytics.snssdk.com IN CNAME .
 *.applog.snssdk.com IN CNAME .
@@ -45214,6 +45218,7 @@ pangle.io IN CNAME .
 *.cname-in-bom01-nginxpool03.vivoglobal.com IN CNAME .
 *.cname-in-ctdbonrt-stsdk.vivoglobal.com IN CNAME .
 *.cname-sin01-stsdk09.vivoglobal.com IN CNAME .
+*.co-album-api.vivoglobal.com IN CNAME .
 *.co-cota.vivoglobal.com IN CNAME .
 *.co-domaincfg.vivoglobal.com IN CNAME .
 *.co-onrt-stsdk.vivoglobal.com IN CNAME .
@@ -45708,6 +45713,7 @@ pangle.io IN CNAME .
 *.legacywatson.trafficmanager.net IN CNAME .
 *.office-events-data.trafficmanager.net IN CNAME .
 *.oms-analytics.trafficmanager.net IN CNAME .
+*.partnerfraudevents.trafficmanager.net IN CNAME .
 *.pixel-sync.trafficmanager.net IN CNAME .
 *.self-events-data.trafficmanager.net IN CNAME .
 *.ssp-prod-eastus-nonmutt.trafficmanager.net IN CNAME .
@@ -45752,6 +45758,7 @@ pangle.io IN CNAME .
 *.licensingtelemetry-prod.servicebus.windows.net IN CNAME .
 *.nexxtv-events.servicebus.windows.net IN CNAME .
 *.ppm-licensingtelemetry.servicebus.windows.net IN CNAME .
+*.prd-qlik-telemetry.servicebus.windows.net IN CNAME .
 *.prod-eh-v1-analytics.servicebus.windows.net IN CNAME .
 *.prod-eventhub-analytics.servicebus.windows.net IN CNAME .
 *.production-jobactivity-analytics.servicebus.windows.net IN CNAME .
