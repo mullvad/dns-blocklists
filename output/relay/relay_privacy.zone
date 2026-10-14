@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1791871787    ; serial
+                                        1791954375    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -4451,6 +4451,7 @@ adlog.com.com IN CNAME .
 ad-log.dable.io IN CNAME .
 adm.adminstrumentengineering.com.au IN CNAME .
 ad.magokoro-care-shoku.com IN CNAME .
+ad-manager.matsukiyococokara-online.com IN CNAME .
 admaxium.com IN CNAME .
 admeasure.hh-online.jp IN CNAME .
 admediasales.com IN CNAME .
@@ -8480,6 +8481,7 @@ catracking.cubiq.com IN CNAME .
 catracking.finning.com IN CNAME .
 catschickens.com IN CNAME .
 cats.d20.rs IN CNAME .
+catsthumb.com IN CNAME .
 cattell.loanzify.app IN CNAME .
 cattlecommittee.com IN CNAME .
 cauldronfest.com IN CNAME .
@@ -8661,6 +8663,7 @@ chipcardice.com IN CNAME .
 chipperisle.com IN CNAME .
 chivalrouscord.com IN CNAME .
 chloro.trip.com IN CNAME .
+choicebump.com IN CNAME .
 c.holmesmind.com IN CNAME .
 choose.adelaide.edu.au IN CNAME .
 choose.nu.edu IN CNAME .
@@ -9045,6 +9048,7 @@ coastersim.com IN CNAME .
 coatfood.com IN CNAME .
 cobaltoverture.com IN CNAME .
 cobweb.actonservice.com IN CNAME .
+cockatielcafe.com IN CNAME .
 cockpitdcbaima.carte-gr.total.fr IN CNAME .
 cocoacafes.com IN CNAME .
 cod.bitrec.com IN CNAME .
@@ -9157,6 +9161,7 @@ collegeauthority.actonservice.com IN CNAME .
 college.business.oregonstate.edu IN CNAME .
 colliers.actonservice.com IN CNAME .
 coloradoserves.com IN CNAME .
+colorandnoise.com IN CNAME .
 colorfulneon.com IN CNAME .
 colorfulpet.com IN CNAME .
 coloroptimizer.com IN CNAME .
@@ -9500,7 +9505,6 @@ contadores.miarroba.es IN CNAME .
 content22.bmo.com IN CNAME .
 content22.citibank.com.au IN CNAME .
 content22.citibankonline.com IN CNAME .
-content22.online.citi.com IN CNAME .
 content.4teamwork.ch IN CNAME .
 content.accelalpha.com IN CNAME .
 content.actionbenefits.com IN CNAME .
@@ -9554,6 +9558,8 @@ content.qumulo.com IN CNAME .
 content.rackspace.co.uk IN CNAME .
 content.recordpoint.com IN CNAME .
 content.rightsourcemarketing.com IN CNAME .
+contents1.00110.citi.com IN CNAME .
+contents2.00110.citi.com IN CNAME .
 content.sffirecu.org IN CNAME .
 contents.pwc.com IN CNAME .
 content.stage.mini.pix.style IN CNAME .
@@ -9626,6 +9632,7 @@ copytweaks.com IN CNAME .
 copyvibes.com IN CNAME .
 coralcranes.com IN CNAME .
 coralreverie.com IN CNAME .
+coralwatches.com IN CNAME .
 core-apps.b-cdn.net IN CNAME .
 corgibeachday.com IN CNAME .
 corporate.americanexpress.it IN CNAME .
@@ -9812,6 +9819,7 @@ crochetdivas.com IN CNAME .
 crookedcreature.com IN CNAME .
 crossees.com IN CNAME .
 crossengage.io IN CNAME .
+crossseasent.com IN CNAME .
 crowdedmass.com IN CNAME .
 cr-relay.com IN CNAME .
 crrm.onjoyri.de IN CNAME .
@@ -10271,6 +10279,7 @@ da.hornbach.ro IN CNAME .
 da.hornbach.se IN CNAME .
 da.hornbach.sk IN CNAME .
 daifez.thebay.com IN CNAME .
+dailydesigned.com IN CNAME .
 dailydivision.com IN CNAME .
 dailydomino.com IN CNAME .
 dajdnm.splits59.com IN CNAME .
@@ -10292,6 +10301,7 @@ dapperdiscussion.com IN CNAME .
 d-app.progressive.com IN CNAME .
 da.rabobank.nl IN CNAME .
 darkartsyoga.com IN CNAME .
+darngavel.com IN CNAME .
 dart.onjoyri.de IN CNAME .
 dashboardbntest.branchcustom.xyz IN CNAME .
 dash.getsitecontrol.com IN CNAME .
@@ -10835,6 +10845,7 @@ dbbest.actonservice.com IN CNAME .
 dbex-tracker-v2.driveback.ru IN CNAME .
 dbhbgz.suitableshop.nl IN CNAME .
 dbj.quebecregion.com IN CNAME .
+dblarson.com IN CNAME .
 dbl.cadriamarketing.com IN CNAME .
 dbmbfe.pegipegi.com IN CNAME .
 dbmyvl.apartmentfinder.com IN CNAME .
@@ -29156,6 +29167,7 @@ servicing.business.hsbc.com IN CNAME .
 servicing.unitedautocredit.net IN CNAME .
 serv.letudiant.fr IN CNAME .
 se-se.siemensplmevents.com IN CNAME .
+session.bugsnag.kindle.amazon.dev IN CNAME .
 sessions.embeddables.com IN CNAME .
 session.timecommerce.net IN CNAME .
 setaram.actonservice.com IN CNAME .
@@ -41632,6 +41644,7 @@ weoccn.bonito.pl IN CNAME .
 wepany.tripbeat.com IN CNAME .
 wernerelectric.actonservice.com IN CNAME .
 wesbgz.travel.co.jp IN CNAME .
+we-stats.com.cdn.cloudflare.net IN CNAME .
 westevents.presidio.com IN CNAME .
 westsideglobe.com IN CNAME .
 wevbgr.vidaxl.it IN CNAME .
