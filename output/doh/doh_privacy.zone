@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1791954354    ; serial
+                                        1792042078    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -5241,6 +5241,7 @@ analytics-fe.digital-cloud.medallia.com IN CNAME .
 analytics-fe.digital-cloud-prem.medallia.com IN CNAME .
 analytics-fe.digital-cloud-prem.medallia.eu IN CNAME .
 analytics.ferguson.com IN CNAME .
+analytics.fibwatch.com IN CNAME .
 analytics.firespring.com IN CNAME .
 analytics.firstbankcardcenter.com IN CNAME .
 analytics.firstbankcardplcc.com IN CNAME .
@@ -9173,6 +9174,7 @@ colossalcry.com IN CNAME .
 col.rentalia.com IN CNAME .
 columbustech.tcsg.edu IN CNAME .
 colvk.viki.io IN CNAME .
+colwinners.com IN CNAME .
 combativedetail.com IN CNAME .
 combbit.com IN CNAME .
 combcattle.com IN CNAME .
@@ -9189,6 +9191,7 @@ commercial-analytics-collector.news.co.uk IN CNAME .
 commercial.davey.com IN CNAME .
 commercial.equifax.com IN CNAME .
 commercial.inform.equifax.com IN CNAME .
+commitlogs.com IN CNAME .
 commondreams.actonservice.com IN CNAME .
 comms.adss.com IN CNAME .
 comms.bps.org.uk IN CNAME .
@@ -10847,6 +10850,7 @@ dbhbgz.suitableshop.nl IN CNAME .
 dbj.quebecregion.com IN CNAME .
 dblarson.com IN CNAME .
 dbl.cadriamarketing.com IN CNAME .
+dblendcoatings.com IN CNAME .
 dbmbfe.pegipegi.com IN CNAME .
 dbmyvl.apartmentfinder.com IN CNAME .
 dbpbyh.americanas.com.br IN CNAME .
@@ -11163,6 +11167,7 @@ dgynnj.koctas.com.tr IN CNAME .
 dgztiz.conrad.se IN CNAME .
 dh0c1bz67fuho.cloudfront.net IN CNAME .
 d.haberler.com IN CNAME .
+dharmabrats.com IN CNAME .
 dhdaa.duke.edu IN CNAME .
 dhkyrl.discountmags.com IN CNAME .
 dhmdja.trueprotein.com.au IN CNAME .
@@ -11657,6 +11662,7 @@ doppler-beacon.cbsivideo.com IN CNAME .
 doppler-client-events.cbsivideo.com IN CNAME .
 doppler-config.cbsivideo.com IN CNAME .
 doppler-reporting.cbsivideo.com IN CNAME .
+dorsalapp.com IN CNAME .
 dotdotlab.com IN CNAME .
 dotshellmain.com IN CNAME .
 dotvox.actonservice.com IN CNAME .
@@ -11790,6 +11796,7 @@ dty0ycn35t4d2.cloudfront.net IN CNAME .
 dtzrrz.green-japan.com IN CNAME .
 du4rq1xqh3i1k.cloudfront.net IN CNAME .
 dualping.com IN CNAME .
+duetcode.com IN CNAME .
 dujgiq.trendhim.pl IN CNAME .
 dumpster.cam4.com IN CNAME .
 d.uni-medias.com IN CNAME .
