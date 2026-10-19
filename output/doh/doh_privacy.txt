@@ -11728,6 +11728,7 @@ driftingchef.com
 driftpizza.com
 drive.carpoollogistics.com
 driven.actonservice.com
+drivenmove.com
 driver.dctaxi.com
 driver.jugnoo.in
 drive.seagate.com
@@ -11948,6 +11949,7 @@ ea.smallable.com
 ea.sport2000.fr
 eastcapelots.com
 eastern2.secureforms.mcafee.com
+eastpalms.com
 easysecurity.net
 easysyncnews.com
 eat9.thebeat925.ca
@@ -13449,7 +13451,9 @@ external.fpbc1-1.fna.fbcdn.net.iberostar.com
 external-tag.mysquadbeyond.com
 external.techopian.com
 extmaps-api.yandex.net
+extracover.net
 extractobservation.com
+extraliner.com
 extralocker.com
 extramilefloorcare.ericksonbuilt.com
 extramonies.com
@@ -13541,6 +13545,7 @@ fancydune.com
 fangfeeling.com
 fan.info.heat.com
 fanless.net
+fanpapers.com
 faokwl.sklepogrodniczy.pl
 faqtjp.redley.com.br
 farahatco.actonservice.com
@@ -13783,6 +13788,7 @@ flourishingpartnership.com
 flowersonthebay.com
 flowersornament.com
 flowerstreatment.com
+flowerybunch.com
 flowerycreature.com
 floweryfact.com
 floweryflavor.com
@@ -36991,6 +36997,7 @@ t.okstate.com
 t.olemisssports.com
 tomatobarrel.com
 tommys.openapp.link
+tonanalytics.mugiwarattagentai.agency
 tongji.duote.com
 tongji.mafengwo.cn
 tongji.meizu.com
@@ -37080,6 +37087,7 @@ tp.limango.de
 tpmexb.vans.co.nz
 tp.mirapodo.de
 t.pmu.fr
+tp.myikas.com
 tp.mytoys.de
 t.poconoraceway.com
 t.pointandplace.com
@@ -43589,12 +43597,14 @@ pangle.io
 *.diagassets.g.aaplimg.com
 *.cdn-xp-ingest-ab.v.aaplimg.com
 *.iphonesubmissions.v.aaplimg.com
+*.prod-app-analytics-event-gateway.v.aaplimg.com
 *.prod-event-relay-api.v.aaplimg.com
 *.prod-event-relay-books-api.v.aaplimg.com
 *.prod-event-relay-notes-api.v.aaplimg.com
 *.prod-event-relay-sports-api.v.aaplimg.com
 *.prod-event-relay-stocks-api.v.aaplimg.com
 *.prod-event-relay-weather-api.v.aaplimg.com
+*.prod-iwork-events.v.aaplimg.com
 *.prod-news-notification-events.v.aaplimg.com
 *.securemetrics.v.aaplimg.com
 *.securemetrics-cn.v.aaplimg.com
@@ -43611,6 +43621,7 @@ pangle.io
 *.searchads.lb-apple.com.akadns.net
 *.iad-apple.com.akadns.net
 *.aios-otel-collector.g.apple.com
+*.app-events.infoapps.apple.com
 *.partiality.itunes.apple.com
 *.msc-dct-prod.msc.apple.com
 *.fbs.smoot.apple.com
@@ -43629,6 +43640,7 @@ pangle.io
 *.dz1dt3wqswdezgx4j2ryem5iad.apple.com
 *.experiments.apple.com
 *.flirfvysba2opz0zmzqs5iuiad.apple.com
+*.freeform-events.apple.com
 *.graffiti-tags.apple.com
 *.iad.apple.com
 *.iadcontent.apple.com
@@ -43968,6 +43980,7 @@ pangle.io
 *.mt-ad-lgsmartad-com.aws-prd.net
 *.mu-ad-lgsmartad-com.aws-prd.net
 *.mx-ad-lgsmartad-com.aws-prd.net
+*.mx-rdx2-lgtvsdp-com.aws-prd.net
 *.my-ad-lgsmartad-com.aws-prd.net
 *.mz-ad-lgsmartad-com.aws-prd.net
 *.na-ad-lgsmartad-com.aws-prd.net
@@ -44372,6 +44385,7 @@ pangle.io
 *.adx-op-in.heytapmobile.com
 *.adx-op-ru.heytapmobile.com
 *.adx-op-sg.heytapmobile.com
+*.adx-u-in.heytapmobile.com
 *.adx-u-ru.heytapmobile.com
 *.adx-u-sg.heytapmobile.com
 *.adxu-bigo-sg.heytapmobile.com
@@ -45213,6 +45227,7 @@ pangle.io
 *.asia-vpushonrt-stsdk.vivoglobal.com
 *.asia-vpushort-stsdk.vivoglobal.com
 *.br-p.vivoglobal.com
+*.cl-vcode-api.vivoglobal.com
 *.cn-zh-ort-stsdk.vivoglobal.com
 *.cn-zh-prt-stsdk.vivoglobal.com
 *.cn-zh-stsdk.vivoglobal.com
@@ -45305,11 +45320,13 @@ pangle.io
 *.kz-p.vivoglobal.com
 *.kz-pnrt-stsdk.vivoglobal.com
 *.kz-prt-stsdk.vivoglobal.com
+*.kz-romsp-unifyconfig.vivoglobal.com
 *.kz-st-exappupgrade.vivoglobal.com
 *.kz-st-sl.vivoglobal.com
 *.kz-st-sysupgrade.vivoglobal.com
 *.kz-stsdk.vivoglobal.com
 *.kz-timesync.vivoglobal.com
+*.kz-vcode-api.vivoglobal.com
 *.kz-vcode-od.vivoglobal.com
 *.kz-vcode-or.vivoglobal.com
 *.monitor-stsdk.vivoglobal.com

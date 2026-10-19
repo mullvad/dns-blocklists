@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1792042099    ; serial
+                                        1792389047    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -11740,6 +11740,7 @@ driftingchef.com IN CNAME .
 driftpizza.com IN CNAME .
 drive.carpoollogistics.com IN CNAME .
 driven.actonservice.com IN CNAME .
+drivenmove.com IN CNAME .
 driver.dctaxi.com IN CNAME .
 driver.jugnoo.in IN CNAME .
 drive.seagate.com IN CNAME .
@@ -11960,6 +11961,7 @@ ea.smallable.com IN CNAME .
 ea.sport2000.fr IN CNAME .
 eastcapelots.com IN CNAME .
 eastern2.secureforms.mcafee.com IN CNAME .
+eastpalms.com IN CNAME .
 easysecurity.net IN CNAME .
 easysyncnews.com IN CNAME .
 eat9.thebeat925.ca IN CNAME .
@@ -13461,7 +13463,9 @@ external.fpbc1-1.fna.fbcdn.net.iberostar.com IN CNAME .
 external-tag.mysquadbeyond.com IN CNAME .
 external.techopian.com IN CNAME .
 extmaps-api.yandex.net IN CNAME .
+extracover.net IN CNAME .
 extractobservation.com IN CNAME .
+extraliner.com IN CNAME .
 extralocker.com IN CNAME .
 extramilefloorcare.ericksonbuilt.com IN CNAME .
 extramonies.com IN CNAME .
@@ -13553,6 +13557,7 @@ fancydune.com IN CNAME .
 fangfeeling.com IN CNAME .
 fan.info.heat.com IN CNAME .
 fanless.net IN CNAME .
+fanpapers.com IN CNAME .
 faokwl.sklepogrodniczy.pl IN CNAME .
 faqtjp.redley.com.br IN CNAME .
 farahatco.actonservice.com IN CNAME .
@@ -13795,6 +13800,7 @@ flourishingpartnership.com IN CNAME .
 flowersonthebay.com IN CNAME .
 flowersornament.com IN CNAME .
 flowerstreatment.com IN CNAME .
+flowerybunch.com IN CNAME .
 flowerycreature.com IN CNAME .
 floweryfact.com IN CNAME .
 floweryflavor.com IN CNAME .
@@ -37003,6 +37009,7 @@ t.okstate.com IN CNAME .
 t.olemisssports.com IN CNAME .
 tomatobarrel.com IN CNAME .
 tommys.openapp.link IN CNAME .
+tonanalytics.mugiwarattagentai.agency IN CNAME .
 tongji.duote.com IN CNAME .
 tongji.mafengwo.cn IN CNAME .
 tongji.meizu.com IN CNAME .
@@ -37092,6 +37099,7 @@ tp.limango.de IN CNAME .
 tpmexb.vans.co.nz IN CNAME .
 tp.mirapodo.de IN CNAME .
 t.pmu.fr IN CNAME .
+tp.myikas.com IN CNAME .
 tp.mytoys.de IN CNAME .
 t.poconoraceway.com IN CNAME .
 t.pointandplace.com IN CNAME .
@@ -43601,12 +43609,14 @@ pangle.io IN CNAME .
 *.diagassets.g.aaplimg.com IN CNAME .
 *.cdn-xp-ingest-ab.v.aaplimg.com IN CNAME .
 *.iphonesubmissions.v.aaplimg.com IN CNAME .
+*.prod-app-analytics-event-gateway.v.aaplimg.com IN CNAME .
 *.prod-event-relay-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-books-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-notes-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-sports-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-stocks-api.v.aaplimg.com IN CNAME .
 *.prod-event-relay-weather-api.v.aaplimg.com IN CNAME .
+*.prod-iwork-events.v.aaplimg.com IN CNAME .
 *.prod-news-notification-events.v.aaplimg.com IN CNAME .
 *.securemetrics.v.aaplimg.com IN CNAME .
 *.securemetrics-cn.v.aaplimg.com IN CNAME .
@@ -43623,6 +43633,7 @@ pangle.io IN CNAME .
 *.searchads.lb-apple.com.akadns.net IN CNAME .
 *.iad-apple.com.akadns.net IN CNAME .
 *.aios-otel-collector.g.apple.com IN CNAME .
+*.app-events.infoapps.apple.com IN CNAME .
 *.partiality.itunes.apple.com IN CNAME .
 *.msc-dct-prod.msc.apple.com IN CNAME .
 *.fbs.smoot.apple.com IN CNAME .
@@ -43641,6 +43652,7 @@ pangle.io IN CNAME .
 *.dz1dt3wqswdezgx4j2ryem5iad.apple.com IN CNAME .
 *.experiments.apple.com IN CNAME .
 *.flirfvysba2opz0zmzqs5iuiad.apple.com IN CNAME .
+*.freeform-events.apple.com IN CNAME .
 *.graffiti-tags.apple.com IN CNAME .
 *.iad.apple.com IN CNAME .
 *.iadcontent.apple.com IN CNAME .
@@ -43980,6 +43992,7 @@ pangle.io IN CNAME .
 *.mt-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.mu-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.mx-ad-lgsmartad-com.aws-prd.net IN CNAME .
+*.mx-rdx2-lgtvsdp-com.aws-prd.net IN CNAME .
 *.my-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.mz-ad-lgsmartad-com.aws-prd.net IN CNAME .
 *.na-ad-lgsmartad-com.aws-prd.net IN CNAME .
@@ -44384,6 +44397,7 @@ pangle.io IN CNAME .
 *.adx-op-in.heytapmobile.com IN CNAME .
 *.adx-op-ru.heytapmobile.com IN CNAME .
 *.adx-op-sg.heytapmobile.com IN CNAME .
+*.adx-u-in.heytapmobile.com IN CNAME .
 *.adx-u-ru.heytapmobile.com IN CNAME .
 *.adx-u-sg.heytapmobile.com IN CNAME .
 *.adxu-bigo-sg.heytapmobile.com IN CNAME .
@@ -45225,6 +45239,7 @@ pangle.io IN CNAME .
 *.asia-vpushonrt-stsdk.vivoglobal.com IN CNAME .
 *.asia-vpushort-stsdk.vivoglobal.com IN CNAME .
 *.br-p.vivoglobal.com IN CNAME .
+*.cl-vcode-api.vivoglobal.com IN CNAME .
 *.cn-zh-ort-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-prt-stsdk.vivoglobal.com IN CNAME .
 *.cn-zh-stsdk.vivoglobal.com IN CNAME .
@@ -45317,11 +45332,13 @@ pangle.io IN CNAME .
 *.kz-p.vivoglobal.com IN CNAME .
 *.kz-pnrt-stsdk.vivoglobal.com IN CNAME .
 *.kz-prt-stsdk.vivoglobal.com IN CNAME .
+*.kz-romsp-unifyconfig.vivoglobal.com IN CNAME .
 *.kz-st-exappupgrade.vivoglobal.com IN CNAME .
 *.kz-st-sl.vivoglobal.com IN CNAME .
 *.kz-st-sysupgrade.vivoglobal.com IN CNAME .
 *.kz-stsdk.vivoglobal.com IN CNAME .
 *.kz-timesync.vivoglobal.com IN CNAME .
+*.kz-vcode-api.vivoglobal.com IN CNAME .
 *.kz-vcode-od.vivoglobal.com IN CNAME .
 *.kz-vcode-or.vivoglobal.com IN CNAME .
 *.monitor-stsdk.vivoglobal.com IN CNAME .
