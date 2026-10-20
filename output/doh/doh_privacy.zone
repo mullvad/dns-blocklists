@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1792388994    ; serial
+                                        1792473093    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -7451,6 +7451,7 @@ beacon.adelphic.com IN CNAME .
 beacon.affil.walmart.com IN CNAME .
 beacon.aimtell.com IN CNAME .
 beacon.cdnma.com IN CNAME .
+beacon.cdnpure.com IN CNAME .
 beacon.cdn.qq.com IN CNAME .
 beaconcdn.qq.com IN CNAME .
 beacon.coofis.com IN CNAME .
@@ -13702,6 +13703,7 @@ filtercutter.com IN CNAME .
 fimyxg.bloomberght.com IN CNAME .
 fimyxg.haberturk.com IN CNAME .
 finalizeforce.com IN CNAME .
+finalleague.com IN CNAME .
 finaloptics.com IN CNAME .
 financefear.com IN CNAME .
 financialeducation-info.uchicago.edu IN CNAME .
@@ -13744,7 +13746,9 @@ fishingrodsgalore.com IN CNAME .
 fishspies.com IN CNAME .
 fitgreatest.com IN CNAME .
 fitnessmapper.com IN CNAME .
+fitnesssponsor.com IN CNAME .
 fitwithalpine.com IN CNAME .
+fiveplusthree.com IN CNAME .
 fivesidedsquare.com IN CNAME .
 fiwinet.firmenwissen.com IN CNAME .
 fiwinet.firmenwissen.de IN CNAME .
@@ -13772,6 +13776,7 @@ flameuncle.com IN CNAME .
 flashplayerfeedback.adobe.com IN CNAME .
 flashstats.libsyn.com IN CNAME .
 flashtexting.com IN CNAME .
+flatpebble.com IN CNAME .
 flavors.firmenich.com IN CNAME .
 fldoai.municipal.com IN CNAME .
 fleathecat.com IN CNAME .
@@ -14047,6 +14052,7 @@ frdoki.nailcolor.work IN CNAME .
 frdoki.selftanning.work IN CNAME .
 frdoki.studioglass.work IN CNAME .
 frdoki.woodblock.work IN CNAME .
+freakywacko.com IN CNAME .
 freedomgrail.com IN CNAME .
 freezingbuilding.com IN CNAME .
 frenchgerleman.actonservice.com IN CNAME .
@@ -14098,6 +14104,7 @@ ftm.fluencyinc.co IN CNAME .
 ftmsyy.jbl.com.br IN CNAME .
 ftnnce.autodoc.dk IN CNAME .
 ftp.happ.social IN CNAME .
+ftpmagic.com IN CNAME .
 ftuart.chomedeynissan.com IN CNAME .
 ftwnwght.net.anwalt.de IN CNAME .
 ftwo-feedback.autohome.com.cn IN CNAME .
@@ -14235,6 +14242,7 @@ galileotelemetry.tencent.com IN CNAME .
 gallerysouvlakeri.openapp.link IN CNAME .
 galop.leferacheval-saintcloud.com IN CNAME .
 gameplanfinancial.actonservice.com IN CNAME .
+gamerhunk.com IN CNAME .
 gamerone.net IN CNAME .
 gammamaximum.com IN CNAME .
 ganon.yahoo.com IN CNAME .
@@ -15251,6 +15259,7 @@ granlite.com IN CNAME .
 grassrootsunwired.actonservice.com IN CNAME .
 gravitygive.com IN CNAME .
 gravitykick.com IN CNAME .
+graychalk.com IN CNAME .
 graylog.prod.cams.run IN CNAME .
 grayoranges.com IN CNAME .
 grayreceipt.com IN CNAME .
@@ -15289,6 +15298,7 @@ grow.national.biz IN CNAME .
 growth-channel.net IN CNAME .
 growthmodemarketing.actonservice.com IN CNAME .
 grow.urbandictionary.network IN CNAME .
+g.rtbrain.app IN CNAME .
 grumpydime.com IN CNAME .
 grumpydrawer.com IN CNAME .
 grxokm.kirstein.de IN CNAME .
@@ -27577,6 +27587,7 @@ rumt-sg.com IN CNAME .
 rumt-zh.com IN CNAME .
 rum.uptime.com IN CNAME .
 rup5.destinia.ru IN CNAME .
+r.upload.app IN CNAME .
 ruralrobin.com IN CNAME .
 ru-ru.siemensplmevents.com IN CNAME .
 rusticfrench.com IN CNAME .
@@ -34911,6 +34922,7 @@ stats.tax-venture.de IN CNAME .
 stats.tazeros.com IN CNAME .
 stats.tdameritrade.com IN CNAME .
 stats.teamdetails.com IN CNAME .
+stats.techinate.com IN CNAME .
 stats.te.com IN CNAME .
 stats.tedserbinski.com IN CNAME .
 stats.teenranch.com IN CNAME .
@@ -44730,6 +44742,10 @@ pangle.io IN CNAME .
 *.analytics16-normal-useast5.tiktokw.us.edgesuite.net IN CNAME .
 *.analytics16-normal-useast8.tiktokw.us.edgesuite.net IN CNAME .
 *.mcs.tiktokw.us.edgesuite.net IN CNAME .
+*.p16-ttam-sg.ibyteimg.com IN CNAME .
+*.p16-ttam-va.ibyteimg.com IN CNAME .
+*.p19-ttam-sg.ibyteimg.com IN CNAME .
+*.p19-ttam-va.ibyteimg.com IN CNAME .
 *.abtest-ch.snssdk.com IN CNAME .
 *.analytics.snssdk.com IN CNAME .
 *.applog.snssdk.com IN CNAME .
@@ -44810,8 +44826,12 @@ pangle.io IN CNAME .
 *.ad-union-i18n-api.tos-sg.tiktok-row.org IN CNAME .
 *.mcs.tiktok-row.net IN CNAME .
 *.p16-tiktok-ads-sg.tiktokcdn.com IN CNAME .
+*.p16-ttam-va.tiktokcdn.com IN CNAME .
+*.p19-ttam-va.tiktokcdn.com IN CNAME .
 *.sf16-ads-format-sign.tiktokcdn.com IN CNAME .
 *.sf19-ads-format-sign.tiktokcdn.com IN CNAME .
+*.p16-ttam.tiktokcdn-us.com IN CNAME .
+*.p19-ttam.tiktokcdn-us.com IN CNAME .
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com IN CNAME .
 *.location.us.tiktokv.com IN CNAME .
 *.location-ttp2.us.tiktokv.com IN CNAME .
@@ -45129,6 +45149,9 @@ pangle.io IN CNAME .
 *.tnc31-platform-useast1a.tiktokv.com IN CNAME .
 *.tnc31-platform-useast2a.tiktokv.com IN CNAME .
 *.tnc58-platform-ycru.tiktokv.com IN CNAME .
+*.ugattribution-i18n.tiktokv.com IN CNAME .
+*.ugattribution-ru.tiktokv.com IN CNAME .
+*.ugattribution-sg.tiktokv.com IN CNAME .
 *.xlog.tiktokv.com IN CNAME .
 *.xlog-ru.tiktokv.com IN CNAME .
 *.xlog-va.tiktokv.com IN CNAME .

@@ -7439,6 +7439,7 @@ beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beacon.cdnpure.com
 beacon.cdn.qq.com
 beaconcdn.qq.com
 beacon.coofis.com
@@ -13690,6 +13691,7 @@ filtercutter.com
 fimyxg.bloomberght.com
 fimyxg.haberturk.com
 finalizeforce.com
+finalleague.com
 finaloptics.com
 financefear.com
 financialeducation-info.uchicago.edu
@@ -13732,7 +13734,9 @@ fishingrodsgalore.com
 fishspies.com
 fitgreatest.com
 fitnessmapper.com
+fitnesssponsor.com
 fitwithalpine.com
+fiveplusthree.com
 fivesidedsquare.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
@@ -13760,6 +13764,7 @@ flameuncle.com
 flashplayerfeedback.adobe.com
 flashstats.libsyn.com
 flashtexting.com
+flatpebble.com
 flavors.firmenich.com
 fldoai.municipal.com
 fleathecat.com
@@ -14035,6 +14040,7 @@ frdoki.nailcolor.work
 frdoki.selftanning.work
 frdoki.studioglass.work
 frdoki.woodblock.work
+freakywacko.com
 freedomgrail.com
 freezingbuilding.com
 frenchgerleman.actonservice.com
@@ -14086,6 +14092,7 @@ ftm.fluencyinc.co
 ftmsyy.jbl.com.br
 ftnnce.autodoc.dk
 ftp.happ.social
+ftpmagic.com
 ftuart.chomedeynissan.com
 ftwnwght.net.anwalt.de
 ftwo-feedback.autohome.com.cn
@@ -14223,6 +14230,7 @@ galileotelemetry.tencent.com
 gallerysouvlakeri.openapp.link
 galop.leferacheval-saintcloud.com
 gameplanfinancial.actonservice.com
+gamerhunk.com
 gamerone.net
 gammamaximum.com
 ganon.yahoo.com
@@ -15239,6 +15247,7 @@ granlite.com
 grassrootsunwired.actonservice.com
 gravitygive.com
 gravitykick.com
+graychalk.com
 graylog.prod.cams.run
 grayoranges.com
 grayreceipt.com
@@ -15277,6 +15286,7 @@ grow.national.biz
 growth-channel.net
 growthmodemarketing.actonservice.com
 grow.urbandictionary.network
+g.rtbrain.app
 grumpydime.com
 grumpydrawer.com
 grxokm.kirstein.de
@@ -27565,6 +27575,7 @@ rumt-sg.com
 rumt-zh.com
 rum.uptime.com
 rup5.destinia.ru
+r.upload.app
 ruralrobin.com
 ru-ru.siemensplmevents.com
 rusticfrench.com
@@ -34899,6 +34910,7 @@ stats.tax-venture.de
 stats.tazeros.com
 stats.tdameritrade.com
 stats.teamdetails.com
+stats.techinate.com
 stats.te.com
 stats.tedserbinski.com
 stats.teenranch.com
@@ -44718,6 +44730,10 @@ pangle.io
 *.analytics16-normal-useast5.tiktokw.us.edgesuite.net
 *.analytics16-normal-useast8.tiktokw.us.edgesuite.net
 *.mcs.tiktokw.us.edgesuite.net
+*.p16-ttam-sg.ibyteimg.com
+*.p16-ttam-va.ibyteimg.com
+*.p19-ttam-sg.ibyteimg.com
+*.p19-ttam-va.ibyteimg.com
 *.abtest-ch.snssdk.com
 *.analytics.snssdk.com
 *.applog.snssdk.com
@@ -44798,8 +44814,12 @@ pangle.io
 *.ad-union-i18n-api.tos-sg.tiktok-row.org
 *.mcs.tiktok-row.net
 *.p16-tiktok-ads-sg.tiktokcdn.com
+*.p16-ttam-va.tiktokcdn.com
+*.p19-ttam-va.tiktokcdn.com
 *.sf16-ads-format-sign.tiktokcdn.com
 *.sf19-ads-format-sign.tiktokcdn.com
+*.p16-ttam.tiktokcdn-us.com
+*.p19-ttam.tiktokcdn-us.com
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 *.location.us.tiktokv.com
 *.location-ttp2.us.tiktokv.com
@@ -45117,6 +45137,9 @@ pangle.io
 *.tnc31-platform-useast1a.tiktokv.com
 *.tnc31-platform-useast2a.tiktokv.com
 *.tnc58-platform-ycru.tiktokv.com
+*.ugattribution-i18n.tiktokv.com
+*.ugattribution-ru.tiktokv.com
+*.ugattribution-sg.tiktokv.com
 *.xlog.tiktokv.com
 *.xlog-ru.tiktokv.com
 *.xlog-va.tiktokv.com
