@@ -43385,7 +43385,6 @@ pangle.io
 *.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 *.alt1-3ps.amazon-adsystem.com
 *.api.eu-west-1.aiv-delivery.net
-*.api.metrics.us-west-2.iris.apx.amazon.dev
 *.api.us-east-1.aiv-delivery.net
 *.api.us-west-2.aiv-delivery.net
 *.applab-sdk.amazon.com
@@ -43498,6 +43497,7 @@ pangle.io
 *.metrics.eu-west-1.iris.apx.amazon.dev
 *.metrics.media-amazon.com
 *.metrics.us-east-1.iris.apx.amazon.dev
+*.metrics.us-west-2.iris.apx.amazon.dev
 *.minerva.devices.a2z.com
 *.mobileanalytics.us-east-1.amazonaws.com
 *.origin-s.amazon-adsystem.com
@@ -43518,6 +43518,7 @@ pangle.io
 *.rcm-na.amazon-adsystem.com
 *.rcm-uk.amazon.co.uk
 *.rcm.amazon.com
+*.report.diagnostic.networking.aws.dev
 *.rtb.axp.amazon-adsystem.com
 *.rum.ap-northeast-1.amazonaws.com
 *.rum.ap-southeast-1.amazonaws.com
@@ -44439,6 +44440,7 @@ pangle.io
 *.adx-u-in.heytapmobile.com
 *.adx-u-ru.heytapmobile.com
 *.adx-u-sg.heytapmobile.com
+*.adxh3-op-sg.heytapmobile.com
 *.adxu-bigo-sg.heytapmobile.com
 *.bdapi-ads-sg.heytapmobile.com
 *.browser-api-br.heytapmobile.com
@@ -45460,6 +45462,7 @@ pangle.io
 *.de-gdpr-vcode-api.vivoglobal.com
 *.err-up.vivoglobal.com
 *.eu-album-api.vivoglobal.com
+*.eu-api-stsdk.vivoglobal.com
 *.eu-cota.vivoglobal.com
 *.eu-domaincfg.vivoglobal.com
 *.eu-errup.vivoglobal.com
@@ -45485,6 +45488,7 @@ pangle.io
 *.in-adreq.vivoglobal.com
 *.in-adsjssdk.vivoglobal.com
 *.in-analyzer-appstore.vivoglobal.com
+*.in-api-stsdk.vivoglobal.com
 *.in-apponrt-stsdk.vivoglobal.com
 *.in-apport-stsdk.vivoglobal.com
 *.in-apppnrt-stsdk.vivoglobal.com
@@ -45500,6 +45504,7 @@ pangle.io
 *.in-ex-adlog.vivoglobal.com
 *.in-monitor-stsdk.vivoglobal.com
 *.in-news-abroad-backstage-interface.vivoglobal.com
+*.in-nrt-stsdk.vivoglobal.com
 *.in-onrt-stsdk.vivoglobal.com
 *.in-ort-stsdk.vivoglobal.com
 *.in-os-config-appstore.vivoglobal.com
@@ -45879,6 +45884,7 @@ pangle.io
 *.arc2.msn.com
 *.arc3.msn.com
 *.arc9.msn.com
+*.arctb53wmig1gagbqjqgolj2ig.msn.com
 *.confiant.msn.com
 *.flex.msn.com
 *.g00.msn.com

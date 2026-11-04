@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1793253242    ; serial
+                                        1793771895    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -43397,7 +43397,6 @@ pangle.io IN CNAME .
 *.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com IN CNAME .
 *.alt1-3ps.amazon-adsystem.com IN CNAME .
 *.api.eu-west-1.aiv-delivery.net IN CNAME .
-*.api.metrics.us-west-2.iris.apx.amazon.dev IN CNAME .
 *.api.us-east-1.aiv-delivery.net IN CNAME .
 *.api.us-west-2.aiv-delivery.net IN CNAME .
 *.applab-sdk.amazon.com IN CNAME .
@@ -43510,6 +43509,7 @@ pangle.io IN CNAME .
 *.metrics.eu-west-1.iris.apx.amazon.dev IN CNAME .
 *.metrics.media-amazon.com IN CNAME .
 *.metrics.us-east-1.iris.apx.amazon.dev IN CNAME .
+*.metrics.us-west-2.iris.apx.amazon.dev IN CNAME .
 *.minerva.devices.a2z.com IN CNAME .
 *.mobileanalytics.us-east-1.amazonaws.com IN CNAME .
 *.origin-s.amazon-adsystem.com IN CNAME .
@@ -43530,6 +43530,7 @@ pangle.io IN CNAME .
 *.rcm-na.amazon-adsystem.com IN CNAME .
 *.rcm-uk.amazon.co.uk IN CNAME .
 *.rcm.amazon.com IN CNAME .
+*.report.diagnostic.networking.aws.dev IN CNAME .
 *.rtb.axp.amazon-adsystem.com IN CNAME .
 *.rum.ap-northeast-1.amazonaws.com IN CNAME .
 *.rum.ap-southeast-1.amazonaws.com IN CNAME .
@@ -44451,6 +44452,7 @@ pangle.io IN CNAME .
 *.adx-u-in.heytapmobile.com IN CNAME .
 *.adx-u-ru.heytapmobile.com IN CNAME .
 *.adx-u-sg.heytapmobile.com IN CNAME .
+*.adxh3-op-sg.heytapmobile.com IN CNAME .
 *.adxu-bigo-sg.heytapmobile.com IN CNAME .
 *.bdapi-ads-sg.heytapmobile.com IN CNAME .
 *.browser-api-br.heytapmobile.com IN CNAME .
@@ -45472,6 +45474,7 @@ pangle.io IN CNAME .
 *.de-gdpr-vcode-api.vivoglobal.com IN CNAME .
 *.err-up.vivoglobal.com IN CNAME .
 *.eu-album-api.vivoglobal.com IN CNAME .
+*.eu-api-stsdk.vivoglobal.com IN CNAME .
 *.eu-cota.vivoglobal.com IN CNAME .
 *.eu-domaincfg.vivoglobal.com IN CNAME .
 *.eu-errup.vivoglobal.com IN CNAME .
@@ -45497,6 +45500,7 @@ pangle.io IN CNAME .
 *.in-adreq.vivoglobal.com IN CNAME .
 *.in-adsjssdk.vivoglobal.com IN CNAME .
 *.in-analyzer-appstore.vivoglobal.com IN CNAME .
+*.in-api-stsdk.vivoglobal.com IN CNAME .
 *.in-apponrt-stsdk.vivoglobal.com IN CNAME .
 *.in-apport-stsdk.vivoglobal.com IN CNAME .
 *.in-apppnrt-stsdk.vivoglobal.com IN CNAME .
@@ -45512,6 +45516,7 @@ pangle.io IN CNAME .
 *.in-ex-adlog.vivoglobal.com IN CNAME .
 *.in-monitor-stsdk.vivoglobal.com IN CNAME .
 *.in-news-abroad-backstage-interface.vivoglobal.com IN CNAME .
+*.in-nrt-stsdk.vivoglobal.com IN CNAME .
 *.in-onrt-stsdk.vivoglobal.com IN CNAME .
 *.in-ort-stsdk.vivoglobal.com IN CNAME .
 *.in-os-config-appstore.vivoglobal.com IN CNAME .
@@ -45891,6 +45896,7 @@ pangle.io IN CNAME .
 *.arc2.msn.com IN CNAME .
 *.arc3.msn.com IN CNAME .
 *.arc9.msn.com IN CNAME .
+*.arctb53wmig1gagbqjqgolj2ig.msn.com IN CNAME .
 *.confiant.msn.com IN CNAME .
 *.flex.msn.com IN CNAME .
 *.g00.msn.com IN CNAME .
