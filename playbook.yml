@@ -1,4 +1,4 @@
-# Build all the DNS blocklist files for DoH and relay blocking
+# Build all the DNS blocklist files VPN relay blocking
 # example usage:
 #   $ ansible-playbook -i inventory/ playbook.yml
 ---
@@ -243,21 +243,18 @@
             file_type: file
           register: _find_output
 
-        - name: Create output/{relay,doh}
+        - name: Create output/relay
           ansible.builtin.file:
             state: directory
-            dest: output/{{ item }}
-          loop:
-            - relay
-            - doh
+            dest: output/relay
 
-        - name: Copy files found in output to relevant directory
+        - name: Copy files found in output to relay directory
           ansible.builtin.copy:
             src: "{{ item.0.path }}"
-            dest: output/{{ item.1 }}/{{ item.1 }}_{{ item.0.path | ansible.builtin.basename }}
-          loop: "{{ _find_output.files | ansible.builtin.product(['relay', 'doh']) }}"
+            dest: output/relay/relay_{{ item.path | ansible.builtin.basename }}
+          loop: "{{ _find_output.files }}"
           loop_control:
-            label: cp {{ item.0.path }} output/{{ item.1 }}
+            label: cp {{ item.path }} output/relay
 
         - name: Clean-up leftover files
           ansible.builtin.file:
