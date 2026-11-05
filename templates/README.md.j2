@@ -1,16 +1,16 @@
 # dns-blocklists
 
 > [!WARNING]
-> Our public encrypted DNS servers will be shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
-> This means our .mobileconfig files will stop working and [that repository](https://github.com/mullvad/encrypted-dns-profiles) will soon be archived. 
+> Our public encrypted DNS servers were shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+> This means our .mobileconfig files have stopped working and [that repository](https://github.com/mullvad/encrypted-dns-profiles) has been archived. 
 
-This repository contains the Ansible playbook that we use to generate DNS based blocking files for our Encrypted DNS, and VPN server __(also known as VPN relay)__ based DNS blocking.
+This repository contains the Ansible playbook that we use to generate DNS based blocking files for VPN server __(also known as VPN relay)__ based DNS blocking.
 
 We aim to update these lists every Monday through Thursday. You can view the latest update by selecting the commits to this repository.
 
-After updating the lists, it will take about an hour for all our servers to pick up the updated lists.
+After updating the lists, it will take about an hour for all our servers to pick up the updated lists. However every VPN server has a 24 hour cache timeout.
 
-For example: list updated at 07:00 will be *made available* at the latest 09:00 on the same day. There is however a cache present on our servers which means it might not be actively used immediately.
+Lists updated at 07:00 will be *made available* at the latest 09:00 on the same day, but may not be consumed and applied until 24 hours later.
 
 ## Pull requests / Issues / Updating block lists
 
@@ -28,7 +28,6 @@ All combinations of DNS content blockers can be found in the [COMBINATIONS.md](C
 
 The following lists are what we import to our service. You can find these defined in `inventory/group_vars` for the server type you wish to view.
 
-- `doh`: Encrypted DNS servers
 - `relay`: VPN servers (relays)
 
 ### Advertising
@@ -95,45 +94,6 @@ We periodically make exceptions to the included URLs for the following reasons:
 - The upstream lists block our domains.
 - You can view exceptions in `inventory/group_vars/all.yml` under the name of `dns_blocklists_exclude`,
   these are split per-blocklist.
-
-# Using Encrypted DNS on Apple Devices
-
-> [!WARNING]
-> Our public encrypted DNS servers will be shut down on November 2, 2026. Read more about this on our [blog](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
-> This means our .mobileconfig files will stop working and [that repository](https://github.com/mullvad/encrypted-dns-profiles) will soon be archived.
-
-For convenience we have Apple configuration profiles (.mobileconfig) signed for simpler "one-click installation", or MDM management.
-
-These are available here: https://github.com/mullvad/encrypted-dns-profiles
-
-# Differences between VPN servers and Encrypted DNS
-
-Our Encrypted DNS service includes different hostnames for each option. We currently offer the following:
-
-- Vanilla:
-  - This includes zero blocking, purely encrypted DNS for TLS and HTTPs.
-  - TLS: dns.mullvad.net
-  - HTTPS: https://dns.mullvad.net/dns-query
-- Ad-block:
-  - This includes Ad-blocking and Tracker blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: adblock.dns.mullvad.net
-  - HTTPS: https://adblock.dns.mullvad.net/dns-query
-- Base:
-  - This includes Ad-blocking, Tracker, and Malware blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: base.dns.mullvad.net
-  - HTTPS: https://base.dns.mullvad.net/dns-query  
-- Extended:
-  - This includes Ad-blocking, Tracker, Malware and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: extended.dns.mullvad.net
-  - HTTPS: https://extended.dns.mullvad.net/dns-query
-- Family:
-  - This includes Ad-blocking, Tracker, Malware, Adult content and Gambling blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: family.dns.mullvad.net
-  - HTTPS: https://family.dns.mullvad.net/dns-query
-- All:
-  - This includes Ad-blocking, Tracker, Malware, Adult content, Gambling and Social Media blocking for TLS and HTTPS. The lists are what are found in this repository.
-  - TLS: all.dns.mullvad.net
-  - HTTPS: https://all.dns.mullvad.net/dns-query
 
 # Building
 
