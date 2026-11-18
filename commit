@@ -1,0 +1,15 @@
+#!/bin/bash -eu
+
+day=$(date +%-d)
+
+case $day in
+  11|12|13) suffix=th ;;
+  *1) suffix=st ;;
+  *2) suffix=nd ;;
+  *3) suffix=rd ;;
+  *) suffix=th ;;
+esac
+
+printf "Commit message:
+Refresh for ${day}${suffix} $(date '+%B %Y')"
+git commit -S -m "Refresh for ${day}${suffix} $(date '+%B %Y')"
