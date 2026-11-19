@@ -3,7 +3,7 @@ $TTL 3600
 ;               klass   typ
 ;------------------------------------------------------------------------------
 @                       IN      SOA     rpz.mullvad.net.     support.mullvadvpn.net. (
-                                        1794984972    ; serial
+                                        1795076632    ; serial
                                         86400         ; refresh
                                         7200          ; retry
                                         2592000       ; expire
@@ -23866,6 +23866,8 @@ meslibertines.com IN CNAME .
 *.498ww.com IN CNAME .
 498xx.com IN CNAME .
 *.498xx.com IN CNAME .
+4999333.com IN CNAME .
+*.4999333.com IN CNAME .
 499cc.com IN CNAME .
 *.499cc.com IN CNAME .
 499hyq.top IN CNAME .
@@ -58466,8 +58468,6 @@ adult-ullu-video.blogspot.com IN CNAME .
 *.adult-ullu-video.blogspot.com IN CNAME .
 adult-us.com IN CNAME .
 *.adult-us.com IN CNAME .
-adult-v.com IN CNAME .
-*.adult-v.com IN CNAME .
 adult-vdeo.blogspot.com IN CNAME .
 *.adult-vdeo.blogspot.com IN CNAME .
 adult-verify.com IN CNAME .
@@ -70126,6 +70126,8 @@ aihltv1.wiki IN CNAME .
 *.aihltv1.wiki IN CNAME .
 aihly.wiki IN CNAME .
 *.aihly.wiki IN CNAME .
+aihongqi.com IN CNAME .
+*.aihongqi.com IN CNAME .
 aihougong.com IN CNAME .
 *.aihougong.com IN CNAME .
 aihougong.xyz IN CNAME .
@@ -115848,6 +115850,8 @@ babespornpics.com IN CNAME .
 *.babespornpics.com IN CNAME .
 babespotting.tv IN CNAME .
 *.babespotting.tv IN CNAME .
+babesprn.buzz IN CNAME .
+*.babesprn.buzz IN CNAME .
 babesprn.help IN CNAME .
 *.babesprn.help IN CNAME .
 babesprn.homes IN CNAME .
@@ -117132,6 +117136,68 @@ badtowtruck.com IN CNAME .
 *.badtowtruck.com IN CNAME .
 badtrt.garden IN CNAME .
 *.badtrt.garden IN CNAME .
+badtv-atem.xyz IN CNAME .
+*.badtv-atem.xyz IN CNAME .
+badtv-bwbh.xyz IN CNAME .
+*.badtv-bwbh.xyz IN CNAME .
+badtv-cgcf.xyz IN CNAME .
+*.badtv-cgcf.xyz IN CNAME .
+badtv-cljt.xyz IN CNAME .
+*.badtv-cljt.xyz IN CNAME .
+badtv-cuun.xyz IN CNAME .
+*.badtv-cuun.xyz IN CNAME .
+badtv-dbeb.xyz IN CNAME .
+*.badtv-dbeb.xyz IN CNAME .
+badtv-eert.xyz IN CNAME .
+*.badtv-eert.xyz IN CNAME .
+badtv-fasj.xyz IN CNAME .
+*.badtv-fasj.xyz IN CNAME .
+badtv-fvwq.xyz IN CNAME .
+*.badtv-fvwq.xyz IN CNAME .
+badtv-gtsc.xyz IN CNAME .
+*.badtv-gtsc.xyz IN CNAME .
+badtv-jcdq.xyz IN CNAME .
+*.badtv-jcdq.xyz IN CNAME .
+badtv-lqes.xyz IN CNAME .
+*.badtv-lqes.xyz IN CNAME .
+badtv-nbxq.xyz IN CNAME .
+*.badtv-nbxq.xyz IN CNAME .
+badtv-nztq.xyz IN CNAME .
+*.badtv-nztq.xyz IN CNAME .
+badtv-pdxh.xyz IN CNAME .
+*.badtv-pdxh.xyz IN CNAME .
+badtv-pviu.xyz IN CNAME .
+*.badtv-pviu.xyz IN CNAME .
+badtv-rwty.xyz IN CNAME .
+*.badtv-rwty.xyz IN CNAME .
+badtv-snna.xyz IN CNAME .
+*.badtv-snna.xyz IN CNAME .
+badtv-tjuw.xyz IN CNAME .
+*.badtv-tjuw.xyz IN CNAME .
+badtv-txwi.xyz IN CNAME .
+*.badtv-txwi.xyz IN CNAME .
+badtv-tzix.xyz IN CNAME .
+*.badtv-tzix.xyz IN CNAME .
+badtv-uboa.xyz IN CNAME .
+*.badtv-uboa.xyz IN CNAME .
+badtv-ufiu.xyz IN CNAME .
+*.badtv-ufiu.xyz IN CNAME .
+badtv-uwbx.xyz IN CNAME .
+*.badtv-uwbx.xyz IN CNAME .
+badtv-wims.xyz IN CNAME .
+*.badtv-wims.xyz IN CNAME .
+badtv-wogq.xyz IN CNAME .
+*.badtv-wogq.xyz IN CNAME .
+badtv-xgkv.xyz IN CNAME .
+*.badtv-xgkv.xyz IN CNAME .
+badtv-ynyn.xyz IN CNAME .
+*.badtv-ynyn.xyz IN CNAME .
+badtv-zgvq.xyz IN CNAME .
+*.badtv-zgvq.xyz IN CNAME .
+badtv-zkfe.xyz IN CNAME .
+*.badtv-zkfe.xyz IN CNAME .
+badtv-zmsq.xyz IN CNAME .
+*.badtv-zmsq.xyz IN CNAME .
 badtv.hair IN CNAME .
 *.badtv.hair IN CNAME .
 badtv.life IN CNAME .
@@ -138202,6 +138268,8 @@ bhluntan.com IN CNAME .
 *.bhluntan.com IN CNAME .
 bhlw7.cc IN CNAME .
 *.bhlw7.cc IN CNAME .
+bhm2mmzx.com IN CNAME .
+*.bhm2mmzx.com IN CNAME .
 bhm366.sbs IN CNAME .
 *.bhm366.sbs IN CNAME .
 bhmangban.com IN CNAME .
@@ -145334,6 +145402,8 @@ bjgljsj.com IN CNAME .
 *.bjgljsj.com IN CNAME .
 bjgmbzr.com IN CNAME .
 *.bjgmbzr.com IN CNAME .
+bjgnhk.com IN CNAME .
+*.bjgnhk.com IN CNAME .
 bjgpsja.xyz IN CNAME .
 *.bjgpsja.xyz IN CNAME .
 bjgxb120.com IN CNAME .
@@ -206782,6 +206852,8 @@ cnh666.com IN CNAME .
 *.cnh666.com IN CNAME .
 cnhaiding.com IN CNAME .
 *.cnhaiding.com IN CNAME .
+cnhan06js.xyz IN CNAME .
+*.cnhan06js.xyz IN CNAME .
 cnhbclzq.com IN CNAME .
 *.cnhbclzq.com IN CNAME .
 cnhcex.com IN CNAME .
@@ -214574,6 +214646,8 @@ cqmyc.cn IN CNAME .
 *.cqmyc.cn IN CNAME .
 cqmzysm.com IN CNAME .
 *.cqmzysm.com IN CNAME .
+cqnasen.com IN CNAME .
+*.cqnasen.com IN CNAME .
 cqnb.com.cn IN CNAME .
 *.cqnb.com.cn IN CNAME .
 cqncjx.com IN CNAME .
@@ -214806,6 +214880,8 @@ cqyeyy.com IN CNAME .
 *.cqyeyy.com IN CNAME .
 cqykx.cn IN CNAME .
 *.cqykx.cn IN CNAME .
+cqyltx.com IN CNAME .
+*.cqyltx.com IN CNAME .
 cqyongyuan.com IN CNAME .
 *.cqyongyuan.com IN CNAME .
 cqyoujuxinke.cn IN CNAME .
@@ -223234,6 +223310,8 @@ cxyk1.me IN CNAME .
 *.cxyk1.me IN CNAME .
 cxykevin.cn IN CNAME .
 *.cxykevin.cn IN CNAME .
+cxykz.com IN CNAME .
+*.cxykz.com IN CNAME .
 cxyseo.cn IN CNAME .
 *.cxyseo.cn IN CNAME .
 cxyzxmr.com IN CNAME .
@@ -266710,6 +266788,10 @@ emberloft.xyz IN CNAME .
 *.emberloft.xyz IN CNAME .
 emberobserver.com IN CNAME .
 *.emberobserver.com IN CNAME .
+emberprism.com IN CNAME .
+*.emberprism.com IN CNAME .
+emberreel.com IN CNAME .
+*.emberreel.com IN CNAME .
 embers.city IN CNAME .
 *.embers.city IN CNAME .
 emberushi.itch.io IN CNAME .
@@ -291588,6 +291670,8 @@ fanzya.com IN CNAME .
 *.fanzya.com IN CNAME .
 fanzya.net IN CNAME .
 *.fanzya.net IN CNAME .
+fap-18.bond IN CNAME .
+*.fap-18.bond IN CNAME .
 fap-18.buzz IN CNAME .
 *.fap-18.buzz IN CNAME .
 fap-18.help IN CNAME .
@@ -356778,6 +356862,8 @@ ggonet.com IN CNAME .
 *.ggonet.com IN CNAME .
 ggoober.itch.io IN CNAME .
 *.ggoober.itch.io IN CNAME .
+ggoodhouse.com IN CNAME .
+*.ggoodhouse.com IN CNAME .
 ggpdp.com IN CNAME .
 *.ggpdp.com IN CNAME .
 ggporevo.com IN CNAME .
@@ -356838,6 +356924,8 @@ ggwohlu.cn IN CNAME .
 *.ggwohlu.cn IN CNAME .
 ggx16888.com IN CNAME .
 *.ggx16888.com IN CNAME .
+ggxiyou.xyz IN CNAME .
+*.ggxiyou.xyz IN CNAME .
 ggxly.com IN CNAME .
 *.ggxly.com IN CNAME .
 ggxsls.com IN CNAME .
@@ -375274,6 +375362,8 @@ gzlinyun.com IN CNAME .
 *.gzlinyun.com IN CNAME .
 gzlion.com IN CNAME .
 *.gzlion.com IN CNAME .
+gzllmjkgl.com IN CNAME .
+*.gzllmjkgl.com IN CNAME .
 gzlpzm.com IN CNAME .
 *.gzlpzm.com IN CNAME .
 gzlrd.com IN CNAME .
@@ -375584,6 +375674,10 @@ gzxjyynk.com IN CNAME .
 *.gzxjyynk.com IN CNAME .
 gzxkyhl.cn IN CNAME .
 *.gzxkyhl.cn IN CNAME .
+gzxlzsgc.com IN CNAME .
+*.gzxlzsgc.com IN CNAME .
+gzxlzxs.com IN CNAME .
+*.gzxlzxs.com IN CNAME .
 gzxml888.com IN CNAME .
 *.gzxml888.com IN CNAME .
 gzxmys.com IN CNAME .
@@ -385112,6 +385206,8 @@ hddj50.com IN CNAME .
 *.hddj50.com IN CNAME .
 hddjai.app IN CNAME .
 *.hddjai.app IN CNAME .
+hddjai.net IN CNAME .
+*.hddjai.net IN CNAME .
 hddm9.cc IN CNAME .
 *.hddm9.cc IN CNAME .
 hddojki.com IN CNAME .
@@ -388982,6 +389078,8 @@ hebeimjsl.com IN CNAME .
 *.hebeimjsl.com IN CNAME .
 hebeimmw.com IN CNAME .
 *.hebeimmw.com IN CNAME .
+hebeipe.com IN CNAME .
+*.hebeipe.com IN CNAME .
 hebeipuyao.com IN CNAME .
 *.hebeipuyao.com IN CNAME .
 hebeiruijie.com IN CNAME .
@@ -389026,6 +389124,8 @@ hebing.mom IN CNAME .
 *.hebing.mom IN CNAME .
 hebixidiji.com IN CNAME .
 *.hebixidiji.com IN CNAME .
+hebkbkj.com IN CNAME .
+*.hebkbkj.com IN CNAME .
 heblog.cn IN CNAME .
 *.heblog.cn IN CNAME .
 hebqhjt.com IN CNAME .
@@ -408660,6 +408760,8 @@ hot499.com IN CNAME .
 *.hot499.com IN CNAME .
 hot4all.ru IN CNAME .
 *.hot4all.ru IN CNAME .
+hot4cam.com IN CNAME .
+*.hot4cam.com IN CNAME .
 hot4cams.com IN CNAME .
 *.hot4cams.com IN CNAME .
 hot4fetish.net IN CNAME .
@@ -409724,6 +409826,8 @@ hotboysofgermany.blogspot.com IN CNAME .
 *.hotboysofgermany.blogspot.com IN CNAME .
 hotboyspotter.blogspot.com IN CNAME .
 *.hotboyspotter.blogspot.com IN CNAME .
+hotboytoys.com IN CNAME .
+*.hotboytoys.com IN CNAME .
 hotboyusa.com IN CNAME .
 *.hotboyusa.com IN CNAME .
 hotbrazil.app.br IN CNAME .
@@ -409798,6 +409902,8 @@ hotcamdeals.com IN CNAME .
 *.hotcamdeals.com IN CNAME .
 hotcameragirls.com IN CNAME .
 *.hotcameragirls.com IN CNAME .
+hotcamfap.com IN CNAME .
+*.hotcamfap.com IN CNAME .
 hotcamgirl.xyz IN CNAME .
 *.hotcamgirl.xyz IN CNAME .
 hotcamgirlmodels.blogspot.com IN CNAME .
@@ -411754,6 +411860,8 @@ hotlesbianphonesex.com IN CNAME .
 *.hotlesbianphonesex.com IN CNAME .
 hotlesbianpictures.com IN CNAME .
 *.hotlesbianpictures.com IN CNAME .
+hotlesbians.online IN CNAME .
+*.hotlesbians.online IN CNAME .
 hotlesbians69.com IN CNAME .
 *.hotlesbians69.com IN CNAME .
 hotlesbiansex.net IN CNAME .
@@ -427814,6 +427922,8 @@ iheartredheads.com IN CNAME .
 *.iheartredheads.com IN CNAME .
 iheartsangria.com IN CNAME .
 *.iheartsangria.com IN CNAME .
+iheiliao.cc IN CNAME .
+*.iheiliao.cc IN CNAME .
 iheiliaow.com IN CNAME .
 *.iheiliaow.com IN CNAME .
 ihellokinky.com IN CNAME .
@@ -453824,6 +453934,8 @@ jdnmcl.com IN CNAME .
 *.jdnmcl.com IN CNAME .
 jdnmedia.com.cn IN CNAME .
 *.jdnmedia.com.cn IN CNAME .
+jdo-kom.beauty IN CNAME .
+*.jdo-kom.beauty IN CNAME .
 jdo657.sbs IN CNAME .
 *.jdo657.sbs IN CNAME .
 jdoffresnolinks.blogspot.com IN CNAME .
@@ -457834,6 +457946,8 @@ jingyuyuju.com IN CNAME .
 *.jingyuyuju.com IN CNAME .
 jingzengli.com IN CNAME .
 *.jingzengli.com IN CNAME .
+jingzhoujiuye.com IN CNAME .
+*.jingzhoujiuye.com IN CNAME .
 jingzhouw.com IN CNAME .
 *.jingzhouw.com IN CNAME .
 jinhangmuying.com IN CNAME .
@@ -457974,6 +458088,8 @@ jinnxx.itch.io IN CNAME .
 *.jinnxx.itch.io IN CNAME .
 jinpai1999.com IN CNAME .
 *.jinpai1999.com IN CNAME .
+jinpaimiaosha.com IN CNAME .
+*.jinpaimiaosha.com IN CNAME .
 jinpengdc.com IN CNAME .
 *.jinpengdc.com IN CNAME .
 jinpianyuan8.cyou IN CNAME .
@@ -459906,6 +460022,8 @@ jkrcomix.com IN CNAME .
 *.jkrcomix.com IN CNAME .
 jkreview.com IN CNAME .
 *.jkreview.com IN CNAME .
+jkryx3410.com IN CNAME .
+*.jkryx3410.com IN CNAME .
 jks.xxxblog.jp IN CNAME .
 *.jks.xxxblog.jp IN CNAME .
 jks689.sbs IN CNAME .
@@ -465884,6 +466002,10 @@ junkyreal.com IN CNAME .
 *.junkyreal.com IN CNAME .
 junlaiys.com IN CNAME .
 *.junlaiys.com IN CNAME .
+junli222.com IN CNAME .
+*.junli222.com IN CNAME .
+junli908.com IN CNAME .
+*.junli908.com IN CNAME .
 junlongwl.com IN CNAME .
 *.junlongwl.com IN CNAME .
 junmeigeduan.com IN CNAME .
@@ -466762,6 +466884,8 @@ justtgegays.net IN CNAME .
 *.justtgegays.net IN CNAME .
 justtgirls.com IN CNAME .
 *.justtgirls.com IN CNAME .
+justthecams.com IN CNAME .
+*.justthecams.com IN CNAME .
 justthefays.top IN CNAME .
 *.justthefays.top IN CNAME .
 justthegaus.click IN CNAME .
@@ -495196,6 +495320,8 @@ lckwxx.cn IN CNAME .
 *.lckwxx.cn IN CNAME .
 lckzxj.cn IN CNAME .
 *.lckzxj.cn IN CNAME .
+lclhzx.com IN CNAME .
+*.lclhzx.com IN CNAME .
 lclmplph.xyz IN CNAME .
 *.lclmplph.xyz IN CNAME .
 lclycity.com IN CNAME .
@@ -500038,6 +500164,8 @@ lesbo.dial.free.fr IN CNAME .
 *.lesbo.dial.free.fr IN CNAME .
 lesbo101.com IN CNAME .
 *.lesbo101.com IN CNAME .
+lesbo24.com IN CNAME .
+*.lesbo24.com IN CNAME .
 lesbo4k.com IN CNAME .
 *.lesbo4k.com IN CNAME .
 lesbo6.com IN CNAME .
@@ -512360,6 +512488,8 @@ lldaof.xyz IN CNAME .
 *.lldaof.xyz IN CNAME .
 lldaog.xyz IN CNAME .
 *.lldaog.xyz IN CNAME .
+lldaosph01.buzz IN CNAME .
+*.lldaosph01.buzz IN CNAME .
 lldaospluno.buzz IN CNAME .
 *.lldaospluno.buzz IN CNAME .
 lldaospnav.buzz IN CNAME .
@@ -512514,6 +512644,12 @@ lls888.xyz IN CNAME .
 *.lls888.xyz IN CNAME .
 llsib.cn IN CNAME .
 *.llsib.cn IN CNAME .
+llsnav.buzz IN CNAME .
+*.llsnav.buzz IN CNAME .
+llsnav.cyou IN CNAME .
+*.llsnav.cyou IN CNAME .
+llsnav.shop IN CNAME .
+*.llsnav.shop IN CNAME .
 llsp.me IN CNAME .
 *.llsp.me IN CNAME .
 llsproductions.com IN CNAME .
@@ -522758,6 +522894,8 @@ lzainuo.com IN CNAME .
 *.lzainuo.com IN CNAME .
 lzaxcj.com IN CNAME .
 *.lzaxcj.com IN CNAME .
+lzbglobal.com IN CNAME .
+*.lzbglobal.com IN CNAME .
 lzbp.net IN CNAME .
 *.lzbp.net IN CNAME .
 lzbyzyy.com IN CNAME .
@@ -545328,6 +545466,8 @@ mfjjugendlichefickenba.blogspot.com IN CNAME .
 *.mfjjugendlichefickenba.blogspot.com IN CNAME .
 mfkkk.com IN CNAME .
 *.mfkkk.com IN CNAME .
+mfkkp.life IN CNAME .
+*.mfkkp.life IN CNAME .
 mfkpyd1.sbs IN CNAME .
 *.mfkpyd1.sbs IN CNAME .
 mflesbian.com IN CNAME .
@@ -585582,6 +585722,8 @@ nethotbabes.blogspot.com IN CNAME .
 *.nethotbabes.blogspot.com IN CNAME .
 netizenpintar.com IN CNAME .
 *.netizenpintar.com IN CNAME .
+netizentv.org IN CNAME .
+*.netizentv.org IN CNAME .
 netkeybox.xyz IN CNAME .
 *.netkeybox.xyz IN CNAME .
 netki.chat IN CNAME .
@@ -624000,6 +624142,8 @@ perdos.org IN CNAME .
 *.perdos.org IN CNAME .
 perdosik.org IN CNAME .
 *.perdosik.org IN CNAME .
+perdosik.site IN CNAME .
+*.perdosik.site IN CNAME .
 perdosos.cc IN CNAME .
 *.perdosos.cc IN CNAME .
 perechedebuze.blogspot.com IN CNAME .
@@ -685278,8 +685422,6 @@ primehardcore.com IN CNAME .
 *.primehardcore.com IN CNAME .
 primehentai.com IN CNAME .
 *.primehentai.com IN CNAME .
-primehooters.com IN CNAME .
-*.primehooters.com IN CNAME .
 primehub.me IN CNAME .
 *.primehub.me IN CNAME .
 primehub.wiki IN CNAME .
@@ -685318,8 +685460,6 @@ primeporn.club IN CNAME .
 *.primeporn.club IN CNAME .
 primeporn.ink IN CNAME .
 *.primeporn.ink IN CNAME .
-primeporn.net IN CNAME .
-*.primeporn.net IN CNAME .
 primeporn.us.com IN CNAME .
 *.primeporn.us.com IN CNAME .
 primeporn4k.com IN CNAME .
@@ -700958,6 +701098,8 @@ puhuhrw.com.cn IN CNAME .
 *.puhuhrw.com.cn IN CNAME .
 puhuibio.com IN CNAME .
 *.puhuibio.com IN CNAME .
+puhuifawu.com IN CNAME .
+*.puhuifawu.com IN CNAME .
 pui471.com IN CNAME .
 *.pui471.com IN CNAME .
 puissanttech.com IN CNAME .
@@ -704806,6 +704948,8 @@ pyrexsex.com IN CNAME .
 *.pyrexsex.com IN CNAME .
 pyro-store.com IN CNAME .
 *.pyro-store.com IN CNAME .
+pyrolust.com IN CNAME .
+*.pyrolust.com IN CNAME .
 pysggzxc.com IN CNAME .
 *.pysggzxc.com IN CNAME .
 pyshma-dd.com IN CNAME .
@@ -706226,6 +706370,8 @@ qbenke.com IN CNAME .
 *.qbenke.com IN CNAME .
 qbenxs.com IN CNAME .
 *.qbenxs.com IN CNAME .
+qbenycai.cc IN CNAME .
+*.qbenycai.cc IN CNAME .
 qbfgd.com IN CNAME .
 *.qbfgd.com IN CNAME .
 qbforum.fyi IN CNAME .
@@ -706762,6 +706908,8 @@ qdlongfengxuan.com IN CNAME .
 *.qdlongfengxuan.com IN CNAME .
 qdlszh.cn IN CNAME .
 *.qdlszh.cn IN CNAME .
+qdm3wh68.cc IN CNAME .
+*.qdm3wh68.cc IN CNAME .
 qdm642.sbs IN CNAME .
 *.qdm642.sbs IN CNAME .
 qdmasker.cyou IN CNAME .
@@ -776744,6 +776892,8 @@ sextub-6.lol IN CNAME .
 *.sextub-6.lol IN CNAME .
 sextub-6.quest IN CNAME .
 *.sextub-6.quest IN CNAME .
+sextub-6.xyz IN CNAME .
+*.sextub-6.xyz IN CNAME .
 sextub.homes IN CNAME .
 *.sextub.homes IN CNAME .
 sextub.site IN CNAME .
@@ -796890,6 +797040,8 @@ shjdxd.cn IN CNAME .
 *.shjdxd.cn IN CNAME .
 shjets.com IN CNAME .
 *.shjets.com IN CNAME .
+shjfzkj.com IN CNAME .
+*.shjfzkj.com IN CNAME .
 shjhidc.com IN CNAME .
 *.shjhidc.com IN CNAME .
 shjiakun.com IN CNAME .
@@ -797592,6 +797744,8 @@ shouchaobentukengyuanwenyuedu.cn IN CNAME .
 *.shouchaobentukengyuanwenyuedu.cn IN CNAME .
 shouchong.vip IN CNAME .
 *.shouchong.vip IN CNAME .
+shoufukera.lol IN CNAME .
+*.shoufukera.lol IN CNAME .
 shouguadashaonainaiguanjiadianshiju.org.cn IN CNAME .
 *.shouguadashaonainaiguanjiadianshiju.org.cn IN CNAME .
 shouhangjiaju.cn IN CNAME .
@@ -798054,6 +798208,10 @@ shpok.city IN CNAME .
 *.shpok.city IN CNAME .
 shpok.live IN CNAME .
 *.shpok.live IN CNAME .
+shpok.video IN CNAME .
+*.shpok.video IN CNAME .
+shpok.world IN CNAME .
+*.shpok.world IN CNAME .
 shpritz.ai IN CNAME .
 *.shpritz.ai IN CNAME .
 shptfjwz.com IN CNAME .
@@ -798090,6 +798248,8 @@ shr2shr.com IN CNAME .
 *.shr2shr.com IN CNAME .
 shramet0room0masr0elhob.wordpress.com IN CNAME .
 *.shramet0room0masr0elhob.wordpress.com IN CNAME .
+shranxi.com IN CNAME .
+*.shranxi.com IN CNAME .
 shraraa.com IN CNAME .
 *.shraraa.com IN CNAME .
 shrbo.com IN CNAME .
@@ -798402,6 +798562,8 @@ shufakt.cn IN CNAME .
 *.shufakt.cn IN CNAME .
 shufangchina.com IN CNAME .
 *.shufangchina.com IN CNAME .
+shufflecam.com IN CNAME .
+*.shufflecam.com IN CNAME .
 shufflecams.com IN CNAME .
 *.shufflecams.com IN CNAME .
 shuffleporn.com IN CNAME .
@@ -798456,6 +798618,8 @@ shuigeng.cn IN CNAME .
 *.shuigeng.cn IN CNAME .
 shuiguojiu.com.cn IN CNAME .
 *.shuiguojiu.com.cn IN CNAME .
+shuiguoo.cc IN CNAME .
+*.shuiguoo.cc IN CNAME .
 shuihuzhuandianshiju.org.cn IN CNAME .
 *.shuihuzhuandianshiju.org.cn IN CNAME .
 shuijiabao123.com IN CNAME .
@@ -832876,6 +833040,8 @@ syonera.de IN CNAME .
 *.syonera.de IN CNAME .
 syonward.com IN CNAME .
 *.syonward.com IN CNAME .
+syoungsun.com IN CNAME .
+*.syoungsun.com IN CNAME .
 syp964.sbs IN CNAME .
 *.syp964.sbs IN CNAME .
 sypaba.com IN CNAME .
@@ -837356,6 +837522,8 @@ tanrencai.cn IN CNAME .
 *.tanrencai.cn IN CNAME .
 tanrich168.com IN CNAME .
 *.tanrich168.com IN CNAME .
+tanshequ.cc IN CNAME .
+*.tanshequ.cc IN CNAME .
 tanshulou.com IN CNAME .
 *.tanshulou.com IN CNAME .
 tansongyunlanxiangrugu.org.cn IN CNAME .
@@ -837758,6 +837926,8 @@ taohuaguan.shop IN CNAME .
 *.taohuaguan.shop IN CNAME .
 taohuaju.com IN CNAME .
 *.taohuaju.com IN CNAME .
+taohuam.net IN CNAME .
+*.taohuam.net IN CNAME .
 taohuavod.net IN CNAME .
 *.taohuavod.net IN CNAME .
 taohuaw.com IN CNAME .
@@ -837798,6 +837968,8 @@ taolihuashe.com IN CNAME .
 *.taolihuashe.com IN CNAME .
 taolinhuangfei.cn IN CNAME .
 *.taolinhuangfei.cn IN CNAME .
+taolish.com IN CNAME .
+*.taolish.com IN CNAME .
 taolu.bio IN CNAME .
 *.taolu.bio IN CNAME .
 taolu.dog IN CNAME .
@@ -837836,6 +838008,8 @@ taolusmy.com IN CNAME .
 *.taolusmy.com IN CNAME .
 taolusmz.com IN CNAME .
 *.taolusmz.com IN CNAME .
+taomeipin.com IN CNAME .
+*.taomeipin.com IN CNAME .
 taomli.com IN CNAME .
 *.taomli.com IN CNAME .
 taoo.xyz IN CNAME .
@@ -859174,6 +859348,8 @@ titten-webcam.com IN CNAME .
 *.titten-webcam.com IN CNAME .
 titten-webcams.de IN CNAME .
 *.titten-webcams.de IN CNAME .
+titten.fans IN CNAME .
+*.titten.fans IN CNAME .
 titten.org IN CNAME .
 *.titten.org IN CNAME .
 tittenberge.com IN CNAME .
@@ -859826,6 +860002,8 @@ tjtjd.com IN CNAME .
 *.tjtjd.com IN CNAME .
 tjtxhs.com IN CNAME .
 *.tjtxhs.com IN CNAME .
+tjtynzm.com IN CNAME .
+*.tjtynzm.com IN CNAME .
 tjtyse.com IN CNAME .
 *.tjtyse.com IN CNAME .
 tjtz.cc IN CNAME .
@@ -873916,6 +874094,8 @@ ttlifestyles.com IN CNAME .
 *.ttlifestyles.com IN CNAME .
 ttlong.com.cn IN CNAME .
 *.ttlong.com.cn IN CNAME .
+ttluryyfb.xyz IN CNAME .
+*.ttluryyfb.xyz IN CNAME .
 ttmcaipiao.com IN CNAME .
 *.ttmcaipiao.com IN CNAME .
 ttmfttq.cn IN CNAME .
@@ -908300,6 +908480,8 @@ waifu3x.com IN CNAME .
 *.waifu3x.com IN CNAME .
 waifubitches.com IN CNAME .
 *.waifubitches.com IN CNAME .
+waifucams.com IN CNAME .
+*.waifucams.com IN CNAME .
 waifuoverlord.com IN CNAME .
 *.waifuoverlord.com IN CNAME .
 waifuporn.com IN CNAME .
@@ -921650,6 +921832,8 @@ wjmxz.cn IN CNAME .
 *.wjmxz.cn IN CNAME .
 wjmzsh.cn IN CNAME .
 *.wjmzsh.cn IN CNAME .
+wjn45fg6ui.xyz IN CNAME .
+*.wjn45fg6ui.xyz IN CNAME .
 wjninrywj.xyz IN CNAME .
 *.wjninrywj.xyz IN CNAME .
 wjnvyouvucxv.buzz IN CNAME .
@@ -929256,6 +929440,8 @@ x-sportives.com IN CNAME .
 *.x-sportives.com IN CNAME .
 x-streamcams.com IN CNAME .
 *.x-streamcams.com IN CNAME .
+x-strip24.com IN CNAME .
+*.x-strip24.com IN CNAME .
 x-tamil.click IN CNAME .
 *.x-tamil.click IN CNAME .
 x-telefon.ch IN CNAME .
@@ -930792,6 +930978,8 @@ x918.cc IN CNAME .
 *.x918.cc IN CNAME .
 x91av.com IN CNAME .
 *.x91av.com IN CNAME .
+x91hl.cc IN CNAME .
+*.x91hl.cc IN CNAME .
 x91porn.net IN CNAME .
 *.x91porn.net IN CNAME .
 x91ys.cc IN CNAME .
@@ -936908,6 +937096,8 @@ xiaoming.xxx IN CNAME .
 *.xiaoming.xxx IN CNAME .
 xiaoming16.com IN CNAME .
 *.xiaoming16.com IN CNAME .
+xiaommm.top IN CNAME .
+*.xiaommm.top IN CNAME .
 xiaomo.com IN CNAME .
 *.xiaomo.com IN CNAME .
 xiaomz.cn IN CNAME .
@@ -944434,6 +944624,8 @@ xnxx.club IN CNAME .
 *.xnxx.club IN CNAME .
 xnxx.cm IN CNAME .
 *.xnxx.cm IN CNAME .
+xnxx.cn.com IN CNAME .
+*.xnxx.cn.com IN CNAME .
 xnxx.co IN CNAME .
 *.xnxx.co IN CNAME .
 xnxx.co.hu IN CNAME .
@@ -948222,6 +948414,8 @@ xr947.sbs IN CNAME .
 *.xr947.sbs IN CNAME .
 xrabbit.net IN CNAME .
 *.xrabbit.net IN CNAME .
+xrabbits.net IN CNAME .
+*.xrabbits.net IN CNAME .
 xraekj.com IN CNAME .
 *.xraekj.com IN CNAME .
 xrang.net IN CNAME .
@@ -948582,6 +948776,8 @@ xsbiz.com IN CNAME .
 *.xsbiz.com IN CNAME .
 xsbqiye.com IN CNAME .
 *.xsbqiye.com IN CNAME .
+xsbzuna.forum IN CNAME .
+*.xsbzuna.forum IN CNAME .
 xscah.com IN CNAME .
 *.xscah.com IN CNAME .
 xscandals.com IN CNAME .
@@ -948830,6 +949026,10 @@ xslhltw.com IN CNAME .
 *.xslhltw.com IN CNAME .
 xslj2x.com IN CNAME .
 *.xslj2x.com IN CNAME .
+xslrxx.pics IN CNAME .
+*.xslrxx.pics IN CNAME .
+xslrxx.rest IN CNAME .
+*.xslrxx.rest IN CNAME .
 xslss.com IN CNAME .
 *.xslss.com IN CNAME .
 xslss.shop IN CNAME .
@@ -949200,6 +949400,8 @@ xtdfs.com IN CNAME .
 *.xtdfs.com IN CNAME .
 xtdpav.cn IN CNAME .
 *.xtdpav.cn IN CNAME .
+xtdserve.com IN CNAME .
+*.xtdserve.com IN CNAME .
 xte794.sbs IN CNAME .
 *.xte794.sbs IN CNAME .
 xteacherporn.com IN CNAME .
@@ -949210,6 +949412,8 @@ xteasecams.com IN CNAME .
 *.xteasecams.com IN CNAME .
 xteaselive.com IN CNAME .
 *.xteaselive.com IN CNAME .
+xteaselive.net IN CNAME .
+*.xteaselive.net IN CNAME .
 xteazs.com IN CNAME .
 *.xteazs.com IN CNAME .
 xteen.cc IN CNAME .
@@ -950080,6 +950284,8 @@ xulymike.blogspot.com IN CNAME .
 *.xulymike.blogspot.com IN CNAME .
 xumanyi.com IN CNAME .
 *.xumanyi.com IN CNAME .
+xumei168.com IN CNAME .
+*.xumei168.com IN CNAME .
 xumin.cc IN CNAME .
 *.xumin.cc IN CNAME .
 xuminjun.com IN CNAME .
@@ -950634,6 +950840,8 @@ xvideoc.blogspot.com IN CNAME .
 *.xvideoc.blogspot.com IN CNAME .
 xvideocams.com IN CNAME .
 *.xvideocams.com IN CNAME .
+xvideochat.net IN CNAME .
+*.xvideochat.net IN CNAME .
 xvideochats.net IN CNAME .
 *.xvideochats.net IN CNAME .
 xvideoclip.net IN CNAME .
@@ -950694,6 +950902,8 @@ xvideohubx.blogspot.com IN CNAME .
 *.xvideohubx.blogspot.com IN CNAME .
 xvideoindian.org IN CNAME .
 *.xvideoindian.org IN CNAME .
+xvideoindo.com IN CNAME .
+*.xvideoindo.com IN CNAME .
 xvideojapanese.com IN CNAME .
 *.xvideojapanese.com IN CNAME .
 xvideojepun.blogspot.com IN CNAME .
@@ -952426,6 +952636,8 @@ xvr456.sbs IN CNAME .
 *.xvr456.sbs IN CNAME .
 xvr921.sbs IN CNAME .
 *.xvr921.sbs IN CNAME .
+xvronline.com IN CNAME .
+*.xvronline.com IN CNAME .
 xvrporn.net IN CNAME .
 *.xvrporn.net IN CNAME .
 xvs162.com IN CNAME .
@@ -952964,6 +953176,8 @@ xx68.cc IN CNAME .
 *.xx68.cc IN CNAME .
 xx69xx.com IN CNAME .
 *.xx69xx.com IN CNAME .
+xx6njqora.lol IN CNAME .
+*.xx6njqora.lol IN CNAME .
 xx721.com IN CNAME .
 *.xx721.com IN CNAME .
 xx740.com IN CNAME .
@@ -953120,6 +953334,8 @@ xxbrits.mx IN CNAME .
 *.xxbrits.mx IN CNAME .
 xxbrits.org IN CNAME .
 *.xxbrits.org IN CNAME .
+xxbrits.party IN CNAME .
+*.xxbrits.party IN CNAME .
 xxbrits.rs IN CNAME .
 *.xxbrits.rs IN CNAME .
 xxbrits.st IN CNAME .
@@ -953274,6 +953490,8 @@ xxgeorgia.link IN CNAME .
 *.xxgeorgia.link IN CNAME .
 xxggdd.com IN CNAME .
 *.xxggdd.com IN CNAME .
+xxggdd.shop IN CNAME .
+*.xxggdd.shop IN CNAME .
 xxgirls.vip IN CNAME .
 *.xxgirls.vip IN CNAME .
 xxgl.link IN CNAME .
@@ -953508,6 +953726,8 @@ xxllrpd.top IN CNAME .
 *.xxllrpd.top IN CNAME .
 xxlmomporn.com IN CNAME .
 *.xxlmomporn.com IN CNAME .
+xxlmovies.link IN CNAME .
+*.xxlmovies.link IN CNAME .
 xxlnudes.com IN CNAME .
 *.xxlnudes.com IN CNAME .
 xxlook24.com IN CNAME .
@@ -953530,6 +953750,8 @@ xxltitties.com IN CNAME .
 *.xxltitties.com IN CNAME .
 xxltoons.com IN CNAME .
 *.xxltoons.com IN CNAME .
+xxltube.click IN CNAME .
+*.xxltube.click IN CNAME .
 xxltv.com IN CNAME .
 *.xxltv.com IN CNAME .
 xxltv.fr IN CNAME .
@@ -954200,6 +954422,8 @@ xxsjby.com IN CNAME .
 *.xxsjby.com IN CNAME .
 xxsjcm.com IN CNAME .
 *.xxsjcm.com IN CNAME .
+xxslipy.com IN CNAME .
+*.xxslipy.com IN CNAME .
 xxsliv.com IN CNAME .
 *.xxsliv.com IN CNAME .
 xxslsjzxh.com IN CNAME .
@@ -954290,6 +954514,8 @@ xxtrendblog.blogspot.com IN CNAME .
 *.xxtrendblog.blogspot.com IN CNAME .
 xxtrex.com IN CNAME .
 *.xxtrex.com IN CNAME .
+xxttmm.buzz IN CNAME .
+*.xxttmm.buzz IN CNAME .
 xxttmm.com IN CNAME .
 *.xxttmm.com IN CNAME .
 xxttp.com IN CNAME .
@@ -958318,6 +958544,8 @@ xxxfacesitting.vip IN CNAME .
 *.xxxfacesitting.vip IN CNAME .
 xxxfacialcum.com IN CNAME .
 *.xxxfacialcum.com IN CNAME .
+xxxfactor.net IN CNAME .
+*.xxxfactor.net IN CNAME .
 xxxfakeagent.com IN CNAME .
 *.xxxfakeagent.com IN CNAME .
 xxxfakehub.com IN CNAME .
@@ -963148,6 +963376,8 @@ xxxtap.com IN CNAME .
 *.xxxtap.com IN CNAME .
 xxxtape.com IN CNAME .
 *.xxxtape.com IN CNAME .
+xxxtapx.com IN CNAME .
+*.xxxtapx.com IN CNAME .
 xxxtasty.com IN CNAME .
 *.xxxtasty.com IN CNAME .
 xxxtaylorhayes.com IN CNAME .
@@ -963804,6 +964034,8 @@ xxxtubelegend.com IN CNAME .
 *.xxxtubelegend.com IN CNAME .
 xxxtubelife.com IN CNAME .
 *.xxxtubelife.com IN CNAME .
+xxxtubelink.com IN CNAME .
+*.xxxtubelink.com IN CNAME .
 xxxtubelive.com IN CNAME .
 *.xxxtubelive.com IN CNAME .
 xxxtubemash.com IN CNAME .
@@ -964104,6 +964336,8 @@ xxxvariety.com IN CNAME .
 *.xxxvariety.com IN CNAME .
 xxxvasna.shop IN CNAME .
 *.xxxvasna.shop IN CNAME .
+xxxvcd.buzz IN CNAME .
+*.xxxvcd.buzz IN CNAME .
 xxxvcd.com IN CNAME .
 *.xxxvcd.com IN CNAME .
 xxxvcd.shop IN CNAME .
@@ -965844,6 +966078,8 @@ xxxz.tv IN CNAME .
 *.xxxz.tv IN CNAME .
 xxxza.com IN CNAME .
 *.xxxza.com IN CNAME .
+xxxzapx.com IN CNAME .
+*.xxxzapx.com IN CNAME .
 xxxzeed.net IN CNAME .
 *.xxxzeed.net IN CNAME .
 xxxzex.com IN CNAME .
@@ -977698,6 +977934,8 @@ youyayu.com IN CNAME .
 *.youyayu.com IN CNAME .
 youyi666.cn IN CNAME .
 *.youyi666.cn IN CNAME .
+youyi8rw.beauty IN CNAME .
+*.youyi8rw.beauty IN CNAME .
 youyibao1.com IN CNAME .
 *.youyibao1.com IN CNAME .
 youyigyp.com IN CNAME .
@@ -988194,6 +988432,8 @@ zkhctech.cn IN CNAME .
 *.zkhctech.cn IN CNAME .
 zkhls.com IN CNAME .
 *.zkhls.com IN CNAME .
+zkhs8888.com IN CNAME .
+*.zkhs8888.com IN CNAME .
 zkhtgt.com IN CNAME .
 *.zkhtgt.com IN CNAME .
 zkinaw.cn IN CNAME .
